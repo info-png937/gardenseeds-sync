@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs locales (no subir si pruebas local)
+*.log
+
+# No ignorar los JSON de pedidos (estos SÍ se suben)
+!pedidos_latest.json
+!pedidos/*.json

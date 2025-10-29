@@ -1,0 +1,31 @@
+{
+  "success": true,
+  "fecha": "2025-10-29",
+  "timestamp": "2025-10-29T18:30:00.000000",
+  "pedidos": [
+    {
+      "id": "152025017831",
+      "numero": "15 2025/017831",
+      "fecha": "29/10/2025",
+      "fecha_formatted": "2025-10-29",
+      "href": "/documentos/pedido/152025017831",
+      "productos": [
+        {
+          "referencia": "ABC123",
+          "denominacion": "Producto Ejemplo 1",
+          "cantidad": 5
+        },
+        {
+          "referencia": "DEF456",
+          "denominacion": "Producto Ejemplo 2",
+          "cantidad": 10
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "total_pedidos": 1,
+    "total_productos": 2
+  },
+  "error": null
+}

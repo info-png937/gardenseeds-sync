@@ -1,0 +1,11 @@
+{
+  "success": false,
+  "fecha": null,
+  "timestamp": null,
+  "pedidos": [],
+  "stats": {
+    "total_pedidos": 0,
+    "total_productos": 0
+  },
+  "error": "No se ha ejecutado ninguna sincronización todavía. Ejecuta el workflow manualmente desde GitHub Actions."
+}
