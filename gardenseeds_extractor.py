@@ -38,9 +38,11 @@ def login(page):
         # Hacer clic en "Iniciar Sesión"
         try:
             page.get_by_text("Iniciar Sesión", exact=False).first.click(timeout=5000)
+            page.wait_for_timeout(1000)
         except:
             log("⚠ No se encontró botón 'Iniciar Sesión', probando alternativas...")
             page.evaluate("document.dispatchEvent(new CustomEvent('mostrarlogin'));")
+            page.wait_for_timeout(1000)
         
         # Esperar formulario
         page.wait_for_selector("#iniciosesion, form#iniciosesion", timeout=15000)
@@ -51,26 +53,46 @@ def login(page):
         page.fill("#password, input[name='password']", PASSWORD)
         log("✓ Credenciales rellenadas")
         
-        # Submit
+        # Submit y esperar navegación
+        with page.expect_navigation(timeout=30000, wait_until="domcontentloaded"):
+            try:
+                page.click("#iniciosesion button[type='submit']", timeout=3000)
+            except:
+                page.evaluate("document.getElementById('iniciosesion').submit()")
+        
+        log("✓ Formulario enviado, esperando respuesta...")
+        
+        # Esperar a que cargue completamente
+        page.wait_for_timeout(3000)
+        
         try:
-            page.click("#iniciosesion button[type='submit']", timeout=3000)
+            page.wait_for_load_state("networkidle", timeout=15000)
         except:
-            page.evaluate("document.getElementById('iniciosesion').submit()")
+            pass
         
-        # Esperar respuesta
-        page.wait_for_load_state("networkidle", timeout=20000)
+        # Verificar login de forma más robusta
+        page_content = page.content()
         
-        # Verificar login
-        if page.locator("text=Salir").first.is_visible() or page.locator("text=Mi cuenta").first.is_visible():
-            log("✅ Login exitoso")
+        # Buscar indicadores de sesión iniciada
+        if ("Salir" in page_content or 
+            "salir" in page_content.lower() or 
+            "Mi cuenta" in page_content or
+            "Cerrar sesión" in page_content):
+            log("✅ Login exitoso (detectado: Salir/Mi cuenta)")
             return True
-        else:
-            raise Exception("Login falló - no se detectó sesión")
+        
+        # Si NO encuentra el formulario de login, probablemente está logueado
+        try:
+            page.wait_for_selector("#iniciosesion", timeout=2000)
+            log("❌ Todavía en página de login")
+            return False
+        except:
+            log("✅ Login exitoso (formulario ya no visible)")
+            return True
             
     except Exception as e:
         log(f"❌ Error en login: {e}")
         return False
-
 def get_pedidos(page, fecha):
     """Obtener pedidos de una fecha específica"""
     log(f"📋 Navegando a página de pedidos...")
