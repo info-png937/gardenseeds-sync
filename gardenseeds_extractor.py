@@ -178,50 +178,113 @@ def get_pedido_detalle(page, pedido):
     except:
         pass
     
-    # Extraer productos
+    # Esperar tabla
+    try:
+        page.wait_for_selector("table", timeout=10000)
+    except:
+        log("  ⚠ No se encontró tabla")
+        return []
+    
+    # Guardar HTML para debug
+    html = page.content()
+    
+    # Extraer productos con JavaScript mejorado
     productos = page.evaluate("""
         () => {
-            const rows = document.querySelectorAll('table tbody tr');
             const productos = [];
             
-            rows.forEach(row => {
-                const cells = row.querySelectorAll('td');
-                if (cells.length < 2) return;
+            // Buscar TODAS las tablas
+            const tables = document.querySelectorAll('table');
+            
+            tables.forEach(table => {
+                const rows = table.querySelectorAll('tbody tr, tr');
                 
-                let referencia = '';
-                let cantidad = 1;
-                let denominacion = '';
-                
-                for (let i = 0; i < Math.min(cells.length, 6); i++) {
-                    const texto = cells[i].textContent.trim();
+                rows.forEach(row => {
+                    const cells = row.querySelectorAll('td, th');
+                    if (cells.length < 2) return;
                     
-                    if (/^[A-Z0-9\\-]+$/.test(texto) && texto.length > 2 && i < 2 && !referencia) {
-                        referencia = texto;
+                    let referencia = '';
+                    let cantidad = 1;
+                    let denominacion = '';
+                    
+                    // Intentar extraer de cada celda
+                    for (let i = 0; i < Math.min(cells.length, 8); i++) {
+                        const texto = cells[i].textContent.trim();
+                        
+                        // Buscar referencia (formato: letras/números)
+                        if (!referencia && /^[A-Z0-9]{2,}[\-A-Z0-9]*$/i.test(texto) && texto.length >= 3 && texto.length < 30) {
+                            referencia = texto;
+                        }
+                        
+                        // Buscar cantidad (número entre 1 y 9999)
+                        if (cantidad === 1 && /^\\d+$/.test(texto)) {
+                            const num = parseInt(texto);
+                            if (num > 0 && num < 10000) {
+                                cantidad = num;
+                            }
+                        }
+                        
+                        // Buscar denominación (texto largo)
+                        if (!denominacion && texto.length > 10 && texto.length < 200) {
+                            // No debe ser solo números
+                            if (!/^\\d+$/.test(texto)) {
+                                denominacion = texto.substring(0, 100);
+                            }
+                        }
                     }
                     
-                    if (/^\\d+$/.test(texto) && parseInt(texto) > 0 && parseInt(texto) < 10000 && cantidad === 1) {
-                        cantidad = parseInt(texto);
+                    // Validar que tenemos al menos referencia
+                    if (referencia && referencia.length >= 3) {
+                        // Evitar duplicados
+                        const existe = productos.find(p => p.referencia === referencia);
+                        if (!existe) {
+                            productos.push({
+                                referencia: referencia,
+                                denominacion: denominacion || referencia,
+                                cantidad: cantidad
+                            });
+                        }
                     }
-                    
-                    if (texto.length > 20 && !denominacion) {
-                        denominacion = texto.substring(0, 100);
-                    }
-                }
-                
-                if (referencia) {
-                    productos.push({
-                        referencia: referencia,
-                        denominacion: denominacion,
-                        cantidad: cantidad
-                    });
-                }
+                });
             });
             
             return productos;
         }
     """)
     
+    # Si no encuentra productos, intentar método alternativo
+    if len(productos) == 0:
+        log("  ⚠ Método 1 falló, probando método alternativo...")
+        
+        # Buscar patrones de texto en el HTML
+        import re
+        
+        # Patrón para referencias tipo: ABC123, ABC-123, A1B2C3
+        refs = re.findall(r'\b([A-Z0-9]{3,}[\-A-Z0-9]*)\b', html)
+        
+        for ref in refs:
+            # Filtrar referencias válidas
+            if len(ref) >= 3 and len(ref) < 30 and not ref.isdigit():
+                # Evitar duplicados
+                existe = any(p['referencia'] == ref for p in productos)
+                if not existe:
+                    productos.append({
+                        'referencia': ref,
+                        'denominacion': ref,
+                        'cantidad': 1
+                    })
+                    
+                    # Limitar a primeros 50 productos por pedido
+                    if len(productos) >= 50:
+                        break
+    
     log(f"  → {len(productos)} productos extraídos")
+    
+    # Debug: mostrar primeros 3
+    if len(productos) > 0:
+        for i, p in enumerate(productos[:3]):
+            log(f"     • {p['referencia']} (x{p['cantidad']})")
+    
     return productos
 
 def main():
