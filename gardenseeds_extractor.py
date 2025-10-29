@@ -173,85 +173,73 @@ def get_pedido_detalle(page, pedido):
     
     page.goto(url, wait_until="domcontentloaded", timeout=45000)
     
+    # Esperar que cargue
+    page.wait_for_timeout(3000)
+    
     try:
         page.wait_for_load_state("networkidle", timeout=15000)
     except:
         pass
     
-    # Esperar tabla
-    try:
-        page.wait_for_selector("table", timeout=10000)
-    except:
-        log("  ⚠ No se encontró tabla")
-        return []
-    
-    # Guardar HTML para debug
-    html = page.content()
-    
-    # Extraer productos con JavaScript mejorado
+    # Extraer productos con el formato correcto de GardenSeeds
     productos = page.evaluate("""
         () => {
             const productos = [];
             
-            // Buscar TODAS las tablas
-            const tables = document.querySelectorAll('table');
+            // Buscar tabla con clase fondoblanco
+            const table = document.querySelector('table.fondoblanco');
+            if (!table) return productos;
             
-            tables.forEach(table => {
-                const rows = table.querySelectorAll('tbody tr, tr');
+            const rows = table.querySelectorAll('tbody tr');
+            
+            rows.forEach(row => {
+                const cells = row.querySelectorAll('td');
                 
-                rows.forEach(row => {
-                    const cells = row.querySelectorAll('td, th');
-                    if (cells.length < 2) return;
-                    
-                    let referencia = '';
-                    let cantidad = 1;
-                    let denominacion = '';
-                    
-                    // Intentar extraer de cada celda
-                    for (let i = 0; i < Math.min(cells.length, 8); i++) {
-                        const texto = cells[i].textContent.trim();
-                        
-                        // Buscar referencia (formato: letras/números)
-                        if (!referencia && /^[A-Z0-9]{2,}[\-A-Z0-9]*$/i.test(texto) && texto.length >= 3 && texto.length < 30) {
-                            referencia = texto;
-                        }
-                        
-                        // Buscar cantidad (número entre 1 y 9999)
-                        if (cantidad === 1 && /^\\d+$/.test(texto)) {
-                            const num = parseInt(texto);
-                            if (num > 0 && num < 10000) {
-                                cantidad = num;
-                            }
-                        }
-                        
-                        // Buscar denominación (texto largo)
-                        if (!denominacion && texto.length > 10 && texto.length < 200) {
-                            // No debe ser solo números
-                            if (!/^\\d+$/.test(texto)) {
-                                denominacion = texto.substring(0, 100);
-                            }
-                        }
-                    }
-                    
-                    // Validar que tenemos al menos referencia
-                    if (referencia && referencia.length >= 3) {
-                        // Evitar duplicados
-                        const existe = productos.find(p => p.referencia === referencia);
-                        if (!existe) {
-                            productos.push({
-                                referencia: referencia,
-                                denominacion: denominacion || referencia,
-                                cantidad: cantidad
-                            });
-                        }
-                    }
-                });
+                // Necesita al menos 2 columnas (artículo y cantidad)
+                if (cells.length < 2) return;
+                
+                // Primera columna: link con "REFERENCIA - Descripción"
+                const link = cells[0].querySelector('a');
+                if (!link) return;
+                
+                const textoCompleto = link.textContent.trim();
+                
+                // Split por " - " para separar referencia de descripción
+                const parts = textoCompleto.split(' - ');
+                if (parts.length < 2) return;
+                
+                const referencia = parts[0].trim();
+                const denominacion = parts.slice(1).join(' - ').trim();
+                
+                // Segunda columna: cantidad (formato "1,00")
+                let cantidadTexto = cells[1].textContent.trim();
+                
+                // Convertir "1,00" a 1
+                cantidadTexto = cantidadTexto.replace(',', '.');
+                const cantidad = parseFloat(cantidadTexto) || 1;
+                
+                // Validar referencia (debe ser alfanumérico)
+                if (referencia.length >= 3 && /^[A-Z0-9]+[A-Z0-9]*$/i.test(referencia)) {
+                    productos.push({
+                        referencia: referencia,
+                        denominacion: denominacion.substring(0, 100),
+                        cantidad: Math.floor(cantidad)
+                    });
+                }
             });
             
             return productos;
         }
     """)
     
+    log(f"  → {len(productos)} productos extraídos")
+    
+    # Mostrar primeros 3
+    if len(productos) > 0:
+        for i, p in enumerate(productos[:3]):
+            log(f"     • {p['referencia']} - {p['denominacion'][:40]}... (x{p['cantidad']})")
+    
+    return productos    
     # Si no encuentra productos, intentar método alternativo
     if len(productos) == 0:
         log("  ⚠ Método 1 falló, probando método alternativo...")
