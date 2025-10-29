@@ -1,0 +1,98 @@
+name: Sync GardenSeeds Pedidos
+
+on:
+  schedule:
+    # Ejecutar cada 4 horas
+    - cron: '0 */4 * * *'
+  
+  # Permitir ejecución manual
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Fecha a sincronizar (YYYY-MM-DD, vacío = ayer)'
+        required: false
+        type: string
+
+jobs:
+  sync-pedidos:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install playwright
+        playwright install chromium
+        playwright install-deps chromium
+    
+    - name: Extract pedidos
+      env:
+        GARDENSEEDS_USER: ${{ secrets.GARDENSEEDS_USER }}
+        GARDENSEEDS_PASS: ${{ secrets.GARDENSEEDS_PASS }}
+      run: |
+        if [ -n "${{ github.event.inputs.date }}" ]; then
+          DATE="${{ github.event.inputs.date }}"
+        else
+          DATE=$(date -d '1 day ago' +%Y-%m-%d)
+        fi
+        
+        echo "🔍 Extrayendo pedidos para fecha: $DATE"
+        python gardenseeds_extractor.py --date "$DATE" --output pedidos_latest.json
+        
+        # Copiar también al histórico
+        mkdir -p pedidos
+        cp pedidos_latest.json "pedidos/pedidos_$DATE.json"
+        
+        echo "✅ Extracción completada"
+    
+    - name: Check for changes
+      id: check
+      run: |
+        if git diff --quiet pedidos_latest.json; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️  No hay cambios en pedidos"
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ Hay nuevos pedidos"
+        fi
+    
+    - name: Commit and push
+      if: steps.check.outputs.changed == 'true'
+      run: |
+        git config user.name "GitHub Actions Bot"
+        git config user.email "actions@github.com"
+        git add pedidos_latest.json pedidos/
+        git commit -m "🔄 Update pedidos $(date +%Y-%m-%d\ %H:%M)" || exit 0
+        git push
+    
+    - name: Upload artifact
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: pedidos-json
+        path: |
+          pedidos_latest.json
+          pedidos/
+        retention-days: 30
+    
+    - name: Summary
+      if: always()
+      run: |
+        echo "## 📊 Resumen de Sincronización" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "- **Fecha:** $(date +%Y-%m-%d\ %H:%M)" >> $GITHUB_STEP_SUMMARY
+        echo "- **Estado:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
+        
+        if [ -f pedidos_latest.json ]; then
+          PEDIDOS=$(grep -o '"numero"' pedidos_latest.json | wc -l)
+          echo "- **Pedidos encontrados:** $PEDIDOS" >> $GITHUB_STEP_SUMMARY
+        fi
