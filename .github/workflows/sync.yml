@@ -2,14 +2,14 @@ name: Sync GardenSeeds Pedidos
 
 on:
   schedule:
-    # Ejecutar cada 4 horas
-    - cron: '0 */4 * * *'
+    # Ejecutar cada 30 minutos, todos los días
+    - cron: '*/30 * * * *'
   
   # Permitir ejecución manual
   workflow_dispatch:
     inputs:
       date:
-        description: 'Fecha a sincronizar (YYYY-MM-DD, vacío = ayer)'
+        description: 'Fecha a sincronizar (YYYY-MM-DD, vacío = hoy y ayer)'
         required: false
         type: string
 
@@ -23,10 +23,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-
     
     - name: Setup Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
     
@@ -36,35 +35,87 @@ jobs:
         playwright install chromium
         playwright install-deps chromium
     
-    - name: Extract pedidos
+    - name: Extract pedidos HOY
       env:
         GARDENSEEDS_USER: ${{ secrets.GARDENSEEDS_USER }}
         GARDENSEEDS_PASS: ${{ secrets.GARDENSEEDS_PASS }}
       run: |
-        if [ -n "${{ github.event.inputs.date }}" ]; then
-          DATE="${{ github.event.inputs.date }}"
-        else
-          DATE=$(date -d '1 day ago' +%Y-%m-%d)
-        fi
+        TODAY=$(date +%Y-%m-%d)
+        echo "🔍 Extrayendo pedidos de HOY: $TODAY"
+        python gardenseeds_extractor.py --date "$TODAY" --output pedidos_hoy.json
+    
+    - name: Extract pedidos AYER
+      env:
+        GARDENSEEDS_USER: ${{ secrets.GARDENSEEDS_USER }}
+        GARDENSEEDS_PASS: ${{ secrets.GARDENSEEDS_PASS }}
+      run: |
+        YESTERDAY=$(date -d '1 day ago' +%Y-%m-%d)
+        echo "🔍 Extrayendo pedidos de AYER: $YESTERDAY"
+        python gardenseeds_extractor.py --date "$YESTERDAY" --output pedidos_ayer.json
+    
+    - name: Merge results
+      run: |
+        echo "📦 Combinando resultados..."
+        python - <<EOF
+        import json
+        from datetime import datetime
         
-        echo "🔍 Extrayendo pedidos para fecha: $DATE"
-        python gardenseeds_extractor.py --date "$DATE" --output pedidos_latest.json
+        # Leer ambos archivos
+        with open('pedidos_hoy.json', 'r') as f:
+            hoy = json.load(f)
         
-        # Copiar también al histórico
+        with open('pedidos_ayer.json', 'r') as f:
+            ayer = json.load(f)
+        
+        # Combinar pedidos
+        combined = {
+            'success': True,
+            'fechas': ['hoy', 'ayer'],
+            'timestamp': datetime.now().isoformat(),
+            'pedidos': [],
+            'stats': {
+                'total_pedidos': 0,
+                'total_productos': 0
+            }
+        }
+        
+        # Añadir pedidos de HOY
+        if hoy.get('success') and hoy.get('pedidos'):
+            for p in hoy['pedidos']:
+                p['origen'] = 'hoy'
+                combined['pedidos'].append(p)
+        
+        # Añadir pedidos de AYER
+        if ayer.get('success') and ayer.get('pedidos'):
+            for p in ayer['pedidos']:
+                p['origen'] = 'ayer'
+                combined['pedidos'].append(p)
+        
+        # Stats
+        combined['stats']['total_pedidos'] = len(combined['pedidos'])
+        combined['stats']['total_productos'] = sum(
+            len(p.get('productos', [])) for p in combined['pedidos']
+        )
+        
+        # Guardar
+        with open('pedidos_latest.json', 'w') as f:
+            json.dump(combined, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Combinados: {combined['stats']['total_pedidos']} pedidos, {combined['stats']['total_productos']} productos")
+        EOF
+        
+        # Copiar al histórico
         mkdir -p pedidos
-        cp pedidos_latest.json "pedidos/pedidos_$DATE.json"
-        
-        echo "✅ Extracción completada"
+        TODAY=$(date +%Y-%m-%d)
+        cp pedidos_latest.json "pedidos/pedidos_$TODAY.json"
     
     - name: Check for changes
       id: check
       run: |
         if git diff --quiet pedidos_latest.json; then
           echo "changed=false" >> $GITHUB_OUTPUT
-          echo "ℹ️  No hay cambios en pedidos"
         else
           echo "changed=true" >> $GITHUB_OUTPUT
-          echo "✅ Hay nuevos pedidos"
         fi
     
     - name: Commit and push
@@ -73,7 +124,7 @@ jobs:
         git config user.name "GitHub Actions Bot"
         git config user.email "actions@github.com"
         git add pedidos_latest.json pedidos/
-        git commit -m "🔄 Update pedidos $(date +%Y-%m-%d\ %H:%M)" || exit 0
+        git commit -m "Update pedidos $(date +%Y-%m-%d\ %H:%M)" || exit 0
         git push
     
     - name: Upload artifact
@@ -89,12 +140,10 @@ jobs:
     - name: Summary
       if: always()
       run: |
-        echo "## 📊 Resumen de Sincronización" >> $GITHUB_STEP_SUMMARY
-        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "## 📊 Resumen" >> $GITHUB_STEP_SUMMARY
         echo "- **Fecha:** $(date +%Y-%m-%d\ %H:%M)" >> $GITHUB_STEP_SUMMARY
         echo "- **Estado:** ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
-        
         if [ -f pedidos_latest.json ]; then
           PEDIDOS=$(grep -o '"numero"' pedidos_latest.json | wc -l)
-          echo "- **Pedidos encontrados:** $PEDIDOS" >> $GITHUB_STEP_SUMMARY
+          echo "- **Pedidos:** $PEDIDOS" >> $GITHUB_STEP_SUMMARY
         fi
