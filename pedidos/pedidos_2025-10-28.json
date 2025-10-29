@@ -1,7 +1,7 @@
 {
   "success": true,
   "fecha": "2025-10-28",
-  "timestamp": "2025-10-29T19:33:26.936764",
+  "timestamp": "2025-10-29T19:54:52.495490",
   "pedidos": [
     {
       "id": "152025017787",
@@ -9,7 +9,98 @@
       "fecha": "28/10/2025",
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152025017787",
       "fecha_formatted": "2025-10-28",
-      "productos": []
+      "productos": [
+        {
+          "referencia": "8799",
+          "denominacion": "Black Jack  25 u.  fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19730",
+          "denominacion": "Tropicanna Poison F1 Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19731",
+          "denominacion": "Tropicanna Poison F1 Fast Version 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34006",
+          "denominacion": "Vaporizador Arizer Solo Silver",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19136",
+          "denominacion": "Grow A 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11673",
+          "denominacion": "OMG  1 u. fem. Ripper Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20827",
+          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23399",
+          "denominacion": "Camuflaje Caja Magnetica 15x9 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2906",
+          "denominacion": "Maceta Cuadrada Blanca 13 x 13 x 14.5 cm. 2.2 lt. - 25 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19139",
+          "denominacion": "Grow B 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ]
     },
     {
       "id": "152025017786",
@@ -17,12 +108,38 @@
       "fecha": "28/10/2025",
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152025017786",
       "fecha_formatted": "2025-10-28",
-      "productos": []
+      "productos": [
+        {
+          "referencia": "12086",
+          "denominacion": "Lemon King 3+1 u. fem. Eva Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11673",
+          "denominacion": "OMG  1 u. fem. Ripper Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SSBB5",
+          "denominacion": "pH Perfect Sensi Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 2
+        }
+      ]
     }
   ],
   "error": null,
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 0
+    "total_productos": 23
   }
 }
