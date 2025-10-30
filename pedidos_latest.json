@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-10-30T18:39:04.503876",
+  "timestamp": "2025-10-30T19:01:27.044417",
   "pedidos": [
+    {
+      "id": "152025017944",
+      "numero": "15 2025/017944",
+      "fecha": "30/10/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025017944",
+      "fecha_formatted": "2025-10-30",
+      "productos": [
+        {
+          "referencia": "6162",
+          "denominacion": "Tangerine Dream  1 u. fem Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14474",
+          "denominacion": "Slurricane   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19164",
+          "denominacion": "Peladora Bowl Dutch Master Manual 19\"/48 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33217",
+          "denominacion": "Pipa Metal Llavero Mushroom Red 90 mm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "33802A",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Purple Kit 1.350 Mah.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025017942",
       "numero": "15 2025/017942",
@@ -248,7 +298,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 38
+    "total_pedidos": 6,
+    "total_productos": 46
   }
 }
