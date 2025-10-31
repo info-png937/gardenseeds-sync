@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-10-31T08:49:35.099550",
+  "timestamp": "2025-10-31T09:38:10.317994",
   "pedidos": [
     {
       "id": "152025017944",
@@ -51,6 +51,36 @@
         {
           "referencia": "33802A",
           "denominacion": "Vapeador Vaporesso Xros 4 Nano Purple Kit 1.350 Mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CKB5",
+          "denominacion": "Critical Kush  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33217",
+          "denominacion": "Pipa Metal Llavero Mushroom Red 90 mm.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "7007",
+          "denominacion": "Blunts Juicy Hemp Wraps Red Alert ES 25x2 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19136",
+          "denominacion": "Grow A 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14474",
+          "denominacion": "Slurricane   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -144,6 +174,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 21
+    "total_productos": 27
   }
 }
