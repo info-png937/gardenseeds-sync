@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-10-31T19:40:32.185337",
+  "timestamp": "2025-10-31T20:38:00.028795",
   "pedidos": [
+    {
+      "id": "152025017997",
+      "numero": "15 2025/017997",
+      "fecha": "31/10/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025017997",
+      "fecha_formatted": "2025-10-31",
+      "productos": [
+        {
+          "referencia": "CC100",
+          "denominacion": "Cream Caramel 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6523",
+          "denominacion": "Natria Acaricida Solabiol 250 ml. Bayer",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21394",
+          "denominacion": "AmnesiaZ 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025017996",
+      "numero": "15 2025/017996",
+      "fecha": "31/10/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025017996",
+      "fecha_formatted": "2025-10-31",
+      "productos": [
+        {
+          "referencia": "7069",
+          "denominacion": "Magnum Detox Limpiador 60 ml.",
+          "cantidad": 24
+        },
+        {
+          "referencia": "17208",
+          "denominacion": "Sticky Dream 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6695",
+          "denominacion": "Tropimango 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025017978",
       "numero": "15 2025/017978",
@@ -208,7 +293,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 32
+    "total_pedidos": 6,
+    "total_productos": 45
   }
 }
