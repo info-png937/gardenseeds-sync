@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-10-31T15:42:45.249199",
+  "timestamp": "2025-10-31T16:56:43.068441",
   "pedidos": [
     {
       "id": "152025017978",
@@ -117,11 +117,6 @@
           "referencia": "14474",
           "denominacion": "Slurricane   3 + 1 u. fem. Advanced Seeds",
           "cantidad": 2
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -214,6 +209,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 33
+    "total_productos": 32
   }
 }
