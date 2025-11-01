@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-01T21:38:07.266959",
+  "timestamp": "2025-11-01T22:33:35.508212",
   "pedidos": [
     {
       "id": "152025017997",
@@ -52,6 +52,36 @@
           "referencia": "19128",
           "denominacion": "Cleanse 0.94 lt. Athena",
           "cantidad": 3
+        },
+        {
+          "referencia": "7069",
+          "denominacion": "Magnum Detox Limpiador 60 ml.",
+          "cantidad": 24
+        },
+        {
+          "referencia": "17208",
+          "denominacion": "Sticky Dream 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6695",
+          "denominacion": "Tropimango 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -134,6 +164,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 19
+    "total_productos": 25
   }
 }
