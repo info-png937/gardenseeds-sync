@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-03T13:44:38.905557",
+  "timestamp": "2025-11-03T14:45:19.448281",
   "pedidos": [
     {
       "id": "152025018055",
@@ -162,6 +162,11 @@
           "referencia": "8474",
           "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
           "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -169,6 +174,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 30
+    "total_productos": 31
   }
 }
