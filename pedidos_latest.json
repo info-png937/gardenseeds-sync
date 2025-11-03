@@ -4,10 +4,171 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-03T11:42:35.046151",
-  "pedidos": [],
+  "timestamp": "2025-11-03T13:44:38.905557",
+  "pedidos": [
+    {
+      "id": "152025018055",
+      "numero": "15 2025/018055",
+      "fecha": "03/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018055",
+      "fecha_formatted": "2025-11-03",
+      "productos": [
+        {
+          "referencia": "13234",
+          "denominacion": "Marruecos Beldia Kif 3 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10778",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7724",
+          "denominacion": "Critical Orange Punch  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24350",
+          "denominacion": "First Lady  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10727",
+          "denominacion": "Chocolate Cream   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18434",
+          "denominacion": "Auto Radical Juice 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9540",
+          "denominacion": "Chocolate Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9621",
+          "denominacion": "Wedding Gelato  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5142",
+          "denominacion": "Sexbud  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21065",
+          "denominacion": "Apple Strudel Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9744",
+          "denominacion": "AK420 fem.  3 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKB5",
+          "denominacion": "Critical Kush  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9195",
+          "denominacion": "Purple Punch  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21520",
+          "denominacion": "Chimera Cut  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20801",
+          "denominacion": "Rainbow Mints   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AAH1",
+          "denominacion": "Auto Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24056",
+          "denominacion": "Lemon Mandarin  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17208",
+          "denominacion": "Sticky Dream 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9211",
+          "denominacion": "Blue Power 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9216",
+          "denominacion": "Critical Impact 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AS3",
+          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8474",
+          "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 30
   }
 }
