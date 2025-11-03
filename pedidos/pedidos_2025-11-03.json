@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-03T16:49:45.505332",
+  "timestamp": "2025-11-03T17:36:26.929933",
   "pedidos": [
+    {
+      "id": "152025018079",
+      "numero": "15 2025/018079",
+      "fecha": "03/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018079",
+      "fecha_formatted": "2025-11-03",
+      "productos": [
+        {
+          "referencia": "9069",
+          "denominacion": "Seaweed 500 ml. Terra Aquatica",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ARCR3",
+          "denominacion": "Auto Royal Critical  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HS3F",
+          "denominacion": "Hawaiian Snow  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5384",
+          "denominacion": "Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10696",
+          "denominacion": "CBD 20:1 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9569",
+          "denominacion": "Auto Fast Eddy CBD  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018055",
       "numero": "15 2025/018055",
@@ -173,7 +238,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 31
+    "total_pedidos": 2,
+    "total_productos": 42
   }
 }
