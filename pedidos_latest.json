@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-03T18:47:05.359884",
+  "timestamp": "2025-11-03T19:28:08.471399",
   "pedidos": [
+    {
+      "id": "152025018092",
+      "numero": "15 2025/018092",
+      "fecha": "03/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018092",
+      "fecha_formatted": "2025-11-03",
+      "productos": [
+        {
+          "referencia": "3180",
+          "denominacion": "Filtro OdorSok 100/300 - 280m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5384",
+          "denominacion": "Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BK1",
+          "denominacion": "Bubble Kush  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10696",
+          "denominacion": "CBD 20:1 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5417",
+          "denominacion": "Auto New York City  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARCR3",
+          "denominacion": "Auto Royal Critical  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9569",
+          "denominacion": "Auto Fast Eddy CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8474",
+          "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "28171",
+          "denominacion": "Ph Down Bloom 1 lt. Advanced Hydroponics",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21065",
+          "denominacion": "Apple Strudel Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18985",
+          "denominacion": "Hash Cbd Xuxes Tangie 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20257",
+          "denominacion": "Purple Cherry Ripple 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24350",
+          "denominacion": "First Lady  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19131",
+          "denominacion": "Fade 0.94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018079",
       "numero": "15 2025/018079",
@@ -243,7 +378,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 43
+    "total_pedidos": 3,
+    "total_productos": 68
   }
 }
