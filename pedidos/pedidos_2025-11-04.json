@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-04T11:32:10.333735",
+  "timestamp": "2025-11-04T13:50:09.811855",
   "pedidos": [
+    {
+      "id": "152025018156",
+      "numero": "15 2025/018156",
+      "fecha": "04/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018156",
+      "fecha_formatted": "2025-11-04",
+      "productos": [
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13233",
+          "denominacion": "Panama  3 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018092",
       "numero": "15 2025/018092",
@@ -383,7 +418,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 69
+    "total_pedidos": 4,
+    "total_productos": 74
   }
 }
