@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-04T18:52:34.361838",
+  "timestamp": "2025-11-04T19:28:26.892217",
   "pedidos": [
+    {
+      "id": "152025018179",
+      "numero": "15 2025/018179",
+      "fecha": "04/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018179",
+      "fecha_formatted": "2025-11-04",
+      "productos": [
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18985",
+          "denominacion": "Hash Cbd Xuxes Tangie 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19114",
+          "denominacion": "Balance 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23389",
+          "denominacion": "Camuflaje Magnetic Key Box 10x5x1.7 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BM50",
+          "denominacion": "Bactomatik  50 gr. Agrobacterias",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018178",
+      "numero": "15 2025/018178",
+      "fecha": "04/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018178",
+      "fecha_formatted": "2025-11-04",
+      "productos": [
+        {
+          "referencia": "10697",
+          "denominacion": "CBD 20:1 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11463",
+          "denominacion": "Tropicanna Banana  3 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018156",
       "numero": "15 2025/018156",
@@ -428,7 +488,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 76
+    "total_pedidos": 6,
+    "total_productos": 84
   }
 }
