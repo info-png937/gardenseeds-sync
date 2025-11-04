@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-04T07:33:53.159018",
+  "timestamp": "2025-11-04T08:54:46.382445",
   "pedidos": [
     {
       "id": "152025018092",
@@ -137,6 +137,11 @@
           "referencia": "19131",
           "denominacion": "Fade 0.94 lt. Athena",
           "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -379,6 +384,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 68
+    "total_productos": 69
   }
 }
