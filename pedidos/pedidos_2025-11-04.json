@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-04T14:46:14.059378",
+  "timestamp": "2025-11-04T15:41:15.827052",
   "pedidos": [
     {
       "id": "152025018156",
@@ -37,6 +37,11 @@
           "referencia": "19552",
           "denominacion": "Grow Kit Thai",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -419,6 +424,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 74
+    "total_productos": 75
   }
 }
