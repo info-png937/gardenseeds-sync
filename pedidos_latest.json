@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-04T16:51:28.102837",
+  "timestamp": "2025-11-04T18:52:34.361838",
   "pedidos": [
     {
       "id": "152025018156",
@@ -41,6 +41,11 @@
         {
           "referencia": "APL",
           "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -424,6 +429,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 75
+    "total_productos": 76
   }
 }
