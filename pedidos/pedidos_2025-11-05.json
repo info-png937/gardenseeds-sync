@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-05T11:48:37.396509",
+  "timestamp": "2025-11-05T13:47:07.652251",
   "pedidos": [
+    {
+      "id": "152025018211",
+      "numero": "15 2025/018211",
+      "fecha": "05/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018211",
+      "fecha_formatted": "2025-11-05",
+      "productos": [
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13228",
+          "denominacion": "Malawi 1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8279",
+          "denominacion": "Godzilla Glue  2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16368",
+          "denominacion": "Runtz x Layer Cake  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19254",
+          "denominacion": "Ice Cream Cake  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 10
+        },
+        {
+          "referencia": "21786",
+          "denominacion": "Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018179",
       "numero": "15 2025/018179",
@@ -128,7 +188,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 18
+    "total_pedidos": 4,
+    "total_productos": 28
   }
 }
