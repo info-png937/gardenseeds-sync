@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-05T14:44:27.237987",
+  "timestamp": "2025-11-05T15:38:48.112641",
   "pedidos": [
+    {
+      "id": "152025018219",
+      "numero": "15 2025/018219",
+      "fecha": "05/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018219",
+      "fecha_formatted": "2025-11-05",
+      "productos": [
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 4
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018211",
       "numero": "15 2025/018211",
@@ -193,7 +213,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 29
+    "total_pedidos": 5,
+    "total_productos": 31
   }
 }
