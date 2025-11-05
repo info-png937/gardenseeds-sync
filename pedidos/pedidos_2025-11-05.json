@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-05T18:54:22.477964",
+  "timestamp": "2025-11-05T19:28:45.730132",
   "pedidos": [
+    {
+      "id": "152025018245",
+      "numero": "15 2025/018245",
+      "fecha": "05/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018245",
+      "fecha_formatted": "2025-11-05",
+      "productos": [
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6598",
+          "denominacion": "Filtro Polinizador Secret Box 100 µm. Malla Recambio 150",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RME3",
+          "denominacion": "Royal Medic  3 u.  fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8279",
+          "denominacion": "Godzilla Glue  2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8281",
+          "denominacion": "Godzilla Glue  8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018219",
       "numero": "15 2025/018219",
@@ -213,7 +263,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 31
+    "total_pedidos": 6,
+    "total_productos": 39
   }
 }
