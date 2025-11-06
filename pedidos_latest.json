@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-06T11:45:06.659694",
+  "timestamp": "2025-11-06T14:44:02.413903",
   "pedidos": [
+    {
+      "id": "152025018301",
+      "numero": "15 2025/018301",
+      "fecha": "06/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018301",
+      "fecha_formatted": "2025-11-06",
+      "productos": [
+        {
+          "referencia": "AAB",
+          "denominacion": "Auto Amnesia Bilbo  1 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15789",
+          "denominacion": "Cherry Cola Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18492",
+          "denominacion": "Auto Sticky Orange XXl  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9244",
+          "denominacion": "Auto Doctor Jamaica 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8286",
+          "denominacion": "Pink Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MGU2",
+          "denominacion": "Melon Gum 2 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18537",
+          "denominacion": "Auto Titan F1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12845",
+          "denominacion": "Auto Dos Si Dos  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018245",
       "numero": "15 2025/018245",
@@ -148,7 +233,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 22
+    "total_pedidos": 4,
+    "total_productos": 37
   }
 }
