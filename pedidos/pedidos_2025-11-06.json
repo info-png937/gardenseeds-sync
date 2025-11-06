@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-06T19:27:44.553325",
+  "timestamp": "2025-11-06T19:41:45.846596",
   "pedidos": [
+    {
+      "id": "152025018328",
+      "numero": "15 2025/018328",
+      "fecha": "06/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018328",
+      "fecha_formatted": "2025-11-06",
+      "productos": [
+        {
+          "referencia": "3180",
+          "denominacion": "Filtro OdorSok 100/300 - 280m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16940",
+          "denominacion": "Banana Cookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14459",
+          "denominacion": "Cherry Pie   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18537",
+          "denominacion": "Auto Titan F1 -  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018327",
+      "numero": "15 2025/018327",
+      "fecha": "06/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018327",
+      "fecha_formatted": "2025-11-06",
+      "productos": [
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8576",
+          "denominacion": "Auto Jack 47 XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KK2U",
+          "denominacion": "King Kong  2 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018301",
       "numero": "15 2025/018301",
@@ -233,7 +313,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 37
+    "total_pedidos": 6,
+    "total_productos": 49
   }
 }
