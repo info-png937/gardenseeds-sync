@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-06T07:32:44.970028",
+  "timestamp": "2025-11-06T08:53:26.860010",
   "pedidos": [
     {
       "id": "152025018245",
@@ -52,6 +52,11 @@
           "referencia": "5217",
           "denominacion": "Spider Plant 15 ml. Agrobacterias",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -144,6 +149,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 21
+    "total_productos": 22
   }
 }
