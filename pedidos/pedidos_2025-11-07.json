@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-07T16:46:26.563258",
+  "timestamp": "2025-11-07T17:34:17.809875",
   "pedidos": [
+    {
+      "id": "152025018362",
+      "numero": "15 2025/018362",
+      "fecha": "07/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018362",
+      "fecha_formatted": "2025-11-07",
+      "productos": [
+        {
+          "referencia": "15026",
+          "denominacion": "Hemp Gel 330 ml. Annabis",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7008",
+          "denominacion": "Blunts Juicy Hemp Wraps Tropical ES 25x2 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018351",
       "numero": "15 2025/018351",
@@ -152,11 +182,6 @@
           "referencia": "21782",
           "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
           "cantidad": 2
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -283,7 +308,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 47
+    "total_pedidos": 5,
+    "total_productos": 50
   }
 }
