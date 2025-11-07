@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-07T05:41:00.862874",
+  "timestamp": "2025-11-07T10:42:54.172462",
   "pedidos": [
     {
       "id": "152025018328",
@@ -47,6 +47,36 @@
           "referencia": "19516",
           "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
           "cantidad": 4
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8576",
+          "denominacion": "Auto Jack 47 XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KK2U",
+          "denominacion": "King Kong  2 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -174,6 +204,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 27
+    "total_productos": 33
   }
 }
