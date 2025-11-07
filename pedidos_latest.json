@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-07T17:34:17.809875",
+  "timestamp": "2025-11-07T18:47:53.416775",
   "pedidos": [
+    {
+      "id": "152025018366",
+      "numero": "15 2025/018366",
+      "fecha": "07/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018366",
+      "fecha_formatted": "2025-11-07",
+      "productos": [
+        {
+          "referencia": "WWR3",
+          "denominacion": "White Widow  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL5W",
+          "denominacion": "Auto NL  5 u. fem. White Label",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14141",
+          "denominacion": "Wedding Crasher  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6525",
+          "denominacion": "Gas Clipper Pure 300 ml.",
+          "cantidad": 12
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018365",
+      "numero": "15 2025/018365",
+      "fecha": "07/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018365",
+      "fecha_formatted": "2025-11-07",
+      "productos": [
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018364",
+      "numero": "15 2025/018364",
+      "fecha": "07/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018364",
+      "fecha_formatted": "2025-11-07",
+      "productos": [
+        {
+          "referencia": "18356",
+          "denominacion": "Auto Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018362",
       "numero": "15 2025/018362",
@@ -308,7 +368,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 50
+    "total_pedidos": 8,
+    "total_productos": 56
   }
 }
