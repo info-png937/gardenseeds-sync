@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-10T14:44:47.468480",
+  "timestamp": "2025-11-10T15:41:01.057166",
   "pedidos": [
+    {
+      "id": "152025018456",
+      "numero": "15 2025/018456",
+      "fecha": "10/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018456",
+      "fecha_formatted": "2025-11-10",
+      "productos": [
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 100
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018442",
       "numero": "15 2025/018442",
@@ -123,7 +143,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 21
+    "total_pedidos": 2,
+    "total_productos": 23
   }
 }
