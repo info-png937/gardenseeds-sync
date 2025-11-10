@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-10T15:41:01.057166",
+  "timestamp": "2025-11-10T16:53:19.737469",
   "pedidos": [
+    {
+      "id": "152025018459",
+      "numero": "15 2025/018459",
+      "fecha": "10/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018459",
+      "fecha_formatted": "2025-11-10",
+      "productos": [
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 10
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018458",
+      "numero": "15 2025/018458",
+      "fecha": "10/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018458",
+      "fecha_formatted": "2025-11-10",
+      "productos": [
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 10
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018456",
       "numero": "15 2025/018456",
@@ -143,7 +193,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 23
+    "total_pedidos": 4,
+    "total_productos": 29
   }
 }
