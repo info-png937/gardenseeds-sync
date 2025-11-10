@@ -4,8 +4,128 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-10T19:27:56.758051",
+  "timestamp": "2025-11-10T19:42:12.058250",
   "pedidos": [
+    {
+      "id": "152025018480",
+      "numero": "15 2025/018480",
+      "fecha": "10/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018480",
+      "fecha_formatted": "2025-11-10",
+      "productos": [
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9698",
+          "denominacion": "Champions Cheese  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17029",
+          "denominacion": "Panty Punch fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9112",
+          "denominacion": "Pineapple Express Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17150",
+          "denominacion": "Auto Strawberry Banana   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21798",
+          "denominacion": "Apple Bananas  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16806",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Black 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24267",
+          "denominacion": "Zoap 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7008",
+          "denominacion": "Blunts Juicy Hemp Wraps Tropical ES 25x2 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19145",
+          "denominacion": "PK 3.78 lt. Athena",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018469",
       "numero": "15 2025/018469",
@@ -228,7 +348,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 34
+    "total_pedidos": 6,
+    "total_productos": 56
   }
 }
