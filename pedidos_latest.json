@@ -4,10 +4,126 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-10T13:41:34.841391",
-  "pedidos": [],
+  "timestamp": "2025-11-10T14:44:47.468480",
+  "pedidos": [
+    {
+      "id": "152025018442",
+      "numero": "15 2025/018442",
+      "fecha": "10/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018442",
+      "fecha_formatted": "2025-11-10",
+      "productos": [
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12270",
+          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7809",
+          "denominacion": "Gorilla Zkitltez   1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11589",
+          "denominacion": "Auto Jack Herer  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21520",
+          "denominacion": "Chimera Cut  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17150",
+          "denominacion": "Auto Strawberry Banana   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24267",
+          "denominacion": "Zoap 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 20
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "12240",
+          "denominacion": "Alambre Forrado 100 m.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "23951",
+          "denominacion": "Humect + 250 ml. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 21
   }
 }
