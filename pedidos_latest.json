@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-10T16:53:19.737469",
+  "timestamp": "2025-11-10T17:34:47.613250",
   "pedidos": [
+    {
+      "id": "152025018469",
+      "numero": "15 2025/018469",
+      "fecha": "10/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018469",
+      "fecha_formatted": "2025-11-10",
+      "productos": [
+        {
+          "referencia": "13232",
+          "denominacion": "Zamaldelica 1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13229",
+          "denominacion": "Marruecos Beldia Kif 1 u. fem. Ace Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15556",
+          "denominacion": "Auto Sweet Mimosa XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018459",
       "numero": "15 2025/018459",
@@ -193,7 +228,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 29
+    "total_pedidos": 5,
+    "total_productos": 34
   }
 }
