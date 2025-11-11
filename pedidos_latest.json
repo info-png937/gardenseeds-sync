@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-11T13:40:40.385646",
+  "timestamp": "2025-11-11T14:43:57.561660",
   "pedidos": [
+    {
+      "id": "152025018517",
+      "numero": "15 2025/018517",
+      "fecha": "11/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018517",
+      "fecha_formatted": "2025-11-11",
+      "productos": [
+        {
+          "referencia": "D2267",
+          "denominacion": "White Widow  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018514",
+      "numero": "15 2025/018514",
+      "fecha": "11/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018514",
+      "fecha_formatted": "2025-11-11",
+      "productos": [
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AFH3",
+          "denominacion": "Afgooey  3 u.  fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018480",
       "numero": "15 2025/018480",
@@ -353,7 +408,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 57
+    "total_pedidos": 8,
+    "total_productos": 64
   }
 }
