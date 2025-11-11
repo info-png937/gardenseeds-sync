@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-11T18:21:27.240178",
+  "timestamp": "2025-11-11T18:49:11.539780",
   "pedidos": [
+    {
+      "id": "152025018537",
+      "numero": "15 2025/018537",
+      "fecha": "11/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018537",
+      "fecha_formatted": "2025-11-11",
+      "productos": [
+        {
+          "referencia": "BF4L",
+          "denominacion": "Bud Factor X  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6623",
+          "denominacion": "Green Poison Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 6
+        },
+        {
+          "referencia": "AFH3",
+          "denominacion": "Afgooey  3 u.  fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8279",
+          "denominacion": "Godzilla Glue  2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20327A",
+          "denominacion": "Porta Incienso Metal Ganesha Ø 11 cm. Gold",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23466",
+          "denominacion": "Incienso en Cuerda Sándalo 24 Cuerdas",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018534",
       "numero": "15 2025/018534",
@@ -31,6 +121,11 @@
         {
           "referencia": "1928",
           "denominacion": "Termostato TA 1002",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -345,125 +440,10 @@
         }
       ],
       "origen": "ayer"
-    },
-    {
-      "id": "152025018442",
-      "numero": "15 2025/018442",
-      "fecha": "10/11/2025",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018442",
-      "fecha_formatted": "2025-11-10",
-      "productos": [
-        {
-          "referencia": "19242",
-          "denominacion": "Gelato  1 u. fem. Barney's",
-          "cantidad": 3
-        },
-        {
-          "referencia": "12270",
-          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
-          "cantidad": 3
-        },
-        {
-          "referencia": "15359",
-          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "7809",
-          "denominacion": "Gorilla Zkitltez   1 u. fem. Barney's",
-          "cantidad": 5
-        },
-        {
-          "referencia": "11589",
-          "denominacion": "Auto Jack Herer  3 u. fem. FastBuds Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "OB3F",
-          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21466",
-          "denominacion": "IMPERIUM X  3 u. fem Anesia",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21520",
-          "denominacion": "Chimera Cut  3 u. fem Anesia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11678",
-          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "17150",
-          "denominacion": "Auto Strawberry Banana   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24267",
-          "denominacion": "Zoap 10 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "3718",
-          "denominacion": "Malla Pirámide",
-          "cantidad": 5
-        },
-        {
-          "referencia": "14534",
-          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "6143",
-          "denominacion": "Critical Kush  1 u. fem. Barney's",
-          "cantidad": 5
-        },
-        {
-          "referencia": "SQ1RQ",
-          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
-          "cantidad": 5
-        },
-        {
-          "referencia": "KB1F",
-          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
-          "cantidad": 20
-        },
-        {
-          "referencia": "KB5F",
-          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
-          "cantidad": 10
-        },
-        {
-          "referencia": "12240",
-          "denominacion": "Alambre Forrado 100 m.",
-          "cantidad": 6
-        },
-        {
-          "referencia": "23951",
-          "denominacion": "Humect + 250 ml. Trabe",
-          "cantidad": 1
-        },
-        {
-          "referencia": "6425",
-          "denominacion": "White Widow   5 u. fem. 00 Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
     }
   ],
   "stats": {
     "total_pedidos": 10,
-    "total_productos": 71
+    "total_productos": 67
   }
 }
