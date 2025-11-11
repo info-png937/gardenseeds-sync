@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-11T07:34:50.602251",
+  "timestamp": "2025-11-11T08:52:07.541040",
   "pedidos": [
     {
       "id": "152025018480",
@@ -122,6 +122,11 @@
           "referencia": "19145",
           "denominacion": "PK 3.78 lt. Athena",
           "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -349,6 +354,6 @@
   ],
   "stats": {
     "total_pedidos": 6,
-    "total_productos": 56
+    "total_productos": 57
   }
 }
