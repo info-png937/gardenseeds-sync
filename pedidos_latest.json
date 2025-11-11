@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-11T17:14:36.070598",
+  "timestamp": "2025-11-11T18:21:27.240178",
   "pedidos": [
+    {
+      "id": "152025018534",
+      "numero": "15 2025/018534",
+      "fecha": "11/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018534",
+      "fecha_formatted": "2025-11-11",
+      "productos": [
+        {
+          "referencia": "14989",
+          "denominacion": "Carbon Activo 25 kg",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33217",
+          "denominacion": "Pipa Metal Llavero Mushroom Red 90 mm.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15084",
+          "denominacion": "Wedding Glue fem. 25 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1928",
+          "denominacion": "Termostato TA 1002",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018532",
+      "numero": "15 2025/018532",
+      "fecha": "11/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018532",
+      "fecha_formatted": "2025-11-11",
+      "productos": [
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30749",
+          "denominacion": "Filtros Monkey King Green 50 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018517",
       "numero": "15 2025/018517",
@@ -408,7 +463,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 8,
-    "total_productos": 64
+    "total_pedidos": 10,
+    "total_productos": 71
   }
 }
