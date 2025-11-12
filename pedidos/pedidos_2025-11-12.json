@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-12T13:11:03.435491",
+  "timestamp": "2025-11-12T13:49:55.910664",
   "pedidos": [
+    {
+      "id": "152025018592",
+      "numero": "15 2025/018592",
+      "fecha": "12/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018592",
+      "fecha_formatted": "2025-11-12",
+      "productos": [
+        {
+          "referencia": "9710",
+          "denominacion": "Monster Profit  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15613",
+          "denominacion": "Critical Jack  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9190",
+          "denominacion": "Glookies  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14270",
+          "denominacion": "Blue Sunset Sherbet  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RME1",
+          "denominacion": "Royal Medic  1 u.  fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20327A",
+          "denominacion": "Porta Incienso Metal Ganesha Ø 11 cm. Gold",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23466",
+          "denominacion": "Incienso en Cuerda Sándalo 24 Cuerdas",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018537",
       "numero": "15 2025/018537",
@@ -213,7 +278,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 31
+    "total_pedidos": 6,
+    "total_productos": 42
   }
 }
