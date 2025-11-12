@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-12T10:18:28.566452",
+  "timestamp": "2025-11-12T11:38:29.818905",
   "pedidos": [
     {
       "id": "152025018537",
@@ -152,11 +152,6 @@
           "referencia": "30749",
           "denominacion": "Filtros Monkey King Green 50 ud.",
           "cantidad": 3
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -219,6 +214,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 32
+    "total_productos": 31
   }
 }
