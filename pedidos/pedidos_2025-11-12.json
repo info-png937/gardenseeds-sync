@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-12T14:16:25.189273",
+  "timestamp": "2025-11-12T14:45:04.288173",
   "pedidos": [
     {
       "id": "152025018592",
@@ -67,6 +67,11 @@
           "referencia": "23466",
           "denominacion": "Incienso en Cuerda Sándalo 24 Cuerdas",
           "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -279,6 +284,6 @@
   ],
   "stats": {
     "total_pedidos": 6,
-    "total_productos": 42
+    "total_productos": 43
   }
 }
