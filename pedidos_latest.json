@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-12T18:47:40.393156",
+  "timestamp": "2025-11-12T19:37:43.108971",
   "pedidos": [
+    {
+      "id": "152025018622",
+      "numero": "15 2025/018622",
+      "fecha": "12/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018622",
+      "fecha_formatted": "2025-11-12",
+      "productos": [
+        {
+          "referencia": "ASF5",
+          "denominacion": "Auto Skunk #1   5 u. fem. White Label",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ASC5",
+          "denominacion": "Auto Super Critical  5 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9710",
+          "denominacion": "Monster Profit  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7315",
+          "denominacion": "Auto Northern Ligths CBD  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11842",
+          "denominacion": "Joanne's CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8477",
+          "denominacion": "Auto Lemon Kix 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15613",
+          "denominacion": "Critical Jack  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20916",
+          "denominacion": "Punch Pie   3 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6598",
+          "denominacion": "Filtro Polinizador Secret Box 100 µm. Malla Recambio 150",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018592",
       "numero": "15 2025/018592",
@@ -283,7 +353,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 43
+    "total_pedidos": 7,
+    "total_productos": 55
   }
 }
