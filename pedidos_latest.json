@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-13T12:30:36.282735",
+  "timestamp": "2025-11-13T13:11:08.603555",
   "pedidos": [
+    {
+      "id": "152025018669",
+      "numero": "15 2025/018669",
+      "fecha": "13/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018669",
+      "fecha_formatted": "2025-11-13",
+      "productos": [
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14277",
+          "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018622",
       "numero": "15 2025/018622",
@@ -153,7 +173,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 25
+    "total_pedidos": 3,
+    "total_productos": 27
   }
 }
