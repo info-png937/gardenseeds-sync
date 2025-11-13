@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-13T21:35:56.473987",
+  "timestamp": "2025-11-13T22:15:16.091362",
   "pedidos": [
+    {
+      "id": "152025018699",
+      "numero": "15 2025/018699",
+      "fecha": "13/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018699",
+      "fecha_formatted": "2025-11-13",
+      "productos": [
+        {
+          "referencia": "33803C",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Graphite Black Kit 1.350 mah..",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018696",
       "numero": "15 2025/018696",
@@ -233,7 +248,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 35
+    "total_pedidos": 6,
+    "total_productos": 36
   }
 }
