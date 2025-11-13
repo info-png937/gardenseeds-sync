@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-13T18:21:19.575786",
+  "timestamp": "2025-11-13T19:12:45.988104",
   "pedidos": [
+    {
+      "id": "152025018696",
+      "numero": "15 2025/018696",
+      "fecha": "13/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018696",
+      "fecha_formatted": "2025-11-13",
+      "productos": [
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8477",
+          "denominacion": "Auto Lemon Kix 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6523",
+          "denominacion": "Natria Acaricida Solabiol 250 ml. Bayer",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018695",
+      "numero": "15 2025/018695",
+      "fecha": "13/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018695",
+      "fecha_formatted": "2025-11-13",
+      "productos": [
+        {
+          "referencia": "CC100",
+          "denominacion": "Cream Caramel 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018669",
       "numero": "15 2025/018669",
@@ -178,7 +233,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 28
+    "total_pedidos": 5,
+    "total_productos": 35
   }
 }
