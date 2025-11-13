@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-13T07:39:25.856971",
+  "timestamp": "2025-11-13T08:48:31.357646",
   "pedidos": [
     {
       "id": "152025018622",
@@ -72,6 +72,11 @@
           "referencia": "6598",
           "denominacion": "Filtro Polinizador Secret Box 100 µm. Malla Recambio 150",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -149,6 +154,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 24
+    "total_productos": 25
   }
 }
