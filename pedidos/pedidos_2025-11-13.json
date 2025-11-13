@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-13T14:41:45.000731",
+  "timestamp": "2025-11-13T15:17:30.963227",
   "pedidos": [
     {
       "id": "152025018669",
@@ -21,6 +21,11 @@
         {
           "referencia": "14277",
           "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -174,6 +179,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 27
+    "total_productos": 28
   }
 }
