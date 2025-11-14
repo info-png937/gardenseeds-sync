@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-14T08:47:08.537721",
+  "timestamp": "2025-11-14T09:16:38.106476",
   "pedidos": [
     {
       "id": "152025018699",
@@ -16,6 +16,46 @@
         {
           "referencia": "33803C",
           "denominacion": "Vapeador Vaporesso Xros 4 Nano Graphite Black Kit 1.350 mah..",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8477",
+          "denominacion": "Auto Lemon Kix 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6523",
+          "denominacion": "Natria Acaricida Solabiol 250 ml. Bayer",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CC100",
+          "denominacion": "Cream Caramel 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -104,6 +144,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 11
+    "total_productos": 19
   }
 }
