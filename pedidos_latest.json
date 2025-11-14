@@ -4,8 +4,83 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-14T11:37:14.264035",
+  "timestamp": "2025-11-14T13:45:47.089007",
   "pedidos": [
+    {
+      "id": "152025018729",
+      "numero": "15 2025/018729",
+      "fecha": "14/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018729",
+      "fecha_formatted": "2025-11-14",
+      "productos": [
+        {
+          "referencia": "18749",
+          "denominacion": "Auto Orange Apricot Glue XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15460",
+          "denominacion": "Auto Watermelon Og   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12284",
+          "denominacion": "Buttercream Gelato  5 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "MG4U",
+          "denominacion": "Melon Gum 4 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ZK5R",
+          "denominacion": "Zombie Kush 5 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6695",
+          "denominacion": "Tropimango 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6120",
+          "denominacion": "Auto Critical Kush  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018699",
       "numero": "15 2025/018699",
@@ -143,7 +218,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 19
+    "total_pedidos": 5,
+    "total_productos": 32
   }
 }
