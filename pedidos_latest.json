@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-14T18:49:07.628429",
+  "timestamp": "2025-11-14T19:36:18.778791",
   "pedidos": [
+    {
+      "id": "152025018744",
+      "numero": "15 2025/018744",
+      "fecha": "14/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018744",
+      "fecha_formatted": "2025-11-14",
+      "productos": [
+        {
+          "referencia": "MG4U",
+          "denominacion": "Melon Gum 4 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18749",
+          "denominacion": "Auto Orange Apricot Glue XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15460",
+          "denominacion": "Auto Watermelon Og   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24063",
+          "denominacion": "Papaya Sherbet  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018743",
+      "numero": "15 2025/018743",
+      "fecha": "14/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018743",
+      "fecha_formatted": "2025-11-14",
+      "productos": [
+        {
+          "referencia": "24063",
+          "denominacion": "Papaya Sherbet  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3289",
+          "denominacion": "Amnesia Lemon  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018729",
       "numero": "15 2025/018729",
@@ -218,7 +308,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 32
+    "total_pedidos": 7,
+    "total_productos": 46
   }
 }
