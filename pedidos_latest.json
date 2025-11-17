@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-17T07:38:58.318296",
+  "timestamp": "2025-11-17T08:49:49.920417",
   "pedidos": [
     {
       "id": "152025018760",
@@ -17,6 +17,11 @@
           "referencia": "7801",
           "denominacion": "Camuflaje Lata Abrefacil Cierre Presión con Tapa",
           "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -24,6 +29,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 1
+    "total_productos": 2
   }
 }
