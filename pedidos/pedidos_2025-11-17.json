@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-17T12:29:39.462371",
+  "timestamp": "2025-11-17T13:09:28.722110",
   "pedidos": [
+    {
+      "id": "152025018805",
+      "numero": "15 2025/018805",
+      "fecha": "17/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018805",
+      "fecha_formatted": "2025-11-17",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 12
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "EC10",
+          "denominacion": "Exodus Cheese 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "32720",
+          "denominacion": "Pipa Splif Stik Aluminio Black Red Eye",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018778",
       "numero": "15 2025/018778",
@@ -113,7 +153,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 17
+    "total_pedidos": 3,
+    "total_productos": 23
   }
 }
