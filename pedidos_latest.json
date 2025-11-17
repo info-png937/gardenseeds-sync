@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-17T14:15:56.772266",
+  "timestamp": "2025-11-17T15:17:51.676715",
   "pedidos": [
     {
       "id": "152025018814",
@@ -17,6 +17,26 @@
           "referencia": "14989",
           "denominacion": "Carbon Activo 25 kg",
           "cantidad": 2
+        },
+        {
+          "referencia": "23437",
+          "denominacion": "Incienso Takasago Hana Sándalo 50 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23436",
+          "denominacion": "Incienso Meiko Shibayama Sándalo & Hierbas 50 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23478",
+          "denominacion": "Incienso Himalayan Healing Antiestrés 20 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -194,6 +214,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 27
+    "total_productos": 31
   }
 }
