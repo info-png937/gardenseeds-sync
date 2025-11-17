@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-17T09:19:25.407610",
+  "timestamp": "2025-11-17T10:17:31.390429",
   "pedidos": [
+    {
+      "id": "152025018778",
+      "numero": "15 2025/018778",
+      "fecha": "17/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018778",
+      "fecha_formatted": "2025-11-17",
+      "productos": [
+        {
+          "referencia": "8114",
+          "denominacion": "Auto Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14531",
+          "denominacion": "Llimonet Haze CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24913",
+          "denominacion": "Hella Jelly 5 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24943",
+          "denominacion": "Orange Cream Pop 5 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5397",
+          "denominacion": "Tutankhamon  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "3411",
+          "denominacion": "Veneno 3+1 u. fem. Eva Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24063",
+          "denominacion": "Papaya Sherbet  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "DWRQ3",
+          "denominacion": "Dance World  3 u.  fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "34090H",
+          "denominacion": "Cartucho Tip Vapeador Recambio 1 ml. Black",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018760",
       "numero": "15 2025/018760",
@@ -28,7 +113,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 2
+    "total_pedidos": 2,
+    "total_productos": 17
   }
 }
