@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-17T13:09:28.722110",
+  "timestamp": "2025-11-17T13:48:43.733892",
   "pedidos": [
+    {
+      "id": "152025018814",
+      "numero": "15 2025/018814",
+      "fecha": "17/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018814",
+      "fecha_formatted": "2025-11-17",
+      "productos": [
+        {
+          "referencia": "14989",
+          "denominacion": "Carbon Activo 25 kg",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018811",
+      "numero": "15 2025/018811",
+      "fecha": "17/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018811",
+      "fecha_formatted": "2025-11-17",
+      "productos": [
+        {
+          "referencia": "23437",
+          "denominacion": "Incienso Takasago Hana Sándalo 50 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23436",
+          "denominacion": "Incienso Meiko Shibayama Sándalo & Hierbas 50 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23478",
+          "denominacion": "Incienso Himalayan Healing Antiestrés 20 Sticks",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018805",
       "numero": "15 2025/018805",
@@ -153,7 +193,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 23
+    "total_pedidos": 5,
+    "total_productos": 27
   }
 }
