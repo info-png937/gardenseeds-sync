@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-18T12:30:20.218712",
+  "timestamp": "2025-11-18T13:09:52.568325",
   "pedidos": [
+    {
+      "id": "152025018893",
+      "numero": "15 2025/018893",
+      "fecha": "18/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018893",
+      "fecha_formatted": "2025-11-18",
+      "productos": [
+        {
+          "referencia": "GP100",
+          "denominacion": "Green Poison 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14998",
+          "denominacion": "Amnesia  5 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24059",
+          "denominacion": "Rainbow Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20570",
+          "denominacion": "Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "9198",
+          "denominacion": "Auto Purple Punch  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19730",
+          "denominacion": "Tropicanna Poison F1 Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13014",
+          "denominacion": "Auto Gorilla Glue  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018852",
       "numero": "15 2025/018852",
@@ -358,7 +418,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 56
+    "total_pedidos": 8,
+    "total_productos": 66
   }
 }
