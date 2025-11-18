@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-18T08:20:56.465362",
+  "timestamp": "2025-11-18T08:48:24.333886",
   "pedidos": [
     {
       "id": "152025018852",
@@ -112,6 +112,21 @@
           "referencia": "6416",
           "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "21786",
+          "denominacion": "Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SC1F",
+          "denominacion": "Super Critical 10 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -344,6 +359,6 @@
   ],
   "stats": {
     "total_pedidos": 7,
-    "total_productos": 53
+    "total_productos": 56
   }
 }
