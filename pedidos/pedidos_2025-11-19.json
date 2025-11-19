@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-19T08:20:58.115396",
+  "timestamp": "2025-11-19T08:48:10.187372",
   "pedidos": [
     {
       "id": "152025018937",
@@ -72,6 +72,11 @@
           "referencia": "32717",
           "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -112,6 +117,11 @@
           "referencia": "SKXL1",
           "denominacion": "Skunk XL  1 u. fem. Royal Queen",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -199,6 +209,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 30
+    "total_productos": 32
   }
 }
