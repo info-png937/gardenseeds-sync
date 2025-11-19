@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-19T14:15:44.055792",
+  "timestamp": "2025-11-19T14:44:26.663742",
   "pedidos": [
     {
       "id": "152025018969",
@@ -47,6 +47,11 @@
           "referencia": "1247",
           "denominacion": "Ruderalis Indica 10 u. reg. Sensi Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -254,6 +259,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 39
+    "total_productos": 40
   }
 }
