@@ -4,8 +4,103 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-19T18:48:27.521763",
+  "timestamp": "2025-11-19T19:13:04.546896",
   "pedidos": [
+    {
+      "id": "152025018993",
+      "numero": "15 2025/018993",
+      "fecha": "19/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018993",
+      "fecha_formatted": "2025-11-19",
+      "productos": [
+        {
+          "referencia": "14548",
+          "denominacion": "Solodiol CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7141",
+          "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1247",
+          "denominacion": "Ruderalis Indica 10 u. reg. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23396",
+          "denominacion": "Camuflaje Botella Stainless Steel",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9832",
+          "denominacion": "Northern Lights fem.  3 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15233",
+          "denominacion": "Mills Pack Starter Pk",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 7
+        },
+        {
+          "referencia": "M250",
+          "denominacion": "Manguito Unión 250 mm.",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018992",
+      "numero": "15 2025/018992",
+      "fecha": "19/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018992",
+      "fecha_formatted": "2025-11-19",
+      "productos": [
+        {
+          "referencia": "BF4L",
+          "denominacion": "Bud Factor X  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025018991",
+      "numero": "15 2025/018991",
+      "fecha": "19/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025018991",
+      "fecha_formatted": "2025-11-19",
+      "productos": [
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CAB1B",
+          "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 10
+        },
+        {
+          "referencia": "CAB1",
+          "denominacion": "pH Perfect Connoisseur Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 10
+        },
+        {
+          "referencia": "34090H",
+          "denominacion": "Cartucho Tip Vapeador Recambio 1 ml. Black",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018969",
       "numero": "15 2025/018969",
@@ -258,7 +353,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 40
+    "total_pedidos": 8,
+    "total_productos": 53
   }
 }
