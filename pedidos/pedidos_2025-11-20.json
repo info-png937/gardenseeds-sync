@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-20T11:37:07.965374",
+  "timestamp": "2025-11-20T13:08:19.722872",
   "pedidos": [
+    {
+      "id": "152025019020",
+      "numero": "15 2025/019020",
+      "fecha": "20/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019020",
+      "fecha_formatted": "2025-11-20",
+      "productos": [
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17169",
+          "denominacion": "Gelato #33 Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5456",
+          "denominacion": "Chocolate Skunk CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7306",
+          "denominacion": "Anesthesia CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025018993",
       "numero": "15 2025/018993",
@@ -183,7 +218,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 27
+    "total_pedidos": 5,
+    "total_productos": 32
   }
 }
