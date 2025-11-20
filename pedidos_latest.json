@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-20T08:48:37.190418",
+  "timestamp": "2025-11-20T09:16:37.289916",
   "pedidos": [
     {
       "id": "152025018993",
@@ -52,6 +52,36 @@
           "referencia": "M250",
           "denominacion": "Manguito Unión 250 mm.",
           "cantidad": 3
+        },
+        {
+          "referencia": "BF4L",
+          "denominacion": "Bud Factor X  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CAB1B",
+          "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 10
+        },
+        {
+          "referencia": "CAB1",
+          "denominacion": "pH Perfect Connoisseur Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 10
+        },
+        {
+          "referencia": "34090H",
+          "denominacion": "Cartucho Tip Vapeador Recambio 1 ml. Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -154,6 +184,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 21
+    "total_productos": 27
   }
 }
