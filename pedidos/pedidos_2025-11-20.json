@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-20T17:39:07.911228",
+  "timestamp": "2025-11-20T18:21:49.602934",
   "pedidos": [
     {
       "id": "152025019020",
@@ -112,11 +112,6 @@
           "referencia": "34090H",
           "denominacion": "Cartucho Tip Vapeador Recambio 1 ml. Black",
           "cantidad": 1
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -219,6 +214,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 32
+    "total_productos": 31
   }
 }
