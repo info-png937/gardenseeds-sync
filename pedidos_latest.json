@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-21T08:48:26.492277",
+  "timestamp": "2025-11-21T09:16:14.965436",
   "pedidos": [
     {
       "id": "152025019055",
@@ -67,6 +67,41 @@
           "referencia": "4514",
           "denominacion": "Oidio Killer 50 gr. Agrobacterias",
           "cantidad": 5
+        },
+        {
+          "referencia": "9593",
+          "denominacion": "HulkBerry  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21421",
+          "denominacion": "Blackberry Moonrocks®  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PO37",
+          "denominacion": "Plato Redondo 37 cm.",
+          "cantidad": 50
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "6367",
+          "denominacion": "Six Shooter Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -149,6 +184,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 22
+    "total_productos": 29
   }
 }
