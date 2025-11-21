@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-21T14:42:11.815494",
+  "timestamp": "2025-11-21T15:14:40.679110",
   "pedidos": [
     {
       "id": "152025019083",
@@ -42,6 +42,11 @@
           "referencia": "6695",
           "denominacion": "Tropimango 3 u fem Philosopher",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -224,6 +229,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 35
+    "total_productos": 36
   }
 }
