@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-21T12:28:35.121263",
+  "timestamp": "2025-11-21T13:06:33.994658",
   "pedidos": [
+    {
+      "id": "152025019083",
+      "numero": "15 2025/019083",
+      "fecha": "21/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019083",
+      "fecha_formatted": "2025-11-21",
+      "productos": [
+        {
+          "referencia": "9150",
+          "denominacion": "Auto Mamba Negra CBD 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MG4U",
+          "denominacion": "Melon Gum 4 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6695",
+          "denominacion": "Tropimango 3 u fem Philosopher",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019055",
       "numero": "15 2025/019055",
@@ -183,7 +223,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 29
+    "total_pedidos": 4,
+    "total_productos": 35
   }
 }
