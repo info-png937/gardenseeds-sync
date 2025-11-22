@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-22T13:24:34.482813",
+  "timestamp": "2025-11-22T14:12:45.589865",
   "pedidos": [
+    {
+      "id": "152025019107",
+      "numero": "15 2025/019107",
+      "fecha": "22/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019107",
+      "fecha_formatted": "2025-11-22",
+      "productos": [
+        {
+          "referencia": "7306",
+          "denominacion": "Anesthesia CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14138",
+          "denominacion": "Royal Runtz  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21063",
+          "denominacion": "Papaya Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23549",
+          "denominacion": "Medidor Ph/Fertility/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019105",
       "numero": "15 2025/019105",
@@ -88,7 +138,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 12
+    "total_pedidos": 3,
+    "total_productos": 20
   }
 }
