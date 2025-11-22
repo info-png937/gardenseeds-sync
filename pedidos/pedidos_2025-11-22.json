@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-22T12:24:54.028133",
+  "timestamp": "2025-11-22T12:58:52.313174",
   "pedidos": [
+    {
+      "id": "152025019105",
+      "numero": "15 2025/019105",
+      "fecha": "22/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019105",
+      "fecha_formatted": "2025-11-22",
+      "productos": [
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WW3F",
+          "denominacion": "White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSFA3",
+          "denominacion": "Auto Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019083",
       "numero": "15 2025/019083",
@@ -53,7 +88,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 7
+    "total_pedidos": 2,
+    "total_productos": 12
   }
 }
