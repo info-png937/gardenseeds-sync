@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-24T14:16:12.680439",
+  "timestamp": "2025-11-24T14:44:23.331923",
   "pedidos": [
     {
       "id": "152025019169",
@@ -67,6 +67,11 @@
           "referencia": "21466",
           "denominacion": "IMPERIUM X  3 u. fem Anesia",
           "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -74,6 +79,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 11
+    "total_productos": 12
   }
 }
