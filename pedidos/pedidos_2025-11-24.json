@@ -4,8 +4,138 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-24T19:36:11.819953",
+  "timestamp": "2025-11-24T20:17:35.715785",
   "pedidos": [
+    {
+      "id": "152025019206",
+      "numero": "15 2025/019206",
+      "fecha": "24/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019206",
+      "fecha_formatted": "2025-11-24",
+      "productos": [
+        {
+          "referencia": "11674",
+          "denominacion": "OMG  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19148",
+          "denominacion": "Pro Bloom 4.53 Kg. Caja Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21448",
+          "denominacion": "Frozen Black Cherry  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14185",
+          "denominacion": "Strawberry Banana Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21935",
+          "denominacion": "Panama Red  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21210",
+          "denominacion": "Final Phase   60  ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18966",
+          "denominacion": "Carbobloom   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18967",
+          "denominacion": "Delta Boost   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19021",
+          "denominacion": "Monster PK 58/60 - 3 kg. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19404",
+          "denominacion": "Monster PK 58/60 -   50 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19114",
+          "denominacion": "Balance 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6523",
+          "denominacion": "Natria Acaricida Solabiol 250 ml. Bayer",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19131",
+          "denominacion": "Fade 0.94 lt. Athena",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019205",
+      "numero": "15 2025/019205",
+      "fecha": "24/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019205",
+      "fecha_formatted": "2025-11-24",
+      "productos": [
+        {
+          "referencia": "21935",
+          "denominacion": "Panama Red  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21448",
+          "denominacion": "Frozen Black Cherry  3 u. fem Anesia",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019186",
       "numero": "15 2025/019186",
@@ -103,7 +233,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 15
+    "total_pedidos": 4,
+    "total_productos": 37
   }
 }
