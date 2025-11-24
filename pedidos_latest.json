@@ -4,10 +4,76 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-24T12:30:14.062702",
-  "pedidos": [],
+  "timestamp": "2025-11-24T13:10:53.464522",
+  "pedidos": [
+    {
+      "id": "152025019169",
+      "numero": "15 2025/019169",
+      "fecha": "24/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019169",
+      "fecha_formatted": "2025-11-24",
+      "productos": [
+        {
+          "referencia": "21673",
+          "denominacion": "Zerealz Milk   1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "7581",
+          "denominacion": "Auto Dark Devil  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15521",
+          "denominacion": "Peanut Butter Breath Fast Flowering  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 20
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "9612",
+          "denominacion": "Legendary Punch  1 u. fem. Royal Queen",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6664",
+          "denominacion": "California Indica  5 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AUH2GH3",
+          "denominacion": "Arjan Ultra Haze #2 (Mango Haze) -  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 11
   }
 }
