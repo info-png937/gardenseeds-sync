@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-25T08:21:32.018495",
+  "timestamp": "2025-11-25T08:49:07.521421",
   "pedidos": [
     {
       "id": "152025019206",
@@ -107,6 +107,26 @@
           "referencia": "19131",
           "denominacion": "Fade 0.94 lt. Athena",
           "cantidad": 4
+        },
+        {
+          "referencia": "21935",
+          "denominacion": "Panama Red  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21448",
+          "denominacion": "Frozen Black Cherry  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -234,6 +254,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 37
+    "total_productos": 41
   }
 }
