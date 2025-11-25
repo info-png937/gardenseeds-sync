@@ -4,8 +4,108 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-25T11:37:58.912090",
+  "timestamp": "2025-11-25T12:30:56.461212",
   "pedidos": [
+    {
+      "id": "152025019231",
+      "numero": "15 2025/019231",
+      "fecha": "25/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019231",
+      "fecha_formatted": "2025-11-25",
+      "productos": [
+        {
+          "referencia": "13148",
+          "denominacion": "Y Griega CBD 2.0  5 u. fem. Medical seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14511",
+          "denominacion": "Bestial Skunk 3 u. fem. Elite Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21787",
+          "denominacion": "Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ACAS1",
+          "denominacion": "Automatic Collection #1 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS6",
+          "denominacion": "Automatic Collection #6 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS5",
+          "denominacion": "Automatic Collection #5 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS4",
+          "denominacion": "Automatic Collection #4 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8126",
+          "denominacion": "Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17223",
+          "denominacion": "One Love Haze 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19019",
+          "denominacion": "Monster PK 58/60 - 0.5 Kg. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19005",
+          "denominacion": "PK+ 20/30 -  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019206",
       "numero": "15 2025/019206",
@@ -253,7 +353,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 41
+    "total_pedidos": 5,
+    "total_productos": 59
   }
 }
