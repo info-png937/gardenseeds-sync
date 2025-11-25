@@ -4,8 +4,118 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-25T19:37:43.217701",
+  "timestamp": "2025-11-25T20:42:55.380176",
   "pedidos": [
+    {
+      "id": "152025019289",
+      "numero": "15 2025/019289",
+      "fecha": "25/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019289",
+      "fecha_formatted": "2025-11-25",
+      "productos": [
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14511",
+          "denominacion": "Bestial Skunk 3 u. fem. Elite Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13148",
+          "denominacion": "Y Griega CBD 2.0  5 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14138",
+          "denominacion": "Royal Runtz  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8303",
+          "denominacion": "Auto Zkittlez OG  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13536",
+          "denominacion": "Watermelon Zkittlez  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13537",
+          "denominacion": "Watermelon Zkittlez 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19267",
+          "denominacion": "OG Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019287",
+      "numero": "15 2025/019287",
+      "fecha": "25/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019287",
+      "fecha_formatted": "2025-11-25",
+      "productos": [
+        {
+          "referencia": "14138",
+          "denominacion": "Royal Runtz  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3735",
+          "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5485",
+          "denominacion": "Anesthesia  3 u. Fem. Pyramid Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019231",
       "numero": "15 2025/019231",
@@ -353,7 +463,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 59
+    "total_pedidos": 7,
+    "total_productos": 77
   }
 }
