@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-26T21:13:33.852301",
+  "timestamp": "2025-11-26T21:37:27.280163",
   "pedidos": [
+    {
+      "id": "152025019382",
+      "numero": "15 2025/019382",
+      "fecha": "26/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019382",
+      "fecha_formatted": "2025-11-26",
+      "productos": [
+        {
+          "referencia": "14428",
+          "denominacion": "Purple Punch   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019380",
       "numero": "15 2025/019380",
@@ -368,7 +383,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 60
+    "total_pedidos": 7,
+    "total_productos": 61
   }
 }
