@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-26T12:30:56.554743",
+  "timestamp": "2025-11-26T13:12:53.640637",
   "pedidos": [
+    {
+      "id": "152025019349",
+      "numero": "15 2025/019349",
+      "fecha": "26/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019349",
+      "fecha_formatted": "2025-11-26",
+      "productos": [
+        {
+          "referencia": "1008",
+          "denominacion": "Pineapple Chunk  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20878",
+          "denominacion": "Terp & Tonic fem.  3 u. Seedstockers Superior",
+          "cantidad": 2
+        },
+        {
+          "referencia": "IC3F",
+          "denominacion": "Ice Cream  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21965",
+          "denominacion": "Test Coca 300 ng/ml.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19267",
+          "denominacion": "OG Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019289",
       "numero": "15 2025/019289",
@@ -248,7 +283,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 42
+    "total_pedidos": 4,
+    "total_productos": 47
   }
 }
