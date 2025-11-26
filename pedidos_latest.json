@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-26T14:44:34.497193",
+  "timestamp": "2025-11-26T15:15:00.138976",
   "pedidos": [
     {
       "id": "152025019349",
@@ -36,6 +36,11 @@
         {
           "referencia": "19267",
           "denominacion": "OG Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -284,6 +289,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 47
+    "total_productos": 48
   }
 }
