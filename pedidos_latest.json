@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-27T14:43:01.603023",
+  "timestamp": "2025-11-27T15:16:03.981310",
   "pedidos": [
+    {
+      "id": "152025019446",
+      "numero": "15 2025/019446",
+      "fecha": "27/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019446",
+      "fecha_formatted": "2025-11-27",
+      "productos": [
+        {
+          "referencia": "25008",
+          "denominacion": "Auto OG Kush 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25014",
+          "denominacion": "Auto Pound Town 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23393",
+          "denominacion": "Camuflaje Cepillo Pelo Round Black",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019445",
       "numero": "15 2025/019445",
@@ -283,7 +313,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 43
+    "total_pedidos": 7,
+    "total_productos": 47
   }
 }
