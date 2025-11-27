@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-27T08:22:02.003222",
+  "timestamp": "2025-11-27T08:49:09.006048",
   "pedidos": [
     {
       "id": "152025019382",
@@ -17,6 +17,71 @@
           "referencia": "14428",
           "denominacion": "Purple Punch   3 u. fem. 00 Seeds",
           "cantidad": 3
+        },
+        {
+          "referencia": "16487",
+          "denominacion": "Green Crack 2.0 -  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8279",
+          "denominacion": "Godzilla Glue  2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19231",
+          "denominacion": "Biscotti  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20878",
+          "denominacion": "Terp & Tonic fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24198",
+          "denominacion": "CandyGaz 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 8
+        },
+        {
+          "referencia": "14827",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 30 x 30 x 31 cm. 25 lt.",
+          "cantidad": 35
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9581",
+          "denominacion": "Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -144,6 +209,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 19
+    "total_productos": 32
   }
 }
