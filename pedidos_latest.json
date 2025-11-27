@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-27T12:30:48.358221",
+  "timestamp": "2025-11-27T13:10:28.114275",
   "pedidos": [
+    {
+      "id": "152025019427",
+      "numero": "15 2025/019427",
+      "fecha": "27/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019427",
+      "fecha_formatted": "2025-11-27",
+      "productos": [
+        {
+          "referencia": "14428",
+          "denominacion": "Purple Punch   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "21787",
+          "denominacion": "Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20533",
+          "denominacion": "Shimo 1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5686",
+          "denominacion": "Zombie Kush 3 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BCC1",
+          "denominacion": "Blue Mystic  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "10717",
+          "denominacion": "Auto Do-Si-Dos Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "B3FD",
+          "denominacion": "Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019382",
       "numero": "15 2025/019382",
@@ -208,7 +263,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 32
+    "total_pedidos": 5,
+    "total_productos": 41
   }
 }
