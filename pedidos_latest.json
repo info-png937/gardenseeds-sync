@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-27T19:12:25.024438",
+  "timestamp": "2025-11-27T19:36:23.269276",
   "pedidos": [
+    {
+      "id": "152025019476",
+      "numero": "15 2025/019476",
+      "fecha": "27/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019476",
+      "fecha_formatted": "2025-11-27",
+      "productos": [
+        {
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9585",
+          "denominacion": "Purple Queen  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11830",
+          "denominacion": "Auto Hulkberry  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20878",
+          "denominacion": "Terp & Tonic fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21183",
+          "denominacion": "Chocolate Rainbow XXL  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23897",
+          "denominacion": "Bruce Banner  3 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019475",
+      "numero": "15 2025/019475",
+      "fecha": "27/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019475",
+      "fecha_formatted": "2025-11-27",
+      "productos": [
+        {
+          "referencia": "BBB05",
+          "denominacion": "Bubblegum  5 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3766",
+          "denominacion": "Mk - Ultra  5 u. fem. T.H. Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019446",
       "numero": "15 2025/019446",
@@ -313,7 +383,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 47
+    "total_pedidos": 9,
+    "total_productos": 57
   }
 }
