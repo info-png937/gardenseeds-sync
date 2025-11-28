@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T20:16:38.429913",
+  "timestamp": "2025-11-28T20:40:44.862858",
   "pedidos": [
+    {
+      "id": "152025019527",
+      "numero": "15 2025/019527",
+      "fecha": "28/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019527",
+      "fecha_formatted": "2025-11-28",
+      "productos": [
+        {
+          "referencia": "9887",
+          "denominacion": "Cream Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019522",
       "numero": "15 2025/019522",
@@ -283,7 +298,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 41
+    "total_pedidos": 8,
+    "total_productos": 42
   }
 }
