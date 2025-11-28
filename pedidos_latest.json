@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T13:46:44.569138",
+  "timestamp": "2025-11-28T14:42:46.752156",
   "pedidos": [
     {
       "id": "152025019502",
@@ -62,6 +62,11 @@
           "referencia": "19782",
           "denominacion": "Mimosa Fast   3 u. fem. 00 Seeds",
           "cantidad": 5
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -259,6 +264,6 @@
   ],
   "stats": {
     "total_pedidos": 6,
-    "total_productos": 38
+    "total_productos": 39
   }
 }
