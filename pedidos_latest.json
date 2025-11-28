@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T12:29:36.466223",
+  "timestamp": "2025-11-28T13:08:24.444988",
   "pedidos": [
+    {
+      "id": "152025019502",
+      "numero": "15 2025/019502",
+      "fecha": "28/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019502",
+      "fecha_formatted": "2025-11-28",
+      "productos": [
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "17203",
+          "denominacion": "Purple Cherry 1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21053",
+          "denominacion": "Guava Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19038",
+          "denominacion": "Apricot Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "E3FD",
+          "denominacion": "Euforia  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AE7D",
+          "denominacion": "Auto Euforia 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "19782",
+          "denominacion": "Mimosa Fast   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019476",
       "numero": "15 2025/019476",
@@ -198,7 +258,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 28
+    "total_pedidos": 6,
+    "total_productos": 38
   }
 }
