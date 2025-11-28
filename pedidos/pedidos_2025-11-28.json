@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T20:40:44.862858",
+  "timestamp": "2025-11-28T21:13:25.567310",
   "pedidos": [
+    {
+      "id": "152025019528",
+      "numero": "15 2025/019528",
+      "fecha": "28/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019528",
+      "fecha_formatted": "2025-11-28",
+      "productos": [
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9887",
+          "denominacion": "Cream Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9598",
+          "denominacion": "Green Gelato  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBB05",
+          "denominacion": "Bubblegum  5 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3766",
+          "denominacion": "Mk - Ultra  5 u. fem. T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AE7D",
+          "denominacion": "Auto Euforia 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14559",
+          "denominacion": "Auto Sologerol CBG 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19038",
+          "denominacion": "Apricot Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "31405",
+          "denominacion": "Liadora Caja Metal King Size 110 mm. Champ",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16367",
+          "denominacion": "Runtz x Layer Cake  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14153",
+          "denominacion": "Auto Dosidos  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21053",
+          "denominacion": "Guava Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19145",
+          "denominacion": "PK 3.78 lt. Athena",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019527",
       "numero": "15 2025/019527",
@@ -298,7 +383,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 8,
-    "total_productos": 42
+    "total_pedidos": 9,
+    "total_productos": 57
   }
 }
