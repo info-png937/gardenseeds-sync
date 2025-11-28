@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T08:21:22.253565",
+  "timestamp": "2025-11-28T08:49:07.394318",
   "pedidos": [
     {
       "id": "152025019476",
@@ -51,6 +51,16 @@
         {
           "referencia": "23897",
           "denominacion": "Bruce Banner  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBB05",
+          "denominacion": "Bubblegum  5 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3766",
+          "denominacion": "Mk - Ultra  5 u. fem. T.H. Seeds",
           "cantidad": 1
         }
       ],
@@ -184,6 +194,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 25
+    "total_productos": 27
   }
 }
