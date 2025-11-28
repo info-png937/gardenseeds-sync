@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T16:46:11.091707",
+  "timestamp": "2025-11-28T17:13:38.993499",
   "pedidos": [
+    {
+      "id": "152025019522",
+      "numero": "15 2025/019522",
+      "fecha": "28/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019522",
+      "fecha_formatted": "2025-11-28",
+      "productos": [
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9740",
+          "denominacion": "Auto AK420 fem.  3 u. Seedstockers",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019502",
       "numero": "15 2025/019502",
@@ -263,7 +283,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 39
+    "total_pedidos": 7,
+    "total_productos": 41
   }
 }
