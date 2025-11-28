@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-28T08:49:07.394318",
+  "timestamp": "2025-11-28T09:16:26.588638",
   "pedidos": [
     {
       "id": "152025019476",
@@ -61,6 +61,11 @@
         {
           "referencia": "3766",
           "denominacion": "Mk - Ultra  5 u. fem. T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -194,6 +199,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 27
+    "total_productos": 28
   }
 }
