@@ -4,10 +4,71 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-11-30T22:14:03.403487",
-  "pedidos": [],
+  "timestamp": "2025-11-30T22:40:27.974709",
+  "pedidos": [
+    {
+      "id": "152025019545",
+      "numero": "15 2025/019545",
+      "fecha": "30/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019545",
+      "fecha_formatted": "2025-11-30",
+      "productos": [
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10738",
+          "denominacion": "White Widow   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10781",
+          "denominacion": "Female Collection 5 - 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14213",
+          "denominacion": "California Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16480",
+          "denominacion": "Auto Lemon OG   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19404",
+          "denominacion": "Monster PK 58/60 -   50 gr. Cannotecnia",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 10
   }
 }
