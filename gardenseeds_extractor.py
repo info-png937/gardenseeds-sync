@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-GardenSeeds Pedidos Extractor
-Extrae pedidos usando Playwright y los guarda en JSON para PrestaShop
+GardenSeeds Pedidos Extractor para GitHub Actions
+Extrae pedidos usando Playwright y los guarda en JSON
 """
 
 import os
@@ -9,19 +9,18 @@ import sys
 import json
 import argparse
 from datetime import datetime, timedelta
-from pathlib import Path
 
 try:
     from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeout
 except ImportError:
     print("ERROR: Playwright no está instalado")
-    print("Instalar con: pip3 install playwright && playwright install chromium")
+    print("Ejecutar: pip install playwright && playwright install chromium")
     sys.exit(1)
 
-# Configuración
+# Configuración desde variables de entorno o argumentos
 BASE_URL = "https://www.gardenseedstrading.com"
-USERNAME = "EUROGROW"
-PASSWORD = "Eurogrow1234"
+USERNAME = os.getenv('GARDENSEEDS_USER', 'EUROGROW')
+PASSWORD = os.getenv('GARDENSEEDS_PASS', 'Eurogrow1234')
 
 def log(msg):
     """Log con timestamp"""
@@ -30,84 +29,74 @@ def log(msg):
 
 def login(page):
     """Realizar login en GardenSeeds"""
-    log("Navegando a home...")
-    page.goto(BASE_URL, wait_until="domcontentloaded", timeout=60000)
+    log("🔐 Iniciando login...")
     
-    log("Buscando botón de login...")
     try:
-        # Intentar varias formas de abrir el modal de login
+        page.goto(BASE_URL, wait_until="domcontentloaded", timeout=60000)
+        log("✓ Página cargada")
+        
+        # Hacer clic en "Iniciar Sesión"
         try:
-            page.get_by_text("Iniciar Sesión", exact=False).first.click(timeout=4000)
+            page.get_by_text("Iniciar Sesión", exact=False).first.click(timeout=5000)
+            page.wait_for_timeout(1000)
         except:
-            try:
-                page.locator("text=Iniciar Sesión").first.click(timeout=3000)
-            except:
-                # Disparar evento Alpine.js
-                page.evaluate("""
-                    try {
-                        document.dispatchEvent(new CustomEvent('mostrarlogin'));
-                        window.dispatchEvent(new CustomEvent('mostrarlogin'));
-                    } catch (e) {}
-                """)
+            log("⚠ No se encontró botón 'Iniciar Sesión', probando alternativas...")
+            page.evaluate("document.dispatchEvent(new CustomEvent('mostrarlogin'));")
+            page.wait_for_timeout(1000)
         
-        log("Esperando formulario de login...")
+        # Esperar formulario
         page.wait_for_selector("#iniciosesion, form#iniciosesion", timeout=15000)
+        log("✓ Formulario de login encontrado")
         
-        log("Rellenando credenciales...")
-        if page.locator("#usuario").count():
-            page.fill("#usuario", USERNAME)
-        else:
-            page.fill("input[name='usuario']", USERNAME)
+        # Rellenar credenciales
+        page.fill("#usuario, input[name='usuario']", USERNAME)
+        page.fill("#password, input[name='password']", PASSWORD)
+        log("✓ Credenciales rellenadas")
         
-        if page.locator("#password").count():
-            page.fill("#password", PASSWORD)
-        else:
-            page.fill("input[name='password']", PASSWORD)
-        
-        log("Enviando formulario...")
-        # Intentar hacer clic en botón submit
-        clicked = False
-        for sel in [
-            "#iniciosesion button[type='submit']",
-            "form#iniciosesion button:has-text('ACCEDER')",
-            "text=ACCEDER"
-        ]:
+        # Submit y esperar navegación
+        with page.expect_navigation(timeout=30000, wait_until="domcontentloaded"):
             try:
-                page.click(sel, timeout=3000)
-                clicked = True
-                break
+                page.click("#iniciosesion button[type='submit']", timeout=3000)
             except:
-                continue
+                page.evaluate("document.getElementById('iniciosesion').submit()")
         
-        if not clicked:
-            page.evaluate("document.getElementById('iniciosesion').submit()")
+        log("✓ Formulario enviado, esperando respuesta...")
         
-        log("Esperando confirmación de login...")
-        page.wait_for_load_state("networkidle", timeout=20000)
+        # Esperar a que cargue completamente
+        page.wait_for_timeout(3000)
         
-        # Verificar que el login fue exitoso
-        login_ok = False
-        for sel in ["text=Mi cuenta", "text=Salir", "text=Pedidos"]:
-            try:
-                if page.locator(sel).first.is_visible():
-                    login_ok = True
-                    break
-            except:
-                continue
+        try:
+            page.wait_for_load_state("networkidle", timeout=15000)
+        except:
+            pass
         
-        if not login_ok:
-            raise Exception("Login falló - no se detectó sesión iniciada")
+        # Verificar login de forma más robusta
+        page_content = page.content()
         
-        log("✓ Login exitoso")
-        return True
+        # Buscar indicadores de sesión iniciada
+        if ("Salir" in page_content or 
+            "salir" in page_content.lower() or 
+            "Mi cuenta" in page_content or
+            "Cerrar sesión" in page_content):
+            log("✅ Login exitoso (detectado: Salir/Mi cuenta)")
+            return True
         
+        # Si NO encuentra el formulario de login, probablemente está logueado
+        try:
+            page.wait_for_selector("#iniciosesion", timeout=2000)
+            log("❌ Todavía en página de login")
+            return False
+        except:
+            log("✅ Login exitoso (formulario ya no visible)")
+            return True
+            
     except Exception as e:
-        log(f"✗ Error en login: {e}")
+        log(f"❌ Error en login: {e}")
         return False
-
 def get_pedidos(page, fecha):
     """Obtener pedidos de una fecha específica"""
-    log(f"Navegando a página de pedidos...")
+    log(f"📋 Navegando a página de pedidos...")
+    
     page.goto(f"{BASE_URL}/micuenta/pedidos", wait_until="domcontentloaded", timeout=45000)
     
     try:
@@ -115,13 +104,13 @@ def get_pedidos(page, fecha):
     except:
         pass
     
-    log("Parseando tabla de pedidos...")
+    log("🔍 Parseando tabla de pedidos...")
     
-    # Esperar a que aparezca la tabla
+    # Esperar tabla
     try:
         page.wait_for_selector("table.fondoblanco", timeout=10000)
     except:
-        log("✗ No se encontró tabla de pedidos")
+        log("⚠ No se encontró tabla de pedidos")
         return []
     
     # Extraer pedidos con JavaScript
@@ -141,7 +130,6 @@ def get_pedidos(page, fecha):
                 const numero = link.textContent.trim();
                 const fecha = cells[1].textContent.trim();
                 
-                // Extraer ID del href
                 const match = href.match(/\\/pedido\\/(\\w+)$/);
                 const id = match ? match[1] : '';
                 
@@ -159,9 +147,9 @@ def get_pedidos(page, fecha):
         }
     """)
     
-    log(f"Encontrados {len(pedidos_data)} pedidos en la página")
+    log(f"📦 Encontrados {len(pedidos_data)} pedidos totales")
     
-    # Convertir fecha de dd/mm/yyyy a yyyy-mm-dd y filtrar
+    # Filtrar por fecha
     pedidos_filtrados = []
     for p in pedidos_data:
         try:
@@ -175,60 +163,67 @@ def get_pedidos(page, fecha):
         except:
             continue
     
-    log(f"✓ {len(pedidos_filtrados)} pedidos coinciden con fecha {fecha}")
+    log(f"✅ {len(pedidos_filtrados)} pedidos coinciden con fecha {fecha}")
     return pedidos_filtrados
 
 def get_pedido_detalle(page, pedido):
-    """Obtener detalle de un pedido (productos)"""
+    """Obtener detalle de un pedido"""
     url = f"{BASE_URL}/documentos/pedido/{pedido['id']}"
-    log(f"Obteniendo detalle de pedido {pedido['numero']}...")
+    log(f"📄 Obteniendo detalle: {pedido['numero']}...")
     
     page.goto(url, wait_until="domcontentloaded", timeout=45000)
+    
+    # Esperar que cargue
+    page.wait_for_timeout(3000)
     
     try:
         page.wait_for_load_state("networkidle", timeout=15000)
     except:
         pass
     
-    # Extraer productos con JavaScript
+    # Extraer productos con el formato correcto de GardenSeeds
     productos = page.evaluate("""
         () => {
-            const rows = document.querySelectorAll('table tbody tr');
             const productos = [];
+            
+            // Buscar tabla con clase fondoblanco
+            const table = document.querySelector('table.fondoblanco');
+            if (!table) return productos;
+            
+            const rows = table.querySelectorAll('tbody tr');
             
             rows.forEach(row => {
                 const cells = row.querySelectorAll('td');
+                
+                // Necesita al menos 2 columnas (artículo y cantidad)
                 if (cells.length < 2) return;
                 
-                let referencia = '';
-                let cantidad = 1;
-                let denominacion = '';
+                // Primera columna: link con "REFERENCIA - Descripción"
+                const link = cells[0].querySelector('a');
+                if (!link) return;
                 
-                // Buscar en las primeras 4 columnas
-                for (let i = 0; i < Math.min(cells.length, 4); i++) {
-                    const texto = cells[i].textContent.trim();
-                    
-                    // Referencia: mayúsculas y números/guiones
-                    if (/^[A-Z0-9\-]+$/.test(texto) && texto.length > 2 && i < 2 && !referencia) {
-                        referencia = texto;
-                    }
-                    
-                    // Cantidad: número
-                    if (/^\\d+$/.test(texto) && parseInt(texto) > 0 && parseInt(texto) < 10000 && cantidad === 1) {
-                        cantidad = parseInt(texto);
-                    }
-                    
-                    // Denominación: texto largo
-                    if (texto.length > 20 && !denominacion) {
-                        denominacion = texto.substring(0, 100);
-                    }
-                }
+                const textoCompleto = link.textContent.trim();
                 
-                if (referencia) {
+                // Split por " - " para separar referencia de descripción
+                const parts = textoCompleto.split(' - ');
+                if (parts.length < 2) return;
+                
+                const referencia = parts[0].trim();
+                const denominacion = parts.slice(1).join(' - ').trim();
+                
+                // Segunda columna: cantidad (formato "1,00")
+                let cantidadTexto = cells[1].textContent.trim();
+                
+                // Convertir "1,00" a 1
+                cantidadTexto = cantidadTexto.replace(',', '.');
+                const cantidad = parseFloat(cantidadTexto) || 1;
+                
+                // Validar referencia (debe ser alfanumérico)
+                if (referencia.length >= 3 && /^[A-Z0-9]+[A-Z0-9]*$/i.test(referencia)) {
                     productos.push({
                         referencia: referencia,
-                        denominacion: denominacion,
-                        cantidad: cantidad
+                        denominacion: denominacion.substring(0, 100),
+                        cantidad: Math.floor(cantidad)
                     });
                 }
             });
@@ -238,38 +233,85 @@ def get_pedido_detalle(page, pedido):
     """)
     
     log(f"  → {len(productos)} productos extraídos")
+    
+    # Mostrar primeros 3
+    if len(productos) > 0:
+        for i, p in enumerate(productos[:3]):
+            log(f"     • {p['referencia']} - {p['denominacion'][:40]}... (x{p['cantidad']})")
+    
+    return productos    
+    # Si no encuentra productos, intentar método alternativo
+    if len(productos) == 0:
+        log("  ⚠ Método 1 falló, probando método alternativo...")
+        
+        # Buscar patrones de texto en el HTML
+        import re
+        
+        # Patrón para referencias tipo: ABC123, ABC-123, A1B2C3
+        refs = re.findall(r'\b([A-Z0-9]{3,}[\-A-Z0-9]*)\b', html)
+        
+        for ref in refs:
+            # Filtrar referencias válidas
+            if len(ref) >= 3 and len(ref) < 30 and not ref.isdigit():
+                # Evitar duplicados
+                existe = any(p['referencia'] == ref for p in productos)
+                if not existe:
+                    productos.append({
+                        'referencia': ref,
+                        'denominacion': ref,
+                        'cantidad': 1
+                    })
+                    
+                    # Limitar a primeros 50 productos por pedido
+                    if len(productos) >= 50:
+                        break
+    
+    log(f"  → {len(productos)} productos extraídos")
+    
+    # Debug: mostrar primeros 3
+    if len(productos) > 0:
+        for i, p in enumerate(productos[:3]):
+            log(f"     • {p['referencia']} (x{p['cantidad']})")
+    
     return productos
 
 def main():
     parser = argparse.ArgumentParser(description='Extraer pedidos de GardenSeeds')
-    parser.add_argument('--date', type=str, help='Fecha en formato YYYY-MM-DD (default: ayer)')
-    parser.add_argument('--output', type=str, default='gardenseeds_pedidos.json', help='Archivo JSON de salida')
-    parser.add_argument('--headless', action='store_true', help='(ignorado, siempre headless)')
+    parser.add_argument('--date', type=str, help='Fecha (YYYY-MM-DD, default: ayer)')
+    parser.add_argument('--output', type=str, default='pedidos_latest.json', help='Archivo JSON salida')
+    parser.add_argument('--headless', action='store_true', default=True, help='Modo headless')
     args = parser.parse_args()
     
-    # Fecha a buscar (por defecto ayer)
+    # Fecha
     if args.date:
         fecha = args.date
     else:
         fecha = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
     
-    log(f"=== GardenSeeds Pedidos Extractor ===")
-    log(f"Fecha objetivo: {fecha}")
-    log(f"Salida: {args.output}")
+    log("=" * 60)
+    log("🌱 GardenSeeds Pedidos Extractor - GitHub Actions")
+    log("=" * 60)
+    log(f"📅 Fecha objetivo: {fecha}")
+    log(f"💾 Salida: {args.output}")
+    log(f"👤 Usuario: {USERNAME}")
     
     result = {
         'success': False,
         'fecha': fecha,
         'timestamp': datetime.now().isoformat(),
         'pedidos': [],
-        'error': None
+        'error': None,
+        'stats': {
+            'total_pedidos': 0,
+            'total_productos': 0
+        }
     }
     
     try:
         with sync_playwright() as p:
-            log("Iniciando navegador...")
+            log("🚀 Iniciando navegador Chromium...")
             browser = p.chromium.launch(
-                headless=True,
+                headless=args.headless,
                 args=[
                     "--no-sandbox",
                     "--disable-dev-shm-usage",
@@ -279,7 +321,7 @@ def main():
             
             context = browser.new_context(
                 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
-                viewport={"width": 1600, "height": 1000}
+                viewport={"width": 1920, "height": 1080}
             )
             
             page = context.new_page()
@@ -296,31 +338,36 @@ def main():
                 result['success'] = True
                 result['pedidos'] = []
             else:
-                # Obtener detalle de cada pedido
+                # Detalle de cada pedido
                 for pedido in pedidos:
                     try:
                         productos = get_pedido_detalle(page, pedido)
                         pedido['productos'] = productos
                         result['pedidos'].append(pedido)
+                        result['stats']['total_productos'] += len(productos)
                     except Exception as e:
-                        log(f"✗ Error obteniendo detalle de {pedido['numero']}: {e}")
+                        log(f"⚠ Error en pedido {pedido['numero']}: {e}")
                 
                 result['success'] = True
-                log(f"✓ Extracción completada: {len(result['pedidos'])} pedidos")
+                result['stats']['total_pedidos'] = len(result['pedidos'])
+                log(f"✅ Extracción completada: {len(result['pedidos'])} pedidos, {result['stats']['total_productos']} productos")
             
             context.close()
             browser.close()
     
     except Exception as e:
-        log(f"✗ Error: {e}")
+        log(f"❌ Error: {e}")
         result['error'] = str(e)
+        return 1
     
     # Guardar JSON
-    log(f"Guardando resultado en {args.output}...")
+    log(f"💾 Guardando resultado en {args.output}...")
     with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(result, f, indent=2, ensure_ascii=False)
     
-    log("=== Proceso finalizado ===")
+    log("=" * 60)
+    log("✅ Proceso completado")
+    log("=" * 60)
     
     return 0 if result['success'] else 1
 
