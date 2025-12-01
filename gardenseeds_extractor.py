@@ -244,7 +244,7 @@ def main():
     parser = argparse.ArgumentParser(description='Extraer pedidos de GardenSeeds')
     parser.add_argument('--date', type=str, help='Fecha en formato YYYY-MM-DD (default: ayer)')
     parser.add_argument('--output', type=str, default='gardenseeds_pedidos.json', help='Archivo JSON de salida')
-    parser.add_argument('--headless', action='store_true', help='Ejecutar en modo headless')
+    parser.add_argument('--headless', action='store_true', help='(ignorado, siempre headless)')
     args = parser.parse_args()
     
     # Fecha a buscar (por defecto ayer)
@@ -269,7 +269,7 @@ def main():
         with sync_playwright() as p:
             log("Iniciando navegador...")
             browser = p.chromium.launch(
-                headless=args.headless,
+                headless=True,
                 args=[
                     "--no-sandbox",
                     "--disable-dev-shm-usage",
