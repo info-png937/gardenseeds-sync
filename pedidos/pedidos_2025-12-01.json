@@ -4,10 +4,456 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-01T14:19:08.716191",
-  "pedidos": [],
+  "timestamp": "2025-12-01T15:00:43.257931",
+  "pedidos": [
+    {
+      "id": "152025019600",
+      "numero": "15 2025/019600",
+      "fecha": "01/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019600",
+      "fecha_formatted": "2025-12-01",
+      "productos": [
+        {
+          "referencia": "10639",
+          "denominacion": ".Vaporizador Volcano Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6374",
+          "denominacion": "Auto Tangerine Dream 3 u. fem.  Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14114",
+          "denominacion": "Bubba Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "10781",
+          "denominacion": "Female Collection 5 - 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3851",
+          "denominacion": "Auto Tutankhamon  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7565",
+          "denominacion": "Critical Lemon   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AEP1",
+          "denominacion": "Auto Afghan Express  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10738",
+          "denominacion": "White Widow   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12270",
+          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
+          "cantidad": 7
+        },
+        {
+          "referencia": "14213",
+          "denominacion": "California Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16480",
+          "denominacion": "Auto Lemon OG   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19279",
+          "denominacion": "Sour Strawberry  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25029",
+          "denominacion": "Sour Diesel   3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3966",
+          "denominacion": "Jamaican Dream 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24359",
+          "denominacion": "Strawberry Pop Rocks  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15805",
+          "denominacion": "Gorilla Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "14275",
+          "denominacion": "Mimosa x Orange Punch  3 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KBAK1G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  1 u. fem. Genehtik",
+          "cantidad": 6
+        },
+        {
+          "referencia": "2492",
+          "denominacion": "Opium 10 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20993",
+          "denominacion": "Early Maroc 5 u fem Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7621",
+          "denominacion": "California Gold  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019594",
+      "numero": "15 2025/019594",
+      "fecha": "01/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019594",
+      "fecha_formatted": "2025-12-01",
+      "productos": [
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6374",
+          "denominacion": "Auto Tangerine Dream 3 u. fem.  Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14114",
+          "denominacion": "Bubba Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "10781",
+          "denominacion": "Female Collection 5 - 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3851",
+          "denominacion": "Auto Tutankhamon  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7565",
+          "denominacion": "Critical Lemon   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AEP1",
+          "denominacion": "Auto Afghan Express  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10738",
+          "denominacion": "White Widow   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12270",
+          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
+          "cantidad": 7
+        },
+        {
+          "referencia": "14213",
+          "denominacion": "California Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16480",
+          "denominacion": "Auto Lemon OG   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19279",
+          "denominacion": "Sour Strawberry  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25029",
+          "denominacion": "Sour Diesel   3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3966",
+          "denominacion": "Jamaican Dream 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24359",
+          "denominacion": "Strawberry Pop Rocks  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15805",
+          "denominacion": "Gorilla Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "14275",
+          "denominacion": "Mimosa x Orange Punch  3 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KBAK1G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  1 u. fem. Genehtik",
+          "cantidad": 6
+        },
+        {
+          "referencia": "2492",
+          "denominacion": "Opium 10 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20993",
+          "denominacion": "Early Maroc 5 u fem Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7621",
+          "denominacion": "California Gold  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019545",
+      "numero": "15 2025/019545",
+      "fecha": "30/11/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019545",
+      "fecha_formatted": "2025-11-30",
+      "productos": [
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10738",
+          "denominacion": "White Widow   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10781",
+          "denominacion": "Female Collection 5 - 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14213",
+          "denominacion": "California Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16480",
+          "denominacion": "Auto Lemon OG   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19404",
+          "denominacion": "Monster PK 58/60 -   50 gr. Cannotecnia",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 3,
+    "total_productos": 83
   }
 }
