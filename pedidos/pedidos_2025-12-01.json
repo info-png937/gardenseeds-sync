@@ -4,8 +4,193 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-01T20:26:48.102142",
+  "timestamp": "2025-12-01T20:42:31.879391",
   "pedidos": [
+    {
+      "id": "152025019639",
+      "numero": "15 2025/019639",
+      "fecha": "01/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019639",
+      "fecha_formatted": "2025-12-01",
+      "productos": [
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 2
+        },
+        {
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16156",
+          "denominacion": "Carbon Al Malik 25 mm. 1 Kg.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20993",
+          "denominacion": "Early Maroc 5 u fem Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8103",
+          "denominacion": "Gorilla Blue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9613",
+          "denominacion": "Legendary Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13221",
+          "denominacion": "Runtz Muffin  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7306",
+          "denominacion": "Anesthesia CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20813",
+          "denominacion": "Melonade Runtz  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21059",
+          "denominacion": "Lemon Cherry Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19535",
+          "denominacion": "Mochila Pulverizador 16 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18987",
+          "denominacion": "Hash Cbd Xuxes Wonka 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23398",
+          "denominacion": "Camuflaje Reloj de Cocina 25x7 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "22023",
+          "denominacion": "Sagrada Amnesia fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24359",
+          "denominacion": "Strawberry Pop Rocks  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10781",
+          "denominacion": "Female Collection 5 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19130",
+          "denominacion": "Cleanse 3.78 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23549",
+          "denominacion": "Medidor Ph/Fertility/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019638",
+      "numero": "15 2025/019638",
+      "fecha": "01/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019638",
+      "fecha_formatted": "2025-12-01",
+      "productos": [
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019600",
       "numero": "15 2025/019600",
@@ -453,7 +638,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 83
+    "total_pedidos": 5,
+    "total_productos": 116
   }
 }
