@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 GardenSeeds Pedidos Extractor
-Extrae pedidos de HOY y AYER usando Playwright y los guarda en JSON para PrestaShop
+Extrae pedidos usando Playwright y los guarda en JSON para PrestaShop
 """
 
 import os
@@ -18,10 +18,10 @@ except ImportError:
     print("Instalar con: pip3 install playwright && playwright install chromium")
     sys.exit(1)
 
-# Configuración - usa variables de entorno o valores por defecto
+# Configuración
 BASE_URL = "https://www.gardenseedstrading.com"
-USERNAME = os.environ.get("GARDENSEEDS_USER", "EUROGROW")
-PASSWORD = os.environ.get("GARDENSEEDS_PASS", "Eurogrow1234")
+USERNAME = "EUROGROW"
+PASSWORD = "Eurogrow1234"
 
 def log(msg):
     """Log con timestamp"""
@@ -33,136 +33,69 @@ def login(page):
     log("Navegando a home...")
     page.goto(BASE_URL, wait_until="domcontentloaded", timeout=60000)
     
-    # Esperar a que cargue completamente
-    try:
-        page.wait_for_load_state("networkidle", timeout=15000)
-    except:
-        pass
-    
     log("Buscando botón de login...")
     try:
         # Intentar varias formas de abrir el modal de login
-        modal_opened = False
-        
         try:
             page.get_by_text("Iniciar Sesión", exact=False).first.click(timeout=4000)
-            modal_opened = True
         except:
-            pass
-        
-        if not modal_opened:
             try:
                 page.locator("text=Iniciar Sesión").first.click(timeout=3000)
-                modal_opened = True
             except:
-                pass
-        
-        if not modal_opened:
-            # Disparar evento Alpine.js
-            page.evaluate("""
-                try {
-                    document.dispatchEvent(new CustomEvent('mostrarlogin'));
-                    window.dispatchEvent(new CustomEvent('mostrarlogin'));
-                } catch (e) {}
-            """)
-        
-        # Esperar un momento para que se abra el modal
-        page.wait_for_timeout(1000)
+                # Disparar evento Alpine.js
+                page.evaluate("""
+                    try {
+                        document.dispatchEvent(new CustomEvent('mostrarlogin'));
+                        window.dispatchEvent(new CustomEvent('mostrarlogin'));
+                    } catch (e) {}
+                """)
         
         log("Esperando formulario de login...")
-        page.wait_for_selector("#iniciosesion, form#iniciosesion, input#usuario, input[name='usuario']", timeout=15000)
+        page.wait_for_selector("#iniciosesion, form#iniciosesion", timeout=15000)
         
-        log(f"Rellenando credenciales (usuario: {USERNAME[:3]}***)...")
-        
-        # Intentar rellenar usuario
+        log("Rellenando credenciales...")
         if page.locator("#usuario").count():
             page.fill("#usuario", USERNAME)
-        elif page.locator("input[name='usuario']").count():
-            page.fill("input[name='usuario']", USERNAME)
         else:
-            page.locator("input[type='text']").first.fill(USERNAME)
+            page.fill("input[name='usuario']", USERNAME)
         
-        # Intentar rellenar password
         if page.locator("#password").count():
             page.fill("#password", PASSWORD)
-        elif page.locator("input[name='password']").count():
-            page.fill("input[name='password']", PASSWORD)
         else:
-            page.locator("input[type='password']").first.fill(PASSWORD)
+            page.fill("input[name='password']", PASSWORD)
         
         log("Enviando formulario...")
-        
         # Intentar hacer clic en botón submit
         clicked = False
         for sel in [
             "#iniciosesion button[type='submit']",
             "form#iniciosesion button:has-text('ACCEDER')",
-            "button:has-text('ACCEDER')",
-            "input[type='submit']",
             "text=ACCEDER"
         ]:
             try:
                 page.click(sel, timeout=3000)
                 clicked = True
-                log(f"  → Clic en: {sel}")
                 break
             except:
                 continue
         
         if not clicked:
-            try:
-                page.evaluate("document.getElementById('iniciosesion').submit()")
-                log("  → Submit via JS")
-            except:
-                page.keyboard.press("Enter")
-                log("  → Submit via Enter")
+            page.evaluate("document.getElementById('iniciosesion').submit()")
         
         log("Esperando confirmación de login...")
-        
-        # Esperar más tiempo para la respuesta del servidor
-        page.wait_for_timeout(3000)
-        
-        try:
-            page.wait_for_load_state("networkidle", timeout=20000)
-        except:
-            pass
+        page.wait_for_load_state("networkidle", timeout=20000)
         
         # Verificar que el login fue exitoso
         login_ok = False
-        
-        # Verificar por URL (si redirigió a cuenta)
-        if "/micuenta" in page.url or "/cuenta" in page.url:
-            login_ok = True
-            log("  → Detectado por URL")
-        
-        # Verificar por elementos en la página
-        if not login_ok:
-            for sel in ["text=Mi cuenta", "text=Salir", "text=Cerrar sesión", "text=Pedidos", "a[href*='micuenta']"]:
-                try:
-                    if page.locator(sel).first.is_visible(timeout=2000):
-                        login_ok = True
-                        log(f"  → Detectado por: {sel}")
-                        break
-                except:
-                    continue
-        
-        # Verificar que NO aparece el formulario de login (indica que se cerró)
-        if not login_ok:
+        for sel in ["text=Mi cuenta", "text=Salir", "text=Pedidos"]:
             try:
-                if not page.locator("#iniciosesion").is_visible(timeout=1000):
-                    # El modal se cerró, probablemente login exitoso
+                if page.locator(sel).first.is_visible():
                     login_ok = True
-                    log("  → Modal cerrado (asumiendo éxito)")
+                    break
             except:
-                pass
+                continue
         
         if not login_ok:
-            # Guardar screenshot para debug
-            try:
-                page.screenshot(path="login_failed.png")
-                log("  → Screenshot guardado: login_failed.png")
-            except:
-                pass
             raise Exception("Login falló - no se detectó sesión iniciada")
         
         log("✓ Login exitoso")
@@ -172,8 +105,8 @@ def login(page):
         log(f"✗ Error en login: {e}")
         return False
 
-def get_pedidos(page, fechas):
-    """Obtener pedidos de una lista de fechas"""
+def get_pedidos(page, fecha):
+    """Obtener pedidos de una fecha específica"""
     log(f"Navegando a página de pedidos...")
     page.goto(f"{BASE_URL}/micuenta/pedidos", wait_until="domcontentloaded", timeout=45000)
     
@@ -186,7 +119,7 @@ def get_pedidos(page, fechas):
     
     # Esperar a que aparezca la tabla
     try:
-        page.wait_for_selector("table.fondoblanco, table", timeout=10000)
+        page.wait_for_selector("table.fondoblanco", timeout=10000)
     except:
         log("✗ No se encontró tabla de pedidos")
         return []
@@ -194,7 +127,7 @@ def get_pedidos(page, fechas):
     # Extraer pedidos con JavaScript
     pedidos_data = page.evaluate("""
         () => {
-            const rows = document.querySelectorAll('table.fondoblanco tbody tr, table tbody tr');
+            const rows = document.querySelectorAll('table.fondoblanco tbody tr');
             const pedidos = [];
             
             rows.forEach(row => {
@@ -228,9 +161,6 @@ def get_pedidos(page, fechas):
     
     log(f"Encontrados {len(pedidos_data)} pedidos en la página")
     
-    # Convertir fechas a set para búsqueda rápida
-    fechas_set = set(fechas)
-    
     # Convertir fecha de dd/mm/yyyy a yyyy-mm-dd y filtrar
     pedidos_filtrados = []
     for p in pedidos_data:
@@ -240,13 +170,12 @@ def get_pedidos(page, fechas):
                 fecha_formatted = f"{fecha_parts[2]}-{fecha_parts[1]}-{fecha_parts[0]}"
                 p['fecha_formatted'] = fecha_formatted
                 
-                # Filtrar por CUALQUIERA de las fechas objetivo
-                if fecha_formatted in fechas_set:
+                if fecha_formatted == fecha:
                     pedidos_filtrados.append(p)
         except:
             continue
     
-    log(f"✓ {len(pedidos_filtrados)} pedidos coinciden con fechas {fechas}")
+    log(f"✓ {len(pedidos_filtrados)} pedidos coinciden con fecha {fecha}")
     return pedidos_filtrados
 
 def get_pedido_detalle(page, pedido):
@@ -312,35 +241,27 @@ def get_pedido_detalle(page, pedido):
     return productos
 
 def main():
-    parser = argparse.ArgumentParser(description='Extraer pedidos de GardenSeeds (HOY + AYER)')
-    parser.add_argument('--date', type=str, help='Fecha específica en formato YYYY-MM-DD (ignora HOY+AYER)')
-    parser.add_argument('--days', type=int, default=2, help='Número de días a extraer (default: 2 = hoy + ayer)')
+    parser = argparse.ArgumentParser(description='Extraer pedidos de GardenSeeds')
+    parser.add_argument('--date', type=str, help='Fecha en formato YYYY-MM-DD (default: ayer)')
     parser.add_argument('--output', type=str, default='gardenseeds_pedidos.json', help='Archivo JSON de salida')
     parser.add_argument('--headless', action='store_true', help='Ejecutar en modo headless')
     args = parser.parse_args()
     
-    # Determinar fechas a buscar
+    # Fecha a buscar (por defecto ayer)
     if args.date:
-        # Fecha específica proporcionada
-        fechas = [args.date]
+        fecha = args.date
     else:
-        # Por defecto: HOY + AYER (o los últimos N días según --days)
-        fechas = []
-        for i in range(args.days):
-            fecha = (datetime.now() - timedelta(days=i)).strftime('%Y-%m-%d')
-            fechas.append(fecha)
+        fecha = (datetime.now() - timedelta(days=1)).strftime('%Y-%m-%d')
     
     log(f"=== GardenSeeds Pedidos Extractor ===")
-    log(f"Fechas objetivo: {fechas}")
+    log(f"Fecha objetivo: {fecha}")
     log(f"Salida: {args.output}")
-    log(f"Headless: {args.headless}")
     
     result = {
         'success': False,
-        'fechas': fechas,
+        'fecha': fecha,
         'timestamp': datetime.now().isoformat(),
         'pedidos': [],
-        'resumen': {},
         'error': None
     }
     
@@ -352,16 +273,13 @@ def main():
                 args=[
                     "--no-sandbox",
                     "--disable-dev-shm-usage",
-                    "--disable-blink-features=AutomationControlled",
-                    "--disable-web-security",
-                    "--disable-features=IsolateOrigins,site-per-process"
+                    "--disable-blink-features=AutomationControlled"
                 ]
             )
             
             context = browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                viewport={"width": 1600, "height": 1000},
-                java_script_enabled=True
+                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                viewport={"width": 1600, "height": 1000}
             )
             
             page = context.new_page()
@@ -370,11 +288,11 @@ def main():
             if not login(page):
                 raise Exception("Login falló")
             
-            # Obtener pedidos de TODAS las fechas
-            pedidos = get_pedidos(page, fechas)
+            # Obtener pedidos
+            pedidos = get_pedidos(page, fecha)
             
             if not pedidos:
-                log("⚠ No se encontraron pedidos para las fechas indicadas")
+                log("⚠ No se encontraron pedidos para la fecha indicada")
                 result['success'] = True
                 result['pedidos'] = []
             else:
@@ -388,19 +306,7 @@ def main():
                         log(f"✗ Error obteniendo detalle de {pedido['numero']}: {e}")
                 
                 result['success'] = True
-                
-                # Generar resumen por fecha
-                for fecha in fechas:
-                    pedidos_fecha = [p for p in result['pedidos'] if p.get('fecha_formatted') == fecha]
-                    productos_fecha = sum(len(p.get('productos', [])) for p in pedidos_fecha)
-                    result['resumen'][fecha] = {
-                        'pedidos': len(pedidos_fecha),
-                        'productos': productos_fecha
-                    }
-                
-                log(f"✓ Extracción completada: {len(result['pedidos'])} pedidos totales")
-                for fecha, info in result['resumen'].items():
-                    log(f"  → {fecha}: {info['pedidos']} pedidos, {info['productos']} productos")
+                log(f"✓ Extracción completada: {len(result['pedidos'])} pedidos")
             
             context.close()
             browser.close()
