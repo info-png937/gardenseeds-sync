@@ -55,7 +55,7 @@ jobs:
       run: |
         DATE="${{ steps.dates.outputs.d1 }}"
         echo "🔍 Extrayendo pedidos de: $DATE"
-        python gardenseeds_extractor.py --date "$DATE" --output "pedidos_${DATE}.json"
+        python gardenseeds_extractor.py --date "$DATE" --output "pedidos_${DATE}.json" --headless
         cp "pedidos_${DATE}.json" pedidos_hoy.json
         jq -n --argfile p "pedidos_${DATE}.json" '$p' > pedidos_ayer.json
 
@@ -67,7 +67,7 @@ jobs:
       run: |
         TODAY="${{ steps.dates.outputs.d1 }}"
         echo "🔍 Extrayendo pedidos de HOY: $TODAY"
-        python gardenseeds_extractor.py --date "$TODAY" --output pedidos_hoy.json
+        python gardenseeds_extractor.py --date "$TODAY" --output pedidos_hoy.json --headless
 
     - name: Extract pedidos AYER
       if: steps.dates.outputs.single != 'true'
@@ -77,7 +77,7 @@ jobs:
       run: |
         YESTERDAY="${{ steps.dates.outputs.d2 }}"
         echo "🔍 Extrayendo pedidos de AYER: $YESTERDAY"
-        python gardenseeds_extractor.py --date "$YESTERDAY" --output pedidos_ayer.json
+        python gardenseeds_extractor.py --date "$YESTERDAY" --output pedidos_ayer.json --headless
 
     - name: Merge results
       run: |
@@ -169,4 +169,3 @@ jobs:
           PEDIDOS=$(grep -o '"numero"' pedidos_latest.json | wc -l || echo 0)
           echo "- **Pedidos:** $PEDIDOS" >> $GITHUB_STEP_SUMMARY
         fi
-
