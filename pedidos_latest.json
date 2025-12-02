@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-02T12:55:20.215157",
+  "timestamp": "2025-12-02T13:41:04.442835",
   "pedidos": [
+    {
+      "id": "152025019685",
+      "numero": "15 2025/019685",
+      "fecha": "02/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019685",
+      "fecha_formatted": "2025-12-02",
+      "productos": [
+        {
+          "referencia": "16487",
+          "denominacion": "Green Crack 2.0 -  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7588",
+          "denominacion": "Auto Green Poison XL 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17168",
+          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17033",
+          "denominacion": "Rucu Cucu OG fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13001",
+          "denominacion": "Gorilla Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019639",
       "numero": "15 2025/019639",
@@ -603,7 +653,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 111
+    "total_pedidos": 5,
+    "total_productos": 119
   }
 }
