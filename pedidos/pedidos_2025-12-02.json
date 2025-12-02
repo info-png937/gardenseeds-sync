@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-02T14:29:00.687994",
+  "timestamp": "2025-12-02T14:52:22.799994",
   "pedidos": [
     {
       "id": "152025019685",
@@ -52,6 +52,11 @@
           "referencia": "13001",
           "denominacion": "Gorilla Cookies Auto  1 u. fem. FastBuds Seeds",
           "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -654,6 +659,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 119
+    "total_productos": 120
   }
 }
