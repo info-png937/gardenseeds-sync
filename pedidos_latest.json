@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-02T08:37:04.265589",
+  "timestamp": "2025-12-02T09:32:06.529019",
   "pedidos": [
     {
       "id": "152025019639",
@@ -152,6 +152,36 @@
           "referencia": "23549",
           "denominacion": "Medidor Ph/Fertility/Humedad Analogico Suelo Easy Garden",
           "cantidad": 3
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -574,6 +604,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 105
+    "total_productos": 111
   }
 }
