@@ -4,8 +4,178 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-02T17:49:20.732026",
+  "timestamp": "2025-12-02T18:40:29.794186",
   "pedidos": [
+    {
+      "id": "152025019731",
+      "numero": "15 2025/019731",
+      "fecha": "02/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019731",
+      "fecha_formatted": "2025-12-02",
+      "productos": [
+        {
+          "referencia": "19404",
+          "denominacion": "Monster PK 58/60 -   50 gr. Cannotecnia",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019730",
+      "numero": "15 2025/019730",
+      "fecha": "02/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019730",
+      "fecha_formatted": "2025-12-02",
+      "productos": [
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AB3D",
+          "denominacion": "Auto Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11839",
+          "denominacion": "Tatanka Pure CBD  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19156",
+          "denominacion": "Pro-Balance 4,53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20374",
+          "denominacion": "Coco Fresh 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019728",
+      "numero": "15 2025/019728",
+      "fecha": "02/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019728",
+      "fecha_formatted": "2025-12-02",
+      "productos": [
+        {
+          "referencia": "12166",
+          "denominacion": "Biotabs Pastillas Fertlizantes de Liberación Prolongada",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21053",
+          "denominacion": "Guava Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AB3D",
+          "denominacion": "Auto Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12782",
+          "denominacion": "Pure Pot Maceta Textil    7.6 lt. 2 gal",
+          "cantidad": 28
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19174",
+          "denominacion": "Termohigrometro Digital Dutch Master",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12989",
+          "denominacion": "Bactobloom     Tabs 8 ud. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019685",
       "numero": "15 2025/019685",
@@ -658,7 +828,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 120
+    "total_pedidos": 8,
+    "total_productos": 148
   }
 }
