@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-04T08:36:00.161099",
+  "timestamp": "2025-12-04T09:30:44.068182",
   "pedidos": [
     {
       "id": "152025019822",
@@ -107,6 +107,51 @@
           "referencia": "19122",
           "denominacion": "Bloom B 0.94 lt. Athena",
           "cantidad": 5
+        },
+        {
+          "referencia": "14483",
+          "denominacion": "Zkittlez Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14478",
+          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20571",
+          "denominacion": "Animal Zookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "GP25S",
+          "denominacion": "Green Poison  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20269",
+          "denominacion": "Snoop's Applefrizzle 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8937",
+          "denominacion": "Auto Blueberry  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 7
+        },
+        {
+          "referencia": "33913",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -164,6 +209,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 27
+    "total_productos": 36
   }
 }
