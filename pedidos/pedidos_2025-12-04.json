@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-04T22:43:52.729471",
+  "timestamp": "2025-12-04T23:24:59.301380",
   "pedidos": [
+    {
+      "id": "152025019880",
+      "numero": "15 2025/019880",
+      "fecha": "04/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019880",
+      "fecha_formatted": "2025-12-04",
+      "productos": [
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7315",
+          "denominacion": "Auto Northern Ligths CBD  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14068",
+          "denominacion": "Mandarine Punch  5 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MD3F",
+          "denominacion": "Moby Dick  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19254",
+          "denominacion": "Ice Cream Cake  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15795",
+          "denominacion": "Amnesia Zkittlez Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21674",
+          "denominacion": "Zerealz Milk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019879",
       "numero": "15 2025/019879",
@@ -288,7 +368,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 50
+    "total_pedidos": 4,
+    "total_productos": 64
   }
 }
