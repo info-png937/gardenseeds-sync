@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-06T11:39:50.352042",
+  "timestamp": "2025-12-06T12:47:49.192450",
   "pedidos": [
+    {
+      "id": "152025019923",
+      "numero": "15 2025/019923",
+      "fecha": "06/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019923",
+      "fecha_formatted": "2025-12-06",
+      "productos": [
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8937",
+          "denominacion": "Auto Blueberry  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "32742",
+          "denominacion": "Filtros Pipa Splif Stick Black Red Eye 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025019922",
+      "numero": "15 2025/019922",
+      "fecha": "06/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019922",
+      "fecha_formatted": "2025-12-06",
+      "productos": [
+        {
+          "referencia": "20805",
+          "denominacion": "Biscotti Zkittlez   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "32742",
+          "denominacion": "Filtros Pipa Splif Stick Black Red Eye 2 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019909",
       "numero": "15 2025/019909",
@@ -38,7 +103,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 4
+    "total_pedidos": 3,
+    "total_productos": 13
   }
 }
