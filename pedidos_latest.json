@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-07T19:39:54.587705",
+  "timestamp": "2025-12-07T20:27:05.894870",
   "pedidos": [
     {
       "id": "152025019923",
@@ -37,6 +37,31 @@
           "referencia": "19666",
           "denominacion": "Grow Kit Red Boy",
           "cantidad": 2
+        },
+        {
+          "referencia": "20805",
+          "denominacion": "Biscotti Zkittlez   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "32742",
+          "denominacion": "Filtros Pipa Splif Stick Black Red Eye 2 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -74,6 +99,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 9
+    "total_productos": 14
   }
 }
