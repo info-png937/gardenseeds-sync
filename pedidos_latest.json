@@ -4,10 +4,36 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-08T21:21:05.436777",
-  "pedidos": [],
+  "timestamp": "2025-12-08T21:41:27.443279",
+  "pedidos": [
+    {
+      "id": "152025019937",
+      "numero": "15 2025/019937",
+      "fecha": "08/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025019937",
+      "fecha_formatted": "2025-12-08",
+      "productos": [
+        {
+          "referencia": "25254",
+          "denominacion": "Auto Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25064",
+          "denominacion": "Prensa Rosin Graveda  2 Tn. (Placa 7.5x7.5 cm.)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23395",
+          "denominacion": "Camuflaje Lata Dr. Peeper",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 3
   }
 }
