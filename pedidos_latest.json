@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-09T21:29:30.649428",
+  "timestamp": "2025-12-09T21:42:50.406662",
   "pedidos": [
     {
       "id": "152025020033",
@@ -137,6 +137,61 @@
           "referencia": "5213",
           "denominacion": "Amanitha 15 ml. Agrobacterias",
           "cantidad": 6
+        },
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC1F",
+          "denominacion": "Super Critical 10 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7670",
+          "denominacion": "Gorilla Glue Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14277",
+          "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WWR3",
+          "denominacion": "White Widow  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16286",
+          "denominacion": "Auto Guava x Auto Gelato 41 -  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24199",
+          "denominacion": "EyeBallz 1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -379,6 +434,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 66
+    "total_productos": 77
   }
 }
