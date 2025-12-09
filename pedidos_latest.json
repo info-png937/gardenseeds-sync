@@ -4,8 +4,203 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-09T20:42:46.114480",
+  "timestamp": "2025-12-09T21:29:30.649428",
   "pedidos": [
+    {
+      "id": "152025020033",
+      "numero": "15 2025/020033",
+      "fecha": "09/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020033",
+      "fecha_formatted": "2025-12-09",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8801",
+          "denominacion": "SAD  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WWR3",
+          "denominacion": "White Widow  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8086",
+          "denominacion": "Blunts Cyclones Hemp Original Natural ES 12x2 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9598",
+          "denominacion": "Green Gelato  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ10",
+          "denominacion": "Amnesia Haze 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14277",
+          "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7141",
+          "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14474",
+          "denominacion": "Slurricane   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19154",
+          "denominacion": "Pro Grow 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21060",
+          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Blue 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23890",
+          "denominacion": "Apple Fritter  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24197",
+          "denominacion": "CandyGaz 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24199",
+          "denominacion": "EyeBallz 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23112",
+          "denominacion": "The Wolf 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5213",
+          "denominacion": "Amanitha 15 ml. Agrobacterias",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020032",
+      "numero": "15 2025/020032",
+      "fecha": "09/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020032",
+      "fecha_formatted": "2025-12-09",
+      "productos": [
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC1F",
+          "denominacion": "Super Critical 10 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7670",
+          "denominacion": "Gorilla Glue Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14277",
+          "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WWR3",
+          "denominacion": "White Widow  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16286",
+          "denominacion": "Auto Guava x Auto Gelato 41 -  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24199",
+          "denominacion": "EyeBallz 1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020009",
       "numero": "15 2025/020009",
@@ -183,7 +378,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 31
+    "total_pedidos": 4,
+    "total_productos": 66
   }
 }
