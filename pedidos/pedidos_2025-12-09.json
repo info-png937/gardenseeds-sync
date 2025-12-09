@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-09T14:52:35.900471",
+  "timestamp": "2025-12-09T15:30:33.237911",
   "pedidos": [
+    {
+      "id": "152025020009",
+      "numero": "15 2025/020009",
+      "fecha": "09/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020009",
+      "fecha_formatted": "2025-12-09",
+      "productos": [
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18754",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19371",
+          "denominacion": "Rotten Apple 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20533",
+          "denominacion": "Shimo 1 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "CKB5",
+          "denominacion": "Critical Kush  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7803",
+          "denominacion": "Shiskaberry  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11460",
+          "denominacion": "Dos Si Dos 33  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14276",
+          "denominacion": "Mimosa x Orange Punch  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9764",
+          "denominacion": "BCN Critical XXL Fast fem.  3 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11676",
+          "denominacion": "K-Mintz  1 u. fem. Ripper Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "19367",
+          "denominacion": "Granita 6 u. fem Perfect Tree",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13221",
+          "denominacion": "Runtz Muffin  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9160",
+          "denominacion": "Bruce Banner #3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12271",
+          "denominacion": "Mimosa EVO  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24056",
+          "denominacion": "Lemon Mandarin  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9195",
+          "denominacion": "Purple Punch  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16998",
+          "denominacion": "Blue Dream Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14218",
+          "denominacion": "Chocolate Kush Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PRO86",
+          "denominacion": "Killer Kush Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23112",
+          "denominacion": "The Wolf 3 u. fem Cookies Seed Bank",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17051",
+          "denominacion": "Auto Mack & Crack fem.  3 u. Seedstockers Superior",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25254",
+          "denominacion": "Auto Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025019937",
       "numero": "15 2025/019937",
@@ -38,7 +183,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 4
+    "total_pedidos": 2,
+    "total_productos": 31
   }
 }
