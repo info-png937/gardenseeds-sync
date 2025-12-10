@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-10T15:31:27.895571",
+  "timestamp": "2025-12-10T17:28:16.932995",
   "pedidos": [
+    {
+      "id": "152025020104",
+      "numero": "15 2025/020104",
+      "fecha": "10/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020104",
+      "fecha_formatted": "2025-12-10",
+      "productos": [
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "12215",
+          "denominacion": "Rainbow Road  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3883",
+          "denominacion": "No Name  5 u. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21907",
+          "denominacion": "Auto Critical XL 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13090",
+          "denominacion": "Auto White Widow XXL   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "A0010",
+          "denominacion": "Autofloracion Mix 10 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8154",
+          "denominacion": "Bolsa Rosin Press 11x5 cm. Pack 10 u.  90 micras",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020035",
       "numero": "15 2025/020035",
@@ -448,7 +518,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 80
+    "total_pedidos": 5,
+    "total_productos": 92
   }
 }
