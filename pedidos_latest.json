@@ -4,8 +4,53 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-10T07:46:10.636395",
+  "timestamp": "2025-12-10T09:31:00.204296",
   "pedidos": [
+    {
+      "id": "152025020035",
+      "numero": "15 2025/020035",
+      "fecha": "10/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020035",
+      "fecha_formatted": "2025-12-10",
+      "productos": [
+        {
+          "referencia": "11817",
+          "denominacion": "Auto Green Gelato  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9744",
+          "denominacion": "AK420 fem.  3 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MWAS",
+          "denominacion": "Malawi 3 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15243",
+          "denominacion": "Revive 10 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "22016",
+          "denominacion": "Flawless Finish  5 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020033",
       "numero": "15 2025/020033",
@@ -403,7 +448,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 73
+    "total_pedidos": 4,
+    "total_productos": 80
   }
 }
