@@ -4,8 +4,53 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-10T18:37:56.559166",
+  "timestamp": "2025-12-10T19:23:07.001105",
   "pedidos": [
+    {
+      "id": "152025020132",
+      "numero": "15 2025/020132",
+      "fecha": "10/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020132",
+      "fecha_formatted": "2025-12-10",
+      "productos": [
+        {
+          "referencia": "VOOJ",
+          "denominacion": "Voodoo Juice   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11922",
+          "denominacion": "Auto Amnesia XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "22023",
+          "denominacion": "Sagrada Amnesia fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14772",
+          "denominacion": "Do-Si-Dos Cookies Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020104",
       "numero": "15 2025/020104",
@@ -518,7 +563,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 92
+    "total_pedidos": 6,
+    "total_productos": 99
   }
 }
