@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-10T19:23:07.001105",
+  "timestamp": "2025-12-10T19:42:49.251511",
   "pedidos": [
+    {
+      "id": "152025020135",
+      "numero": "15 2025/020135",
+      "fecha": "10/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020135",
+      "fecha_formatted": "2025-12-10",
+      "productos": [
+        {
+          "referencia": "18994",
+          "denominacion": "Tecno Bloom  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18991",
+          "denominacion": "Tecno Grow  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19312",
+          "denominacion": "Heavy Boost   250 gr. Cannotecnia",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020134",
+      "numero": "15 2025/020134",
+      "fecha": "10/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020134",
+      "fecha_formatted": "2025-12-10",
+      "productos": [
+        {
+          "referencia": "18143",
+          "denominacion": "Medidor Ph/Tds Adwa Waterproof AD11",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020133",
+      "numero": "15 2025/020133",
+      "fecha": "10/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020133",
+      "fecha_formatted": "2025-12-10",
+      "productos": [
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9160",
+          "denominacion": "Bruce Banner #3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21062",
+          "denominacion": "Papaya Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21907",
+          "denominacion": "Auto Critical XL 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Blue 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "22023",
+          "denominacion": "Sagrada Amnesia fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24056",
+          "denominacion": "Lemon Mandarin  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23112",
+          "denominacion": "The Wolf 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "A0010",
+          "denominacion": "Autofloracion Mix 10 u. fem 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020132",
       "numero": "15 2025/020132",
@@ -563,7 +698,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 99
+    "total_pedidos": 9,
+    "total_productos": 120
   }
 }
