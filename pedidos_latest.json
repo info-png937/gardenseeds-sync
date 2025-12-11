@@ -4,8 +4,173 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-11T19:43:53.763350",
+  "timestamp": "2025-12-11T20:30:04.344324",
   "pedidos": [
+    {
+      "id": "152025020226",
+      "numero": "15 2025/020226",
+      "fecha": "11/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020226",
+      "fecha_formatted": "2025-12-11",
+      "productos": [
+        {
+          "referencia": "10731",
+          "denominacion": "Critical Poison   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020225",
+      "numero": "15 2025/020225",
+      "fecha": "11/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020225",
+      "fecha_formatted": "2025-12-11",
+      "productos": [
+        {
+          "referencia": "HARQ10",
+          "denominacion": "Amnesia Haze 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15456",
+          "denominacion": "Dark Cookie 4 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8293",
+          "denominacion": "Strawberry Lemonade 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM7F",
+          "denominacion": "Auto Mazar  7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14149",
+          "denominacion": "Auto Sherbet Queen  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15610",
+          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14063",
+          "denominacion": "Banana Kush Cake  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24294",
+          "denominacion": "Super Boof  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418B",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10731",
+          "denominacion": "Critical Poison   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020224",
+      "numero": "15 2025/020224",
+      "fecha": "11/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020224",
+      "fecha_formatted": "2025-12-11",
+      "productos": [
+        {
+          "referencia": "15610",
+          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14149",
+          "denominacion": "Auto Sherbet Queen  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15456",
+          "denominacion": "Dark Cookie 4 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ10",
+          "denominacion": "Amnesia Haze 10 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8293",
+          "denominacion": "Strawberry Lemonade 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10731",
+          "denominacion": "Critical Poison   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11461",
+          "denominacion": "Dos Si Dos 33 10 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17205",
+          "denominacion": "Purple Cherry 5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24294",
+          "denominacion": "Super Boof  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM7F",
+          "denominacion": "Auto Mazar  7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14063",
+          "denominacion": "Banana Kush Cake  3 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12845",
+          "denominacion": "Auto Dos Si Dos  1 u. fem. Barney's",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "2025001383",
       "numero": "2025/001383",
@@ -458,7 +623,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 76
+    "total_pedidos": 10,
+    "total_productos": 103
   }
 }
