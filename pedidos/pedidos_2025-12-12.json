@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-12T19:41:25.896934",
+  "timestamp": "2025-12-12T20:29:27.890882",
   "pedidos": [
+    {
+      "id": "152025020265",
+      "numero": "15 2025/020265",
+      "fecha": "12/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020265",
+      "fecha_formatted": "2025-12-12",
+      "productos": [
+        {
+          "referencia": "WWRQ",
+          "denominacion": "White Widow  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM7F",
+          "denominacion": "Auto Mazar  7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14531",
+          "denominacion": "Llimonet Haze CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17029",
+          "denominacion": "Panty Punch fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15542",
+          "denominacion": "Auto Pineapple Chem  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21058",
+          "denominacion": "Lemon Cherry Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21060",
+          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16930",
+          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842A",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Blue Candy Jumbo  25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21910",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Green Sour Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19175",
+          "denominacion": "Ventilador Pie Dutch Masters 40 cm.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20796",
+          "denominacion": "Auto Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020264",
+      "numero": "15 2025/020264",
+      "fecha": "12/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020264",
+      "fecha_formatted": "2025-12-12",
+      "productos": [
+        {
+          "referencia": "13147",
+          "denominacion": "Y Griega CBD 2.0  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14531",
+          "denominacion": "Llimonet Haze CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30530",
+          "denominacion": "Papel Raw  Classic  1.1/4 Block 500 - 20 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AKK5",
+          "denominacion": "Auto Killer Kush   5+2 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21060",
+          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21052",
+          "denominacion": "Guava Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17029",
+          "denominacion": "Panty Punch fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "21058",
+          "denominacion": "Lemon Cherry Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20796",
+          "denominacion": "Auto Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020226",
       "numero": "15 2025/020226",
@@ -463,7 +618,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 83
+    "total_pedidos": 6,
+    "total_productos": 110
   }
 }
