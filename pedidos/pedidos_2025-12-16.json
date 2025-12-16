@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-16T14:30:43.431785",
+  "timestamp": "2025-12-16T14:55:43.302415",
   "pedidos": [
     {
       "id": "152025020416",
@@ -72,6 +72,11 @@
           "referencia": "7633",
           "denominacion": "Kleaner Control Urea 30 ml.",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -714,6 +719,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 131
+    "total_productos": 132
   }
 }
