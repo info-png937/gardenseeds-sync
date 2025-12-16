@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-16T13:43:00.255297",
+  "timestamp": "2025-12-16T14:30:43.431785",
   "pedidos": [
+    {
+      "id": "152025020416",
+      "numero": "15 2025/020416",
+      "fecha": "16/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020416",
+      "fecha_formatted": "2025-12-16",
+      "productos": [
+        {
+          "referencia": "15630",
+          "denominacion": "Gorilla Frost  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "YG5F",
+          "denominacion": "Y Griega  5 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3756",
+          "denominacion": "2046 -  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5689",
+          "denominacion": "Sour Ripper 5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5688",
+          "denominacion": "Sour Ripper 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24201",
+          "denominacion": "EyeBallz 5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34433",
+          "denominacion": "Shisha Sahbi Pink 2 Mangueras 24 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020360",
       "numero": "15 2025/020360",
@@ -643,7 +713,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 119
+    "total_pedidos": 5,
+    "total_productos": 131
   }
 }
