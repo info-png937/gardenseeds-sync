@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-16T14:55:43.302415",
+  "timestamp": "2025-12-16T15:30:04.978539",
   "pedidos": [
+    {
+      "id": "152025020421",
+      "numero": "15 2025/020421",
+      "fecha": "16/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020421",
+      "fecha_formatted": "2025-12-16",
+      "productos": [
+        {
+          "referencia": "21709",
+          "denominacion": "Auto Acai Mintz   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21669",
+          "denominacion": "Auto Animal Zookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020416",
       "numero": "15 2025/020416",
@@ -718,7 +748,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 132
+    "total_pedidos": 6,
+    "total_productos": 136
   }
 }
