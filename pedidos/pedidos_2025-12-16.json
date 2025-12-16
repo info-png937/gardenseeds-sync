@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-16T08:37:26.272129",
+  "timestamp": "2025-12-16T10:31:43.481995",
   "pedidos": [
     {
       "id": "152025020360",
@@ -330,10 +330,320 @@
         }
       ],
       "origen": "hoy"
+    },
+    {
+      "id": "2025001402",
+      "numero": "2025/001402",
+      "fecha": "16/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2025001402",
+      "fecha_formatted": "2025-12-16",
+      "productos": [
+        {
+          "referencia": "3224",
+          "denominacion": "Manta Térmica 55x35 cm. 30 w VDL",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KBAK1G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19274",
+          "denominacion": "Runtz  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15460",
+          "denominacion": "Auto Watermelon Og   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24072",
+          "denominacion": "LemonPaya  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "4104",
+          "denominacion": "Limpieza Electrodo Milwaukee Sobre 20 ml.",
+          "cantidad": 20
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23121",
+          "denominacion": "GMO X Hollywood 6 u. fem Cookies Seed Bank",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21695",
+          "denominacion": "Acai Mintz   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7141",
+          "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15766",
+          "denominacion": "Strawberry Cake CBD  3 ud Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19364",
+          "denominacion": "Chantilly 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20261",
+          "denominacion": "Runtz of Eden 3 ud. fem Elev8 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8281",
+          "denominacion": "Godzilla Glue  8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15625",
+          "denominacion": "White Widow  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14276",
+          "denominacion": "Mimosa x Orange Punch  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17220",
+          "denominacion": "Lemon Trip 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL250",
+          "denominacion": "Tarantula Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6369",
+          "denominacion": "West Coast OG Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13147",
+          "denominacion": "Y Griega CBD 2.0  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7048",
+          "denominacion": "Ventilador Pared Cyclone con Cuerda 40 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16421",
+          "denominacion": "Z-Kiem 1 u. fem R-Kiem Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSFS3",
+          "denominacion": "Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24862",
+          "denominacion": "Blueberry Muffin 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19730",
+          "denominacion": "Tropicanna Poison F1 Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8963",
+          "denominacion": "Critical Poison Fast  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7724",
+          "denominacion": "Critical Orange Punch  3 u. fem. Dutch Passion",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19730",
+          "denominacion": "Tropicanna Poison F1 Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8963",
+          "denominacion": "Critical Poison Fast  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7141",
+          "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9525",
+          "denominacion": "Honey Cream - Fast 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RME3",
+          "denominacion": "Royal Medic  3 u.  fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15766",
+          "denominacion": "Strawberry Cake CBD  3 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15607",
+          "denominacion": "Critical Mango  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15625",
+          "denominacion": "White Widow  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8281",
+          "denominacion": "Godzilla Glue  8 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8474",
+          "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19274",
+          "denominacion": "Runtz  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16930",
+          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15460",
+          "denominacion": "Auto Watermelon Og   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842A",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Blue Candy Jumbo  25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21752",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Sweet Mandarin Jumbo 25 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21910",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Green Sour Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24072",
+          "denominacion": "LemonPaya  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21695",
+          "denominacion": "Acai Mintz   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20261",
+          "denominacion": "Runtz of Eden 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23121",
+          "denominacion": "GMO X Hollywood 6 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2959",
+          "denominacion": "Aqua Flores A 5 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2435",
+          "denominacion": "Aqua Flores B 5 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 59
+    "total_pedidos": 4,
+    "total_productos": 119
   }
 }
