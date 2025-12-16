@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-16T18:39:26.978453",
+  "timestamp": "2025-12-16T19:24:18.189839",
   "pedidos": [
+    {
+      "id": "152025020445",
+      "numero": "15 2025/020445",
+      "fecha": "16/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020445",
+      "fecha_formatted": "2025-12-16",
+      "productos": [
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6625",
+          "denominacion": "Auto Cream Mandarine XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9525",
+          "denominacion": "Honey Cream - Fast 10 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13155",
+          "denominacion": "Elixir Vitae CBD  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15798",
+          "denominacion": "Banana Purple Punch Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18978",
+          "denominacion": "Cañamo Cbd Xuxes Apple Jack 3 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21669",
+          "denominacion": "Auto Animal Zookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24198",
+          "denominacion": "CandyGaz 5 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21709",
+          "denominacion": "Auto Acai Mintz   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 8
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020421",
       "numero": "15 2025/020421",
@@ -748,7 +828,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 136
+    "total_pedidos": 7,
+    "total_productos": 150
   }
 }
