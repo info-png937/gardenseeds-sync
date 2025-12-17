@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-17T22:26:17.312844",
+  "timestamp": "2025-12-17T22:47:21.122510",
   "pedidos": [
     {
       "id": "152025020529",
@@ -77,6 +77,41 @@
           "referencia": "BH15",
           "denominacion": "Bactohemp  10 gr. Agrobacterias",
           "cantidad": 6
+        },
+        {
+          "referencia": "12167",
+          "denominacion": "Biotabs Starter Pack",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6603",
+          "denominacion": "Activecann  Gel Efecto Calor  75 ml. Annabis",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7725",
+          "denominacion": "Critical Orange Punch  5 u. fem. Dutch Passion",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -949,6 +984,6 @@
   ],
   "stats": {
     "total_pedidos": 9,
-    "total_productos": 170
+    "total_productos": 177
   }
 }
