@@ -4,8 +4,123 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-17T20:50:58.470050",
+  "timestamp": "2025-12-17T21:27:01.027405",
   "pedidos": [
+    {
+      "id": "152025020529",
+      "numero": "15 2025/020529",
+      "fecha": "17/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020529",
+      "fecha_formatted": "2025-12-17",
+      "productos": [
+        {
+          "referencia": "CRY2",
+          "denominacion": "Crystal M.E.H.T. 2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8801",
+          "denominacion": "SAD  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12272",
+          "denominacion": "Mimosa EVO  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14543",
+          "denominacion": "Amnesia Haze Ultra CBD 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21752",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Sweet Mandarin Jumbo 25 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23458",
+          "denominacion": "Incienso Koh Do Sándalo 20 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25067",
+          "denominacion": "Prensa Rosin Graveda  3 Tn. (Placa 7.5x10 cm.)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13090",
+          "denominacion": "Auto White Widow XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5214",
+          "denominacion": "Amanitha 60 ml. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020528",
+      "numero": "15 2025/020528",
+      "fecha": "17/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020528",
+      "fecha_formatted": "2025-12-17",
+      "productos": [
+        {
+          "referencia": "12167",
+          "denominacion": "Biotabs Starter Pack",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6603",
+          "denominacion": "Activecann  Gel Efecto Calor  75 ml. Annabis",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7725",
+          "denominacion": "Critical Orange Punch  5 u. fem. Dutch Passion",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020445",
       "numero": "15 2025/020445",
@@ -833,7 +948,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 151
+    "total_pedidos": 9,
+    "total_productos": 170
   }
 }
