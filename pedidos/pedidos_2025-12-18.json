@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-18T15:29:06.316221",
+  "timestamp": "2025-12-18T15:50:07.158717",
   "pedidos": [
+    {
+      "id": "152025020575",
+      "numero": "15 2025/020575",
+      "fecha": "18/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020575",
+      "fecha_formatted": "2025-12-18",
+      "productos": [
+        {
+          "referencia": "6717",
+          "denominacion": "Lemon OG Candy 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8110",
+          "denominacion": "Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14277",
+          "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7725",
+          "denominacion": "Critical Orange Punch  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7739",
+          "denominacion": "Calibrador Bluelab Ph7 - 250 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17140",
+          "denominacion": "Auto Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020529",
       "numero": "15 2025/020529",
@@ -158,7 +208,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 26
+    "total_pedidos": 3,
+    "total_productos": 34
   }
 }
