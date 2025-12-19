@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-19T09:30:23.391574",
+  "timestamp": "2025-12-19T10:29:25.130694",
   "pedidos": [
+    {
+      "id": "152025020598",
+      "numero": "15 2025/020598",
+      "fecha": "19/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020598",
+      "fecha_formatted": "2025-12-19",
+      "productos": [
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6367",
+          "denominacion": "Six Shooter Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14543",
+          "denominacion": "Amnesia Haze Ultra CBD 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16542",
+          "denominacion": "Seriotica 6 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16517",
+          "denominacion": "B-45 By Booba 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15621",
+          "denominacion": "Original Amnesia  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10853",
+          "denominacion": "Passion Fruit  1 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19257",
+          "denominacion": "Ice Cream Cake 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20920",
+          "denominacion": "Auto NYC Sour D   3 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20576",
+          "denominacion": "Critical Lemon Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18985",
+          "denominacion": "Hash Cbd Xuxes Tangie 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21394",
+          "denominacion": "AmnesiaZ 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24282",
+          "denominacion": "Cherry Poppers  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19787",
+          "denominacion": "Auto Bubba´s Gift   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020597",
+      "numero": "15 2025/020597",
+      "fecha": "19/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020597",
+      "fecha_formatted": "2025-12-19",
+      "productos": [
+        {
+          "referencia": "21394",
+          "denominacion": "AmnesiaZ 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19254",
+          "denominacion": "Ice Cream Cake  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19786",
+          "denominacion": "Auto Bubba´s Gift   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18489",
+          "denominacion": "Purple Cookie Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19787",
+          "denominacion": "Auto Bubba´s Gift   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020575",
       "numero": "15 2025/020575",
@@ -58,7 +218,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 8
+    "total_pedidos": 3,
+    "total_productos": 36
   }
 }
