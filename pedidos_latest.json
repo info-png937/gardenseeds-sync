@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-23T18:38:20.153458",
+  "timestamp": "2025-12-23T19:21:54.381906",
   "pedidos": [
+    {
+      "id": "152025020778",
+      "numero": "15 2025/020778",
+      "fecha": "23/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020778",
+      "fecha_formatted": "2025-12-23",
+      "productos": [
+        {
+          "referencia": "5348",
+          "denominacion": "Auto Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6130",
+          "denominacion": "Carbon Activo 8 Kg. 16 lt. Can-Filter",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21910",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Green Sour Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23548",
+          "denominacion": "Medidor Ph/Fertilidad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23955",
+          "denominacion": "Anti-Mildiu Fungicida 8 ml. Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CM4G",
+          "denominacion": "Cal Max  4 lt. Grotek",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020755",
       "numero": "15 2025/020755",
@@ -418,7 +478,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 76
+    "total_pedidos": 4,
+    "total_productos": 86
   }
 }
