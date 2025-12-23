@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-23T13:39:49.034301",
+  "timestamp": "2025-12-23T14:27:16.578321",
   "pedidos": [
+    {
+      "id": "152025020755",
+      "numero": "15 2025/020755",
+      "fecha": "23/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020755",
+      "fecha_formatted": "2025-12-23",
+      "productos": [
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5348",
+          "denominacion": "Auto Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18747",
+          "denominacion": "Strawberry Cola Sherbet F1 Fast Version   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020719",
       "numero": "15 2025/020719",
@@ -383,7 +413,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 71
+    "total_pedidos": 3,
+    "total_productos": 75
   }
 }
