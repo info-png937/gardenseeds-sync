@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-23T14:27:16.578321",
+  "timestamp": "2025-12-23T14:49:16.716443",
   "pedidos": [
     {
       "id": "152025020755",
@@ -32,6 +32,11 @@
           "referencia": "3781",
           "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -414,6 +419,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 75
+    "total_productos": 76
   }
 }
