@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-23T07:28:49.434227",
+  "timestamp": "2025-12-23T08:37:09.947212",
   "pedidos": [
     {
       "id": "152025020719",
@@ -122,6 +122,131 @@
           "referencia": "19114",
           "denominacion": "Balance 0.94 lt. Athena",
           "cantidad": 3
+        },
+        {
+          "referencia": "9190",
+          "denominacion": "Glookies  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5572",
+          "denominacion": "Voodoo Juice  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14294",
+          "denominacion": "Auto Purple Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14153",
+          "denominacion": "Auto Dosidos  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9740",
+          "denominacion": "Auto AK420 fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15610",
+          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AS3",
+          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NBL3",
+          "denominacion": "Nebula  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3289",
+          "denominacion": "Amnesia Lemon  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3715",
+          "denominacion": "Amnesia Lemon 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3735",
+          "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17169",
+          "denominacion": "Gelato #33 Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18864",
+          "denominacion": "Forbidden Fruit Cake   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14542",
+          "denominacion": "Amnesia Haze Ultra CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24899",
+          "denominacion": "Gazzurple 5 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24277",
+          "denominacion": "White Runtz  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11108",
+          "denominacion": "Purple Lemonade Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7810",
+          "denominacion": "Gorilla Zkitltez   3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14277",
+          "denominacion": "Mimosa x Orange Punch 10 u. fem. Barney's",
+          "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -259,6 +384,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 46
+    "total_productos": 71
   }
 }
