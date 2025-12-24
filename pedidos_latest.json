@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-24T17:22:12.777293",
+  "timestamp": "2025-12-24T18:37:09.682610",
   "pedidos": [
+    {
+      "id": "152025020793",
+      "numero": "15 2025/020793",
+      "fecha": "24/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020793",
+      "fecha_formatted": "2025-12-24",
+      "productos": [
+        {
+          "referencia": "CM4G",
+          "denominacion": "Cal Max  4 lt. Grotek",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6130",
+          "denominacion": "Carbon Activo 8 Kg. 16 lt. Can-Filter",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020792",
+      "numero": "15 2025/020792",
+      "fecha": "24/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020792",
+      "fecha_formatted": "2025-12-24",
+      "productos": [
+        {
+          "referencia": "24929",
+          "denominacion": "Mango Sherbert 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020778",
       "numero": "15 2025/020778",
@@ -108,7 +168,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 16
+    "total_pedidos": 4,
+    "total_productos": 24
   }
 }
