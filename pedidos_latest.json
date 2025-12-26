@@ -4,8 +4,128 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-26T21:23:21.556654",
+  "timestamp": "2025-12-26T21:42:10.722329",
   "pedidos": [
+    {
+      "id": "152025020839",
+      "numero": "15 2025/020839",
+      "fecha": "26/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020839",
+      "fecha_formatted": "2025-12-26",
+      "productos": [
+        {
+          "referencia": "5397",
+          "denominacion": "Tutankhamon  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "32811",
+          "denominacion": "Pipa Silicona & Glass Bowl Mini On 10 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14542",
+          "denominacion": "Amnesia Haze Ultra CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15630",
+          "denominacion": "Gorilla Frost  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15620",
+          "denominacion": "OG Kush 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20813",
+          "denominacion": "Melonade Runtz  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20963",
+          "denominacion": "Berry Crusher 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18968",
+          "denominacion": "PK+ 20/30 -   60 ml. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6956",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis para Liquidos con 8 Capsulas",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152025020838",
+      "numero": "15 2025/020838",
+      "fecha": "26/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020838",
+      "fecha_formatted": "2025-12-26",
+      "productos": [
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14542",
+          "denominacion": "Amnesia Haze Ultra CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15630",
+          "denominacion": "Gorilla Frost  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12272",
+          "denominacion": "Mimosa EVO  5 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025020818",
       "numero": "15 2025/020818",
@@ -103,7 +223,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 17
+    "total_pedidos": 3,
+    "total_productos": 37
   }
 }
