@@ -4,10 +4,106 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-26T11:42:12.432378",
-  "pedidos": [],
+  "timestamp": "2025-12-26T12:52:47.614788",
+  "pedidos": [
+    {
+      "id": "152025020818",
+      "numero": "15 2025/020818",
+      "fecha": "26/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020818",
+      "fecha_formatted": "2025-12-26",
+      "productos": [
+        {
+          "referencia": "16367",
+          "denominacion": "Runtz x Layer Cake  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9391",
+          "denominacion": "Auto Gelato #33 -   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11590",
+          "denominacion": "Auto Jack Herer  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20963",
+          "denominacion": "Berry Crusher 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "RMO1",
+          "denominacion": "Royal Moby  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20994",
+          "denominacion": "Viejo Toby 3+1 u. fem. Eva Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16372",
+          "denominacion": "Persian Pie  3 u. fem. Green House.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13014",
+          "denominacion": "Auto Gorilla Glue  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19046",
+          "denominacion": "Auto Moby Dick   3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16403",
+          "denominacion": "Negra 44 - 5 u. fem R-Kiem Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 17
   }
 }
