@@ -4,10 +4,166 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-29T14:27:49.568383",
-  "pedidos": [],
+  "timestamp": "2025-12-29T14:50:06.491456",
+  "pedidos": [
+    {
+      "id": "152025020928",
+      "numero": "15 2025/020928",
+      "fecha": "29/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025020928",
+      "fecha_formatted": "2025-12-29",
+      "productos": [
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "9764",
+          "denominacion": "BCN Critical XXL Fast fem.  3 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19230",
+          "denominacion": "Biscotti  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14506",
+          "denominacion": "Blue Elite Indica 3 u. fem. Elite Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20851",
+          "denominacion": "Auto Blueberry Bubblegum   3 u. fem. Sensi Seed Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24359",
+          "denominacion": "Strawberry Pop Rocks  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CC25S",
+          "denominacion": "Cream Caramel  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WSF6",
+          "denominacion": "Warlock - 6 u. fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B3FD",
+          "denominacion": "Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8110",
+          "denominacion": "Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15622",
+          "denominacion": "Original Amnesia  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16515",
+          "denominacion": "B-45 By Booba  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15619",
+          "denominacion": "OG Kush  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21058",
+          "denominacion": "Lemon Cherry Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4062",
+          "denominacion": "Bomba Agua AquaKing Q 4003 - 7000 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30536",
+          "denominacion": "Papel Raw  Classic  King Size Slim Block 200 - 40 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "RMO1",
+          "denominacion": "Royal Moby  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 29
   }
 }
