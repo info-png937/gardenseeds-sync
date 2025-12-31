@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-31T06:41:13.389321",
+  "timestamp": "2025-12-31T07:28:45.516044",
   "pedidos": [
     {
       "id": "152025021025",
@@ -62,6 +62,61 @@
           "referencia": "20722B",
           "denominacion": "Ipw 0.94 lt. Athena",
           "cantidad": 2
+        },
+        {
+          "referencia": "AEP1",
+          "denominacion": "Auto Afghan Express  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1255",
+          "denominacion": "Maple Leaf Indica 10 u. reg. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6691",
+          "denominacion": "Black Bomb 3 u fem Philosopher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17418B",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23897",
+          "denominacion": "Bruce Banner  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21427",
+          "denominacion": "Bruce Banner #3 -  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9574",
+          "denominacion": "Auto Solomatic CBD  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11868",
+          "denominacion": "Auto Gorilla   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AE3D",
+          "denominacion": "Auto Euforia 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5935",
+          "denominacion": "Regadera 2 lt.  Cuello Largo",
+          "cantidad": 10
+        },
+        {
+          "referencia": "1966",
+          "denominacion": "Pulverizador Manual 1 l",
+          "cantidad": 6
         }
       ],
       "origen": "ayer"
@@ -234,6 +289,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 39
+    "total_productos": 50
   }
 }
