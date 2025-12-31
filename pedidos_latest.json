@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-31T13:36:33.522548",
+  "timestamp": "2025-12-31T14:46:50.376311",
   "pedidos": [
+    {
+      "id": "152025021047",
+      "numero": "15 2025/021047",
+      "fecha": "31/12/2025",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152025021047",
+      "fecha_formatted": "2025-12-31",
+      "productos": [
+        {
+          "referencia": "AKB1",
+          "denominacion": "Auto Kritikal Bilbo  1 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6176",
+          "denominacion": "Ayahuasca Purple  3 u. fem. Barney`s",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 10
+        },
+        {
+          "referencia": "13933",
+          "denominacion": "Auto Expert Gorilla  1 u. fem. Expert Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025021025",
       "numero": "15 2025/021025",
@@ -293,7 +333,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 51
+    "total_pedidos": 4,
+    "total_productos": 57
   }
 }
