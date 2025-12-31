@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2025-12-31T07:28:45.516044",
+  "timestamp": "2025-12-31T07:47:14.642849",
   "pedidos": [
     {
       "id": "152025021025",
@@ -117,6 +117,11 @@
           "referencia": "1966",
           "denominacion": "Pulverizador Manual 1 l",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -289,6 +294,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 50
+    "total_productos": 51
   }
 }
