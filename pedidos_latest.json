@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-01T18:37:07.893811",
+  "timestamp": "2026-01-01T19:21:11.408682",
   "pedidos": [
+    {
+      "id": "152026000001",
+      "numero": "15 2026/000001",
+      "fecha": "01/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000001",
+      "fecha_formatted": "2026-01-01",
+      "productos": [
+        {
+          "referencia": "1007",
+          "denominacion": "Pineapple Chunk 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11868",
+          "denominacion": "Auto Gorilla   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152025021047",
       "numero": "15 2025/021047",
@@ -48,7 +83,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 6
+    "total_pedidos": 2,
+    "total_productos": 11
   }
 }
