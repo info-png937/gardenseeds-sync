@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-01T22:26:07.375446",
+  "timestamp": "2026-01-01T22:46:38.102747",
   "pedidos": [
     {
       "id": "152026000001",
@@ -36,6 +36,41 @@
         {
           "referencia": "24281",
           "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AKB1",
+          "denominacion": "Auto Kritikal Bilbo  1 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6176",
+          "denominacion": "Ayahuasca Purple  3 u. fem. Barney`s",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 10
+        },
+        {
+          "referencia": "13933",
+          "denominacion": "Auto Expert Gorilla  1 u. fem. Expert Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -84,6 +119,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 11
+    "total_productos": 18
   }
 }
