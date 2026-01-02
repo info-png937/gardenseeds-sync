@@ -4,8 +4,213 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-02T17:22:59.533935",
+  "timestamp": "2026-01-02T18:36:48.372759",
   "pedidos": [
+    {
+      "id": "152026000058",
+      "numero": "15 2026/000058",
+      "fecha": "02/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000058",
+      "fecha_formatted": "2026-01-02",
+      "productos": [
+        {
+          "referencia": "10727",
+          "denominacion": "Chocolate Cream   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9566",
+          "denominacion": "Auto Stress Killer CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12238",
+          "denominacion": "Banana Krumble 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17224",
+          "denominacion": "Auto Mystic Cookie 1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16517",
+          "denominacion": "B-45 By Booba 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19277",
+          "denominacion": "Runtz 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18507",
+          "denominacion": "Purple Cookie Kush 10 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23111",
+          "denominacion": "Peach Tea 6 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "32728",
+          "denominacion": "Filtros Pipa Splif Stick Gold Red Eye 2 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "A0010",
+          "denominacion": "Autofloracion Mix 10 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16517",
+          "denominacion": "B-45 By Booba 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19277",
+          "denominacion": "Runtz 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18507",
+          "denominacion": "Purple Cookie Kush 10 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3784",
+          "denominacion": "Extractor PK 125 mm. 360 m3  PK125-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000056",
+      "numero": "15 2026/000056",
+      "fecha": "02/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000056",
+      "fecha_formatted": "2026-01-02",
+      "productos": [
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "A0010",
+          "denominacion": "Autofloracion Mix 10 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16517",
+          "denominacion": "B-45 By Booba 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19277",
+          "denominacion": "Runtz 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18507",
+          "denominacion": "Purple Cookie Kush 10 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3784",
+          "denominacion": "Extractor PK 125 mm. 360 m3  PK125-L",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000038",
       "numero": "15 2026/000038",
@@ -168,7 +373,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 28
+    "total_pedidos": 4,
+    "total_productos": 65
   }
 }
