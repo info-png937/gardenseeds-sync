@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-02T14:26:39.804634",
+  "timestamp": "2026-01-02T14:48:37.567344",
   "pedidos": [
+    {
+      "id": "152026000038",
+      "numero": "15 2026/000038",
+      "fecha": "02/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000038",
+      "fecha_formatted": "2026-01-02",
+      "productos": [
+        {
+          "referencia": "13228",
+          "denominacion": "Malawi 1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18863",
+          "denominacion": "Forbidden Fruit Cake   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13873",
+          "denominacion": "Critical Gorilla  1 u. fem. Expert Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15619",
+          "denominacion": "OG Kush  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KAL3",
+          "denominacion": "Auto Kalashnikova  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20827",
+          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AAH3",
+          "denominacion": "Auto Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9207",
+          "denominacion": "AK-49 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23111",
+          "denominacion": "Peach Tea 6 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000001",
       "numero": "15 2026/000001",
@@ -78,7 +168,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 12
+    "total_pedidos": 2,
+    "total_productos": 28
   }
 }
