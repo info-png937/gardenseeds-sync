@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-07T19:25:04.234574",
+  "timestamp": "2026-01-07T19:43:38.375328",
   "pedidos": [
+    {
+      "id": "152026000252",
+      "numero": "15 2026/000252",
+      "fecha": "07/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000252",
+      "fecha_formatted": "2026-01-07",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6523",
+          "denominacion": "Natria Acaricida Solabiol 250 ml. Bayer",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PXL3",
+          "denominacion": "Painkiller XL  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18437",
+          "denominacion": "Auto K-Mintz 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20918",
+          "denominacion": "Punch Pie  10 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20914",
+          "denominacion": "Dynamite Diesel  10 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21400",
+          "denominacion": "Auto Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24197",
+          "denominacion": "CandyGaz 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24282",
+          "denominacion": "Cherry Poppers  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000234",
       "numero": "15 2026/000234",
@@ -588,7 +678,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 112
+    "total_pedidos": 3,
+    "total_productos": 128
   }
 }
