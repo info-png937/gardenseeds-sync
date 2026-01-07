@@ -4,8 +4,173 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-07T15:31:36.154485",
+  "timestamp": "2026-01-07T16:37:33.655628",
   "pedidos": [
+    {
+      "id": "152026000234",
+      "numero": "15 2026/000234",
+      "fecha": "07/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000234",
+      "fecha_formatted": "2026-01-07",
+      "productos": [
+        {
+          "referencia": "6411",
+          "denominacion": "Agitador de Agua Neptune Hydroponics 3.000 lt./h",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16105",
+          "denominacion": "Camuflaje Escobilla W.C.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1702",
+          "denominacion": "Medidor ph Adwa AD100",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7812",
+          "denominacion": "Gorilla Zkitltez 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9211",
+          "denominacion": "Blue Power 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SLH3",
+          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13234",
+          "denominacion": "Marruecos Beldia Kif 3 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DWRQ",
+          "denominacion": "Dance World  1 u.  fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11554",
+          "denominacion": "Tropicanna Poison F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23092",
+          "denominacion": "Lemon Cherry Pop 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9199",
+          "denominacion": "Auto Purple Punch  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21400",
+          "denominacion": "Auto Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24156",
+          "denominacion": "Sativa Des Rois  1 u. fem French Touch Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "FM10",
+          "denominacion": "Feminized Mix 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17196",
+          "denominacion": "Gordo Master Kush 5 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16934",
+          "denominacion": "Auto Banana Cookies   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG4F",
+          "denominacion": "Bubble Gummer  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B3FD",
+          "denominacion": "Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20918",
+          "denominacion": "Punch Pie  10 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20914",
+          "denominacion": "Dynamite Diesel  10 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17138",
+          "denominacion": "Auto Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19746",
+          "denominacion": "Purple Punch x Do-Si-Dos 3 u fem Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16437",
+          "denominacion": "Xupet  1 u. fem R-Kiem Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24860",
+          "denominacion": "Blueberry Cupcake 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "2026000008",
       "numero": "2026/000008",
@@ -428,7 +593,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 82
+    "total_pedidos": 2,
+    "total_productos": 113
   }
 }
