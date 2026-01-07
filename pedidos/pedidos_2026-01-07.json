@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-07T19:43:38.375328",
+  "timestamp": "2026-01-07T20:32:13.215714",
   "pedidos": [
+    {
+      "id": "152026000254",
+      "numero": "15 2026/000254",
+      "fecha": "07/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000254",
+      "fecha_formatted": "2026-01-07",
+      "productos": [
+        {
+          "referencia": "24965",
+          "denominacion": "Squirt Feminized 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000252",
       "numero": "15 2026/000252",
@@ -678,7 +693,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 128
+    "total_pedidos": 4,
+    "total_productos": 129
   }
 }
