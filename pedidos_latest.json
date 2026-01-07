@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-07T16:37:33.655628",
+  "timestamp": "2026-01-07T17:53:12.906591",
   "pedidos": [
     {
       "id": "152026000234",
@@ -582,11 +582,6 @@
           "referencia": "19059",
           "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
           "cantidad": 3
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -594,6 +589,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 113
+    "total_productos": 112
   }
 }
