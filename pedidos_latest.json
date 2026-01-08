@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-08T18:36:47.825124",
+  "timestamp": "2026-01-08T19:25:31.542364",
   "pedidos": [
+    {
+      "id": "152026000345",
+      "numero": "15 2026/000345",
+      "fecha": "08/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000345",
+      "fecha_formatted": "2026-01-08",
+      "productos": [
+        {
+          "referencia": "11830",
+          "denominacion": "Auto Hulkberry  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16934",
+          "denominacion": "Auto Banana Cookies   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24294",
+          "denominacion": "Super Boof  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000344",
+      "numero": "15 2026/000344",
+      "fecha": "08/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000344",
+      "fecha_formatted": "2026-01-08",
+      "productos": [
+        {
+          "referencia": "9584",
+          "denominacion": "Purple Queen  1 u. fem. Royal Queen",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000329",
       "numero": "15 2026/000329",
@@ -893,7 +943,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 165
+    "total_pedidos": 8,
+    "total_productos": 171
   }
 }
