@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-08T20:32:07.583600",
+  "timestamp": "2026-01-08T21:28:46.265097",
   "pedidos": [
+    {
+      "id": "152026000349",
+      "numero": "15 2026/000349",
+      "fecha": "08/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000349",
+      "fecha_formatted": "2026-01-08",
+      "productos": [
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000345",
       "numero": "15 2026/000345",
@@ -943,7 +958,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 8,
-    "total_productos": 171
+    "total_pedidos": 9,
+    "total_productos": 172
   }
 }
