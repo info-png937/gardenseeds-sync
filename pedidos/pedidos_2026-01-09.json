@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-09T08:38:03.637956",
+  "timestamp": "2026-01-09T09:34:11.400231",
   "pedidos": [
     {
       "id": "152026000349",
@@ -17,6 +17,41 @@
           "referencia": "15616",
           "denominacion": "Moby Dick  5 ud Silent Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "11830",
+          "denominacion": "Auto Hulkberry  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16934",
+          "denominacion": "Auto Banana Cookies   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24294",
+          "denominacion": "Super Boof  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9584",
+          "denominacion": "Purple Queen  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -274,6 +309,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 43
+    "total_productos": 50
   }
 }
