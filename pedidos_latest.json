@@ -4,10 +4,126 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-10T11:41:05.487501",
-  "pedidos": [],
+  "timestamp": "2026-01-10T12:50:40.647149",
+  "pedidos": [
+    {
+      "id": "152026000406",
+      "numero": "15 2026/000406",
+      "fecha": "10/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000406",
+      "fecha_formatted": "2026-01-10",
+      "productos": [
+        {
+          "referencia": "3784",
+          "denominacion": "Extractor PK 125 mm. 360 m3  PK125-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8287",
+          "denominacion": "Pink Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC3QR",
+          "denominacion": "Blue Mystic  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17131",
+          "denominacion": "Auto Amnesia XXL   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000404",
+      "numero": "15 2026/000404",
+      "fecha": "10/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000404",
+      "fecha_formatted": "2026-01-10",
+      "productos": [
+        {
+          "referencia": "8287",
+          "denominacion": "Pink Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC3QR",
+          "denominacion": "Blue Mystic  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1273",
+          "denominacion": "Hash Plant 10 u. reg. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17979",
+          "denominacion": "Lavadora Secret Smoke (sin mallas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2638",
+          "denominacion": "Secret Icer Kit 20 lt. - 5 Bolsas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17131",
+          "denominacion": "Auto Amnesia XXL   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23945",
+          "denominacion": "Sweets Grams 1 lt. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "3160",
+          "denominacion": "Monster Bloom   500 gr. Grotek",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 19
   }
 }
