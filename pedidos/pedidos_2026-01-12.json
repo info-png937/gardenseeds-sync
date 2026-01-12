@@ -4,8 +4,188 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-12T12:58:28.169325",
+  "timestamp": "2026-01-12T13:49:32.499516",
   "pedidos": [
+    {
+      "id": "152026000472",
+      "numero": "15 2026/000472",
+      "fecha": "12/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000472",
+      "fecha_formatted": "2026-01-12",
+      "productos": [
+        {
+          "referencia": "SSFS3",
+          "denominacion": "Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11589",
+          "denominacion": "Auto Jack Herer  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9190",
+          "denominacion": "Glookies  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11551",
+          "denominacion": "Red Hot Cookies   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14432",
+          "denominacion": "Auto Purple Punch   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 6
+        },
+        {
+          "referencia": "21053",
+          "denominacion": "Guava Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21057",
+          "denominacion": "Lemon Cherry Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21065",
+          "denominacion": "Apple Strudel Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7570",
+          "denominacion": "Critical Purple Kush   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20801",
+          "denominacion": "Rainbow Mints   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5348",
+          "denominacion": "Auto Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5349",
+          "denominacion": "Auto Kryptonite  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15510",
+          "denominacion": "Ghost Of NYC  5 ud Humboldt Seed Organization",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15790",
+          "denominacion": "Cherry Cola Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7805",
+          "denominacion": "Blue Gelato 41  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9525",
+          "denominacion": "Honey Cream - Fast 10 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "PRO63",
+          "denominacion": "Cream Caramel   3+1 u. fem. Sweet seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "RME1",
+          "denominacion": "Royal Medic  1 u.  fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3387",
+          "denominacion": "Channel +  5 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7127",
+          "denominacion": "Auto Green Poison XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10778",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17199",
+          "denominacion": "Grapefruit 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20214",
+          "denominacion": "Baked Apple Cherries 6 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20213",
+          "denominacion": "Baked Apple Cherries 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13092",
+          "denominacion": "Auto White Widow XXL  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000423",
       "numero": "15 2026/000423",
@@ -123,7 +303,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 21
+    "total_pedidos": 2,
+    "total_productos": 55
   }
 }
