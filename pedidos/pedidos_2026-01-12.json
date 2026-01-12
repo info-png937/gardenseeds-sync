@@ -4,8 +4,188 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-12T18:40:35.774321",
+  "timestamp": "2026-01-12T19:25:49.374704",
   "pedidos": [
+    {
+      "id": "152026000517",
+      "numero": "15 2026/000517",
+      "fecha": "12/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000517",
+      "fecha_formatted": "2026-01-12",
+      "productos": [
+        {
+          "referencia": "21842",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Pink Kush Jumbo 25 gr.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000515",
+      "numero": "15 2026/000515",
+      "fecha": "12/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000515",
+      "fecha_formatted": "2026-01-12",
+      "productos": [
+        {
+          "referencia": "4014",
+          "denominacion": "Humidificador  Mist Maker  3 Membranas",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000514",
+      "numero": "15 2026/000514",
+      "fecha": "12/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000514",
+      "fecha_formatted": "2026-01-12",
+      "productos": [
+        {
+          "referencia": "4014",
+          "denominacion": "Humidificador  Mist Maker  3 Membranas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8799",
+          "denominacion": "Black Jack  25 u.  fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9583",
+          "denominacion": "Royal Gorilla  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15772",
+          "denominacion": "Eboshi CBG  3 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6130",
+          "denominacion": "Carbon Activo 8 Kg. 16 lt. Can-Filter",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842A",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Blue Candy Jumbo  25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18987",
+          "denominacion": "Hash Cbd Xuxes Wonka 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Pink Kush Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21798",
+          "denominacion": "Apple Bananas  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24299",
+          "denominacion": "RS11 x Banana OG 10 u. fem. Barney's x DOJA",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13092",
+          "denominacion": "Auto White Widow XXL  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14827",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 30 x 30 x 31 cm. 25 lt.",
+          "cantidad": 20
+        },
+        {
+          "referencia": "RI150",
+          "denominacion": "Rooting Gel 150 ml. Rootit",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000513",
+      "numero": "15 2026/000513",
+      "fecha": "12/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000513",
+      "fecha_formatted": "2026-01-12",
+      "productos": [
+        {
+          "referencia": "9583",
+          "denominacion": "Royal Gorilla  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 20
+        },
+        {
+          "referencia": "3009",
+          "denominacion": "Tightvac Bote Hermetico  2.35 lt.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ASAAS3",
+          "denominacion": "Auto Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15772",
+          "denominacion": "Eboshi CBG  3 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24299",
+          "denominacion": "RS11 x Banana OG 10 u. fem. Barney's x DOJA",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000472",
       "numero": "15 2026/000472",
@@ -328,7 +508,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 58
+    "total_pedidos": 7,
+    "total_productos": 86
   }
 }
