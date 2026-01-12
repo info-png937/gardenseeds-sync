@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-12T17:28:22.390009",
+  "timestamp": "2026-01-12T17:48:18.158870",
   "pedidos": [
     {
       "id": "152026000472",
@@ -305,10 +305,30 @@
         }
       ],
       "origen": "hoy"
+    },
+    {
+      "id": "72026000003",
+      "numero": "7 2026/000003",
+      "fecha": "12/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/72026000003",
+      "fecha_formatted": "2026-01-12",
+      "productos": [
+        {
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": -1
+        },
+        {
+          "referencia": "13152",
+          "denominacion": "Recovery CBD  3 u. fem. Medical seeds",
+          "cantidad": -1
+        }
+      ],
+      "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 56
+    "total_pedidos": 3,
+    "total_productos": 58
   }
 }
