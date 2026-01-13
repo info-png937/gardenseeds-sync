@@ -4,8 +4,118 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-13T19:42:02.768155",
+  "timestamp": "2026-01-13T20:32:19.436785",
   "pedidos": [
+    {
+      "id": "152026000588",
+      "numero": "15 2026/000588",
+      "fecha": "13/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000588",
+      "fecha_formatted": "2026-01-13",
+      "productos": [
+        {
+          "referencia": "2638",
+          "denominacion": "Secret Icer Kit 20 lt. - 5 Bolsas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CKU00",
+          "denominacion": "Caramel Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 100
+        },
+        {
+          "referencia": "15785",
+          "denominacion": "Gorilla Zkittlez Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15789",
+          "denominacion": "Cherry Cola Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19530",
+          "denominacion": "Apple Fritter   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18978",
+          "denominacion": "Cañamo Cbd Xuxes Apple Jack 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4014",
+          "denominacion": "Humidificador  Mist Maker  3 Membranas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000587",
+      "numero": "15 2026/000587",
+      "fecha": "13/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000587",
+      "fecha_formatted": "2026-01-13",
+      "productos": [
+        {
+          "referencia": "19530",
+          "denominacion": "Apple Fritter   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18079",
+          "denominacion": "Cable + Clavija Inyectada Plug & Play",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18755",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000570",
       "numero": "15 2026/000570",
@@ -790,30 +900,10 @@
         }
       ],
       "origen": "ayer"
-    },
-    {
-      "id": "72026000003",
-      "numero": "7 2026/000003",
-      "fecha": "12/01/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/72026000003",
-      "fecha_formatted": "2026-01-12",
-      "productos": [
-        {
-          "referencia": "32717",
-          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
-          "cantidad": -1
-        },
-        {
-          "referencia": "13152",
-          "denominacion": "Recovery CBD  3 u. fem. Medical seeds",
-          "cantidad": -1
-        }
-      ],
-      "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 9,
-    "total_productos": 143
+    "total_pedidos": 10,
+    "total_productos": 159
   }
 }
