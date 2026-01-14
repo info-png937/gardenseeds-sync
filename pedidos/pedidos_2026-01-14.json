@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-14T13:47:09.224273",
+  "timestamp": "2026-01-14T15:31:51.160528",
   "pedidos": [
+    {
+      "id": "152026000636",
+      "numero": "15 2026/000636",
+      "fecha": "14/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000636",
+      "fecha_formatted": "2026-01-14",
+      "productos": [
+        {
+          "referencia": "20314",
+          "denominacion": "Girl Scout Cookies 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14272",
+          "denominacion": "Blue Sunset Sherbet  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8576",
+          "denominacion": "Auto Jack 47 XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14140",
+          "denominacion": "Wedding Crasher  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9729",
+          "denominacion": "Monster Profit  5 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17383",
+          "denominacion": "Sweet Somango Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3203",
+          "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3954",
+          "denominacion": "Acapulco Gold  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6695",
+          "denominacion": "Tropimango 3 u fem Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "2026000034",
       "numero": "2026/000034",
@@ -528,7 +598,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 94
+    "total_pedidos": 6,
+    "total_productos": 106
   }
 }
