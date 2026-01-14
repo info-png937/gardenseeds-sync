@@ -4,8 +4,113 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-14T08:38:03.628176",
+  "timestamp": "2026-01-14T09:35:21.416745",
   "pedidos": [
+    {
+      "id": "2026000034",
+      "numero": "2026/000034",
+      "fecha": "14/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000034",
+      "fecha_formatted": "2026-01-14",
+      "productos": [
+        {
+          "referencia": "19530",
+          "denominacion": "Apple Fritter   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18079",
+          "denominacion": "Cable + Clavija Inyectada Plug & Play",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18755",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2638",
+          "denominacion": "Secret Icer Kit 20 lt. - 5 Bolsas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CKU00",
+          "denominacion": "Caramel Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 100
+        },
+        {
+          "referencia": "15785",
+          "denominacion": "Gorilla Zkittlez Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15789",
+          "denominacion": "Cherry Cola Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19530",
+          "denominacion": "Apple Fritter   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18978",
+          "denominacion": "Cañamo Cbd Xuxes Apple Jack 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4014",
+          "denominacion": "Humidificador  Mist Maker  3 Membranas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000588",
       "numero": "15 2026/000588",
@@ -423,7 +528,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 75
+    "total_pedidos": 5,
+    "total_productos": 94
   }
 }
