@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-15T18:44:26.535903",
+  "timestamp": "2026-01-15T19:29:47.986575",
   "pedidos": [
+    {
+      "id": "152026000734",
+      "numero": "15 2026/000734",
+      "fecha": "15/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000734",
+      "fecha_formatted": "2026-01-15",
+      "productos": [
+        {
+          "referencia": "14989",
+          "denominacion": "Carbon Activo 25 kg",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000732",
       "numero": "15 2026/000732",
@@ -673,7 +688,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 119
+    "total_pedidos": 8,
+    "total_productos": 120
   }
 }
