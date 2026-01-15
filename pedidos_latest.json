@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-15T07:48:44.041793",
+  "timestamp": "2026-01-15T08:38:14.463417",
   "pedidos": [
+    {
+      "id": "2026000038",
+      "numero": "2026/000038",
+      "fecha": "15/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000038",
+      "fecha_formatted": "2026-01-15",
+      "productos": [
+        {
+          "referencia": "17051",
+          "denominacion": "Auto Mack & Crack fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9171",
+          "denominacion": "BC Diesel 3 u. fem. Blimburn Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9199",
+          "denominacion": "Auto Purple Punch  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4952",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "CRY2",
+          "denominacion": "Crystal M.E.H.T. 2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7739",
+          "denominacion": "Calibrador Bluelab Ph7 - 250 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9171",
+          "denominacion": "BC Diesel 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB3F",
+          "denominacion": "Big Bang  3 u. fem. Green house",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19257",
+          "denominacion": "Ice Cream Cake 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20314",
+          "denominacion": "Girl Scout Cookies 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18848",
+          "denominacion": "Mimosa Punch   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24524",
+          "denominacion": "Purple Haze Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000662",
       "numero": "15 2026/000662",
@@ -278,7 +368,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 46
+    "total_pedidos": 5,
+    "total_productos": 62
   }
 }
