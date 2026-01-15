@@ -4,8 +4,313 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-15T17:37:55.477278",
+  "timestamp": "2026-01-15T18:44:26.535903",
   "pedidos": [
+    {
+      "id": "152026000732",
+      "numero": "15 2026/000732",
+      "fecha": "15/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000732",
+      "fecha_formatted": "2026-01-15",
+      "productos": [
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10766",
+          "denominacion": "Double OG Haze  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23945",
+          "denominacion": "Sweets Grams 1 lt. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24860",
+          "denominacion": "Blueberry Cupcake 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB3F",
+          "denominacion": "Big Bang  3 u. fem. Green house",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21752",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Sweet Mandarin Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23891",
+          "denominacion": "Apple Fritter 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10730",
+          "denominacion": "Chocolate Skunk CBD   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14436",
+          "denominacion": "Northern Lights CBD   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AP25",
+          "denominacion": "Alu+ 254 mm. - 10 m.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23827",
+          "denominacion": "Bascula Digital Industrial Afg 40 Kg. - 5 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16765",
+          "denominacion": "Cartucho Vaporesso Xros 1.2 Ohm 2 ml.  4 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BB3F",
+          "denominacion": "Big Bang  3 u. fem. Green house",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10766",
+          "denominacion": "Double OG Haze  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21472",
+          "denominacion": "Nova OG  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23891",
+          "denominacion": "Apple Fritter 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14436",
+          "denominacion": "Northern Lights CBD   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10730",
+          "denominacion": "Chocolate Skunk CBD   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "1500",
+          "denominacion": "Bio Flores  1 lt. Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15780",
+          "denominacion": "Great White  Micorrizas   28 gr. Premium",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "7812",
+          "denominacion": "Gorilla Zkitltez 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14275",
+          "denominacion": "Mimosa x Orange Punch  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14995",
+          "denominacion": "Velvet Moon 10 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026000731",
+      "numero": "15 2026/000731",
+      "fecha": "15/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000731",
+      "fecha_formatted": "2026-01-15",
+      "productos": [
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BB3F",
+          "denominacion": "Big Bang  3 u. fem. Green house",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10766",
+          "denominacion": "Double OG Haze  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21472",
+          "denominacion": "Nova OG  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23891",
+          "denominacion": "Apple Fritter 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14436",
+          "denominacion": "Northern Lights CBD   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10730",
+          "denominacion": "Chocolate Skunk CBD   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "1500",
+          "denominacion": "Bio Flores  1 lt. Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15780",
+          "denominacion": "Great White  Micorrizas   28 gr. Premium",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "7812",
+          "denominacion": "Gorilla Zkitltez 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14275",
+          "denominacion": "Mimosa x Orange Punch  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14995",
+          "denominacion": "Velvet Moon 10 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "2026000038",
       "numero": "2026/000038",
@@ -368,7 +673,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 62
+    "total_pedidos": 7,
+    "total_productos": 119
   }
 }
