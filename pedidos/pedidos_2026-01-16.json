@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-16T14:53:49.143963",
+  "timestamp": "2026-01-16T15:30:22.015903",
   "pedidos": [
     {
       "id": "152026000771",
@@ -71,6 +71,11 @@
         {
           "referencia": "15622",
           "denominacion": "Original Amnesia  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -489,6 +494,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 86
+    "total_productos": 87
   }
 }
