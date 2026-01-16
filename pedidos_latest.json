@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-16T11:44:54.566948",
+  "timestamp": "2026-01-16T12:56:23.937072",
   "pedidos": [
     {
       "id": "152026000734",
@@ -212,11 +212,6 @@
           "referencia": "SSH3",
           "denominacion": "Super Silver Haze  3 u. fem. Green House",
           "cantidad": 2
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -424,6 +419,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 75
+    "total_productos": 74
   }
 }
