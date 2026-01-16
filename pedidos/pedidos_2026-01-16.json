@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-16T07:48:19.089314",
+  "timestamp": "2026-01-16T08:37:48.287984",
   "pedidos": [
     {
       "id": "152026000734",
@@ -16,6 +16,11 @@
         {
           "referencia": "14989",
           "denominacion": "Carbon Activo 25 kg",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -419,6 +424,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 74
+    "total_productos": 75
   }
 }
