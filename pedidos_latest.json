@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-18T21:42:00.572229",
+  "timestamp": "2026-01-18T22:25:14.396768",
   "pedidos": [
+    {
+      "id": "152026000802",
+      "numero": "15 2026/000802",
+      "fecha": "18/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000802",
+      "fecha_formatted": "2026-01-18",
+      "productos": [
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARDW5",
+          "denominacion": "Auto Royal Dwarf  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15622",
+          "denominacion": "Original Amnesia  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19048",
+          "denominacion": "Auto Moby Dick  10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Pink Kush Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9833",
+          "denominacion": "Northern Lights fem.  5 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18538",
+          "denominacion": "Auto Titan F1 -  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7138",
+          "denominacion": "Blueberry   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000801",
       "numero": "15 2026/000801",
@@ -58,7 +138,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 8
+    "total_pedidos": 2,
+    "total_productos": 22
   }
 }
