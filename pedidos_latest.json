@@ -4,10 +4,61 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-18T21:23:15.484482",
-  "pedidos": [],
+  "timestamp": "2026-01-18T21:42:00.572229",
+  "pedidos": [
+    {
+      "id": "152026000801",
+      "numero": "15 2026/000801",
+      "fecha": "18/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000801",
+      "fecha_formatted": "2026-01-18",
+      "productos": [
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AM3F",
+          "denominacion": "Auto Mazar  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18538",
+          "denominacion": "Auto Titan F1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21671",
+          "denominacion": "Auto Animal Zookies  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14436",
+          "denominacion": "Northern Lights CBD   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7138",
+          "denominacion": "Blueberry   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10730",
+          "denominacion": "Chocolate Skunk CBD   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24760",
+          "denominacion": "Payton Rainbow 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 8
   }
 }
