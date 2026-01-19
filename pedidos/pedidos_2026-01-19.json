@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-19T15:32:41.185131",
+  "timestamp": "2026-01-19T16:36:57.335304",
   "pedidos": [
+    {
+      "id": "152026000869",
+      "numero": "15 2026/000869",
+      "fecha": "19/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000869",
+      "fecha_formatted": "2026-01-19",
+      "productos": [
+        {
+          "referencia": "1881",
+          "denominacion": "White Widow 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7621",
+          "denominacion": "California Gold  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16368",
+          "denominacion": "Runtz x Layer Cake  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000855",
       "numero": "15 2026/000855",
@@ -413,7 +443,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 75
+    "total_pedidos": 4,
+    "total_productos": 79
   }
 }
