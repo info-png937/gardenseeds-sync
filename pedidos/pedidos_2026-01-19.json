@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-19T18:39:47.570094",
+  "timestamp": "2026-01-19T19:24:12.003280",
   "pedidos": [
+    {
+      "id": "152026000895",
+      "numero": "15 2026/000895",
+      "fecha": "19/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000895",
+      "fecha_formatted": "2026-01-19",
+      "productos": [
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9190",
+          "denominacion": "Glookies  1 u. fem. Barney's",
+          "cantidad": 7
+        },
+        {
+          "referencia": "3759",
+          "denominacion": "Prozac  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SCMX1L",
+          "denominacion": "Sensi Cal-Mag Xtra  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9701",
+          "denominacion": "Money Bush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20964",
+          "denominacion": "Berry Crusher 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21396",
+          "denominacion": "Hardcore Gelato 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3160",
+          "denominacion": "Monster Bloom   500 gr. Grotek",
+          "cantidad": 12
+        },
+        {
+          "referencia": "19131",
+          "denominacion": "Fade 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3750",
+          "denominacion": "Oxigenador Piedra Acuario 30 cm.",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000869",
       "numero": "15 2026/000869",
@@ -443,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 79
+    "total_pedidos": 5,
+    "total_productos": 93
   }
 }
