@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-19T07:34:00.697793",
+  "timestamp": "2026-01-19T08:40:36.640416",
   "pedidos": [
     {
       "id": "152026000802",
@@ -82,6 +82,51 @@
           "referencia": "19516",
           "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
           "cantidad": 3
+        },
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AM3F",
+          "denominacion": "Auto Mazar  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18538",
+          "denominacion": "Auto Titan F1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21671",
+          "denominacion": "Auto Animal Zookies  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14436",
+          "denominacion": "Northern Lights CBD   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7138",
+          "denominacion": "Blueberry   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10730",
+          "denominacion": "Chocolate Skunk CBD   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24760",
+          "denominacion": "Payton Rainbow 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -139,6 +184,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 22
+    "total_productos": 31
   }
 }
