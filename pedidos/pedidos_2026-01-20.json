@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-20T21:27:32.292870",
+  "timestamp": "2026-01-20T22:28:34.262940",
   "pedidos": [
+    {
+      "id": "152026000990",
+      "numero": "15 2026/000990",
+      "fecha": "20/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000990",
+      "fecha_formatted": "2026-01-20",
+      "productos": [
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19136",
+          "denominacion": "Grow A 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21135",
+          "denominacion": "Mona Lisa 2 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Blue 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16806",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Black 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 6
+        },
+        {
+          "referencia": "34090G",
+          "denominacion": "Cartucho Tip Vapeador Acero Recambio 0.5 ml. Black",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19139",
+          "denominacion": "Grow B 3.78 lt. Athena",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000989",
       "numero": "15 2026/000989",
@@ -473,7 +538,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 83
+    "total_pedidos": 6,
+    "total_productos": 94
   }
 }
