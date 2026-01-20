@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-20T14:02:49.284654",
+  "timestamp": "2026-01-20T14:58:56.852769",
   "pedidos": [
+    {
+      "id": "152026000958",
+      "numero": "15 2026/000958",
+      "fecha": "20/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000958",
+      "fecha_formatted": "2026-01-20",
+      "productos": [
+        {
+          "referencia": "17199",
+          "denominacion": "Grapefruit 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6192",
+          "denominacion": "Critical Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ESFS4",
+          "denominacion": "Easy Sativa  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33810A",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8307",
+          "denominacion": "Auto LSD  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19254",
+          "denominacion": "Ice Cream Cake  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10734",
+          "denominacion": "Gorilla   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21786",
+          "denominacion": "Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13176",
+          "denominacion": "Auto Super Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14605",
+          "denominacion": "Pure Pot Maceta Textil   11.4 lt. - 3 gal",
+          "cantidad": 10
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PP3F",
+          "denominacion": "Power Plant  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9022",
+          "denominacion": "Mendocino Chanel Kush  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12295",
+          "denominacion": "N13 Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000895",
       "numero": "15 2026/000895",
@@ -353,7 +443,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 63
+    "total_pedidos": 4,
+    "total_productos": 79
   }
 }
