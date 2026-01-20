@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-20T18:46:28.439455",
+  "timestamp": "2026-01-20T21:27:32.292870",
   "pedidos": [
+    {
+      "id": "152026000989",
+      "numero": "15 2026/000989",
+      "fecha": "20/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026000989",
+      "fecha_formatted": "2026-01-20",
+      "productos": [
+        {
+          "referencia": "PP3F",
+          "denominacion": "Power Plant  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21135",
+          "denominacion": "Mona Lisa 2 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15019",
+          "denominacion": "Chocolate Wafflez  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026000958",
       "numero": "15 2026/000958",
@@ -443,7 +473,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 79
+    "total_pedidos": 5,
+    "total_productos": 83
   }
 }
