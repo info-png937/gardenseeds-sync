@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-21T13:54:33.963571",
+  "timestamp": "2026-01-21T14:37:30.502272",
   "pedidos": [
+    {
+      "id": "152026001037",
+      "numero": "15 2026/001037",
+      "fecha": "21/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001037",
+      "fecha_formatted": "2026-01-21",
+      "productos": [
+        {
+          "referencia": "16515",
+          "denominacion": "B-45 By Booba  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3355",
+          "denominacion": "Super Lemon Haze  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24411",
+          "denominacion": "Auto Diablo's Delight XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15780",
+          "denominacion": "Great White  Micorrizas   28 gr. Premium",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5627",
+          "denominacion": "Bolsa Cultivo Blanca 12 lt. 3 gal. - 43.5 cm. 50 ud.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "25640",
+          "denominacion": "White Gorilla  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6340",
+          "denominacion": "G14 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21783",
+          "denominacion": "Auto Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "2026000057",
       "numero": "2026/000057",
@@ -283,7 +368,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 47
+    "total_pedidos": 5,
+    "total_productos": 62
   }
 }
