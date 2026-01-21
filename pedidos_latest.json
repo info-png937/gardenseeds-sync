@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-21T15:39:27.515022",
+  "timestamp": "2026-01-21T17:00:16.075734",
   "pedidos": [
+    {
+      "id": "152026001048",
+      "numero": "15 2026/001048",
+      "fecha": "21/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001048",
+      "fecha_formatted": "2026-01-21",
+      "productos": [
+        {
+          "referencia": "NBL3",
+          "denominacion": "Nebula  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17151",
+          "denominacion": "Auto Strawberry Gum   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12845",
+          "denominacion": "Auto Dos Si Dos  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001037",
       "numero": "15 2026/001037",
@@ -393,7 +423,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 65
+    "total_pedidos": 7,
+    "total_productos": 69
   }
 }
