@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-21T14:37:30.502272",
+  "timestamp": "2026-01-21T15:39:27.515022",
   "pedidos": [
     {
       "id": "152026001037",
@@ -87,6 +87,31 @@
           "referencia": "14274",
           "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
           "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "2026000058",
+      "numero": "2026/000058",
+      "fecha": "21/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000058",
+      "fecha_formatted": "2026-01-21",
+      "productos": [
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -368,7 +393,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 62
+    "total_pedidos": 6,
+    "total_productos": 65
   }
 }
