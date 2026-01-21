@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-21T19:35:42.788277",
+  "timestamp": "2026-01-21T20:38:13.802975",
   "pedidos": [
+    {
+      "id": "152026001070",
+      "numero": "15 2026/001070",
+      "fecha": "21/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001070",
+      "fecha_formatted": "2026-01-21",
+      "productos": [
+        {
+          "referencia": "1008",
+          "denominacion": "Pineapple Chunk  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DP09",
+          "denominacion": "Armario Secret Jardin Dark Propagator R-4.0 - 0,9 x 0,6 x 1m",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "A00CH",
+          "denominacion": "Auto 00 Cheese   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21671",
+          "denominacion": "Auto Animal Zookies  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SCMX1L",
+          "denominacion": "Sensi Cal-Mag Xtra  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20723",
+          "denominacion": "Ipw 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19127",
+          "denominacion": "Camg 3.78 lt. Athena",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001048",
       "numero": "15 2026/001048",
@@ -423,7 +503,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 69
+    "total_pedidos": 8,
+    "total_productos": 83
   }
 }
