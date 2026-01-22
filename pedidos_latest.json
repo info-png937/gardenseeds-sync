@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-22T17:35:26.418853",
+  "timestamp": "2026-01-22T19:30:21.003376",
   "pedidos": [
+    {
+      "id": "152026001148",
+      "numero": "15 2026/001148",
+      "fecha": "22/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001148",
+      "fecha_formatted": "2026-01-22",
+      "productos": [
+        {
+          "referencia": "18501",
+          "denominacion": "Auto Sticky Orange XXl  5 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842A",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Blue Candy Jumbo  25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21842",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Pink Kush Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15246",
+          "denominacion": "Soporte Bandeja 120 x 120 cm. Metal. Para bandeja negra.",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001147",
+      "numero": "15 2026/001147",
+      "fecha": "22/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001147",
+      "fecha_formatted": "2026-01-22",
+      "productos": [
+        {
+          "referencia": "ASK3",
+          "denominacion": "Auto Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24298",
+          "denominacion": "RS11 x Banana OG  5 u. fem. Barney's x DOJA",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9698",
+          "denominacion": "Champions Cheese  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001131",
       "numero": "15 2026/001131",
@@ -438,7 +503,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 72
+    "total_pedidos": 9,
+    "total_productos": 81
   }
 }
