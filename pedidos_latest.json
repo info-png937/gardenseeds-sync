@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-22T11:48:27.191991",
+  "timestamp": "2026-01-22T13:02:00.762655",
   "pedidos": [
+    {
+      "id": "152026001109",
+      "numero": "15 2026/001109",
+      "fecha": "22/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001109",
+      "fecha_formatted": "2026-01-22",
+      "productos": [
+        {
+          "referencia": "7135",
+          "denominacion": "Auto Afghan Mass XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9592",
+          "denominacion": "HulkBerry  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D5245",
+          "denominacion": "Think Fast  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSS5",
+          "denominacion": "Skunk #1 -  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10734",
+          "denominacion": "Gorilla   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19429",
+          "denominacion": "Auto Alienz 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17224",
+          "denominacion": "Auto Mystic Cookie 1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20552",
+          "denominacion": "Auto Apple Fritter   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7621",
+          "denominacion": "California Gold  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21798",
+          "denominacion": "Apple Bananas  3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7577",
+          "denominacion": "Sweet Amnesia Haze  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14195",
+          "denominacion": "Controlador Climate  Humedad Digital",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25073",
+          "denominacion": "Prensa Rosin Graveda 15 Tn. (Placa 6x12 cm.)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001070",
       "numero": "15 2026/001070",
@@ -323,7 +408,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 53
+    "total_pedidos": 6,
+    "total_productos": 68
   }
 }
