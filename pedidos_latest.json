@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-22T14:58:24.830723",
+  "timestamp": "2026-01-22T16:42:13.217686",
   "pedidos": [
+    {
+      "id": "152026001131",
+      "numero": "15 2026/001131",
+      "fecha": "22/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001131",
+      "fecha_formatted": "2026-01-22",
+      "productos": [
+        {
+          "referencia": "PRO86",
+          "denominacion": "Killer Kush Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14474",
+          "denominacion": "Slurricane   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001109",
       "numero": "15 2026/001109",
@@ -408,7 +438,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 68
+    "total_pedidos": 7,
+    "total_productos": 72
   }
 }
