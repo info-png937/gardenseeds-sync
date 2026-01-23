@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-23T17:51:05.008914",
+  "timestamp": "2026-01-23T19:28:47.129081",
   "pedidos": [
+    {
+      "id": "152026001204",
+      "numero": "15 2026/001204",
+      "fecha": "23/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001204",
+      "fecha_formatted": "2026-01-23",
+      "productos": [
+        {
+          "referencia": "9698",
+          "denominacion": "Champions Cheese  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14195",
+          "denominacion": "Controlador Climate  Humedad Digital",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9566",
+          "denominacion": "Auto Stress Killer CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19364",
+          "denominacion": "Chantilly 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16292",
+          "denominacion": "GMO x Zombie Kush  3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14772",
+          "denominacion": "Do-Si-Dos Cookies Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20374",
+          "denominacion": "Coco Fresh 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20723",
+          "denominacion": "Ipw 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4014",
+          "denominacion": "Humidificador  Mist Maker  3 Membranas",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001203",
+      "numero": "15 2026/001203",
+      "fecha": "23/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001203",
+      "fecha_formatted": "2026-01-23",
+      "productos": [
+        {
+          "referencia": "OPM3",
+          "denominacion": "Opium  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15019",
+          "denominacion": "Chocolate Wafflez  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18351",
+          "denominacion": "Mimosa   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11673",
+          "denominacion": "OMG  1 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16292",
+          "denominacion": "GMO x Zombie Kush  3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19364",
+          "denominacion": "Chantilly 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20374",
+          "denominacion": "Coco Fresh 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14132",
+          "denominacion": "King´s Juice  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7809",
+          "denominacion": "Gorilla Zkitltez   1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14772",
+          "denominacion": "Do-Si-Dos Cookies Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8155",
+          "denominacion": "Bolsa Rosin Press 11x5 cm. Pack 10 u. 120 micras",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001148",
       "numero": "15 2026/001148",
@@ -208,7 +353,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 32
+    "total_pedidos": 6,
+    "total_productos": 57
   }
 }
