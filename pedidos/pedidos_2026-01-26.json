@@ -4,17 +4,8 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-26T10:33:44.387037",
+  "timestamp": "2026-01-26T11:26:35.591694",
   "pedidos": [
-    {
-      "id": "2026000079",
-      "numero": "2026/000079",
-      "fecha": "26/01/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000079",
-      "fecha_formatted": "2026-01-26",
-      "productos": [],
-      "origen": "hoy"
-    },
     {
       "id": "2026000077",
       "numero": "2026/000077",
@@ -151,13 +142,18 @@
           "referencia": "2632",
           "denominacion": "Portes",
           "cantidad": 1
+        },
+        {
+          "referencia": "14132",
+          "denominacion": "King´s Juice  3 u. fem. Green House",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 26
+    "total_pedidos": 1,
+    "total_productos": 27
   }
 }
