@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-26T15:35:52.811097",
+  "timestamp": "2026-01-26T16:41:00.835581",
   "pedidos": [
     {
       "id": "152026001293",
@@ -21,6 +21,11 @@
         {
           "referencia": "23099",
           "denominacion": "Bogota 6 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -469,6 +474,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 84
+    "total_productos": 85
   }
 }
