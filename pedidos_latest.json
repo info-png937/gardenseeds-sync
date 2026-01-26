@@ -4,8 +4,158 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-26T19:47:53.416984",
+  "timestamp": "2026-01-26T21:30:18.191473",
   "pedidos": [
+    {
+      "id": "152026001316",
+      "numero": "15 2026/001316",
+      "fecha": "26/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001316",
+      "fecha_formatted": "2026-01-26",
+      "productos": [
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20540",
+          "denominacion": "Korenji 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17137",
+          "denominacion": "Auto Critical Lemon CBD   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18976",
+          "denominacion": "Cañamo Cbd Xuxes Watermelon 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23101",
+          "denominacion": "Crispy Sugar 6 u. fem Cookies Seed Bank",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1542",
+          "denominacion": "Oxigenador Piedra Acuario 15 cm",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19118",
+          "denominacion": "Bloom A 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9587",
+          "denominacion": "Purple Queen 10 u. fem. Royal Queen",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001315",
+      "numero": "15 2026/001315",
+      "fecha": "26/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001315",
+      "fecha_formatted": "2026-01-26",
+      "productos": [
+        {
+          "referencia": "5456",
+          "denominacion": "Chocolate Skunk CBD   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ZK5R",
+          "denominacion": "Zombie Kush 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17137",
+          "denominacion": "Auto Critical Lemon CBD   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16291",
+          "denominacion": "Auto West Coast Og x Auto Gelato 41 - 10 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001293",
       "numero": "15 2026/001293",
@@ -473,7 +623,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 85
+    "total_pedidos": 6,
+    "total_productos": 111
   }
 }
