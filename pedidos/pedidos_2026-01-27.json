@@ -4,8 +4,183 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-27T20:52:21.660223",
+  "timestamp": "2026-01-27T21:25:07.211707",
   "pedidos": [
+    {
+      "id": "152026001398",
+      "numero": "15 2026/001398",
+      "fecha": "27/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001398",
+      "fecha_formatted": "2026-01-27",
+      "productos": [
+        {
+          "referencia": "13152",
+          "denominacion": "Recovery CBD  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16025",
+          "denominacion": "Lockdown Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15010",
+          "denominacion": "Ona Spray Fruit Fusion 250 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3995",
+          "denominacion": "Aerofarm 2'' General Hydroponics  48/72 h.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21057",
+          "denominacion": "Lemon Cherry Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8574",
+          "denominacion": "Auto Sweet Cheese XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24760",
+          "denominacion": "Payton Rainbow 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3756",
+          "denominacion": "2046 -  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18226",
+          "denominacion": "Tightvac Bote Hermetico  0.06 lt.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "4562",
+          "denominacion": "Auto Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "MG4U",
+          "denominacion": "Melon Gum 4 u. fem. Dr Underground",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9539",
+          "denominacion": "Chocolate Haze  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5407",
+          "denominacion": "Auto Anesthesia  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15617",
+          "denominacion": "Moby Dick 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8126",
+          "denominacion": "Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "20959",
+          "denominacion": "Apples and Bananas 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15433",
+          "denominacion": "Cones Original Super Sized 180 mm. 1 ud. x 24 Blisters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5627",
+          "denominacion": "Bolsa Cultivo Blanca 12 lt. 3 gal. - 43.5 cm. 50 ud.",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "2026000084",
       "numero": "2026/000084",
@@ -773,7 +948,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 139
+    "total_pedidos": 8,
+    "total_productos": 172
   }
 }
