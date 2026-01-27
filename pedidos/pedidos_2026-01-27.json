@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-27T21:45:36.548111",
+  "timestamp": "2026-01-27T23:28:53.158824",
   "pedidos": [
+    {
+      "id": "152026001399",
+      "numero": "15 2026/001399",
+      "fecha": "27/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001399",
+      "fecha_formatted": "2026-01-27",
+      "productos": [
+        {
+          "referencia": "16291",
+          "denominacion": "Auto West Coast Og x Auto Gelato 41 - 10 u. fem. Green House",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001398",
       "numero": "15 2026/001398",
@@ -948,7 +963,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 8,
-    "total_productos": 172
+    "total_pedidos": 9,
+    "total_productos": 173
   }
 }
