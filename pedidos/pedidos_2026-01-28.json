@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-28T17:37:27.795488",
+  "timestamp": "2026-01-28T18:44:20.774275",
   "pedidos": [
     {
       "id": "2026000090",
@@ -196,6 +196,16 @@
         {
           "referencia": "2632",
           "denominacion": "Portes",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4562",
+          "denominacion": "Auto Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16291",
+          "denominacion": "Auto West Coast Og x Auto Gelato 41 - 10 u. fem. Green House",
           "cantidad": 1
         }
       ],
@@ -544,6 +554,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 99
+    "total_productos": 101
   }
 }
