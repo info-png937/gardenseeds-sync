@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-29T07:44:14.012559",
+  "timestamp": "2026-01-29T08:49:47.556349",
   "pedidos": [
     {
       "id": "152026001460",
@@ -17,17 +17,72 @@
           "referencia": "20535",
           "denominacion": "Shimo 5 u. fem. Ripper Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026001459",
-      "numero": "15 2026/001459",
-      "fecha": "28/01/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001459",
-      "fecha_formatted": "2026-01-28",
-      "productos": [
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20801",
+          "denominacion": "Rainbow Mints   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10722",
+          "denominacion": "Blueberry   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15865",
+          "denominacion": "Auto North Thunderfuck  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16438",
+          "denominacion": "Xupet  3 u. fem R-Kiem Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17168",
+          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13232",
+          "denominacion": "Zamaldelica 1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20535",
+          "denominacion": "Shimo 5 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
         {
           "referencia": "CC100",
           "denominacion": "Cream Caramel 100 u. fem. Granel Profesionales Sweet Seeds",
@@ -122,81 +177,11 @@
           "referencia": "17168",
           "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026001458",
-      "numero": "15 2026/001458",
-      "fecha": "28/01/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001458",
-      "fecha_formatted": "2026-01-28",
-      "productos": [
-        {
-          "referencia": "16481",
-          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
-          "cantidad": 3
         },
         {
-          "referencia": "20801",
-          "denominacion": "Rainbow Mints   5 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "18352",
-          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "16468",
-          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "10722",
-          "denominacion": "Blueberry   3 u. fem. 00 Seeds",
-          "cantidad": 6
-        },
-        {
-          "referencia": "CS00",
-          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "15865",
-          "denominacion": "Auto North Thunderfuck  1 u. fem. Royal Queen",
-          "cantidad": 3
-        },
-        {
-          "referencia": "7591",
-          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "16438",
-          "denominacion": "Xupet  3 u. fem R-Kiem Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "17168",
-          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "13232",
-          "denominacion": "Zamaldelica 1 u. fem. Ace Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "20535",
-          "denominacion": "Shimo 5 u. fem. Ripper Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "3551",
-          "denominacion": "1024 -  3 u. fem. Medical Seeds",
-          "cantidad": 2
         }
       ],
       "origen": "ayer"
@@ -408,7 +393,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 72
+    "total_pedidos": 2,
+    "total_productos": 73
   }
 }
