@@ -4,8 +4,188 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-29T19:53:33.404372",
+  "timestamp": "2026-01-29T20:37:44.718457",
   "pedidos": [
+    {
+      "id": "152026001535",
+      "numero": "15 2026/001535",
+      "fecha": "29/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001535",
+      "fecha_formatted": "2026-01-29",
+      "productos": [
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5433",
+          "denominacion": "Auto Amnesia Gold  3  u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11846",
+          "denominacion": "Auto Purplematic CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5352",
+          "denominacion": "Super Og Kush  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7316",
+          "denominacion": "Auto New York City CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20555A",
+          "denominacion": "Auto Forbidden Fruit Cake   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17137",
+          "denominacion": "Auto Critical Lemon CBD   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18853",
+          "denominacion": "Auto Mimosa Punch   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "33807A",
+          "denominacion": ".Vaporizador PAX3 Plus Starter Kit Periwinkle",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24267",
+          "denominacion": "Zoap 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13090",
+          "denominacion": "Auto White Widow XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS6",
+          "denominacion": "Automatic Collection #6 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 8
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001534",
+      "numero": "15 2026/001534",
+      "fecha": "29/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001534",
+      "fecha_formatted": "2026-01-29",
+      "productos": [
+        {
+          "referencia": "19364",
+          "denominacion": "Chantilly 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WW3F",
+          "denominacion": "White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11846",
+          "denominacion": "Auto Purplematic CBD  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13090",
+          "denominacion": "Auto White Widow XXL   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "NLGN",
+          "denominacion": "Auto Northern Light  5 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ACAS6",
+          "denominacion": "Automatic Collection #6 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MWAS",
+          "denominacion": "Malawi 3 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9745",
+          "denominacion": "AK420 fem.  5 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20577",
+          "denominacion": "Critical Lemon Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001496",
       "numero": "15 2026/001496",
@@ -523,7 +703,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 97
+    "total_pedidos": 5,
+    "total_productos": 129
   }
 }
