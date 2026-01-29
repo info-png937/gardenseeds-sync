@@ -4,8 +4,138 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-29T11:36:15.423308",
+  "timestamp": "2026-01-29T13:08:52.595980",
   "pedidos": [
+    {
+      "id": "152026001496",
+      "numero": "15 2026/001496",
+      "fecha": "29/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001496",
+      "fecha_formatted": "2026-01-29",
+      "productos": [
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19257",
+          "denominacion": "Ice Cream Cake 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3387",
+          "denominacion": "Channel +  5 u. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2526",
+          "denominacion": "Ice Cream  5 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6420",
+          "denominacion": "Gorilla Glue Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6192",
+          "denominacion": "Critical Kush  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6829",
+          "denominacion": "CBD Crack Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13535",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19810",
+          "denominacion": "GMA Mints 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24267",
+          "denominacion": "Zoap 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24266",
+          "denominacion": "Zoap  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18495",
+          "denominacion": "Tangerine Sugar  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9154",
+          "denominacion": "Sour Diesel 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7979",
+          "denominacion": "Auto California Kush 100 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "25644",
+          "denominacion": "Gorilla Ghost  2 u. fem BSF Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14531",
+          "denominacion": "Llimonet Haze CBD 3 u. fem. Elite Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9628",
+          "denominacion": "Auto Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15140",
+          "denominacion": "Auto Strawberry Cheesecake  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15141",
+          "denominacion": "Auto Strawberry Cheesecake  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19384",
+          "denominacion": "Auto Fire DOG   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001460",
       "numero": "15 2026/001460",
@@ -393,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 73
+    "total_pedidos": 3,
+    "total_productos": 97
   }
 }
