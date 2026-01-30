@@ -4,8 +4,83 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-30T14:08:00.973714",
+  "timestamp": "2026-01-30T15:04:33.222184",
   "pedidos": [
+    {
+      "id": "152026001571",
+      "numero": "15 2026/001571",
+      "fecha": "30/01/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001571",
+      "fecha_formatted": "2026-01-30",
+      "productos": [
+        {
+          "referencia": "11809",
+          "denominacion": "Cookies Gelato  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14729",
+          "denominacion": "Grape Amnesia  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12085",
+          "denominacion": "Only CBD 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12074",
+          "denominacion": "Satin Black Domina CBD  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WM3R",
+          "denominacion": "Washing Machine 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14404",
+          "denominacion": "Amnesia x Zombie Kush 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15462",
+          "denominacion": "Auto Watermelon Og  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6264",
+          "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
+          "cantidad": 9
+        },
+        {
+          "referencia": "11944",
+          "denominacion": "Auto Northern Lights XXL  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15792",
+          "denominacion": "Cherry Cola Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15621",
+          "denominacion": "Original Amnesia  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16437",
+          "denominacion": "Xupet  1 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001535",
       "numero": "15 2026/001535",
@@ -393,7 +468,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 71
+    "total_pedidos": 4,
+    "total_productos": 84
   }
 }
