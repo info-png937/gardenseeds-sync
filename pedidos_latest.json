@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-01-30T08:47:53.125372",
+  "timestamp": "2026-01-30T09:46:04.589111",
   "pedidos": [
     {
       "id": "152026001535",
@@ -102,6 +102,81 @@
           "referencia": "BH15",
           "denominacion": "Bactohemp  10 gr. Agrobacterias",
           "cantidad": 8
+        },
+        {
+          "referencia": "19364",
+          "denominacion": "Chantilly 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WW3F",
+          "denominacion": "White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11846",
+          "denominacion": "Auto Purplematic CBD  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13090",
+          "denominacion": "Auto White Widow XXL   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "NLGN",
+          "denominacion": "Auto Northern Light  5 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ACAS6",
+          "denominacion": "Automatic Collection #6 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MWAS",
+          "denominacion": "Malawi 3 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9745",
+          "denominacion": "AK420 fem.  5 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20577",
+          "denominacion": "Critical Lemon Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -319,6 +394,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 56
+    "total_productos": 71
   }
 }
