@@ -4,10 +4,41 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-01T11:47:30.671497",
-  "pedidos": [],
+  "timestamp": "2026-02-01T13:59:35.418670",
+  "pedidos": [
+    {
+      "id": "152026001596",
+      "numero": "15 2026/001596",
+      "fecha": "01/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001596",
+      "fecha_formatted": "2026-02-01",
+      "productos": [
+        {
+          "referencia": "19579",
+          "denominacion": "Sujeta Cigarro Silicona Dedo 10 ud. Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15780",
+          "denominacion": "Great White  Micorrizas   28 gr. Premium",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4021",
+          "denominacion": "Cones Original Party 140 mm. 1 ud. x 24 Blisters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10719",
+          "denominacion": "Auto Sweet Critical   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 4
   }
 }
