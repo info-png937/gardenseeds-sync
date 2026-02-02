@@ -4,8 +4,183 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-02T18:06:50.594146",
+  "timestamp": "2026-02-02T23:34:45.914510",
   "pedidos": [
+    {
+      "id": "152026001717",
+      "numero": "15 2026/001717",
+      "fecha": "02/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001717",
+      "fecha_formatted": "2026-02-02",
+      "productos": [
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1928",
+          "denominacion": "Termostato TA 1002",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AEP3",
+          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BK1",
+          "denominacion": "Bubble Kush  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MMRQ1",
+          "denominacion": "Medical mass  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ASC3",
+          "denominacion": "Auto Super Critical  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14195",
+          "denominacion": "Controlador Climate  Humedad Digital",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5427",
+          "denominacion": "Auto Tutankhamon  3 u. fem. Pyramid seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8111",
+          "denominacion": "Strawberry Gum   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2047",
+          "denominacion": "Hemplex 250 ml.Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33822",
+          "denominacion": "PAX Inlet Concentradox Pax 3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9608",
+          "denominacion": "Green Punch  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9618",
+          "denominacion": "North Thunderfuck  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21818",
+          "denominacion": "Black Muffin Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19255",
+          "denominacion": "Ice Cream Cake  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21052",
+          "denominacion": "Guava Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21752",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Sweet Mandarin Jumbo 25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16469",
+          "denominacion": "Auto Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24067",
+          "denominacion": "Gorilla Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21209",
+          "denominacion": "Carbobloom Powder   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10719",
+          "denominacion": "Auto Sweet Critical   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BG200",
+          "denominacion": "Bactogel 200 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001716",
+      "numero": "15 2026/001716",
+      "fecha": "02/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001716",
+      "fecha_formatted": "2026-02-02",
+      "productos": [
+        {
+          "referencia": "7509",
+          "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B3FD",
+          "denominacion": "Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001672",
       "numero": "15 2026/001672",
@@ -413,7 +588,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 75
+    "total_pedidos": 5,
+    "total_productos": 106
   }
 }
