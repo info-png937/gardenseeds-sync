@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-02T14:13:00.519913",
+  "timestamp": "2026-02-02T15:09:30.724557",
   "pedidos": [
+    {
+      "id": "152026001672",
+      "numero": "15 2026/001672",
+      "fecha": "02/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001672",
+      "fecha_formatted": "2026-02-02",
+      "productos": [
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25642",
+          "denominacion": "White Gorilla  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24067",
+          "denominacion": "Gorilla Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MP3",
+          "denominacion": "Mendocino Purple Kush  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19255",
+          "denominacion": "Ice Cream Cake  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "1878",
+          "denominacion": "Super Silver Haze 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "C1F",
+          "denominacion": "Criminal  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24156",
+          "denominacion": "Sativa Des Rois  1 u. fem French Touch Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25578",
+          "denominacion": "Auto Blueberry XXL  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MMRQ1",
+          "denominacion": "Medical mass  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CL1P",
+          "denominacion": "Cum Laude  1 u. fem Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3966",
+          "denominacion": "Jamaican Dream 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5427",
+          "denominacion": "Auto Tutankhamon  3 u. fem. Pyramid seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "V3FP",
+          "denominacion": "Vertigo  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "9740",
+          "denominacion": "Auto AK420 fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25580",
+          "denominacion": "El Gaucho Faster Flowering  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9618",
+          "denominacion": "North Thunderfuck  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 20
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001611",
       "numero": "15 2026/001611",
@@ -263,7 +408,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 47
+    "total_pedidos": 3,
+    "total_productos": 74
   }
 }
