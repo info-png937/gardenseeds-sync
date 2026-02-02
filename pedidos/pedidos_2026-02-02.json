@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-02T09:57:45.445778",
+  "timestamp": "2026-02-02T10:56:06.740998",
   "pedidos": [
+    {
+      "id": "152026001611",
+      "numero": "15 2026/001611",
+      "fecha": "02/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001611",
+      "fecha_formatted": "2026-02-02",
+      "productos": [
+        {
+          "referencia": "13230",
+          "denominacion": "Panama  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15787",
+          "denominacion": "Gorilla Zkittlez Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10719",
+          "denominacion": "Auto Sweet Critical   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ASC3",
+          "denominacion": "Auto Super Critical  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21052",
+          "denominacion": "Guava Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PRO94",
+          "denominacion": "SAD Fast Version   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19810",
+          "denominacion": "GMA Mints 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13979",
+          "denominacion": "pH Perfect Sensi  Coco Bloom B 10 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001596",
       "numero": "15 2026/001596",
@@ -188,7 +268,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 34
+    "total_pedidos": 2,
+    "total_productos": 48
   }
 }
