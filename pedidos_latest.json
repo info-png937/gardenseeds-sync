@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-02T07:53:43.167860",
+  "timestamp": "2026-02-02T08:53:02.716191",
   "pedidos": [
     {
       "id": "152026001596",
@@ -32,6 +32,156 @@
           "referencia": "10719",
           "denominacion": "Auto Sweet Critical   3 u. fem. 00 Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "18865",
+          "denominacion": "Forbidden Fruit Cake   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3447",
+          "denominacion": "Jack La Mota  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15767",
+          "denominacion": "Strawberry Cake CBD  5 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20571",
+          "denominacion": "Animal Zookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17138",
+          "denominacion": "Auto Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9807",
+          "denominacion": "Golden Lemon Haze fem.  1 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11802",
+          "denominacion": "El Patron  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS6",
+          "denominacion": "Automatic Collection #6 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "ACAS5",
+          "denominacion": "Automatic Collection #5 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BK1",
+          "denominacion": "Bubble Kush  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11859",
+          "denominacion": "Plant of Life Balsamo Cannatiger  Cbd 3 %  5 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9608",
+          "denominacion": "Green Punch  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "28171",
+          "denominacion": "Ph Down Bloom 1 lt. Advanced Hydroponics",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20571",
+          "denominacion": "Animal Zookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21209",
+          "denominacion": "Carbobloom Powder   20 gr. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12074",
+          "denominacion": "Satin Black Domina CBD  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -39,6 +189,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 4
+    "total_productos": 34
   }
 }
