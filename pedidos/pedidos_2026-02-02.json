@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-02T16:01:21.164266",
+  "timestamp": "2026-02-02T17:11:19.928969",
   "pedidos": [
     {
       "id": "152026001672",
@@ -146,6 +146,11 @@
         {
           "referencia": "APL",
           "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1878",
+          "denominacion": "Super Silver Haze 10 u. fem. Green House",
           "cantidad": 1
         }
       ],
@@ -409,6 +414,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 74
+    "total_productos": 75
   }
 }
