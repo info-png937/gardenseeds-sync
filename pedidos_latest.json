@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-03T07:50:40.800723",
+  "timestamp": "2026-02-03T08:46:09.572334",
   "pedidos": [
     {
       "id": "152026001717",
@@ -157,17 +157,7 @@
           "referencia": "12985",
           "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026001716",
-      "numero": "15 2026/001716",
-      "fecha": "02/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001716",
-      "fecha_formatted": "2026-02-02",
-      "productos": [
+        },
         {
           "referencia": "7509",
           "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
@@ -177,6 +167,11 @@
           "referencia": "B3FD",
           "denominacion": "Blueberry  3 u. fem. Dutch Passion",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -413,7 +408,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 73
+    "total_pedidos": 3,
+    "total_productos": 74
   }
 }
