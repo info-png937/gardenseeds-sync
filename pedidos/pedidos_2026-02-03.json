@@ -4,8 +4,123 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-03T14:27:08.724177",
+  "timestamp": "2026-02-03T15:13:15.669538",
   "pedidos": [
+    {
+      "id": "152026001781",
+      "numero": "15 2026/001781",
+      "fecha": "03/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001781",
+      "fecha_formatted": "2026-02-03",
+      "productos": [
+        {
+          "referencia": "17612",
+          "denominacion": "Polar Gelato  \"by Sherbinskis\"   3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15802",
+          "denominacion": "Strawberry Gorilla Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12319",
+          "denominacion": "Skunk Dream CBD  3 u. fem. Sensi Seeds Research",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7306",
+          "denominacion": "Anesthesia CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23894",
+          "denominacion": "Blue Dream  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20575",
+          "denominacion": "Critical Lemon Fast  1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6132",
+          "denominacion": "Amnesia Lemon  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17191",
+          "denominacion": "Gelato #47 - 1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19276",
+          "denominacion": "Runtz  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14993",
+          "denominacion": "Velvet Moon  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20827",
+          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACC25",
+          "denominacion": "Auto Cream Caramel  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7581",
+          "denominacion": "Auto Dark Devil  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6175",
+          "denominacion": "Amnesia Lemon  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25644",
+          "denominacion": "Gorilla Ghost  2 u. fem BSF Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001717",
       "numero": "15 2026/001717",
@@ -408,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 74
+    "total_pedidos": 4,
+    "total_productos": 95
   }
 }
