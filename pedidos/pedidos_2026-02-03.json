@@ -4,8 +4,148 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-03T17:32:10.304655",
+  "timestamp": "2026-02-03T19:03:14.506635",
   "pedidos": [
+    {
+      "id": "152026001804",
+      "numero": "15 2026/001804",
+      "fecha": "03/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001804",
+      "fecha_formatted": "2026-02-03",
+      "productos": [
+        {
+          "referencia": "14533",
+          "denominacion": "Juanita La Lagrimosa 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14272",
+          "denominacion": "Blue Sunset Sherbet  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "31403",
+          "denominacion": "Liadora Caja Metal 1.1/4 - 78 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "31404",
+          "denominacion": "Liadora Caja Metal 1.1/4 - 78 mm. OCB",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20540",
+          "denominacion": "Korenji 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18985",
+          "denominacion": "Hash Cbd Xuxes Tangie 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23894",
+          "denominacion": "Blue Dream  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS5",
+          "denominacion": "Automatic Collection #5 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001803",
+      "numero": "15 2026/001803",
+      "fecha": "03/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001803",
+      "fecha_formatted": "2026-02-03",
+      "productos": [
+        {
+          "referencia": "3203",
+          "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PRO83",
+          "denominacion": "Jack 47 Fast Version 3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25578",
+          "denominacion": "Auto Blueberry XXL  7 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5258",
+          "denominacion": "Ayahuasca Purple  5 u. fem. Barney`s",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14272",
+          "denominacion": "Blue Sunset Sherbet  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20846",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "20847",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "C5F",
+          "denominacion": "Criminal  5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20540",
+          "denominacion": "Korenji 3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CAB1B",
+          "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001781",
       "numero": "15 2026/001781",
@@ -523,7 +663,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 95
+    "total_pedidos": 6,
+    "total_productos": 119
   }
 }
