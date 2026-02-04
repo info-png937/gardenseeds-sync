@@ -4,8 +4,128 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-04T13:11:53.113494",
+  "timestamp": "2026-02-04T14:25:28.506478",
   "pedidos": [
+    {
+      "id": "152026001864",
+      "numero": "15 2026/001864",
+      "fecha": "04/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001864",
+      "fecha_formatted": "2026-02-04",
+      "productos": [
+        {
+          "referencia": "9241",
+          "denominacion": "Auto Amnesia Haze 3+1 u. fem. Vision Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9584",
+          "denominacion": "Purple Queen  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21072",
+          "denominacion": "Sour Jealousy Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2292",
+          "denominacion": "Hawaiian Snow  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "JH3F",
+          "denominacion": "Jack Herer  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13803",
+          "denominacion": "Northern Lights  1 u. fem. Expert Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "GP25S",
+          "denominacion": "Green Poison  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12272",
+          "denominacion": "Mimosa EVO  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8292",
+          "denominacion": "Strawberry Lemonade  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13084",
+          "denominacion": "Auto Somango Glue  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15464",
+          "denominacion": "Strawberry Banana   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17033",
+          "denominacion": "Rucu Cucu OG fem.  3 u. Seedstockers Superior",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17383",
+          "denominacion": "Sweet Somango Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9587",
+          "denominacion": "Purple Queen 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6952",
+          "denominacion": "Auto Orange Bud 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20272",
+          "denominacion": "Snoop's Punch 6 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20820",
+          "denominacion": "Orange Bud 2.0 -  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21427",
+          "denominacion": "Bruce Banner #3 -  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14497",
+          "denominacion": "Auto Slurricane  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18353",
+          "denominacion": "Mimosa  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001804",
       "numero": "15 2026/001804",
@@ -258,7 +378,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 46
+    "total_pedidos": 3,
+    "total_productos": 68
   }
 }
