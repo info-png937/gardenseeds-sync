@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-04T07:51:14.945507",
+  "timestamp": "2026-02-04T08:52:11.751327",
   "pedidos": [
     {
       "id": "152026001804",
@@ -72,17 +72,7 @@
           "referencia": "19128",
           "denominacion": "Cleanse 0.94 lt. Athena",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026001803",
-      "numero": "15 2026/001803",
-      "fecha": "03/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001803",
-      "fecha_formatted": "2026-02-03",
-      "productos": [
+        },
         {
           "referencia": "3203",
           "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
@@ -142,6 +132,11 @@
           "referencia": "CAB1B",
           "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -263,7 +258,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 45
+    "total_pedidos": 2,
+    "total_productos": 46
   }
 }
