@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-05T19:23:22.394712",
+  "timestamp": "2026-02-05T19:59:53.648126",
   "pedidos": [
+    {
+      "id": "152026001961",
+      "numero": "15 2026/001961",
+      "fecha": "05/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001961",
+      "fecha_formatted": "2026-02-05",
+      "productos": [
+        {
+          "referencia": "17165",
+          "denominacion": "Critical Purple Kush   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14497",
+          "denominacion": "Auto Slurricane  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MCP15",
+          "denominacion": "Manguito Corona 150 mm. Plástico",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026001960",
+      "numero": "15 2026/001960",
+      "fecha": "05/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001960",
+      "fecha_formatted": "2026-02-05",
+      "productos": [
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19274",
+          "denominacion": "Runtz  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17165",
+          "denominacion": "Critical Purple Kush   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001935",
       "numero": "15 2026/001935",
@@ -443,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 83
+    "total_pedidos": 4,
+    "total_productos": 95
   }
 }
