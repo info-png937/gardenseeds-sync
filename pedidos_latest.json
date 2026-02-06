@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-06T14:14:23.654411",
+  "timestamp": "2026-02-06T15:10:13.972743",
   "pedidos": [
     {
       "id": "152026001997",
@@ -102,6 +102,11 @@
           "referencia": "25485",
           "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
           "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -494,6 +499,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 91
+    "total_productos": 92
   }
 }
