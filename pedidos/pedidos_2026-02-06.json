@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-06T08:03:10.654212",
+  "timestamp": "2026-02-06T10:08:53.179424",
   "pedidos": [
     {
       "id": "152026001961",
@@ -42,17 +42,7 @@
           "referencia": "3718",
           "denominacion": "Malla Pirámide",
           "cantidad": 6
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026001960",
-      "numero": "15 2026/001960",
-      "fecha": "05/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001960",
-      "fecha_formatted": "2026-02-05",
-      "productos": [
+        },
         {
           "referencia": "6258",
           "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
@@ -82,6 +72,11 @@
           "referencia": "BG00",
           "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -398,7 +393,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 72
+    "total_pedidos": 2,
+    "total_productos": 73
   }
 }
