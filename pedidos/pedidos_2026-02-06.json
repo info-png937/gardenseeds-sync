@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-06T15:10:13.972743",
+  "timestamp": "2026-02-06T16:06:41.768153",
   "pedidos": [
+    {
+      "id": "152026002001",
+      "numero": "15 2026/002001",
+      "fecha": "06/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002001",
+      "fecha_formatted": "2026-02-06",
+      "productos": [
+        {
+          "referencia": "9593",
+          "denominacion": "HulkBerry  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001997",
       "numero": "15 2026/001997",
@@ -498,7 +518,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 92
+    "total_pedidos": 4,
+    "total_productos": 94
   }
 }
