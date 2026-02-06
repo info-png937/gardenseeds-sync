@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-06T18:08:11.296073",
+  "timestamp": "2026-02-06T19:23:01.286579",
   "pedidos": [
+    {
+      "id": "152026002008",
+      "numero": "15 2026/002008",
+      "fecha": "06/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002008",
+      "fecha_formatted": "2026-02-06",
+      "productos": [
+        {
+          "referencia": "9245",
+          "denominacion": "Auto La Blanca Gold 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11524",
+          "denominacion": "Girl Scout Cookies fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8292",
+          "denominacion": "Strawberry Lemonade  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8578",
+          "denominacion": "Auto Jack 47 XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002001",
       "numero": "15 2026/002001",
@@ -518,7 +558,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 94
+    "total_pedidos": 5,
+    "total_productos": 100
   }
 }
