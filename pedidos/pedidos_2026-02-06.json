@@ -4,8 +4,108 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-06T13:13:48.094972",
+  "timestamp": "2026-02-06T14:14:23.654411",
   "pedidos": [
+    {
+      "id": "152026001997",
+      "numero": "15 2026/001997",
+      "fecha": "06/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026001997",
+      "fecha_formatted": "2026-02-06",
+      "productos": [
+        {
+          "referencia": "9193",
+          "denominacion": "Glookies 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "30520",
+          "denominacion": "Papel de fumar Pay Pay Gogreen 1.1/4 Bloc 300 - 40 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SCF3",
+          "denominacion": "Strawberry Cough  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N0003",
+          "denominacion": "Neville's Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13011",
+          "denominacion": "Banana Zkittlez  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17140",
+          "denominacion": "Auto Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10737",
+          "denominacion": "Sweet Somango   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13081",
+          "denominacion": "Auto Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24913",
+          "denominacion": "Hella Jelly 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "16998",
+          "denominacion": "Blue Dream Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14421",
+          "denominacion": "Sweet Critical Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "A00CH",
+          "denominacion": "Auto 00 Cheese   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3447",
+          "denominacion": "Jack La Mota  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026001961",
       "numero": "15 2026/001961",
@@ -393,7 +493,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 73
+    "total_pedidos": 3,
+    "total_productos": 91
   }
 }
