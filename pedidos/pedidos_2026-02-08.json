@@ -4,10 +4,56 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-08T17:32:20.698561",
-  "pedidos": [],
+  "timestamp": "2026-02-08T18:44:20.540747",
+  "pedidos": [
+    {
+      "id": "152026002020",
+      "numero": "15 2026/002020",
+      "fecha": "08/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002020",
+      "fecha_formatted": "2026-02-08",
+      "productos": [
+        {
+          "referencia": "18490",
+          "denominacion": "Tezla OG  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17100",
+          "denominacion": "Camuflaje Pila AA",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21408",
+          "denominacion": "Auto Mai Tai 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24913",
+          "denominacion": "Hella Jelly 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9255",
+          "denominacion": "Auto White Widow 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13514",
+          "denominacion": "Bascula Digital Tanita 1479 J2 - 200 - 0.01 gr.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 7
   }
 }
