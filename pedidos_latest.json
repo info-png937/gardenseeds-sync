@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-09T08:00:05.614815",
+  "timestamp": "2026-02-09T09:06:06.861632",
   "pedidos": [
     {
       "id": "152026002020",
@@ -47,6 +47,41 @@
           "referencia": "13514",
           "denominacion": "Bascula Digital Tanita 1479 J2 - 200 - 0.01 gr.",
           "cantidad": 1
+        },
+        {
+          "referencia": "9245",
+          "denominacion": "Auto La Blanca Gold 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11524",
+          "denominacion": "Girl Scout Cookies fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8292",
+          "denominacion": "Strawberry Lemonade  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8578",
+          "denominacion": "Auto Jack 47 XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -54,6 +89,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 7
+    "total_productos": 14
   }
 }
