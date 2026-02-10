@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-10T08:01:15.615929",
+  "timestamp": "2026-02-10T10:58:41.028601",
   "pedidos": [
     {
       "id": "152026002110",
@@ -17,17 +17,167 @@
           "referencia": "18400",
           "denominacion": "Grow Kit Golden Teacher",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002109",
-      "numero": "15 2026/002109",
-      "fecha": "09/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002109",
-      "fecha_formatted": "2026-02-09",
-      "productos": [
+        },
+        {
+          "referencia": "21060",
+          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14161",
+          "denominacion": "Auto Mimosa  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18492",
+          "denominacion": "Auto Sticky Orange XXl  3 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8467",
+          "denominacion": "Brain Cake 5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9255",
+          "denominacion": "Auto White Widow 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12279",
+          "denominacion": "Banana Frosting  3 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3759",
+          "denominacion": "Prozac  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21408",
+          "denominacion": "Auto Mai Tai 5 u fem Ed.Especial Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14535",
+          "denominacion": "Auto La Rica CBD 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 20
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 30
+        },
+        {
+          "referencia": "AKB1",
+          "denominacion": "Auto Kritikal Bilbo  1 u. fem. Genehtik",
+          "cantidad": 15
+        },
+        {
+          "referencia": "7810",
+          "denominacion": "Gorilla Zkitltez   3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21427",
+          "denominacion": "Bruce Banner #3 -  3 u. fem Anesia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18539",
+          "denominacion": "Auto Titan F1 -  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5379",
+          "denominacion": "Blue Pyramid 3 u. Fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14270",
+          "denominacion": "Blue Sunset Sherbet  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "RME1",
+          "denominacion": "Royal Medic  1 u.  fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24864",
+          "denominacion": "Blueberry Pancakes 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NCBD3",
+          "denominacion": "Nebula II CBD  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13179",
+          "denominacion": "Auto Critical Lemon CBD   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6264",
+          "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "SC1F",
+          "denominacion": "Super Critical 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AS3",
+          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11461",
+          "denominacion": "Dos Si Dos 33 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14479",
+          "denominacion": "Watermelon OG   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14297",
+          "denominacion": "Orient Express 1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
         {
           "referencia": "6264",
           "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
@@ -192,176 +342,11 @@
           "referencia": "MCP15",
           "denominacion": "Manguito Corona 150 mm. Plástico",
           "cantidad": 10
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002108",
-      "numero": "15 2026/002108",
-      "fecha": "09/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002108",
-      "fecha_formatted": "2026-02-09",
-      "productos": [
-        {
-          "referencia": "21060",
-          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
-          "cantidad": 4
         },
         {
-          "referencia": "14161",
-          "denominacion": "Auto Mimosa  3 u. fem. Royal Queen",
-          "cantidad": 2
-        },
-        {
-          "referencia": "18492",
-          "denominacion": "Auto Sticky Orange XXl  3 u. fem. Sensi Seeds Research",
-          "cantidad": 2
-        },
-        {
-          "referencia": "8467",
-          "denominacion": "Brain Cake 5 u. fem. Ripper Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "9255",
-          "denominacion": "Auto White Widow 3+1 u. fem. Vision Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "D2259",
-          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
-          "cantidad": 2
-        },
-        {
-          "referencia": "12279",
-          "denominacion": "Banana Frosting  3 u. fem. Sensi Seeds Research",
-          "cantidad": 2
-        },
-        {
-          "referencia": "3551",
-          "denominacion": "1024 -  3 u. fem. Medical Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "3759",
-          "denominacion": "Prozac  3 u. fem. Medical Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21408",
-          "denominacion": "Auto Mai Tai 5 u fem Ed.Especial Philosopher",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14535",
-          "denominacion": "Auto La Rica CBD 7 u. fem. Elite Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "KB5F",
-          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
-          "cantidad": 20
-        },
-        {
-          "referencia": "KB1F",
-          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
-          "cantidad": 30
-        },
-        {
-          "referencia": "AKB1",
-          "denominacion": "Auto Kritikal Bilbo  1 u. fem. Genehtik",
-          "cantidad": 15
-        },
-        {
-          "referencia": "7810",
-          "denominacion": "Gorilla Zkitltez   3 u. fem. Barney's",
-          "cantidad": 3
-        },
-        {
-          "referencia": "21427",
-          "denominacion": "Bruce Banner #3 -  3 u. fem Anesia",
-          "cantidad": 3
-        },
-        {
-          "referencia": "18539",
-          "denominacion": "Auto Titan F1 -  5 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "5379",
-          "denominacion": "Blue Pyramid 3 u. Fem. Pyramid Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14270",
-          "denominacion": "Blue Sunset Sherbet  1 u. fem. Barney's",
-          "cantidad": 5
-        },
-        {
-          "referencia": "RME1",
-          "denominacion": "Royal Medic  1 u.  fem. Royal Queen",
-          "cantidad": 5
-        },
-        {
-          "referencia": "24864",
-          "denominacion": "Blueberry Pancakes 3 u. fem Humboldt Seeds Company",
-          "cantidad": 1
-        },
-        {
-          "referencia": "NCBD3",
-          "denominacion": "Nebula II CBD  3 u. fem. Paradise Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "13179",
-          "denominacion": "Auto Critical Lemon CBD   1 u. fem. Advanced Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "6264",
-          "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
-          "cantidad": 7
-        },
-        {
-          "referencia": "SC1F",
-          "denominacion": "Super Critical 10 u. fem. Green House",
-          "cantidad": 1
-        },
-        {
-          "referencia": "AS3",
-          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "KBAK5G",
-          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
-          "cantidad": 2
-        },
-        {
-          "referencia": "11461",
-          "denominacion": "Dos Si Dos 33 10 u. fem. Barney's",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14479",
-          "denominacion": "Watermelon OG   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "24281",
-          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
-          "cantidad": 2
-        },
-        {
-          "referencia": "24922",
-          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14297",
-          "denominacion": "Orient Express 1 u. fem. Ace Seeds",
-          "cantidad": 2
         }
       ],
       "origen": "ayer"
@@ -628,7 +613,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 116
+    "total_pedidos": 2,
+    "total_productos": 117
   }
 }
