@@ -4,8 +4,83 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-10T14:44:13.832034",
+  "timestamp": "2026-02-10T17:36:57.094041",
   "pedidos": [
+    {
+      "id": "152026002194",
+      "numero": "15 2026/002194",
+      "fecha": "10/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002194",
+      "fecha_formatted": "2026-02-10",
+      "productos": [
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9193",
+          "denominacion": "Glookies 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4051",
+          "denominacion": "Jack Herer 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "JH5F",
+          "denominacion": "Jack Herer  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11550",
+          "denominacion": "Red Hot Cookies   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PR109",
+          "denominacion": "Auto Cream Mandarine XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "16611",
+          "denominacion": "Strawberry Banana Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9729",
+          "denominacion": "Monster Profit  5 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17080",
+          "denominacion": "Gorilla Girl Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25580",
+          "denominacion": "El Gaucho Faster Flowering  2 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15865",
+          "denominacion": "Auto North Thunderfuck  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002165",
       "numero": "15 2026/002165",
@@ -102,6 +177,16 @@
           "referencia": "OB3F",
           "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SC1F",
+          "denominacion": "Super Critical 10 u. fem. Green House",
+          "cantidad": 1
         },
         {
           "referencia": "ECOD",
@@ -718,7 +803,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 136
+    "total_pedidos": 4,
+    "total_productos": 151
   }
 }
