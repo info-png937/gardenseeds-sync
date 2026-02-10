@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-10T17:36:57.094041",
+  "timestamp": "2026-02-10T19:14:17.926439",
   "pedidos": [
+    {
+      "id": "152026002197",
+      "numero": "15 2026/002197",
+      "fecha": "10/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002197",
+      "fecha_formatted": "2026-02-10",
+      "productos": [
+        {
+          "referencia": "18131",
+          "denominacion": "Pipetas Pasteur plastico 5 ml caja 250 u.",
+          "cantidad": 8
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 4
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 5
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17080",
+          "denominacion": "Gorilla Girl Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "EURQ",
+          "denominacion": "Euphoria  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 14
+        },
+        {
+          "referencia": "9729",
+          "denominacion": "Monster Profit  5 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11842",
+          "denominacion": "Joanne's CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "4051",
+          "denominacion": "Jack Herer 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 7
+        },
+        {
+          "referencia": "20664",
+          "denominacion": "Pink Runtz  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8127",
+          "denominacion": "Gelato #33 -   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20555A",
+          "denominacion": "Auto Forbidden Fruit Cake   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16934",
+          "denominacion": "Auto Banana Cookies   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23548",
+          "denominacion": "Medidor Ph/Fertilidad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "A0010",
+          "denominacion": "Autofloracion Mix 10 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13088",
+          "denominacion": "Auto Bubble Gum XXL  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS5",
+          "denominacion": "Automatic Collection #5 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002194",
       "numero": "15 2026/002194",
@@ -803,7 +963,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 151
+    "total_pedidos": 5,
+    "total_productos": 181
   }
 }
