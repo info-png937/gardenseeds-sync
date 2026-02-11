@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-11T13:56:04.713975",
+  "timestamp": "2026-02-11T14:59:44.790973",
   "pedidos": [
     {
       "id": "152026002253",
@@ -132,6 +132,11 @@
           "referencia": "12243",
           "denominacion": "Wedding Cheesecake Auto  3 u. fem. FastBuds Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -379,6 +384,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 68
+    "total_productos": 69
   }
 }
