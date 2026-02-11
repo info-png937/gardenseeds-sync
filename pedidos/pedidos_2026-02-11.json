@@ -4,8 +4,138 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-11T12:05:52.827409",
+  "timestamp": "2026-02-11T13:56:04.713975",
   "pedidos": [
+    {
+      "id": "152026002253",
+      "numero": "15 2026/002253",
+      "fecha": "11/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002253",
+      "fecha_formatted": "2026-02-11",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10713",
+          "denominacion": "Auto Cheese Berry   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7809",
+          "denominacion": "Gorilla Zkitltez   1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "24265",
+          "denominacion": "Zoap  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14291",
+          "denominacion": "Auto Banana Kush Cake  5 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7510",
+          "denominacion": "Cream Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "15610",
+          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21405",
+          "denominacion": "Chem Kush 5 u fem Ed.Especial Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15631",
+          "denominacion": "Gorilla Frost  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15619",
+          "denominacion": "OG Kush  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15646",
+          "denominacion": "Watermelon Runtz  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PRO55",
+          "denominacion": "Black Jack   3+1 u.  fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24266",
+          "denominacion": "Zoap  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21703",
+          "denominacion": "Auto Rainbow Sherbet #11 -   1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "15094",
+          "denominacion": "Led Lumatek Attis 300 w Pro (816 µmol/s)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25006",
+          "denominacion": "Auto Mint Jelly 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14495",
+          "denominacion": "Auto Slurricane   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12243",
+          "denominacion": "Wedding Cheesecake Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002197",
       "numero": "15 2026/002197",
@@ -248,7 +378,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 44
+    "total_pedidos": 3,
+    "total_productos": 68
   }
 }
