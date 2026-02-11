@@ -4,8 +4,363 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-11T14:59:44.790973",
+  "timestamp": "2026-02-11T16:11:48.019357",
   "pedidos": [
+    {
+      "id": "152026002263",
+      "numero": "15 2026/002263",
+      "fecha": "11/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002263",
+      "fecha_formatted": "2026-02-11",
+      "productos": [
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 16
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002262",
+      "numero": "15 2026/002262",
+      "fecha": "11/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002262",
+      "fecha_formatted": "2026-02-11",
+      "productos": [
+        {
+          "referencia": "4832",
+          "denominacion": "SFV OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5339",
+          "denominacion": "Auto Alpujarreña  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5340",
+          "denominacion": "Auto Alpujarreña  5 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5421",
+          "denominacion": "Auto Purple  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5422",
+          "denominacion": "Auto Purple  5 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5427",
+          "denominacion": "Auto Tutankhamon  3 u. fem. Pyramid seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5432",
+          "denominacion": "Auto White Widow  5 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9762",
+          "denominacion": "BCN Critical XXL fem. 25 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16552",
+          "denominacion": "Cumbia 3 u. fem R-Kiem Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20252",
+          "denominacion": "Oregon Apple Trail 6 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20541",
+          "denominacion": "Korenji 5 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20677",
+          "denominacion": "Auto Cherry Pie  5 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AWP1",
+          "denominacion": "Auto White Widow  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BKA1",
+          "denominacion": "Auto Bubble Kush  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BKRQ3",
+          "denominacion": "Auto Bubble Kush  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BL4",
+          "denominacion": "Big Bud Liquid  5 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CB00",
+          "denominacion": "Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TOKF",
+          "denominacion": "Tahoe OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1928",
+          "denominacion": "Termostato TA 1002",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5424",
+          "denominacion": "Auto Shark  5 u. fem Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5423",
+          "denominacion": "Auto Shark  3 u. fem Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5429",
+          "denominacion": "Auto Wembley  5 fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5430",
+          "denominacion": "Auto Wembley  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5431",
+          "denominacion": "Auto White Widow  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5969",
+          "denominacion": "Auto Super OG Kush  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5970",
+          "denominacion": "Auto Super OG Kush  5 u. fem Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7318",
+          "denominacion": "Auto White Widow CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9120",
+          "denominacion": "Auto Olympia  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7319",
+          "denominacion": "Auto White Widow CBD  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9121",
+          "denominacion": "Auto Olympia  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9122",
+          "denominacion": "Auto Olympia  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9123",
+          "denominacion": "Auto Ramses  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9124",
+          "denominacion": "Auto Ramses  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9125",
+          "denominacion": "Auto Ramses  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10917",
+          "denominacion": "Mint Milano 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10915",
+          "denominacion": "LA Cookies 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10914",
+          "denominacion": "Julius Caesar 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10927",
+          "denominacion": "Pre-98 Bubba  6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10925",
+          "denominacion": "SugarMill 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9834",
+          "denominacion": "Northern Lights fem. 25 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16551",
+          "denominacion": "Cumbia 1 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16553",
+          "denominacion": "Cumbia 5 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5338",
+          "denominacion": "Auto Alpujarreña  1 u. Blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4834",
+          "denominacion": "Strawberry OG 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5409",
+          "denominacion": "Auto Anubis  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5410",
+          "denominacion": "Auto Anubis  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RKA5",
+          "denominacion": "Auto Bubble Kush  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "LYOG",
+          "denominacion": "Larry OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CH2F",
+          "denominacion": "Critical Hog  2 u. fem. T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AP12",
+          "denominacion": "Auto Purple  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ANUB",
+          "denominacion": "Auto Anubis  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AS12",
+          "denominacion": "Auto Shark  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AW12",
+          "denominacion": "Auto Wembley  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002259",
+      "numero": "15 2026/002259",
+      "fecha": "11/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002259",
+      "fecha_formatted": "2026-02-11",
+      "productos": [
+        {
+          "referencia": "D2260",
+          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20994",
+          "denominacion": "Viejo Toby 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7805",
+          "denominacion": "Blue Gelato 41  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "19279",
+          "denominacion": "Sour Strawberry  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21673",
+          "denominacion": "Zerealz Milk   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002253",
       "numero": "15 2026/002253",
@@ -383,7 +738,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 69
+    "total_pedidos": 6,
+    "total_productos": 134
   }
 }
