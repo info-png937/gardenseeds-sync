@@ -4,8 +4,148 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-12T19:51:21.288588",
+  "timestamp": "2026-02-12T20:41:49.662047",
   "pedidos": [
+    {
+      "id": "152026002372",
+      "numero": "15 2026/002372",
+      "fecha": "12/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002372",
+      "fecha_formatted": "2026-02-12",
+      "productos": [
+        {
+          "referencia": "5485",
+          "denominacion": "Anesthesia  3 u. Fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9620",
+          "denominacion": "Wedding Gelato  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15465",
+          "denominacion": "Strawberry Banana   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14458",
+          "denominacion": "Cherry Pie   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PK3F",
+          "denominacion": "Pure Kush  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8303",
+          "denominacion": "Auto Zkittlez OG  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14276",
+          "denominacion": "Mimosa x Orange Punch  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16367",
+          "denominacion": "Runtz x Layer Cake  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14114",
+          "denominacion": "Bubba Kush  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15624",
+          "denominacion": "White Widow  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24930",
+          "denominacion": "Moonfog Feminized 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7621",
+          "denominacion": "California Gold  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9677",
+          "denominacion": "Green Ninja  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14432",
+          "denominacion": "Auto Purple Punch   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "DGCBD5",
+          "denominacion": "Durga Mata II CBD  5 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB3S",
+          "denominacion": "Big Bud  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CB00",
+          "denominacion": "Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11462",
+          "denominacion": "Tropicanna Banana  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9522",
+          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BGRQ1",
+          "denominacion": "Bubble Gum XL  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9588",
+          "denominacion": "Fat Banana  1 u. fem. Royal Queen",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002292",
       "numero": "15 2026/002292",
@@ -593,7 +733,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 107
+    "total_pedidos": 6,
+    "total_productos": 133
   }
 }
