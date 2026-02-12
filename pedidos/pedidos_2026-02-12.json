@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-12T21:39:24.645239",
+  "timestamp": "2026-02-12T22:38:03.793574",
   "pedidos": [
+    {
+      "id": "152026002375",
+      "numero": "15 2026/002375",
+      "fecha": "12/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002375",
+      "fecha_formatted": "2026-02-12",
+      "productos": [
+        {
+          "referencia": "MCP15",
+          "denominacion": "Manguito Corona 150 mm. Plástico",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002374",
+      "numero": "15 2026/002374",
+      "fecha": "12/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002374",
+      "fecha_formatted": "2026-02-12",
+      "productos": [
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002372",
       "numero": "15 2026/002372",
@@ -733,7 +763,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 133
+    "total_pedidos": 8,
+    "total_productos": 135
   }
 }
