@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-12T07:56:05.582346",
+  "timestamp": "2026-02-12T08:55:30.252341",
   "pedidos": [
     {
       "id": "152026002292",
@@ -47,17 +47,7 @@
           "referencia": "18540",
           "denominacion": "Auto Titan F1 - 10 u. fem. Royal Queen",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002291",
-      "numero": "15 2026/002291",
-      "fecha": "11/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002291",
-      "fecha_formatted": "2026-02-11",
-      "productos": [
+        },
         {
           "referencia": "6315",
           "denominacion": "Hindu Kush  5 u. fem. Sensi Seeds",
@@ -97,6 +87,11 @@
           "referencia": "20826",
           "denominacion": "Black Muffin F1 Fast Version 3+1 u. fem. Sweet Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -593,7 +588,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 105
+    "total_pedidos": 5,
+    "total_productos": 106
   }
 }
