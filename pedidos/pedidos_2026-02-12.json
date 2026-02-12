@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-12T09:57:54.013088",
+  "timestamp": "2026-02-12T10:57:21.521001",
   "pedidos": [
     {
       "id": "152026002292",
@@ -89,9 +89,14 @@
           "cantidad": 2
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 3
         }
       ],
       "origen": "ayer"
@@ -589,6 +594,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 106
+    "total_productos": 107
   }
 }
