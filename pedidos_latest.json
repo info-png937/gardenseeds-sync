@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-13T14:24:57.031900",
+  "timestamp": "2026-02-13T15:10:35.663456",
   "pedidos": [
     {
       "id": "152026002404",
@@ -57,6 +57,11 @@
           "referencia": "13175",
           "denominacion": "Auto Super Skunk   3 u. fem. 00 Seeds",
           "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -224,6 +229,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 39
+    "total_productos": 40
   }
 }
