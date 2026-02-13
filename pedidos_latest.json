@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-13T08:52:29.863432",
+  "timestamp": "2026-02-13T10:47:04.482958",
   "pedidos": [
     {
       "id": "152026002375",
@@ -17,32 +17,7 @@
           "referencia": "MCP15",
           "denominacion": "Manguito Corona 150 mm. Plástico",
           "cantidad": 10
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002374",
-      "numero": "15 2026/002374",
-      "fecha": "12/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002374",
-      "fecha_formatted": "2026-02-12",
-      "productos": [
-        {
-          "referencia": "18965",
-          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
-          "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002372",
-      "numero": "15 2026/002372",
-      "fecha": "12/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002372",
-      "fecha_formatted": "2026-02-12",
-      "productos": [
+        },
         {
           "referencia": "5485",
           "denominacion": "Anesthesia  3 u. Fem. Pyramid Seeds",
@@ -172,13 +147,28 @@
           "referencia": "9588",
           "denominacion": "Fat Banana  1 u. fem. Royal Queen",
           "cantidad": 5
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PK3F",
+          "denominacion": "Pure Kush  3 u. fem. Green House",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 28
+    "total_pedidos": 1,
+    "total_productos": 30
   }
 }
