@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-13T13:12:19.520360",
+  "timestamp": "2026-02-13T14:24:57.031900",
   "pedidos": [
+    {
+      "id": "152026002404",
+      "numero": "15 2026/002404",
+      "fecha": "13/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002404",
+      "fecha_formatted": "2026-02-13",
+      "productos": [
+        {
+          "referencia": "MP3",
+          "denominacion": "Mendocino Purple Kush  3 u. fem. Medical seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16930",
+          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AMS3",
+          "denominacion": "AMS  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7127",
+          "denominacion": "Auto Green Poison XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3387",
+          "denominacion": "Channel +  5 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26498",
+          "denominacion": "Auto Permanent Marker XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "20805",
+          "denominacion": "Biscotti Zkittlez   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "GTAS",
+          "denominacion": "Golden Tiger 3 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13175",
+          "denominacion": "Auto Super Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002375",
       "numero": "15 2026/002375",
@@ -168,7 +223,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 30
+    "total_pedidos": 2,
+    "total_productos": 39
   }
 }
