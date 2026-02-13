@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-13T18:05:24.941199",
+  "timestamp": "2026-02-13T20:01:26.266908",
   "pedidos": [
+    {
+      "id": "152026002420",
+      "numero": "15 2026/002420",
+      "fecha": "13/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002420",
+      "fecha_formatted": "2026-02-13",
+      "productos": [
+        {
+          "referencia": "N500",
+          "denominacion": "Tasty Terpenes   500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16790",
+          "denominacion": "Clavo Borosilicato 19 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18961",
+          "denominacion": "Euskal Zkittlez   1 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13175",
+          "denominacion": "Auto Super Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002419",
+      "numero": "15 2026/002419",
+      "fecha": "13/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002419",
+      "fecha_formatted": "2026-02-13",
+      "productos": [
+        {
+          "referencia": "15630",
+          "denominacion": "Gorilla Frost  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PRO85",
+          "denominacion": "Killer Kush Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6192",
+          "denominacion": "Critical Kush  3 u. fem. Barney's",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002404",
       "numero": "15 2026/002404",
@@ -228,7 +298,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 40
+    "total_pedidos": 4,
+    "total_productos": 50
   }
 }
