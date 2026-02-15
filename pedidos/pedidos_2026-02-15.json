@@ -4,10 +4,31 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-15T21:52:49.005709",
-  "pedidos": [],
+  "timestamp": "2026-02-15T22:30:56.032081",
+  "pedidos": [
+    {
+      "id": "152026002428",
+      "numero": "15 2026/002428",
+      "fecha": "15/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002428",
+      "fecha_formatted": "2026-02-15",
+      "productos": [
+        {
+          "referencia": "11871",
+          "denominacion": "Gorilla Fast   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11942",
+          "denominacion": "Auto Northern Lights XXL   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 2
   }
 }
