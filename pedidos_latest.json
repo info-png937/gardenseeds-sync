@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-16T19:36:00.112461",
+  "timestamp": "2026-02-16T20:38:33.325120",
   "pedidos": [
+    {
+      "id": "152026002525",
+      "numero": "15 2026/002525",
+      "fecha": "16/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002525",
+      "fecha_formatted": "2026-02-16",
+      "productos": [
+        {
+          "referencia": "18549",
+          "denominacion": "Auto Hyperion F1 -  1 u. fem. Royal Queen",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002519",
       "numero": "15 2026/002519",
@@ -543,7 +558,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 93
+    "total_pedidos": 8,
+    "total_productos": 94
   }
 }
