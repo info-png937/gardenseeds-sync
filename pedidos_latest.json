@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-16T18:53:03.916570",
+  "timestamp": "2026-02-16T19:36:00.112461",
   "pedidos": [
+    {
+      "id": "152026002519",
+      "numero": "15 2026/002519",
+      "fecha": "16/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002519",
+      "fecha_formatted": "2026-02-16",
+      "productos": [
+        {
+          "referencia": "19368",
+          "denominacion": "Red Red Wine 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002518",
       "numero": "15 2026/002518",
@@ -523,7 +543,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 91
+    "total_pedidos": 7,
+    "total_productos": 93
   }
 }
