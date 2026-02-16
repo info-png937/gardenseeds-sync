@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-16T12:01:05.218821",
+  "timestamp": "2026-02-16T13:47:19.293372",
   "pedidos": [
+    {
+      "id": "2026000158",
+      "numero": "2026/000158",
+      "fecha": "16/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000158",
+      "fecha_formatted": "2026-02-16",
+      "productos": [
+        {
+          "referencia": "26498",
+          "denominacion": "Auto Permanent Marker XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002428",
       "numero": "15 2026/002428",
@@ -83,7 +103,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 13
+    "total_pedidos": 2,
+    "total_productos": 15
   }
 }
