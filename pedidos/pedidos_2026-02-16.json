@@ -4,8 +4,128 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-16T17:42:03.535882",
+  "timestamp": "2026-02-16T18:53:03.916570",
   "pedidos": [
+    {
+      "id": "152026002518",
+      "numero": "15 2026/002518",
+      "fecha": "16/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002518",
+      "fecha_formatted": "2026-02-16",
+      "productos": [
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3005",
+          "denominacion": "Tightvac Bote Hermetico  0.12 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4514",
+          "denominacion": "Oidio Killer 50 gr. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 6
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16367",
+          "denominacion": "Runtz x Layer Cake  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS5",
+          "denominacion": "Automatic Collection #5 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 40
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19114",
+          "denominacion": "Balance 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002516",
+      "numero": "15 2026/002516",
+      "fecha": "16/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002516",
+      "fecha_formatted": "2026-02-16",
+      "productos": [
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002499",
       "numero": "15 2026/002499",
@@ -403,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 71
+    "total_pedidos": 6,
+    "total_productos": 91
   }
 }
