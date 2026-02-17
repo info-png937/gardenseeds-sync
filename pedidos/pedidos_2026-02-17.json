@@ -4,8 +4,113 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-17T11:43:03.985981",
+  "timestamp": "2026-02-17T15:28:46.027617",
   "pedidos": [
+    {
+      "id": "152026002584",
+      "numero": "15 2026/002584",
+      "fecha": "17/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002584",
+      "fecha_formatted": "2026-02-17",
+      "productos": [
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18356",
+          "denominacion": "Auto Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "D2252",
+          "denominacion": "Blueberry  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3954",
+          "denominacion": "Acapulco Gold  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21057",
+          "denominacion": "Lemon Cherry Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3224",
+          "denominacion": "Manta Térmica 55x35 cm. 30 w VDL",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26749",
+          "denominacion": "Papaya Triploid   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6133",
+          "denominacion": "Ayahuasca Purple  1 u. fem. Barney`s",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9196",
+          "denominacion": "Purple Punch  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14304",
+          "denominacion": "Cookies Purple Punch  5 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CB00",
+          "denominacion": "Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MWAS",
+          "denominacion": "Malawi 3 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20566",
+          "denominacion": "Lemon Bean Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18550",
+          "denominacion": "Auto Hyperion F1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002525",
       "numero": "15 2026/002525",
@@ -458,7 +563,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 82
+    "total_pedidos": 5,
+    "total_productos": 101
   }
 }
