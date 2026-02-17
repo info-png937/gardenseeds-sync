@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-17T20:01:15.594026",
+  "timestamp": "2026-02-17T21:04:39.235904",
   "pedidos": [
+    {
+      "id": "152026002607",
+      "numero": "15 2026/002607",
+      "fecha": "17/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002607",
+      "fecha_formatted": "2026-02-17",
+      "productos": [
+        {
+          "referencia": "14304",
+          "denominacion": "Cookies Purple Punch  5 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16806",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Black 1.000 mah.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26490",
+          "denominacion": "Auto Tropicanna Cherry XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17091",
+          "denominacion": "Thunder Banana fem.  5 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19294",
+          "denominacion": "Delta Boost  0,5 Lt Cannotecnia",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002606",
+      "numero": "15 2026/002606",
+      "fecha": "17/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002606",
+      "fecha_formatted": "2026-02-17",
+      "productos": [
+        {
+          "referencia": "17091",
+          "denominacion": "Thunder Banana fem.  5 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6178",
+          "denominacion": "Blueberry Cheese  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24060",
+          "denominacion": "Rainbow Melon  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24071",
+          "denominacion": "LemonPaya  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26490",
+          "denominacion": "Auto Tropicanna Cherry XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002584",
       "numero": "15 2026/002584",
@@ -563,7 +643,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 101
+    "total_pedidos": 7,
+    "total_productos": 113
   }
 }
