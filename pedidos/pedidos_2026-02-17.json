@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-17T07:33:43.842535",
+  "timestamp": "2026-02-17T08:54:43.122349",
   "pedidos": [
     {
       "id": "152026002525",
@@ -17,37 +17,22 @@
           "referencia": "18549",
           "denominacion": "Auto Hyperion F1 -  1 u. fem. Royal Queen",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002519",
-      "numero": "15 2026/002519",
-      "fecha": "16/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002519",
-      "fecha_formatted": "2026-02-16",
-      "productos": [
-        {
-          "referencia": "19368",
-          "denominacion": "Red Red Wine 6 u. fem Perfect Tree",
-          "cantidad": 1
         },
         {
-          "referencia": "12886",
-          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
-          "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002518",
-      "numero": "15 2026/002518",
-      "fecha": "16/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002518",
-      "fecha_formatted": "2026-02-16",
-      "productos": [
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
         {
           "referencia": "TL500",
           "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
@@ -132,31 +117,21 @@
           "referencia": "24480",
           "denominacion": "Grow Kit Bluey Vuitton Hybrid",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002516",
-      "numero": "15 2026/002516",
-      "fecha": "16/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002516",
-      "fecha_formatted": "2026-02-16",
-      "productos": [
-        {
-          "referencia": "AG1",
-          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
-          "cantidad": 2
         },
         {
-          "referencia": "4952B",
-          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
-          "cantidad": 6
+          "referencia": "19368",
+          "denominacion": "Red Red Wine 6 u. fem Perfect Tree",
+          "cantidad": 1
         },
         {
-          "referencia": "18352",
-          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
-          "cantidad": 3
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -483,7 +458,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 81
+    "total_pedidos": 4,
+    "total_productos": 82
   }
 }
