@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-18T07:34:22.352554",
+  "timestamp": "2026-02-18T08:54:39.039308",
   "pedidos": [
     {
       "id": "152026002607",
@@ -42,17 +42,27 @@
           "referencia": "19294",
           "denominacion": "Delta Boost  0,5 Lt Cannotecnia",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002606",
-      "numero": "15 2026/002606",
-      "fecha": "17/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002606",
-      "fecha_formatted": "2026-02-17",
-      "productos": [
+        },
+        {
+          "referencia": "3005",
+          "denominacion": "Tightvac Bote Hermetico  0.12 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15359",
+          "denominacion": "Radical Juice  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 2
+        },
         {
           "referencia": "17091",
           "denominacion": "Thunder Banana fem.  5 u. Seedstockers Superior",
@@ -82,6 +92,11 @@
           "referencia": "26490",
           "denominacion": "Auto Tropicanna Cherry XL   3+1 u. fem. Sweet Seeds",
           "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -193,7 +208,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 31
+    "total_pedidos": 2,
+    "total_productos": 36
   }
 }
