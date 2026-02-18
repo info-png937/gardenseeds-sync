@@ -4,8 +4,88 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-18T14:28:28.477510",
+  "timestamp": "2026-02-18T15:29:12.792225",
   "pedidos": [
+    {
+      "id": "152026002658",
+      "numero": "15 2026/002658",
+      "fecha": "18/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002658",
+      "fecha_formatted": "2026-02-18",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9765",
+          "denominacion": "BCN Critical XXL Fast fem.  5 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SLH3",
+          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8114",
+          "denominacion": "Auto Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AN12",
+          "denominacion": "Auto Nefertiti  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25006",
+          "denominacion": "Auto Mint Jelly 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "DM3F",
+          "denominacion": "Durga Mata  3 u. fem. Paradise Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "EC3F",
+          "denominacion": "Exodus Cheese  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9022",
+          "denominacion": "Mendocino Chanel Kush  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AWWD3",
+          "denominacion": "Auto White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16037",
+          "denominacion": "Auto Sensi Amnesia XXL  3 u. fem. Sensi Seeds Research",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15610",
+          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AAH3",
+          "denominacion": "Auto Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002607",
       "numero": "15 2026/002607",
@@ -208,7 +288,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 36
+    "total_pedidos": 3,
+    "total_productos": 50
   }
 }
