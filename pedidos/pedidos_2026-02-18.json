@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-18T17:54:27.562016",
+  "timestamp": "2026-02-18T19:06:06.717592",
   "pedidos": [
+    {
+      "id": "152026002685",
+      "numero": "15 2026/002685",
+      "fecha": "18/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002685",
+      "fecha_formatted": "2026-02-18",
+      "productos": [
+        {
+          "referencia": "S102",
+          "denominacion": "Sono+ 102 mm. - 10 m.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20550",
+          "denominacion": "Auto Apple Fritter   1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33800A",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Race Track Kit 1.350 mah.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002684",
+      "numero": "15 2026/002684",
+      "fecha": "18/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002684",
+      "fecha_formatted": "2026-02-18",
+      "productos": [
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17217",
+          "denominacion": "Chizpa 5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20550",
+          "denominacion": "Auto Apple Fritter   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002658",
       "numero": "15 2026/002658",
@@ -288,7 +373,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 50
+    "total_pedidos": 5,
+    "total_productos": 63
   }
 }
