@@ -4,8 +4,313 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-19T17:01:14.720691",
+  "timestamp": "2026-02-19T19:04:12.191315",
   "pedidos": [
+    {
+      "id": "152026002751",
+      "numero": "15 2026/002751",
+      "fecha": "19/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002751",
+      "fecha_formatted": "2026-02-19",
+      "productos": [
+        {
+          "referencia": "AMP1",
+          "denominacion": "Amnesia Mistery  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DMH3",
+          "denominacion": "Damnesia   3 u.  fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9698",
+          "denominacion": "Champions Cheese  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9680",
+          "denominacion": "K.O.Kush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9692",
+          "denominacion": "Superb OG  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "17230",
+          "denominacion": "Auto Sticky Dream 1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21786",
+          "denominacion": "Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24431",
+          "denominacion": "Monster Maker   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24269",
+          "denominacion": "Mendo Breath  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19294",
+          "denominacion": "Delta Boost  0,5 Lt Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026002750",
+      "numero": "15 2026/002750",
+      "fecha": "19/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002750",
+      "fecha_formatted": "2026-02-19",
+      "productos": [
+        {
+          "referencia": "11108",
+          "denominacion": "Purple Lemonade Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15621",
+          "denominacion": "Original Amnesia  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MG4U",
+          "denominacion": "Melon Gum 4 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17979",
+          "denominacion": "Lavadora Secret Smoke (Sin Mallas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16765",
+          "denominacion": "Cartucho Vaporesso Xros 1.2 Ohm 2 ml.  4 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SLH3",
+          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3513",
+          "denominacion": "Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AMP1",
+          "denominacion": "Amnesia Mistery  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3509",
+          "denominacion": "Jack Diesel  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21786",
+          "denominacion": "Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BK3GH",
+          "denominacion": "Bubba Kush  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2483",
+          "denominacion": "Monster 3+1 u. fem. Eva Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9760",
+          "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20577",
+          "denominacion": "Critical Lemon Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19774",
+          "denominacion": "Tarte Tatin  1 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20558",
+          "denominacion": "Auto Forbidden Fruit Cake  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26498",
+          "denominacion": "Auto Permanent Marker XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24269",
+          "denominacion": "Mendo Breath  3 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6346",
+          "denominacion": "Grapefruit Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15795",
+          "denominacion": "Amnesia Zkittlez Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24431",
+          "denominacion": "Monster Maker   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13536",
+          "denominacion": "Watermelon Zkittlez  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2260",
+          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S475",
+          "denominacion": "Somango #47 -  5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC5P",
+          "denominacion": "Supercheese  5 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14184",
+          "denominacion": "Strawberry Banana Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17230",
+          "denominacion": "Auto Sticky Dream 1 u. fem. Positronics Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5456",
+          "denominacion": "Chocolate Skunk CBD   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "DMH3",
+          "denominacion": "Damnesia   3 u.  fem. Strain Hunters",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18337",
+          "denominacion": "Camuflaje Pila M",
+          "cantidad": 10
+        },
+        {
+          "referencia": "9680",
+          "denominacion": "K.O.Kush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RME5",
+          "denominacion": "Royal Medic  5 u.  fem. Royal Queen",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002685",
       "numero": "15 2026/002685",
@@ -168,7 +473,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 28
+    "total_pedidos": 4,
+    "total_productos": 85
   }
 }
