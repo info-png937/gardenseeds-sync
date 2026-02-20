@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-20T15:09:24.365541",
+  "timestamp": "2026-02-20T16:03:01.666755",
   "pedidos": [
     {
       "id": "152026002751",
@@ -314,9 +314,14 @@
           "cantidad": 2
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19774",
+          "denominacion": "Tarte Tatin  1 u. fem. Green House",
+          "cantidad": 3
         }
       ],
       "origen": "ayer"
@@ -324,6 +329,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 59
+    "total_productos": 60
   }
 }
