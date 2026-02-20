@@ -4,8 +4,133 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-20T16:03:01.666755",
+  "timestamp": "2026-02-20T17:09:29.536559",
   "pedidos": [
+    {
+      "id": "152026002805",
+      "numero": "15 2026/002805",
+      "fecha": "20/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002805",
+      "fecha_formatted": "2026-02-20",
+      "productos": [
+        {
+          "referencia": "9692",
+          "denominacion": "Superb OG  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8177",
+          "denominacion": "Auto Critical Mass  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21448",
+          "denominacion": "Frozen Black Cherry  3 u. fem Anesia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "KBAK1G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3005",
+          "denominacion": "Tightvac Bote Hermetico  0.12 lt.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "17059",
+          "denominacion": "Auto Panty Punch fem.  3 u. Seedstockers Superior",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18355",
+          "denominacion": "Auto Mimosa   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19254",
+          "denominacion": "Ice Cream Cake  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BK3Q",
+          "denominacion": "Bubble Kush  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12242",
+          "denominacion": "Wedding Cheesecake Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "19268",
+          "denominacion": "OG Kush  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OGK",
+          "denominacion": "00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13228",
+          "denominacion": "Malawi 1 u. fem. Ace Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "CBDC1",
+          "denominacion": "CBD Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13084",
+          "denominacion": "Auto Somango Glue  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ESFS4",
+          "denominacion": "Easy Sativa  4 u. fem. Female Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASS3S",
+          "denominacion": "Auto Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002751",
       "numero": "15 2026/002751",
@@ -328,7 +453,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 60
+    "total_pedidos": 3,
+    "total_productos": 83
   }
 }
