@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-20T17:09:29.536559",
+  "timestamp": "2026-02-20T18:05:07.137169",
   "pedidos": [
+    {
+      "id": "152026002808",
+      "numero": "15 2026/002808",
+      "fecha": "20/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002808",
+      "fecha_formatted": "2026-02-20",
+      "productos": [
+        {
+          "referencia": "BK3GH",
+          "denominacion": "Bubba Kush  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19779",
+          "denominacion": "Milky Dreams  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DDS6",
+          "denominacion": "Double Dutch - 6 u. fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20994",
+          "denominacion": "Viejo Toby 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S473",
+          "denominacion": "Somango #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7509",
+          "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002805",
       "numero": "15 2026/002805",
@@ -124,8 +164,8 @@
           "cantidad": 1
         },
         {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -453,7 +493,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 83
+    "total_pedidos": 4,
+    "total_productos": 89
   }
 }
