@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-20T18:05:07.137169",
+  "timestamp": "2026-02-20T19:21:59.285733",
   "pedidos": [
+    {
+      "id": "152026002810",
+      "numero": "15 2026/002810",
+      "fecha": "20/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002810",
+      "fecha_formatted": "2026-02-20",
+      "productos": [
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24760",
+          "denominacion": "Payton Rainbow 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8177",
+          "denominacion": "Auto Critical Mass  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002808",
       "numero": "15 2026/002808",
@@ -493,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 89
+    "total_pedidos": 5,
+    "total_productos": 93
   }
 }
