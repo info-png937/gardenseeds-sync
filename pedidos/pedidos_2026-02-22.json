@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-22T17:54:18.321659",
+  "timestamp": "2026-02-22T18:42:55.372703",
   "pedidos": [
+    {
+      "id": "152026002822",
+      "numero": "15 2026/002822",
+      "fecha": "22/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002822",
+      "fecha_formatted": "2026-02-22",
+      "productos": [
+        {
+          "referencia": "N500",
+          "denominacion": "Tasty Terpenes   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 15
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9241",
+          "denominacion": "Auto Amnesia Haze 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18346",
+          "denominacion": "Fire DOG   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002819",
       "numero": "15 2026/002819",
@@ -28,7 +68,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 2
+    "total_pedidos": 2,
+    "total_productos": 8
   }
 }
