@@ -4,10 +4,31 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-22T11:27:15.139524",
-  "pedidos": [],
+  "timestamp": "2026-02-22T11:48:09.548893",
+  "pedidos": [
+    {
+      "id": "152026002819",
+      "numero": "15 2026/002819",
+      "fecha": "22/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002819",
+      "fecha_formatted": "2026-02-22",
+      "productos": [
+        {
+          "referencia": "15008",
+          "denominacion": "Ona Gel Fruit Fusion 732 gr",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23098",
+          "denominacion": "Bogota 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 2
   }
 }
