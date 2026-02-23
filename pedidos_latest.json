@@ -4,8 +4,238 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-23T10:29:16.808414",
+  "timestamp": "2026-02-23T13:49:25.063140",
   "pedidos": [
+    {
+      "id": "152026002878",
+      "numero": "15 2026/002878",
+      "fecha": "23/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002878",
+      "fecha_formatted": "2026-02-23",
+      "productos": [
+        {
+          "referencia": "11810",
+          "denominacion": "Cookies Gelato  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15016",
+          "denominacion": "Tangerine Sorbet  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14234",
+          "denominacion": "Jack´s Dream  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25624",
+          "denominacion": "Gorilla Glue #4 -  2 u. fem BSF Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15802",
+          "denominacion": "Strawberry Gorilla Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3715",
+          "denominacion": "Amnesia Lemon 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D6093",
+          "denominacion": "Auto Glueberry OG 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9527",
+          "denominacion": "Blue Cheese  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9612",
+          "denominacion": "Legendary Punch  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14230",
+          "denominacion": "Dark Phoenix  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15509",
+          "denominacion": "Ghost Of NYC  3 ud Humboldt Seed Organization",
+          "cantidad": 2
+        },
+        {
+          "referencia": "T5FG",
+          "denominacion": "Txomango  5 u. fem. Genehtik Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9582",
+          "denominacion": "Royal Gorilla  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24870",
+          "denominacion": "California Octane 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24912",
+          "denominacion": "Hella Jelly 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6176",
+          "denominacion": "Ayahuasca Purple  3 u. fem. Barney`s",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6666",
+          "denominacion": "Afghani #1  3 u.  fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17199",
+          "denominacion": "Grapefruit 5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9241",
+          "denominacion": "Auto Amnesia Haze 3+1 u. fem. Vision Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "C1F",
+          "denominacion": "Criminal  1 u. fem. Ripper Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "10734",
+          "denominacion": "Gorilla   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "OGK",
+          "denominacion": "00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 20
+        },
+        {
+          "referencia": "10778",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Pyramid Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3761",
+          "denominacion": "BCN Sour Diesel  3 u. fem. Medical Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21802",
+          "denominacion": "Auto Apple Bananas   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21790",
+          "denominacion": "Auto Biscotti Zkittlez  3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14116",
+          "denominacion": "Bubba Kush  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15772",
+          "denominacion": "Eboshi CBG  3 ud Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9130",
+          "denominacion": "Santa Muerte 3 u. fem. Blimburn Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 14
+        },
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18346",
+          "denominacion": "Fire DOG   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "MGU2",
+          "denominacion": "Melon Gum 2 u. fem. Dr Underground",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3354",
+          "denominacion": "Super Lemon Haze 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5456",
+          "denominacion": "Chocolate Skunk CBD   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CALO",
+          "denominacion": "California Orange  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KK2U",
+          "denominacion": "King Kong  2 u. fem. Dr Underground",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12242",
+          "denominacion": "Wedding Cheesecake Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002822",
       "numero": "15 2026/002822",
@@ -143,7 +373,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 25
+    "total_pedidos": 2,
+    "total_productos": 69
   }
 }
