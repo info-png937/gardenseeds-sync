@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-23T13:49:25.063140",
+  "timestamp": "2026-02-23T14:54:08.921206",
   "pedidos": [
+    {
+      "id": "152026002891",
+      "numero": "15 2026/002891",
+      "fecha": "23/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002891",
+      "fecha_formatted": "2026-02-23",
+      "productos": [
+        {
+          "referencia": "13535",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18752",
+          "denominacion": "Auto Sweet Mandarine Zkittlez XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "YG5F",
+          "denominacion": "Y Griega  5 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002878",
       "numero": "15 2026/002878",
@@ -373,7 +413,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 69
+    "total_pedidos": 3,
+    "total_productos": 75
   }
 }
