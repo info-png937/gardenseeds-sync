@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-23T06:42:35.265812",
+  "timestamp": "2026-02-23T09:01:33.361105",
   "pedidos": [
     {
       "id": "152026002822",
@@ -42,17 +42,77 @@
           "referencia": "18346",
           "denominacion": "Fire DOG   1 u. fem. Advanced Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026002819",
-      "numero": "15 2026/002819",
-      "fecha": "22/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002819",
-      "fecha_formatted": "2026-02-22",
-      "productos": [
+        },
+        {
+          "referencia": "16765",
+          "denominacion": "Cartucho Vaporesso Xros 1.2 Ohm 2 ml.  4 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9698",
+          "denominacion": "Champions Cheese  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BK3GH",
+          "denominacion": "Bubba Kush  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19779",
+          "denominacion": "Milky Dreams  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DDS6",
+          "denominacion": "Double Dutch - 6 u. fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20994",
+          "denominacion": "Viejo Toby 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S473",
+          "denominacion": "Somango #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7509",
+          "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24760",
+          "denominacion": "Payton Rainbow 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8177",
+          "denominacion": "Auto Critical Mass  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
         {
           "referencia": "15008",
           "denominacion": "Ona Gel Fruit Fusion 732 gr",
@@ -62,13 +122,18 @@
           "referencia": "23098",
           "denominacion": "Bogota 3 u. fem Cookies Seed Bank",
           "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 8
+    "total_pedidos": 1,
+    "total_productos": 23
   }
 }
