@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-23T09:01:33.361105",
+  "timestamp": "2026-02-23T10:29:16.808414",
   "pedidos": [
     {
       "id": "152026002822",
@@ -124,8 +124,18 @@
           "cantidad": 1
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BK3GH",
+          "denominacion": "Bubba Kush  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19779",
+          "denominacion": "Milky Dreams  3 u. fem. Green House",
           "cantidad": 1
         }
       ],
@@ -134,6 +144,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 23
+    "total_productos": 25
   }
 }
