@@ -4,8 +4,208 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-23T19:59:17.371454",
+  "timestamp": "2026-02-23T20:57:24.719728",
   "pedidos": [
+    {
+      "id": "152026002930",
+      "numero": "15 2026/002930",
+      "fecha": "23/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026002930",
+      "fecha_formatted": "2026-02-23",
+      "productos": [
+        {
+          "referencia": "20860",
+          "denominacion": "pH Perfect Sensi Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3203",
+          "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2293",
+          "denominacion": "Himalaya Gold  5 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18485",
+          "denominacion": "Blue Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15636",
+          "denominacion": "L.A. Vanilla Cake  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7476",
+          "denominacion": "Blubonik  1 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13147",
+          "denominacion": "Y Griega CBD 2.0  3 u. fem. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AE3D",
+          "denominacion": "Auto Euforia 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ACC25",
+          "denominacion": "Auto Cream Caramel  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MCP15",
+          "denominacion": "Manguito Corona 150 mm. Plástico",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "12993",
+          "denominacion": "Bactomatik     Tabs 8 ud. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7136",
+          "denominacion": "00 Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18754",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "18961",
+          "denominacion": "Euskal Zkittlez   1 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20825",
+          "denominacion": "Auto Diablo Rojo XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8127",
+          "denominacion": "Gelato #33 -   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 3
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10712",
+          "denominacion": "Auto California Kush   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8969",
+          "denominacion": "Sweet Somango  25 u. fem. 00 Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "5273",
+          "denominacion": "Sweet Cheese Fast Version 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2906",
+          "denominacion": "Maceta Cuadrada Blanca 13 x 13 x 14.5 cm. 2.2 lt. - 25 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19036",
+          "denominacion": "Root Stimulator  1 lt. Cannotecnia",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026002891",
       "numero": "15 2026/002891",
@@ -413,7 +613,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 75
+    "total_pedidos": 4,
+    "total_productos": 113
   }
 }
