@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-24T07:33:52.808120",
+  "timestamp": "2026-02-24T08:56:45.065117",
   "pedidos": [
     {
       "id": "152026002930",
@@ -202,6 +202,11 @@
           "referencia": "19036",
           "denominacion": "Root Stimulator  1 lt. Cannotecnia",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -479,6 +484,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 88
+    "total_productos": 89
   }
 }
