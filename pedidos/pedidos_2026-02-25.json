@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-25T11:23:15.749755",
+  "timestamp": "2026-02-25T13:56:16.843136",
   "pedidos": [
+    {
+      "id": "152026003064",
+      "numero": "15 2026/003064",
+      "fecha": "25/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003064",
+      "fecha_formatted": "2026-02-25",
+      "productos": [
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ARAK",
+          "denominacion": "Auto Royal AK  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "MMH3",
+          "denominacion": "Money Maker   3 u.  fem. Strain Hunters",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8307",
+          "denominacion": "Auto LSD  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13230",
+          "denominacion": "Panama  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13302",
+          "denominacion": "Congo  1 u. fem. Ace Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14063",
+          "denominacion": "Banana Kush Cake  3 u. fem. Sensi Seeds Research",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16437",
+          "denominacion": "Xupet  1 u. fem R-Kiem Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13014",
+          "denominacion": "Auto Gorilla Glue  1 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15515",
+          "denominacion": "Runtz Fast Flowering  3 ud Humboldt Seed Organization",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CBDC1",
+          "denominacion": "CBD Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7807",
+          "denominacion": "Blue Gelato 41  5 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23897",
+          "denominacion": "Bruce Banner  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5259",
+          "denominacion": "Ayahuasca Purple 10 u. fem. Barney`s",
+          "cantidad": 2
+        },
+        {
+          "referencia": "GTAS",
+          "denominacion": "Golden Tiger 3 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SKXL1",
+          "denominacion": "Skunk XL  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "RTOX1",
+          "denominacion": "Toxic 1 u. fem. Ripper Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "6256",
+          "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "JW3F",
+          "denominacion": "Jacky White  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7624",
+          "denominacion": "Space Cookies  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6374",
+          "denominacion": "Auto Tangerine Dream 3 u. fem.  Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "20270",
+          "denominacion": "Snoop's Applefrizzle 6 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MF3D",
+          "denominacion": "Mazar  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25572",
+          "denominacion": "Blueberry  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9247",
+          "denominacion": "Auto Northern Lights 3+1 u. fem. Vision Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "PRO91",
+          "denominacion": "SAD   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003025",
       "numero": "15 2026/003025",
@@ -343,7 +503,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 65
+    "total_pedidos": 2,
+    "total_productos": 95
   }
 }
