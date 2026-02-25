@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-25T13:56:16.843136",
+  "timestamp": "2026-02-25T14:56:11.220261",
   "pedidos": [
     {
       "id": "152026003064",
@@ -162,6 +162,11 @@
           "referencia": "PRO91",
           "denominacion": "SAD   3+1 u. fem. Sweet Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -504,6 +509,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 95
+    "total_productos": 96
   }
 }
