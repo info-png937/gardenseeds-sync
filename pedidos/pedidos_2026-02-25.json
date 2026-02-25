@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-25T16:10:13.532023",
+  "timestamp": "2026-02-25T17:37:06.998465",
   "pedidos": [
     {
       "id": "152026003064",
@@ -497,11 +497,6 @@
           "referencia": "24314",
           "denominacion": "Grow Kit MC Kennaii",
           "cantidad": 3
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -509,6 +504,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 96
+    "total_productos": 95
   }
 }
