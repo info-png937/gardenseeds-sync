@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-25T07:34:57.147232",
+  "timestamp": "2026-02-25T09:01:16.406177",
   "pedidos": [
     {
       "id": "152026003025",
@@ -97,17 +97,42 @@
           "referencia": "10738",
           "denominacion": "White Widow   3 u. fem. 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003024",
-      "numero": "15 2026/003024",
-      "fecha": "24/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003024",
-      "fecha_formatted": "2026-02-24",
-      "productos": [
+        },
+        {
+          "referencia": "16765",
+          "denominacion": "Cartucho Vaporesso Xros 1.2 Ohm 2 ml.  4 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9698",
+          "denominacion": "Champions Cheese  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S473",
+          "denominacion": "Somango #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15008",
+          "denominacion": "Ona Gel Fruit Fusion 732 gr",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
+        },
         {
           "referencia": "12284",
           "denominacion": "Buttercream Gelato  5 u. fem. Sensi Seeds Research",
@@ -307,13 +332,18 @@
           "referencia": "24314",
           "denominacion": "Grow Kit MC Kennaii",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 57
+    "total_pedidos": 1,
+    "total_productos": 65
   }
 }
