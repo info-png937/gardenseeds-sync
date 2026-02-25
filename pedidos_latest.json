@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-25T21:39:59.514057",
+  "timestamp": "2026-02-25T22:39:46.503384",
   "pedidos": [
+    {
+      "id": "152026003107",
+      "numero": "15 2026/003107",
+      "fecha": "25/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003107",
+      "fecha_formatted": "2026-02-25",
+      "productos": [
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20270",
+          "denominacion": "Snoop's Applefrizzle 6 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2290",
+          "denominacion": "Big Bang  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19045",
+          "denominacion": "Auto Moby Dick   1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5220",
+          "denominacion": "Total Explosion 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18969",
+          "denominacion": "Glucomax   60 ml. Cannotecnia",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20255",
+          "denominacion": "Purple Cherry Popper 3 ud. fem Elev8 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "20223",
+          "denominacion": "Fire'n Ice 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17417",
+          "denominacion": "Cartucho Vaporesso GTX80 5 ml. - 2 ud.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026003106",
+      "numero": "15 2026/003106",
+      "fecha": "25/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003106",
+      "fecha_formatted": "2026-02-25",
+      "productos": [
+        {
+          "referencia": "6477",
+          "denominacion": "Durban  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7810",
+          "denominacion": "Gorilla Zkitltez   3 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19045",
+          "denominacion": "Auto Moby Dick   1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13015",
+          "denominacion": "Auto Gorilla Glue  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20223",
+          "denominacion": "Fire'n Ice 3 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20255",
+          "denominacion": "Purple Cherry Popper 3 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6474",
+          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003064",
       "numero": "15 2026/003064",
@@ -503,7 +638,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 95
+    "total_pedidos": 4,
+    "total_productos": 118
   }
 }
