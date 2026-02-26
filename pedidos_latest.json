@@ -4,8 +4,113 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-26T19:26:15.461018",
+  "timestamp": "2026-02-26T20:02:37.015567",
   "pedidos": [
+    {
+      "id": "152026003179",
+      "numero": "15 2026/003179",
+      "fecha": "26/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003179",
+      "fecha_formatted": "2026-02-26",
+      "productos": [
+        {
+          "referencia": "5934",
+          "denominacion": "Gipsy Haze 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5686",
+          "denominacion": "Zombie Kush 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14273",
+          "denominacion": "Blue Sunset Sherbet 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20227",
+          "denominacion": "Gelato Punch 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24948",
+          "denominacion": "Pistachio 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24976",
+          "denominacion": "Vanilla Frosting 3 u. fem Humboldt Seeds Company",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 20
+        },
+        {
+          "referencia": "WSF6",
+          "denominacion": "Warlock - 6 u. fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9859",
+          "denominacion": "Auto Santa Marta Haze fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12993",
+          "denominacion": "Bactomatik     Tabs 8 ud. Agrobacterias",
+          "cantidad": 20
+        },
+        {
+          "referencia": "7135",
+          "denominacion": "Auto Afghan Mass XXL   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15356",
+          "denominacion": "Zombie Bride  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "26502",
+          "denominacion": "Auto Banana Cream Cake XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12272",
+          "denominacion": "Mimosa EVO  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21055",
+          "denominacion": "Guava Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9163",
+          "denominacion": "Auto Girl Scout Cookies 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18745",
+          "denominacion": "Auto Red Mimosa XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20293",
+          "denominacion": "Thundersnow 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003152",
       "numero": "15 2026/003152",
@@ -498,7 +603,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 92
+    "total_pedidos": 4,
+    "total_productos": 111
   }
 }
