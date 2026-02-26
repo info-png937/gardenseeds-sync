@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-26T14:32:01.486009",
+  "timestamp": "2026-02-26T15:58:35.575913",
   "pedidos": [
     {
       "id": "152026003152",
@@ -191,6 +191,11 @@
         {
           "referencia": "7673",
           "denominacion": "West Coast OG Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -494,6 +499,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 91
+    "total_productos": 92
   }
 }
