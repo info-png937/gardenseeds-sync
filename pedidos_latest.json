@@ -4,8 +4,198 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-26T13:18:52.214108",
+  "timestamp": "2026-02-26T14:32:01.486009",
   "pedidos": [
+    {
+      "id": "152026003152",
+      "numero": "15 2026/003152",
+      "fecha": "26/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003152",
+      "fecha_formatted": "2026-02-26",
+      "productos": [
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3884",
+          "denominacion": "No Name  3 u. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "C5F",
+          "denominacion": "Criminal  5 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "PRO1",
+          "denominacion": "Auto + Speed   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16421",
+          "denominacion": "Z-Kiem 1 u. fem R-Kiem Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15627",
+          "denominacion": "Cookielato  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6662",
+          "denominacion": "California Indica 10 u.  fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSFS10",
+          "denominacion": "Sensi Skunk 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26502",
+          "denominacion": "Auto Banana Cream Cake XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26503",
+          "denominacion": "Auto Banana Cream Cake XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26504",
+          "denominacion": "Auto Banana Cream Cake XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21053",
+          "denominacion": "Guava Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15603",
+          "denominacion": "Amnesia Lemon  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8103",
+          "denominacion": "Gorilla Blue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18961",
+          "denominacion": "Euskal Zkittlez   1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8467",
+          "denominacion": "Brain Cake 5 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11544",
+          "denominacion": "Auto Sherbet fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CC25S",
+          "denominacion": "Cream Caramel  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6315",
+          "denominacion": "Hindu Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2260",
+          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9197",
+          "denominacion": "Purple Punch 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4558",
+          "denominacion": "Auto Kings Kush  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6420",
+          "denominacion": "Gorilla Glue Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "6833",
+          "denominacion": "Blue Dream´matic  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8976",
+          "denominacion": "Gorila Bilbo  5 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6623",
+          "denominacion": "Green Poison Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8107",
+          "denominacion": "Auto Gorilla Blue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13011",
+          "denominacion": "Banana Zkittlez  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PRO35",
+          "denominacion": "Auto Red Poison   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7673",
+          "denominacion": "West Coast OG Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003107",
       "numero": "15 2026/003107",
@@ -303,7 +493,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 55
+    "total_pedidos": 3,
+    "total_productos": 91
   }
 }
