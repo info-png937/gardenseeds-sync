@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-26T07:34:00.178330",
+  "timestamp": "2026-02-26T08:56:04.704012",
   "pedidos": [
     {
       "id": "152026003107",
@@ -82,17 +82,7 @@
           "referencia": "17417",
           "denominacion": "Cartucho Vaporesso GTX80 5 ml. - 2 ud.",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003106",
-      "numero": "15 2026/003106",
-      "fecha": "25/02/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003106",
-      "fecha_formatted": "2026-02-25",
-      "productos": [
+        },
         {
           "referencia": "6477",
           "denominacion": "Durban  3 u. fem. Sensi Seeds",
@@ -137,6 +127,11 @@
           "referencia": "6474",
           "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -308,7 +303,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 54
+    "total_pedidos": 2,
+    "total_productos": 55
   }
 }
