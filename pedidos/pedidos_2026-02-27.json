@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-27T15:08:49.168573",
+  "timestamp": "2026-02-27T16:02:41.349655",
   "pedidos": [
+    {
+      "id": "152026003219",
+      "numero": "15 2026/003219",
+      "fecha": "27/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003219",
+      "fecha_formatted": "2026-02-27",
+      "productos": [
+        {
+          "referencia": "3411",
+          "denominacion": "Veneno 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19039",
+          "denominacion": "Apricot Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25008",
+          "denominacion": "Auto OG Kush 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13015",
+          "denominacion": "Auto Gorilla Glue  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9222",
+          "denominacion": "Lambs Breath X Ak-49  3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3728",
+          "denominacion": "Camuflaje Mechero Coche",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10732",
+          "denominacion": "Critical Poison Fast   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "25486",
+          "denominacion": "Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "19030",
+          "denominacion": "Bud Compactor 1 Kg. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11838",
+          "denominacion": "Tatanka Pure CBD  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7135",
+          "denominacion": "Auto Afghan Mass XXL   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13536",
+          "denominacion": "Watermelon Zkittlez  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6705",
+          "denominacion": "Fruity Jack  3 u fem Philosopher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WWF3",
+          "denominacion": "White Widow  3 u. fem. Green house",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10853",
+          "denominacion": "Passion Fruit  1 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2481",
+          "denominacion": "High Level 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24059",
+          "denominacion": "Rainbow Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9705",
+          "denominacion": "Gold Mine  5 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26496",
+          "denominacion": "Pink Guava  F1 Fast Version 25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13813",
+          "denominacion": "Amnesia Haze  1 u. fem. Expert Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003179",
       "numero": "15 2026/003179",
@@ -313,7 +458,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 57
+    "total_pedidos": 3,
+    "total_productos": 84
   }
 }
