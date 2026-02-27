@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-02-27T09:08:39.610299",
+  "timestamp": "2026-02-27T10:07:19.985614",
   "pedidos": [
     {
       "id": "152026003179",
@@ -106,6 +106,11 @@
         {
           "referencia": "20293",
           "denominacion": "Thundersnow 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -309,6 +314,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 56
+    "total_productos": 57
   }
 }
