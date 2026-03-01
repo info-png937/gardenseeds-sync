@@ -4,10 +4,111 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-01T19:27:26.666031",
-  "pedidos": [],
+  "timestamp": "2026-03-01T19:46:20.540700",
+  "pedidos": [
+    {
+      "id": "152026003230",
+      "numero": "15 2026/003230",
+      "fecha": "28/02/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003230",
+      "fecha_formatted": "2026-02-28",
+      "productos": [
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6661",
+          "denominacion": "Jack Herer  5 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8477",
+          "denominacion": "Auto Lemon Kix 3 u. fem. Dutch Passion",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15356",
+          "denominacion": "Zombie Bride  1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21752",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Sweet Mandarin Jumbo 25 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3728",
+          "denominacion": "Camuflaje Mechero Coche",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "20275",
+          "denominacion": "Tangie Candie 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB1F",
+          "denominacion": "Kritikal Bilbo   1 u. fem. Genehtik",
+          "cantidad": 40
+        },
+        {
+          "referencia": "24465",
+          "denominacion": "Mexican Rush   5 u. fem. Royal Queen",
+          "cantidad": 2
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 18
   }
 }
