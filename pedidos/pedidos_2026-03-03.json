@@ -4,8 +4,33 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-03T11:38:09.134608",
+  "timestamp": "2026-03-03T13:09:38.189821",
   "pedidos": [
+    {
+      "id": "152026003386",
+      "numero": "15 2026/003386",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003386",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "7805",
+          "denominacion": "Blue Gelato 41  1 u. fem. Barney's",
+          "cantidad": 20
+        },
+        {
+          "referencia": "LUMLED036",
+          "denominacion": "Led Lumatek Apollo 550W (1540 µmol/s)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003373",
       "numero": "15 2026/003373",
@@ -843,7 +868,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 163
+    "total_pedidos": 3,
+    "total_productos": 166
   }
 }
