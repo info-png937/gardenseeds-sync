@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-03T20:42:33.882425",
+  "timestamp": "2026-03-03T21:39:39.359588",
   "pedidos": [
+    {
+      "id": "152026003462",
+      "numero": "15 2026/003462",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003462",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "16771A",
+          "denominacion": "Mecha Vaporesso GTX Mesh 0.15 Ohm 5 ud.",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003452",
       "numero": "15 2026/003452",
@@ -1238,7 +1253,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 8,
-    "total_productos": 230
+    "total_pedidos": 9,
+    "total_productos": 231
   }
 }
