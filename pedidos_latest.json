@@ -4,8 +4,288 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-03T18:07:16.599949",
+  "timestamp": "2026-03-03T19:59:26.482661",
   "pedidos": [
+    {
+      "id": "152026003452",
+      "numero": "15 2026/003452",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003452",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "MCP15",
+          "denominacion": "Manguito Corona 150 mm. Plástico",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026003451",
+      "numero": "15 2026/003451",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003451",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10727",
+          "denominacion": "Chocolate Cream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10696",
+          "denominacion": "CBD 20:1 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 9
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 17
+        },
+        {
+          "referencia": "19130",
+          "denominacion": "Cleanse 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8110",
+          "denominacion": "Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25644",
+          "denominacion": "Gorilla Ghost  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5350",
+          "denominacion": "Super Og Kush  1 u. Blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 19
+        },
+        {
+          "referencia": "14136",
+          "denominacion": "Royal Runtz  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7317",
+          "denominacion": "Auto New York City CBD  5 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17383",
+          "denominacion": "Sweet Somango Fast   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18848",
+          "denominacion": "Mimosa Punch   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20286",
+          "denominacion": "Lanza de Riego Metal Extensible Easy Garden",
+          "cantidad": 2
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23894",
+          "denominacion": "Blue Dream  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "20275",
+          "denominacion": "Tangie Candie 3 ud. fem Elev8 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "ACS00",
+          "denominacion": "Auto Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9022",
+          "denominacion": "Mendocino Chanel Kush  3 u. fem. Medical seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026003450",
+      "numero": "15 2026/003450",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003450",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "19275",
+          "denominacion": "Runtz  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 20
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026003445",
+      "numero": "15 2026/003445",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003445",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "19127",
+          "denominacion": "Camg 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19133",
+          "denominacion": "Fade 3,78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19145",
+          "denominacion": "PK 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19130",
+          "denominacion": "Cleanse 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23820",
+          "denominacion": "Ventilador Pared Climatek 2 ud.",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003432",
       "numero": "15 2026/003432",
@@ -958,7 +1238,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 182
+    "total_pedidos": 8,
+    "total_productos": 230
   }
 }
