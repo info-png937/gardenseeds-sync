@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-03T14:11:54.798281",
+  "timestamp": "2026-03-03T17:13:36.331210",
   "pedidos": [
+    {
+      "id": "152026003432",
+      "numero": "15 2026/003432",
+      "fecha": "03/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003432",
+      "fecha_formatted": "2026-03-03",
+      "productos": [
+        {
+          "referencia": "9022",
+          "denominacion": "Mendocino Chanel Kush  3 u. fem. Medical seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RMQ5",
+          "denominacion": "Royal Moby  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 4
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3512",
+          "denominacion": "Blue Rhino  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5619",
+          "denominacion": "Jack Diesel CBD  5u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 8
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3844",
+          "denominacion": "1024 -  5 u. fem. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11459",
+          "denominacion": "Dos Si Dos 33  3 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003386",
       "numero": "15 2026/003386",
@@ -868,7 +958,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 166
+    "total_pedidos": 4,
+    "total_productos": 182
   }
 }
