@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-04T15:06:57.753946",
+  "timestamp": "2026-03-04T16:06:06.043649",
   "pedidos": [
+    {
+      "id": "152026003516",
+      "numero": "15 2026/003516",
+      "fecha": "04/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003516",
+      "fecha_formatted": "2026-03-04",
+      "productos": [
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3512",
+          "denominacion": "Blue Rhino  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2483",
+          "denominacion": "Monster 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 16
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003496",
       "numero": "15 2026/003496",
@@ -848,7 +883,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 156
+    "total_pedidos": 7,
+    "total_productos": 161
   }
 }
