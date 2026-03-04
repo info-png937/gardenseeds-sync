@@ -4,8 +4,258 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-04T18:05:26.387207",
+  "timestamp": "2026-03-04T19:22:33.931799",
   "pedidos": [
+    {
+      "id": "152026003541",
+      "numero": "15 2026/003541",
+      "fecha": "04/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003541",
+      "fecha_formatted": "2026-03-04",
+      "productos": [
+        {
+          "referencia": "6135",
+          "denominacion": "Blueberry Cheese  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5347",
+          "denominacion": "Auto Kryptonite  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11817",
+          "denominacion": "Auto Green Gelato  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9567",
+          "denominacion": "Auto Stress Killer CBD  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14274",
+          "denominacion": "Mimosa x Orange Punch  1 u. fem. Barney's",
+          "cantidad": 14
+        },
+        {
+          "referencia": "19145",
+          "denominacion": "PK 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11673",
+          "denominacion": "OMG  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11676",
+          "denominacion": "K-Mintz  1 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8465",
+          "denominacion": "Brain Cake 1 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14478",
+          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8302",
+          "denominacion": "Auto Zkittlez OG  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 7
+        },
+        {
+          "referencia": "19267",
+          "denominacion": "OG Kush  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19254",
+          "denominacion": "Ice Cream Cake  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18859",
+          "denominacion": "San Bacio Burger   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21135",
+          "denominacion": "Mona Lisa 2 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21795",
+          "denominacion": "Auto Gelato Mint  5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19294",
+          "denominacion": "Delta Boost  0,5 Lt Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11944",
+          "denominacion": "Auto Northern Lights XXL  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14424",
+          "denominacion": "Sweet Critical 2.0   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SLH3",
+          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026003539",
+      "numero": "15 2026/003539",
+      "fecha": "04/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003539",
+      "fecha_formatted": "2026-03-04",
+      "productos": [
+        {
+          "referencia": "6666",
+          "denominacion": "Afghani #1  3 u.  fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26742",
+          "denominacion": "Runtz Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21795",
+          "denominacion": "Auto Gelato Mint  5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8302",
+          "denominacion": "Auto Zkittlez OG  1 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AB1G",
+          "denominacion": "Amnesia Bilbo  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11817",
+          "denominacion": "Auto Green Gelato  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18859",
+          "denominacion": "San Bacio Burger   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11673",
+          "denominacion": "OMG  1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AG12",
+          "denominacion": "Auto Galaxy  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5347",
+          "denominacion": "Auto Kryptonite  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11462",
+          "denominacion": "Tropicanna Banana  1 u. fem. Barney's",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003516",
       "numero": "15 2026/003516",
@@ -883,7 +1133,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 7,
-    "total_productos": 161
+    "total_pedidos": 9,
+    "total_productos": 207
   }
 }
