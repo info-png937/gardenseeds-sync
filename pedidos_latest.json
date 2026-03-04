@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-04T11:35:52.123751",
+  "timestamp": "2026-03-04T13:08:13.798113",
   "pedidos": [
+    {
+      "id": "152026003496",
+      "numero": "15 2026/003496",
+      "fecha": "04/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003496",
+      "fecha_formatted": "2026-03-04",
+      "productos": [
+        {
+          "referencia": "ASS",
+          "denominacion": "Auto Sweet Skunk  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9628",
+          "denominacion": "Auto Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17170",
+          "denominacion": "Gorilla Blue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16029",
+          "denominacion": "Auto Caramellow Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2483",
+          "denominacion": "Monster 3+1 u. fem. Eva Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17382",
+          "denominacion": "Sweet Somango Fast   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PK03",
+          "denominacion": "Pineapple Kush  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5350",
+          "denominacion": "Super Og Kush  1 u. Blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14136",
+          "denominacion": "Royal Runtz  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MG8U",
+          "denominacion": "Melon Gum 8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10723",
+          "denominacion": "Bubble Gum   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19046",
+          "denominacion": "Auto Moby Dick   3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9784",
+          "denominacion": "Auto Blackberry Gum fem.  3 u. Seedstockers",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12273",
+          "denominacion": "Mimosa EVO 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MCP15",
+          "denominacion": "Manguito Corona 150 mm. Plástico",
+          "cantidad": 10
+        },
+        {
+          "referencia": "19133A",
+          "denominacion": "Fade 18.92 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "2026000218",
+      "numero": "2026/000218",
+      "fecha": "04/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000218",
+      "fecha_formatted": "2026-03-04",
+      "productos": [
+        {
+          "referencia": "9163",
+          "denominacion": "Auto Girl Scout Cookies 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003462",
       "numero": "15 2026/003462",
@@ -713,7 +848,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 133
+    "total_pedidos": 6,
+    "total_productos": 156
   }
 }
