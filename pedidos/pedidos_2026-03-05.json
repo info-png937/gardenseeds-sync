@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-05T13:13:03.422549",
+  "timestamp": "2026-03-05T14:13:12.760820",
   "pedidos": [
     {
       "id": "152026003580",
@@ -37,6 +37,11 @@
           "referencia": "23820",
           "denominacion": "Ventilador Pared Climatek 2 ud.",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -524,6 +529,6 @@
   ],
   "stats": {
     "total_pedidos": 6,
-    "total_productos": 91
+    "total_productos": 92
   }
 }
