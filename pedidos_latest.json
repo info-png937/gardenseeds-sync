@@ -4,8 +4,203 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-05T14:13:12.760820",
+  "timestamp": "2026-03-05T15:27:33.439856",
   "pedidos": [
+    {
+      "id": "152026003590",
+      "numero": "15 2026/003590",
+      "fecha": "05/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003590",
+      "fecha_formatted": "2026-03-05",
+      "productos": [
+        {
+          "referencia": "11544",
+          "denominacion": "Auto Sherbet fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "12085",
+          "denominacion": "Only CBD 3+1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13303",
+          "denominacion": "Congo  3 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14478",
+          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14489",
+          "denominacion": "Auto Cherry Pie   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15645",
+          "denominacion": "Watermelon Runtz  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15799",
+          "denominacion": "Banana Purple Punch Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19775",
+          "denominacion": "Tarte Tatin  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21057",
+          "denominacion": "Lemon Cherry Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21135",
+          "denominacion": "Mona Lisa 2 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21401",
+          "denominacion": "Auto Tropicanna XXL 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21402",
+          "denominacion": "Auto Lemon OG Candy 5 u fem Ed.Especial Philosopher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23869",
+          "denominacion": "Light Mix Peat Free 50 lt. Bio Bizz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24826",
+          "denominacion": "Auto Tropicana Cherry   1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "24852",
+          "denominacion": "Apple Blossom 3 u. fem Humboldt Seeds Company",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25624",
+          "denominacion": "Gorilla Glue #4 -  2 u. fem BSF Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6623",
+          "denominacion": "Green Poison Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8135",
+          "denominacion": "OG Kush S.F.V.  3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9241",
+          "denominacion": "Auto Amnesia Haze 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9677",
+          "denominacion": "Green Ninja  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9771",
+          "denominacion": "BCN Power Plant fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AB3D",
+          "denominacion": "Auto Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AWWD3",
+          "denominacion": "Auto White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG4F",
+          "denominacion": "Bubble Gummer  4 u. fem. Female Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKB5",
+          "denominacion": "Critical Kush  5 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "EKRQ1",
+          "denominacion": "Special Kush #1 -  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NBL3",
+          "denominacion": "Nebula  3 u. fem. Paradise Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "PRO89",
+          "denominacion": "Psicodelicia   3+1 uds fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "RME3",
+          "denominacion": "Royal Medic  3 u.  fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S473",
+          "denominacion": "Somango #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WM1R",
+          "denominacion": "Washing Machine 1 u. fem. Ripper Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14318",
+          "denominacion": "Bubble Gum - 3 u. Fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17382",
+          "denominacion": "Sweet Somango Fast   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003580",
       "numero": "15 2026/003580",
@@ -528,7 +723,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 92
+    "total_pedidos": 7,
+    "total_productos": 129
   }
 }
