@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-05T10:49:39.561994",
+  "timestamp": "2026-03-05T13:13:03.422549",
   "pedidos": [
+    {
+      "id": "152026003580",
+      "numero": "15 2026/003580",
+      "fecha": "05/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003580",
+      "fecha_formatted": "2026-03-05",
+      "productos": [
+        {
+          "referencia": "19127",
+          "denominacion": "Camg 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19133",
+          "denominacion": "Fade 3,78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19145",
+          "denominacion": "PK 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19130",
+          "denominacion": "Cleanse 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23820",
+          "denominacion": "Ventilador Pared Climatek 2 ud.",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003541",
       "numero": "15 2026/003541",
@@ -244,8 +279,8 @@
           "cantidad": 4
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -488,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 86
+    "total_pedidos": 6,
+    "total_productos": 91
   }
 }
