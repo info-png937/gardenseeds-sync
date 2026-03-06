@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-06T08:46:21.894705",
+  "timestamp": "2026-03-06T09:47:21.190021",
   "pedidos": [
     {
       "id": "152026003620",
@@ -17,37 +17,92 @@
           "referencia": "17130",
           "denominacion": "Auto Afghan Skunk   5 + 2 u. fem. Advanced Seeds",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003619",
-      "numero": "15 2026/003619",
-      "fecha": "05/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003619",
-      "fecha_formatted": "2026-03-05",
-      "productos": [
+        },
         {
           "referencia": "26748",
           "denominacion": "Papaya Triploid   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23889",
+          "denominacion": "Apple Fritter  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11462",
+          "denominacion": "Tropicanna Banana  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16487",
+          "denominacion": "Green Crack 2.0 -  3 ud Humboldt Seed Organization",
           "cantidad": 2
+        },
+        {
+          "referencia": "11817",
+          "denominacion": "Auto Green Gelato  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15760",
+          "denominacion": "Lemon Orange  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "TD7",
+          "denominacion": "Auto Think Different 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14478",
+          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17131",
+          "denominacion": "Auto Amnesia XXL   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9831",
+          "denominacion": "Northern Lights fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23397",
+          "denominacion": "Camuflaje Piedra de Jardin 8x6x3 cm.",
+          "cantidad": 1
         },
         {
           "referencia": "8578",
           "denominacion": "Auto Jack 47 XL  25 u. fem. Granel Profesionales Sweet Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003618",
-      "numero": "15 2026/003618",
-      "fecha": "05/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003618",
-      "fecha_formatted": "2026-03-05",
-      "productos": [
+        },
+        {
+          "referencia": "13003",
+          "denominacion": "Gorilla Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17130",
+          "denominacion": "Auto Afghan Skunk   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
         {
           "referencia": "3209",
           "denominacion": "Reduccion 150 - 125 mm.",
@@ -242,86 +297,11 @@
           "referencia": "24766",
           "denominacion": "Sunset Zerealz 6 ud. fem Elev8 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003617",
-      "numero": "15 2026/003617",
-      "fecha": "05/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003617",
-      "fecha_formatted": "2026-03-05",
-      "productos": [
+        },
         {
           "referencia": "26748",
           "denominacion": "Papaya Triploid   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "23889",
-          "denominacion": "Apple Fritter  3 u. fem. Barney's",
-          "cantidad": 3
-        },
-        {
-          "referencia": "11462",
-          "denominacion": "Tropicanna Banana  1 u. fem. Barney's",
-          "cantidad": 5
-        },
-        {
-          "referencia": "16473",
-          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "16487",
-          "denominacion": "Green Crack 2.0 -  3 ud Humboldt Seed Organization",
           "cantidad": 2
-        },
-        {
-          "referencia": "11817",
-          "denominacion": "Auto Green Gelato  1 u. fem. Royal Queen",
-          "cantidad": 4
-        },
-        {
-          "referencia": "15760",
-          "denominacion": "Lemon Orange  3 u. fem. Green House",
-          "cantidad": 2
-        },
-        {
-          "referencia": "TD7",
-          "denominacion": "Auto Think Different 7 u. fem. Dutch Passion",
-          "cantidad": 1
-        },
-        {
-          "referencia": "HH3F",
-          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
-          "cantidad": 1
-        },
-        {
-          "referencia": "25485",
-          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "14478",
-          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "17131",
-          "denominacion": "Auto Amnesia XXL   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9831",
-          "denominacion": "Northern Lights fem.  1 u. Seedstockers",
-          "cantidad": 3
-        },
-        {
-          "referencia": "23397",
-          "denominacion": "Camuflaje Piedra de Jardin 8x6x3 cm.",
-          "cantidad": 1
         },
         {
           "referencia": "8578",
@@ -329,14 +309,9 @@
           "cantidad": 1
         },
         {
-          "referencia": "13003",
-          "denominacion": "Gorilla Cookies Auto  5 u. fem. FastBuds Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "17130",
-          "denominacion": "Auto Afghan Skunk   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 4
         }
       ],
       "origen": "ayer"
@@ -578,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 102
+    "total_pedidos": 3,
+    "total_productos": 103
   }
 }
