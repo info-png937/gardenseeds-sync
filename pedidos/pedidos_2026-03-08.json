@@ -4,10 +4,151 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-08T16:36:19.090727",
-  "pedidos": [],
+  "timestamp": "2026-03-08T17:27:59.742303",
+  "pedidos": [
+    {
+      "id": "152026003700",
+      "numero": "15 2026/003700",
+      "fecha": "08/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003700",
+      "fecha_formatted": "2026-03-08",
+      "productos": [
+        {
+          "referencia": "3215",
+          "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "17358",
+          "denominacion": "Tropicana Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20567",
+          "denominacion": "Lemon Bean Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11825",
+          "denominacion": "Auto Sweet ZZ  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1255",
+          "denominacion": "Maple Leaf Indica 10 u. reg. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9178",
+          "denominacion": "Automatic AK 3 u. fem. Blimburn Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3851",
+          "denominacion": "Auto Tutankhamon  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CBDC1",
+          "denominacion": "CBD Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21784",
+          "denominacion": "Auto Oreoz 25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15645",
+          "denominacion": "Watermelon Runtz  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17612",
+          "denominacion": "Polar Gelato  \"by Sherbinskis\"   3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14307",
+          "denominacion": "Gelato 242 -  5 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20228",
+          "denominacion": "Gelato Punch 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16370",
+          "denominacion": "Runtz x Layer Cake 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "CMMN",
+          "denominacion": "Critical Mass 15 u. reg. Mr. Nice",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AFH3",
+          "denominacion": "Afgooey  3 u.  fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "13801",
+          "denominacion": "Sweet Zombie 10 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8935",
+          "denominacion": "Auto Afghan Mass XXL  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15460",
+          "denominacion": "Auto Watermelon Og   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 15
+        },
+        {
+          "referencia": "30749",
+          "denominacion": "Filtros Monkey King Green 50 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 26
   }
 }
