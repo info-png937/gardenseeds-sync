@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-08T17:51:42.837503",
+  "timestamp": "2026-03-08T19:47:41.663836",
   "pedidos": [
+    {
+      "id": "152026003702",
+      "numero": "15 2026/003702",
+      "fecha": "08/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003702",
+      "fecha_formatted": "2026-03-08",
+      "productos": [
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003700",
       "numero": "15 2026/003700",
@@ -148,7 +163,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 26
+    "total_pedidos": 2,
+    "total_productos": 27
   }
 }
