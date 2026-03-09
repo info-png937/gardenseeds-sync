@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-09T11:38:54.035860",
+  "timestamp": "2026-03-09T13:15:50.146392",
   "pedidos": [
+    {
+      "id": "152026003780",
+      "numero": "15 2026/003780",
+      "fecha": "09/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003780",
+      "fecha_formatted": "2026-03-09",
+      "productos": [
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026003773",
+      "numero": "15 2026/003773",
+      "fecha": "09/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003773",
+      "fecha_formatted": "2026-03-09",
+      "productos": [
+        {
+          "referencia": "9255",
+          "denominacion": "Auto White Widow 3+1 u. fem. Vision Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7811",
+          "denominacion": "Gorilla Zkitltez   5 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11839",
+          "denominacion": "Tatanka Pure CBD  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7577",
+          "denominacion": "Sweet Amnesia Haze  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N0003",
+          "denominacion": "Neville's Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5397",
+          "denominacion": "Tutankhamon  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5386",
+          "denominacion": "Kryptonite  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5843",
+          "denominacion": "Automatic Collection 3 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003740",
       "numero": "15 2026/003740",
@@ -898,7 +983,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 172
+    "total_pedidos": 5,
+    "total_productos": 185
   }
 }
