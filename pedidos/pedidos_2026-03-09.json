@@ -4,8 +4,118 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-09T19:59:32.257506",
+  "timestamp": "2026-03-09T20:47:53.528843",
   "pedidos": [
+    {
+      "id": "152026003850",
+      "numero": "15 2026/003850",
+      "fecha": "09/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003850",
+      "fecha_formatted": "2026-03-09",
+      "productos": [
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5843",
+          "denominacion": "Automatic Collection 3 - 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17168",
+          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17191",
+          "denominacion": "Gelato #47 - 1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PKRQ1",
+          "denominacion": "Painkiller XL  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "21010",
+          "denominacion": "Try - Pack I&I Juju Royal",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MMH3",
+          "denominacion": "Money Maker   3 u.  fem. Strain Hunters",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21421",
+          "denominacion": "Blackberry Moonrocks®  3 u. fem Anesia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AM3F",
+          "denominacion": "Auto Mazar  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PRO77",
+          "denominacion": "Green Poison Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "17002",
+          "denominacion": "Grand Daddy Purple   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "25873",
+          "denominacion": "pH Perfect Sensi  Coco Grow    A 1 lt. Advanced Nutrients",
+          "cantidad": 7
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4961",
+          "denominacion": "pH Perfect Connoisseur Grow   A 1 lt.  Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9707",
+          "denominacion": "Diesel Drift  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16287",
+          "denominacion": "Auto Guava x Auto Gelato 41 - 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21675",
+          "denominacion": "Zerealz Milk   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003780",
       "numero": "15 2026/003780",
@@ -978,7 +1088,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 184
+    "total_pedidos": 6,
+    "total_productos": 204
   }
 }
