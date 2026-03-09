@@ -4,8 +4,213 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-09T09:58:41.437811",
+  "timestamp": "2026-03-09T10:56:39.117640",
   "pedidos": [
+    {
+      "id": "152026003740",
+      "numero": "15 2026/003740",
+      "fecha": "09/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003740",
+      "fecha_formatted": "2026-03-09",
+      "productos": [
+        {
+          "referencia": "SS00",
+          "denominacion": "Sweet Somango   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CBDBW1",
+          "denominacion": "CBD Black Widow  1 u. fem. Positronics Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PM4F",
+          "denominacion": "Purple Maroc  4 u. fem. Female Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9616",
+          "denominacion": "North Thunderfuck  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24285",
+          "denominacion": "Rainbow Sherbet  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "PRO19",
+          "denominacion": "Auto Dark Devil   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11463",
+          "denominacion": "Tropicanna Banana  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8098",
+          "denominacion": "Zkittlez Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18492",
+          "denominacion": "Auto Sticky Orange XXl  3 u. fem. Sensi Seeds Research",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AAH3",
+          "denominacion": "Auto Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18749",
+          "denominacion": "Auto Orange Apricot Glue XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20832",
+          "denominacion": "Auto Jealousy Z XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9593",
+          "denominacion": "HulkBerry  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21472",
+          "denominacion": "Nova OG  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "7806",
+          "denominacion": "Blue Gelato 41  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CC25S",
+          "denominacion": "Cream Caramel  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 9
+        },
+        {
+          "referencia": "10725",
+          "denominacion": "Caramel Kush   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "16029",
+          "denominacion": "Auto Caramellow Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20534",
+          "denominacion": "Shimo 3 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8955",
+          "denominacion": "Caramel Kush  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19579",
+          "denominacion": "Sujeta Cigarro Silicona Dedo 10 ud. Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15521",
+          "denominacion": "Peanut Butter Breath Fast Flowering  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14464",
+          "denominacion": "Cherry Pie Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "26331",
+          "denominacion": "Euskal Mandarina  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AAP1",
+          "denominacion": "Auto Anesthesia  1 u. blister x   12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARCR3",
+          "denominacion": "Auto Royal Critical  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19244",
+          "denominacion": "Gelato  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AAH5",
+          "denominacion": "Auto Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16929",
+          "denominacion": "Auto Bruce Banner XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003702",
       "numero": "15 2026/003702",
@@ -693,7 +898,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 133
+    "total_pedidos": 3,
+    "total_productos": 172
   }
 }
