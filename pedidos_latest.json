@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-09T14:31:32.403754",
+  "timestamp": "2026-03-09T16:03:33.278169",
   "pedidos": [
     {
       "id": "152026003780",
@@ -832,11 +832,6 @@
           "referencia": "7727",
           "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
           "cantidad": 2
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -984,6 +979,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 185
+    "total_productos": 184
   }
 }
