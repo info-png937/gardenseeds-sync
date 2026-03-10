@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-10T13:13:53.367500",
+  "timestamp": "2026-03-10T15:34:25.825446",
   "pedidos": [
+    {
+      "id": "152026003916",
+      "numero": "15 2026/003916",
+      "fecha": "10/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003916",
+      "fecha_formatted": "2026-03-10",
+      "productos": [
+        {
+          "referencia": "MMRQ1",
+          "denominacion": "Medical mass  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17197",
+          "denominacion": "Grapefruit 1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3735",
+          "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17169",
+          "denominacion": "Gelato #33 Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19267",
+          "denominacion": "OG Kush  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26747",
+          "denominacion": "Papaya Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 9
+        },
+        {
+          "referencia": "14213",
+          "denominacion": "California Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "10710",
+          "denominacion": "Auto Blueberry   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "9192",
+          "denominacion": "Glookies  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19244",
+          "denominacion": "Gelato  5 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14458",
+          "denominacion": "Cherry Pie   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12271",
+          "denominacion": "Mimosa EVO  3 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SC5P",
+          "denominacion": "Supercheese  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D2260",
+          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24431",
+          "denominacion": "Monster Maker   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 5
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6667",
+          "denominacion": "Afghani #1  5 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26742",
+          "denominacion": "Runtz Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15632",
+          "denominacion": "Gorilla Frost 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003855",
       "numero": "15 2026/003855",
@@ -758,7 +903,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 142
+    "total_pedidos": 5,
+    "total_productos": 169
   }
 }
