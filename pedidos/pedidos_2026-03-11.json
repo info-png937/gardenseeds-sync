@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-11T13:18:07.282719",
+  "timestamp": "2026-03-11T14:28:35.125436",
   "pedidos": [
+    {
+      "id": "152026004047",
+      "numero": "15 2026/004047",
+      "fecha": "11/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004047",
+      "fecha_formatted": "2026-03-11",
+      "productos": [
+        {
+          "referencia": "6697",
+          "denominacion": "Amnesika 2.0 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7140",
+          "denominacion": "Auto Blueberry   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11772",
+          "denominacion": "Cherry Pie  4 u. fem. Female Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5157",
+          "denominacion": "Og Lemon Bilbo  5 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25624",
+          "denominacion": "Gorilla Glue #4 -  2 u. fem BSF Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15612",
+          "denominacion": "Critical Jack  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "7805",
+          "denominacion": "Blue Gelato 41  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14417",
+          "denominacion": "Blueberry Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "30749",
+          "denominacion": "Filtros Monkey King Green 50 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "33742",
+          "denominacion": ".Vaporizador Da Vinci IQC Green",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6312",
+          "denominacion": "Auto Hindu Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14772",
+          "denominacion": "Do-Si-Dos Cookies Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7112",
+          "denominacion": "Crystal Candy F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24156",
+          "denominacion": "Sativa Des Rois  1 u. fem French Touch Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24778",
+          "denominacion": "Wedding Slurripie 6 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9565",
+          "denominacion": "Auto Stress Killer CBD  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "7136",
+          "denominacion": "00 Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "ASAAS3",
+          "denominacion": "Auto Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14505",
+          "denominacion": "La Rica 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11838",
+          "denominacion": "Tatanka Pure CBD  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9130",
+          "denominacion": "Santa Muerte 3 u. fem. Blimburn Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "22082",
+          "denominacion": "Alien OG  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KK2U",
+          "denominacion": "King Kong  2 u. fem. Dr Underground",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 4
+        },
+        {
+          "referencia": "12311",
+          "denominacion": "Auto Afghan Pearl CBD  3 u. fem. Sensi Seeds Research",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AE7D",
+          "denominacion": "Auto Euforia 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D6094",
+          "denominacion": "Auto Glueberry OG 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026003975",
       "numero": "15 2026/003975",
@@ -458,7 +618,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 86
+    "total_pedidos": 3,
+    "total_productos": 116
   }
 }
