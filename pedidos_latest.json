@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-11T08:01:47.009179",
+  "timestamp": "2026-03-11T09:09:07.950941",
   "pedidos": [
     {
       "id": "152026003975",
@@ -17,17 +17,127 @@
           "referencia": "13171",
           "denominacion": "Sweet Critical CBD   3 u. fem. 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003973",
-      "numero": "15 2026/003973",
-      "fecha": "10/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003973",
-      "fecha_formatted": "2026-03-10",
-      "productos": [
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12295",
+          "denominacion": "N13 Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ASK3",
+          "denominacion": "Auto Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9879",
+          "denominacion": "Auto Super Skunk fem.  1 u. Seedstockers",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "33914",
+          "denominacion": "Vaporizador X-vape X-max Vital Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "GTAS",
+          "denominacion": "Golden Tiger 3 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24282",
+          "denominacion": "Cherry Poppers  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7591",
+          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12273",
+          "denominacion": "Mimosa EVO 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14380",
+          "denominacion": "Sideral x Zombie Kush 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21068",
+          "denominacion": "Pound Cake Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18501",
+          "denominacion": "Auto Sticky Orange XXl  5 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14512",
+          "denominacion": "Bestial Skunk 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5433",
+          "denominacion": "Auto Amnesia Gold  3  u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19041",
+          "denominacion": "Ztrawberriez Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15603",
+          "denominacion": "Amnesia Lemon  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13171",
+          "denominacion": "Sweet Critical CBD   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6192",
+          "denominacion": "Critical Kush  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
         {
           "referencia": "17161",
           "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
@@ -192,136 +302,11 @@
           "referencia": "2922",
           "denominacion": "Tutankhamon  1 u. blister x 12 u. fem. Pyramid Seeds",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026003971",
-      "numero": "15 2026/003971",
-      "fecha": "10/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026003971",
-      "fecha_formatted": "2026-03-10",
-      "productos": [
+        },
         {
-          "referencia": "11588",
-          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "12295",
-          "denominacion": "N13 Kush  3 u. fem. Sensi Seeds Research",
-          "cantidad": 2
-        },
-        {
-          "referencia": "ASK3",
-          "denominacion": "Auto Skunk #1 -  3 u. fem. Sensi Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "9879",
-          "denominacion": "Auto Super Skunk fem.  1 u. Seedstockers",
-          "cantidad": 5
-        },
-        {
-          "referencia": "8975",
-          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
-          "cantidad": 10
-        },
-        {
-          "referencia": "33914",
-          "denominacion": "Vaporizador X-vape X-max Vital Black",
-          "cantidad": 1
-        },
-        {
-          "referencia": "3551",
-          "denominacion": "1024 -  3 u. fem. Medical Seeds",
-          "cantidad": 8
-        },
-        {
-          "referencia": "6425",
-          "denominacion": "White Widow   5 u. fem. 00 Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "GTAS",
-          "denominacion": "Golden Tiger 3 u. fem. Ace Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "24282",
-          "denominacion": "Cherry Poppers  5 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "7591",
-          "denominacion": "Auto + Speed  25 u. fem. Granel Profesionales Sweet Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "12273",
-          "denominacion": "Mimosa EVO 10 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "17161",
-          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 10
-        },
-        {
-          "referencia": "14380",
-          "denominacion": "Sideral x Zombie Kush 3 u. fem. Ed. Lim. Ripper Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21068",
-          "denominacion": "Pound Cake Auto  1 u. fem. FastBuds Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "18501",
-          "denominacion": "Auto Sticky Orange XXl  5 u. fem. Sensi Seeds Research",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14512",
-          "denominacion": "Bestial Skunk 7 u. fem. Elite Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "5433",
-          "denominacion": "Auto Amnesia Gold  3  u. fem. Pyramid Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "19041",
-          "denominacion": "Ztrawberriez Auto  1 u. fem. FastBuds Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "YG3M",
-          "denominacion": "Y Griega  3 u. fem. Medical seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "15603",
-          "denominacion": "Amnesia Lemon  3 ud Silent Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "13171",
-          "denominacion": "Sweet Critical CBD   3 u. fem. 00 Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "6192",
-          "denominacion": "Critical Kush  3 u. fem. Barney's",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21668",
-          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
-          "cantidad": 5
         }
       ],
       "origen": "ayer"
@@ -473,7 +458,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 85
+    "total_pedidos": 2,
+    "total_productos": 86
   }
 }
