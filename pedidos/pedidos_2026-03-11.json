@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-11T14:28:35.125436",
+  "timestamp": "2026-03-11T15:26:01.231291",
   "pedidos": [
     {
       "id": "152026004047",
@@ -161,6 +161,11 @@
         {
           "referencia": "D6094",
           "denominacion": "Auto Glueberry OG 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -619,6 +624,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 116
+    "total_productos": 117
   }
 }
