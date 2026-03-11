@@ -4,8 +4,238 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-11T19:27:50.893882",
+  "timestamp": "2026-03-11T20:47:18.013457",
   "pedidos": [
+    {
+      "id": "152026004082",
+      "numero": "15 2026/004082",
+      "fecha": "11/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004082",
+      "fecha_formatted": "2026-03-11",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "1920",
+          "denominacion": "Critical #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3512",
+          "denominacion": "Blue Rhino  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 8
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG50",
+          "denominacion": "Bactogel  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9522",
+          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9163",
+          "denominacion": "Auto Girl Scout Cookies 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1273",
+          "denominacion": "Hash Plant 10 u. reg. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20311",
+          "denominacion": "Girl Scout Cookies  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17168",
+          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21842A",
+          "denominacion": "Cañamo Cbd  Xuxes Pop Corn Blue Candy Jumbo  25 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24778",
+          "denominacion": "Wedding Slurripie 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026004081",
+      "numero": "15 2026/004081",
+      "fecha": "11/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004081",
+      "fecha_formatted": "2026-03-11",
+      "productos": [
+        {
+          "referencia": "15518",
+          "denominacion": "Ice Cream Cake Fast Flowering  3 ud Humboldt Seed Organization",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SXL1",
+          "denominacion": "Somango XL  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9628",
+          "denominacion": "Auto Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15617",
+          "denominacion": "Moby Dick 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3736",
+          "denominacion": "White Russian - 6 u. fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3794",
+          "denominacion": "TNT Kush 3+1 u. fem. Eva Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6660",
+          "denominacion": "Jack Herer  3 u.  fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20311",
+          "denominacion": "Girl Scout Cookies  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "D1059",
+          "denominacion": "Durban Poison 10 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004047",
       "numero": "15 2026/004047",
@@ -623,7 +853,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 117
+    "total_pedidos": 5,
+    "total_productos": 159
   }
 }
