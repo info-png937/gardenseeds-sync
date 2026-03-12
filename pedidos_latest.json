@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-12T20:49:26.384298",
+  "timestamp": "2026-03-12T21:39:37.120465",
   "pedidos": [
+    {
+      "id": "152026004175",
+      "numero": "15 2026/004175",
+      "fecha": "12/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004175",
+      "fecha_formatted": "2026-03-12",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2179",
+          "denominacion": "Secret Icer Kit 20 lt. - 3 Bolsas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5384",
+          "denominacion": "Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "AAH1",
+          "denominacion": "Auto Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14304",
+          "denominacion": "Cookies Purple Punch  5 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18436",
+          "denominacion": "Auto K-Mintz 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1273",
+          "denominacion": "Hash Plant 10 u. reg. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16490",
+          "denominacion": "Chocolate Mint Og 2.0 -  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23380",
+          "denominacion": "Camuflaje Tornillo 55 mm.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13084",
+          "denominacion": "Auto Somango Glue  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9393",
+          "denominacion": "Auto Gelato #33 -  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11969",
+          "denominacion": "Cream Caramel Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30530",
+          "denominacion": "Papel Raw  Classic  1.1/4 Block 500 - 20 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19114",
+          "denominacion": "Balance 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14497",
+          "denominacion": "Auto Slurricane  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26500",
+          "denominacion": "Auto Permanent Marker XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026004174",
+      "numero": "15 2026/004174",
+      "fecha": "12/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004174",
+      "fecha_formatted": "2026-03-12",
+      "productos": [
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9756",
+          "denominacion": "Auto BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20828",
+          "denominacion": "Papaya Zoap F1 Fast Version 3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004148",
       "numero": "15 2026/004148",
@@ -633,7 +788,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 119
+    "total_pedidos": 5,
+    "total_productos": 146
   }
 }
