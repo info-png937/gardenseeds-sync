@@ -4,8 +4,218 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-12T15:32:51.516907",
+  "timestamp": "2026-03-12T17:02:50.329977",
   "pedidos": [
+    {
+      "id": "152026004148",
+      "numero": "15 2026/004148",
+      "fecha": "12/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004148",
+      "fecha_formatted": "2026-03-12",
+      "productos": [
+        {
+          "referencia": "21786",
+          "denominacion": "Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15624",
+          "denominacion": "White Widow  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19370",
+          "denominacion": "Puff Mints 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "5384",
+          "denominacion": "Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "14453",
+          "denominacion": "Amnesia Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8110",
+          "denominacion": "Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13302",
+          "denominacion": "Congo  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14479",
+          "denominacion": "Watermelon OG   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16476",
+          "denominacion": "Lemon OG   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "20808",
+          "denominacion": "Gelato Mint   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "26500",
+          "denominacion": "Auto Permanent Marker XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17607",
+          "denominacion": "Acai Jelly  \"by Sherbinskis\"   5 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9772",
+          "denominacion": "BCN Power Plant fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15518",
+          "denominacion": "Ice Cream Cake Fast Flowering  3 ud Humboldt Seed Organization",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9192",
+          "denominacion": "Glookies  5 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WW3F",
+          "denominacion": "White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "DM3F",
+          "denominacion": "Durga Mata  3 u. fem. Paradise Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13179",
+          "denominacion": "Auto Critical Lemon CBD   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9393",
+          "denominacion": "Auto Gelato #33 -  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19742",
+          "denominacion": "Critical Widow 3 u fem Philosopher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9156",
+          "denominacion": "Grandaddy Purple 3 u. fem. Blimburn Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13084",
+          "denominacion": "Auto Somango Glue  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CKU00",
+          "denominacion": "Caramel Kush   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17199",
+          "denominacion": "Grapefruit 5 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14079",
+          "denominacion": "Acido Citrico  1 lt. Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6623",
+          "denominacion": "Green Poison Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11969",
+          "denominacion": "Cream Caramel Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20537",
+          "denominacion": "Zake 3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9166",
+          "denominacion": "Tijuana 3 u. fem. Blimburn Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004082",
       "numero": "15 2026/004082",
@@ -423,7 +633,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 79
+    "total_pedidos": 3,
+    "total_productos": 119
   }
 }
