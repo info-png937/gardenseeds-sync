@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-13T08:02:28.569159",
+  "timestamp": "2026-03-13T09:07:35.351046",
   "pedidos": [
     {
       "id": "152026004175",
@@ -131,6 +131,26 @@
         {
           "referencia": "26500",
           "denominacion": "Auto Permanent Marker XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9756",
+          "denominacion": "Auto BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20828",
+          "denominacion": "Papaya Zoap F1 Fast Version 3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -374,6 +394,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 67
+    "total_productos": 71
   }
 }
