@@ -4,8 +4,118 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-13T15:11:03.936027",
+  "timestamp": "2026-03-13T16:04:26.145272",
   "pedidos": [
+    {
+      "id": "152026004219",
+      "numero": "15 2026/004219",
+      "fecha": "13/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004219",
+      "fecha_formatted": "2026-03-13",
+      "productos": [
+        {
+          "referencia": "9393",
+          "denominacion": "Auto Gelato #33 -  25 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7724",
+          "denominacion": "Critical Orange Punch  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23456",
+          "denominacion": "Incienso Koh Do Lavanda 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23491",
+          "denominacion": "Incensario 7 Tesoros Shippoh Ceramica 10x4 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19118",
+          "denominacion": "Bloom A 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9250",
+          "denominacion": "Auto Vision Critical 3 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9762",
+          "denominacion": "BCN Critical XXL fem. 25 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21783",
+          "denominacion": "Auto Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PKRQ1",
+          "denominacion": "Painkiller XL  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RME1",
+          "denominacion": "Royal Medic  1 u.  fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13091",
+          "denominacion": "Auto White Widow XXL   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ACS00",
+          "denominacion": "Auto Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25644",
+          "denominacion": "Gorilla Ghost  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25646",
+          "denominacion": "Gorilla Ghost  7 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2258",
+          "denominacion": "Mazar  5 u. fem. Dutch passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8130",
+          "denominacion": "Auto Pineapple Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9413",
+          "denominacion": "Gelato Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8309",
+          "denominacion": "Auto LSD 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004175",
       "numero": "15 2026/004175",
@@ -149,8 +259,8 @@
           "cantidad": 3
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -393,7 +503,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 71
+    "total_pedidos": 4,
+    "total_productos": 91
   }
 }
