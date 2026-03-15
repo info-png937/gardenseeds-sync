@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-15T17:33:40.539539",
+  "timestamp": "2026-03-15T18:48:20.306134",
   "pedidos": [
+    {
+      "id": "152026004252",
+      "numero": "15 2026/004252",
+      "fecha": "15/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004252",
+      "fecha_formatted": "2026-03-15",
+      "productos": [
+        {
+          "referencia": "8976",
+          "denominacion": "Gorila Bilbo  5 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "SBGK1",
+          "denominacion": "Santa Bilbo  1 u. fem. Genehtik Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12086",
+          "denominacion": "Lemon King 3+1 u. fem. Eva Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19055",
+          "denominacion": "Fruit Green Dtc Aerosol Descarga Total 50 ml Trabe.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17148",
+          "denominacion": "Auto Somango   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "7992",
+          "denominacion": "Critical Poison  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5157",
+          "denominacion": "Og Lemon Bilbo  5 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15626",
+          "denominacion": "White Widow 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17149",
+          "denominacion": "Auto Somango Glue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9756",
+          "denominacion": "Auto BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21472",
+          "denominacion": "Nova OG  3 u. fem Anesia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21800",
+          "denominacion": "Apple Bananas 25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ZK5R",
+          "denominacion": "Zombie Kush 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17199",
+          "denominacion": "Grapefruit 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17170",
+          "denominacion": "Gorilla Blue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18754",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11460",
+          "denominacion": "Dos Si Dos 33  5 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17158",
+          "denominacion": "Bruce Banner   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16930",
+          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9222",
+          "denominacion": "Lambs Breath X Ak-49  3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14433",
+          "denominacion": "Auto Purple Punch   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "D2311",
+          "denominacion": "Hollands Hope  5 u. fem. Dutch Passion",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16516",
+          "denominacion": "B-45 By Booba  5 ud Silent Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004242",
       "numero": "15 2026/004242",
@@ -198,7 +358,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 34
+    "total_pedidos": 3,
+    "total_productos": 64
   }
 }
