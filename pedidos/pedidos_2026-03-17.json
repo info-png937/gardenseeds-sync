@@ -4,8 +4,133 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-17T18:05:34.922224",
+  "timestamp": "2026-03-17T19:35:29.375711",
   "pedidos": [
+    {
+      "id": "152026004476",
+      "numero": "15 2026/004476",
+      "fecha": "17/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004476",
+      "fecha_formatted": "2026-03-17",
+      "productos": [
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6625",
+          "denominacion": "Auto Cream Mandarine XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9581",
+          "denominacion": "Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10727",
+          "denominacion": "Chocolate Cream   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17213",
+          "denominacion": "American Purple 3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12058",
+          "denominacion": "Silver Fire  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20555A",
+          "denominacion": "Auto Forbidden Fruit Cake   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20560",
+          "denominacion": "Lemon Bean   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24764",
+          "denominacion": "Fruity Runtz 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026004475",
+      "numero": "15 2026/004475",
+      "fecha": "17/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004475",
+      "fecha_formatted": "2026-03-17",
+      "productos": [
+        {
+          "referencia": "NBL3",
+          "denominacion": "Nebula  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11194",
+          "denominacion": "Amnesi - K Lemon   1 u. fem. Kannabia Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004458",
       "numero": "15 2026/004458",
@@ -848,7 +973,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 160
+    "total_pedidos": 6,
+    "total_productos": 181
   }
 }
