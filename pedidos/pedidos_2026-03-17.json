@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-17T07:36:20.240559",
+  "timestamp": "2026-03-17T08:59:29.761756",
   "pedidos": [
     {
       "id": "152026004370",
@@ -246,6 +246,46 @@
         {
           "referencia": "24480",
           "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9585",
+          "denominacion": "Purple Queen  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8033",
+          "denominacion": "Auto Desfran 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20561",
+          "denominacion": "Lemon Bean   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15046",
+          "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SSFSS5",
+          "denominacion": "Sensi Skunk  5 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "YG5F",
+          "denominacion": "Y Griega  5 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17203",
+          "denominacion": "Purple Cherry 1 u. fem. Positronics Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -554,6 +594,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 103
+    "total_productos": 111
   }
 }
