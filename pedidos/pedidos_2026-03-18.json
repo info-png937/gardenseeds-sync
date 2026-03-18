@@ -4,8 +4,133 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-18T15:18:21.670431",
+  "timestamp": "2026-03-18T16:38:19.280186",
   "pedidos": [
+    {
+      "id": "152026004558",
+      "numero": "15 2026/004558",
+      "fecha": "18/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004558",
+      "fecha_formatted": "2026-03-18",
+      "productos": [
+        {
+          "referencia": "9199",
+          "denominacion": "Auto Purple Punch  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8291",
+          "denominacion": "Strawberry Lemonade  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5456",
+          "denominacion": "Chocolate Skunk CBD   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14307",
+          "denominacion": "Gelato 242 -  5 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24925",
+          "denominacion": "Lemongrass 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9193",
+          "denominacion": "Glookies 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5143",
+          "denominacion": "Blueberry Cheesecake  4 u. fem. Female Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14437",
+          "denominacion": "Northern Lights CBD   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17192",
+          "denominacion": "Gelato #47 - 3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16478",
+          "denominacion": "Lemon OG  25 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BC3QR",
+          "denominacion": "Blue Mystic  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3735",
+          "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25636",
+          "denominacion": "Gorilla Rainbow  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7315",
+          "denominacion": "Auto Northern Ligths CBD  5 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PM4F",
+          "denominacion": "Purple Maroc  4 u. fem. Female Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6832",
+          "denominacion": "Blue Dream´matic  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18550",
+          "denominacion": "Auto Hyperion F1 -  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SQ3R",
+          "denominacion": "Special Queen #1 -  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5687",
+          "denominacion": "Sour Ripper 1 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20536",
+          "denominacion": "Zake 1 u. fem. Ripper Seeds",
+          "cantidad": 9
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004476",
       "numero": "15 2026/004476",
@@ -403,7 +528,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 73
+    "total_pedidos": 4,
+    "total_productos": 96
   }
 }
