@@ -4,8 +4,158 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-18T18:11:35.297756",
+  "timestamp": "2026-03-18T19:30:03.245456",
   "pedidos": [
+    {
+      "id": "152026004567",
+      "numero": "15 2026/004567",
+      "fecha": "18/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004567",
+      "fecha_formatted": "2026-03-18",
+      "productos": [
+        {
+          "referencia": "3005",
+          "denominacion": "Tightvac Bote Hermetico  0.12 lt.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7134",
+          "denominacion": "Critical Poison   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CMMN",
+          "denominacion": "Critical Mass 15 u. reg. Mr. Nice",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "LYOG",
+          "denominacion": "Larry OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 4
+        },
+        {
+          "referencia": "4832",
+          "denominacion": "SFV OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18979",
+          "denominacion": "Cañamo Cbd Xuxes Strawberry 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18976",
+          "denominacion": "Cañamo Cbd Xuxes Watermelon 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21680",
+          "denominacion": "Rainbow Sherbet #11 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16478",
+          "denominacion": "Lemon OG  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26495",
+          "denominacion": "Pink Guava  F1 Fast Version  5+2 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "26749",
+          "denominacion": "Papaya Triploid   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "33914",
+          "denominacion": "Vaporizador X-vape X-max Vital Black",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21965",
+          "denominacion": "Test Coca 300 ng/ml.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026004566",
+      "numero": "15 2026/004566",
+      "fecha": "18/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004566",
+      "fecha_formatted": "2026-03-18",
+      "productos": [
+        {
+          "referencia": "1920",
+          "denominacion": "Critical #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15611",
+          "denominacion": "Critical + 2.0 - 10 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26495",
+          "denominacion": "Pink Guava  F1 Fast Version  5+2 u. fem. Sweet Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004558",
       "numero": "15 2026/004558",
@@ -528,7 +678,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 96
+    "total_pedidos": 6,
+    "total_productos": 122
   }
 }
