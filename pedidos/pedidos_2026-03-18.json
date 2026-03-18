@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-18T07:56:55.840547",
+  "timestamp": "2026-03-18T10:06:57.772206",
   "pedidos": [
     {
       "id": "152026004476",
@@ -106,6 +106,21 @@
         {
           "referencia": "24764",
           "denominacion": "Fruity Runtz 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NBL3",
+          "denominacion": "Nebula  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11194",
+          "denominacion": "Amnesi - K Lemon   1 u. fem. Kannabia Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -389,6 +404,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 70
+    "total_productos": 73
   }
 }
