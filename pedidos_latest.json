@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-19T14:29:19.962368",
+  "timestamp": "2026-03-19T16:33:17.147352",
   "pedidos": [
+    {
+      "id": "152026004602",
+      "numero": "15 2026/004602",
+      "fecha": "19/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004602",
+      "fecha_formatted": "2026-03-19",
+      "productos": [
+        {
+          "referencia": "9706",
+          "denominacion": "Gold Mine 10 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15607",
+          "denominacion": "Critical Mango  5 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3447",
+          "denominacion": "Jack La Mota  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21757",
+          "denominacion": "Lemon Z  1 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16372",
+          "denominacion": "Persian Pie  3 u. fem. Green House.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11813",
+          "denominacion": "Auto Fat Banana  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "2294",
+          "denominacion": "Neville's Haze  5 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OPM3",
+          "denominacion": "Opium  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24777",
+          "denominacion": "Wedding Slurripie 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KK4U",
+          "denominacion": "King Kong  4 u. fem. Dr Underground",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11925",
+          "denominacion": "Auto Biodiesel Mass XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8115",
+          "denominacion": "Auto Strawberry Gum   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14030",
+          "denominacion": "Auto Runtz XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9758",
+          "denominacion": "Auto BCN Critical XXL fem. 25 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "6332",
+          "denominacion": "Californian Snow Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23082",
+          "denominacion": "Candy Candy 3 u. fem Cookies Seed Bank",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26506",
+          "denominacion": "Gelonade   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15509",
+          "denominacion": "Ghost Of NYC  3 ud Humboldt Seed Organization",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4502",
+          "denominacion": "TNT Kush CBD  3+1 u. fem. Eva Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "20805",
+          "denominacion": "Biscotti Zkittlez   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "JF3F",
+          "denominacion": "Jack Flash #5 - 3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004567",
       "numero": "15 2026/004567",
@@ -142,11 +302,6 @@
           "referencia": "26495",
           "denominacion": "Pink Guava  F1 Fast Version  5+2 u. fem. Sweet Seeds",
           "cantidad": 4
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -278,7 +433,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 50
+    "total_pedidos": 3,
+    "total_productos": 79
   }
 }
