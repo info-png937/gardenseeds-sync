@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-20T07:05:07.231100",
+  "timestamp": "2026-03-20T09:07:51.149281",
   "pedidos": [
     {
       "id": "152026004616",
@@ -17,6 +17,261 @@
           "referencia": "KB5F",
           "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
           "cantidad": 20
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BB3S",
+          "denominacion": "Big Bud  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 19
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CMMN",
+          "denominacion": "Critical Mass 15 u. reg. Mr. Nice",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6256",
+          "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "SS00",
+          "denominacion": "Sweet Somango   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25650",
+          "denominacion": "Gorilla Banana  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9522",
+          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9758",
+          "denominacion": "Auto BCN Critical XXL fem. 25 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HB1",
+          "denominacion": "Haze Berry  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15509",
+          "denominacion": "Ghost Of NYC  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14161",
+          "denominacion": "Auto Mimosa  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18986",
+          "denominacion": "Hash Cbd Xuxes Gummy 2 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18979",
+          "denominacion": "Cañamo Cbd Xuxes Strawberry 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18976",
+          "denominacion": "Cañamo Cbd Xuxes Watermelon 3 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23548",
+          "denominacion": "Medidor Ph/Fertilidad 2 in 1 Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24196",
+          "denominacion": "CandyGaz 1 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24826",
+          "denominacion": "Auto Tropicana Cherry   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26506",
+          "denominacion": "Gelonade   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5227B",
+          "denominacion": "Camuflaje Lata Cerveza Mahou Clasica",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9706",
+          "denominacion": "Gold Mine 10 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33803C",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Graphite Black Kit 1.350 mah..",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 15
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5409",
+          "denominacion": "Auto Anubis  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11868",
+          "denominacion": "Auto Gorilla   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "HB1",
+          "denominacion": "Haze Berry  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14993",
+          "denominacion": "Velvet Moon  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "IC3F",
+          "denominacion": "Ice Cream  3 u. fem. Paradise Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -454,6 +709,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 81
+    "total_productos": 132
   }
 }
