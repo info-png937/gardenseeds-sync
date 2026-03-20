@@ -4,8 +4,318 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-20T19:21:36.089680",
+  "timestamp": "2026-03-20T19:57:58.024808",
   "pedidos": [
+    {
+      "id": "152026004683",
+      "numero": "15 2026/004683",
+      "fecha": "20/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004683",
+      "fecha_formatted": "2026-03-20",
+      "productos": [
+        {
+          "referencia": "13228",
+          "denominacion": "Malawi 1 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "SSFA3",
+          "denominacion": "Auto Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AEP3",
+          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15519",
+          "denominacion": "Ice Cream Cake Fast Flowering  5 ud Humboldt Seed Organization",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15045",
+          "denominacion": "Auto Sour Diesel fem.  1 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11826",
+          "denominacion": "Auto Sweet ZZ  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9237",
+          "denominacion": "White Widow 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "LS3F",
+          "denominacion": "Lemon Skunk  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21136",
+          "denominacion": "Mona Lisa 5 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33803C",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Graphite Black Kit 1.350 mah..",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20213",
+          "denominacion": "Baked Apple Cherries 3 ud. fem Elev8 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "RI150",
+          "denominacion": "Rooting Gel 150 ml. Rootit",
+          "cantidad": 4
+        },
+        {
+          "referencia": "4514",
+          "denominacion": "Oidio Killer 50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17499",
+          "denominacion": "Camuflaje Conservas  Crema de Champiñones",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17500",
+          "denominacion": "Camuflaje Conservas  Raviolis",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25067",
+          "denominacion": "Prensa Rosin Graveda  3 Tn. (Placa 7.5x10 cm.)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026004682",
+      "numero": "15 2026/004682",
+      "fecha": "20/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004682",
+      "fecha_formatted": "2026-03-20",
+      "productos": [
+        {
+          "referencia": "5689",
+          "denominacion": "Sour Ripper 5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6178",
+          "denominacion": "Blueberry Cheese  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "W3FP",
+          "denominacion": "Wappa  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2252",
+          "denominacion": "Blueberry  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9535",
+          "denominacion": "Lemon Shining Silver Haze  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "EKRQ1",
+          "denominacion": "Special Kush #1 -  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15519",
+          "denominacion": "Ice Cream Cake Fast Flowering  5 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9207",
+          "denominacion": "AK-49 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "LS3F",
+          "denominacion": "Lemon Skunk  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1007",
+          "denominacion": "Pineapple Chunk 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18966",
+          "denominacion": "Carbobloom   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9022",
+          "denominacion": "Mendocino Chanel Kush  3 u. fem. Medical seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9156",
+          "denominacion": "Grandaddy Purple 3 u. fem. Blimburn Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15045",
+          "denominacion": "Auto Sour Diesel fem.  1 u. Seedstockers",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11805",
+          "denominacion": "Triple G-  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9237",
+          "denominacion": "White Widow 3+1 u. fem. Vision Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CK00",
+          "denominacion": "Chocolate Kush   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AEP3",
+          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MF3D",
+          "denominacion": "Mazar  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SCF3",
+          "denominacion": "Strawberry Cough  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7627",
+          "denominacion": "Auto Tangerine Dream 1 u. fem.  Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9827",
+          "denominacion": "Auto Northern Lights fem.  1 u. Seedstockers",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8115",
+          "denominacion": "Auto Strawberry Gum   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14494",
+          "denominacion": "Auto Slurricane   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9219",
+          "denominacion": "Doctor Jamaica 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16469",
+          "denominacion": "Auto Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21136",
+          "denominacion": "Mona Lisa 5 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5409",
+          "denominacion": "Auto Anubis  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20213",
+          "denominacion": "Baked Apple Cherries 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "JACK",
+          "denominacion": "Auto Jack  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CS00",
+          "denominacion": "Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17366",
+          "denominacion": "Great White Micorrizas 1 Kg. Granular",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004616",
       "numero": "15 2026/004616",
@@ -708,7 +1018,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 132
+    "total_pedidos": 6,
+    "total_productos": 190
   }
 }
