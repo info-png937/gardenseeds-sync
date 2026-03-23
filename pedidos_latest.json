@@ -4,8 +4,318 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-23T18:11:46.520436",
+  "timestamp": "2026-03-23T19:29:20.249963",
   "pedidos": [
+    {
+      "id": "152026004820",
+      "numero": "15 2026/004820",
+      "fecha": "23/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004820",
+      "fecha_formatted": "2026-03-23",
+      "productos": [
+        {
+          "referencia": "13228",
+          "denominacion": "Malawi 1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3203",
+          "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10834",
+          "denominacion": "Durban Poison  1 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5397",
+          "denominacion": "Tutankhamon  5 u. fem. Pyramid Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "KRP12",
+          "denominacion": "Kryptonite  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7134",
+          "denominacion": "Critical Poison   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 14
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5379",
+          "denominacion": "Blue Pyramid 3 u. Fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9566",
+          "denominacion": "Auto Stress Killer CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "25640",
+          "denominacion": "White Gorilla  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18961",
+          "denominacion": "Euskal Zkittlez   1 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "31415",
+          "denominacion": "Rellenadora Corredera Colores 84 mm. Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9538",
+          "denominacion": "Lemon Shining Silver Haze 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25004",
+          "denominacion": "Auto Mango Sherbert 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20851",
+          "denominacion": "Auto Blueberry Bubblegum   3 u. fem. Sensi Seed Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FM10",
+          "denominacion": "Feminized Mix 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20822",
+          "denominacion": "Orange Bud 2.0 - 10 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20541",
+          "denominacion": "Korenji 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14437",
+          "denominacion": "Northern Lights CBD   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14161",
+          "denominacion": "Auto Mimosa  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21397",
+          "denominacion": "Hardcore Gelato 5 u fem Philosopher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20808",
+          "denominacion": "Gelato Mint   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10737",
+          "denominacion": "Sweet Somango   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18549",
+          "denominacion": "Auto Hyperion F1 -  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 15
+        },
+        {
+          "referencia": "LFP12",
+          "denominacion": "Lennon  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026004819",
+      "numero": "15 2026/004819",
+      "fecha": "23/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004819",
+      "fecha_formatted": "2026-03-23",
+      "productos": [
+        {
+          "referencia": "2295",
+          "denominacion": "Super Silver Haze  5 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "KRP12",
+          "denominacion": "Kryptonite  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9182",
+          "denominacion": "Auto Northern 3 u. fem. Blimburn Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8281",
+          "denominacion": "Godzilla Glue  8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18549",
+          "denominacion": "Auto Hyperion F1 -  1 u. fem. Royal Queen",
+          "cantidad": 7
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026004793",
       "numero": "15 2026/004793",
@@ -333,7 +643,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 63
+    "total_pedidos": 3,
+    "total_productos": 121
   }
 }
