@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-24T07:37:15.444631",
+  "timestamp": "2026-03-24T08:59:12.208232",
   "pedidos": [
     {
       "id": "152026004820",
@@ -262,17 +262,7 @@
           "referencia": "SSH3",
           "denominacion": "Super Silver Haze  3 u. fem. Green House",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026004819",
-      "numero": "15 2026/004819",
-      "fecha": "23/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004819",
-      "fecha_formatted": "2026-03-23",
-      "productos": [
+        },
         {
           "referencia": "2295",
           "denominacion": "Super Silver Haze  5 u. fem. Green House",
@@ -312,6 +302,11 @@
           "referencia": "18549",
           "denominacion": "Auto Hyperion F1 -  1 u. fem. Royal Queen",
           "cantidad": 7
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -643,7 +638,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 121
+    "total_pedidos": 2,
+    "total_productos": 122
   }
 }
