@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-25T07:36:17.473932",
+  "timestamp": "2026-03-25T08:58:15.612432",
   "pedidos": [
     {
       "id": "152026004917",
@@ -192,17 +192,7 @@
           "referencia": "3728",
           "denominacion": "Camuflaje Mechero Coche",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026004915",
-      "numero": "15 2026/004915",
-      "fecha": "24/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026004915",
-      "fecha_formatted": "2026-03-24",
-      "productos": [
+        },
         {
           "referencia": "AE3D",
           "denominacion": "Auto Euforia 3 u. fem. Dutch Passion",
@@ -257,13 +247,18 @@
           "referencia": "19552",
           "denominacion": "Grow Kit Thai",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 47
+    "total_pedidos": 1,
+    "total_productos": 48
   }
 }
