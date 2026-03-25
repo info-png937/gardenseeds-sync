@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-25T20:02:45.465470",
+  "timestamp": "2026-03-25T22:03:42.407430",
   "pedidos": [
+    {
+      "id": "152026005028",
+      "numero": "15 2026/005028",
+      "fecha": "25/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005028",
+      "fecha_formatted": "2026-03-25",
+      "productos": [
+        {
+          "referencia": "24858",
+          "denominacion": "Bigfoot Glue 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026005027",
       "numero": "15 2026/005027",
@@ -573,7 +588,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 107
+    "total_pedidos": 4,
+    "total_productos": 108
   }
 }
