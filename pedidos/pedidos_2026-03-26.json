@@ -4,8 +4,208 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-26T16:41:24.289573",
+  "timestamp": "2026-03-26T19:38:02.376482",
   "pedidos": [
+    {
+      "id": "152026005127",
+      "numero": "15 2026/005127",
+      "fecha": "26/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005127",
+      "fecha_formatted": "2026-03-26",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BB3S",
+          "denominacion": "Big Bud  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CRY8",
+          "denominacion": "Crystal M.E.H.T. 8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33914",
+          "denominacion": "Vaporizador X-vape X-max Vital Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S471",
+          "denominacion": "Somango #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CBDBW1",
+          "denominacion": "CBD Black Widow  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9581",
+          "denominacion": "Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7134",
+          "denominacion": "Critical Poison   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RMO1",
+          "denominacion": "Royal Moby  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10696",
+          "denominacion": "CBD 20:1 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9592",
+          "denominacion": "HulkBerry  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9674",
+          "denominacion": "Fruit Punch  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9730",
+          "denominacion": "Monster Profit 10 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11274",
+          "denominacion": "Auto Speedy Boom  5 u. fem. Kannabia Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9560",
+          "denominacion": "Auto Blue Cheese  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6256",
+          "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11674",
+          "denominacion": "OMG  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8803",
+          "denominacion": "Crystal Candy F1 Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ESFS4",
+          "denominacion": "Easy Sativa  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6362",
+          "denominacion": "Pineapple Express Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17383",
+          "denominacion": "Sweet Somango Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20555A",
+          "denominacion": "Auto Forbidden Fruit Cake   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16929",
+          "denominacion": "Auto Bruce Banner XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17139",
+          "denominacion": "Auto Critical Soma  5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026005113",
       "numero": "15 2026/005113",
@@ -87,6 +287,11 @@
           "referencia": "SC1P",
           "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -408,7 +613,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 76
+    "total_pedidos": 3,
+    "total_productos": 115
   }
 }
