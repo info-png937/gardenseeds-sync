@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-26T08:04:45.091497",
+  "timestamp": "2026-03-26T09:43:00.375708",
   "pedidos": [
     {
       "id": "152026005028",
@@ -17,17 +17,102 @@
           "referencia": "24858",
           "denominacion": "Bigfoot Glue 3 u. fem Humboldt Seeds Company",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026005027",
-      "numero": "15 2026/005027",
-      "fecha": "25/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005027",
-      "fecha_formatted": "2026-03-25",
-      "productos": [
+        },
+        {
+          "referencia": "AEP3",
+          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15594",
+          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6832",
+          "denominacion": "Blue Dream´matic  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14217",
+          "denominacion": "Chocolate Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "SLH3",
+          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9174",
+          "denominacion": "OG's Kush 3 u. fem. Blimburn Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26278",
+          "denominacion": "Pakistan Chitral Kush   5 u. Regular Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19536",
+          "denominacion": "Mochila Pulverizador 16 lt. Auto",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20834",
+          "denominacion": "Auto Jet Fuel Mandarine XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "24827",
+          "denominacion": "Auto Tropicana Cherry   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PKU4",
+          "denominacion": "Painkiller 4 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20227",
+          "denominacion": "Gelato Punch 3 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "32721",
+          "denominacion": "Pipa Splif Stik Aluminio Red Red Eye",
+          "cantidad": 3
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 3
+        },
         {
           "referencia": "6416",
           "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
@@ -227,118 +312,18 @@
           "referencia": "17499",
           "denominacion": "Camuflaje Conservas  Crema de Champiñones",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026005026",
-      "numero": "15 2026/005026",
-      "fecha": "25/03/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005026",
-      "fecha_formatted": "2026-03-25",
-      "productos": [
+        },
         {
-          "referencia": "AEP3",
-          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "15594",
-          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "AG1",
-          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "6832",
-          "denominacion": "Blue Dream´matic  1 u. fem. FastBuds Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "14217",
-          "denominacion": "Chocolate Kush Fast   3 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "9390",
-          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
-          "cantidad": 10
-        },
-        {
-          "referencia": "SLH3",
-          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
-          "cantidad": 3
-        },
-        {
-          "referencia": "9174",
-          "denominacion": "OG's Kush 3 u. fem. Blimburn Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "26278",
-          "denominacion": "Pakistan Chitral Kush   5 u. Regular Ace Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "19536",
-          "denominacion": "Mochila Pulverizador 16 lt. Auto",
-          "cantidad": 1
-        },
-        {
-          "referencia": "20834",
-          "denominacion": "Auto Jet Fuel Mandarine XL   3+1 u. fem. Sweet Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "3551",
-          "denominacion": "1024 -  3 u. fem. Medical Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "16040",
-          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
-          "cantidad": 10
-        },
-        {
-          "referencia": "24827",
-          "denominacion": "Auto Tropicana Cherry   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "PKU4",
-          "denominacion": "Painkiller 4 u. fem. Dr Underground",
-          "cantidad": 2
-        },
-        {
-          "referencia": "20227",
-          "denominacion": "Gelato Punch 3 ud. fem Elev8 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "32721",
-          "denominacion": "Pipa Splif Stik Aluminio Red Red Eye",
-          "cantidad": 3
-        },
-        {
-          "referencia": "HG3F",
-          "denominacion": "Himalaya Gold  3 u. fem. Green House",
-          "cantidad": 4
-        },
-        {
-          "referencia": "3103",
-          "denominacion": "Channel +  3 u. Medical Seeds",
-          "cantidad": 3
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 60
+    "total_pedidos": 1,
+    "total_productos": 61
   }
 }
