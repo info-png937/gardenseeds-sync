@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-26T15:10:59.620563",
+  "timestamp": "2026-03-26T16:41:24.289573",
   "pedidos": [
+    {
+      "id": "152026005113",
+      "numero": "15 2026/005113",
+      "fecha": "26/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005113",
+      "fecha_formatted": "2026-03-26",
+      "productos": [
+        {
+          "referencia": "FD3P",
+          "denominacion": "Frisian Duck  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11825",
+          "denominacion": "Auto Sweet ZZ  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9730",
+          "denominacion": "Monster Profit 10 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6832",
+          "denominacion": "Blue Dream´matic  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14437",
+          "denominacion": "Northern Lights CBD   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16417",
+          "denominacion": "Eli 1 u. fem R-Kiem Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24859",
+          "denominacion": "Bigfoot Glue 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026005028",
       "numero": "15 2026/005028",
@@ -323,7 +408,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 61
+    "total_pedidos": 2,
+    "total_productos": 76
   }
 }
