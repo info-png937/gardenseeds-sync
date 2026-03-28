@@ -4,10 +4,326 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-28T11:37:24.824257",
-  "pedidos": [],
+  "timestamp": "2026-03-28T14:59:42.307743",
+  "pedidos": [
+    {
+      "id": "152026005193",
+      "numero": "15 2026/005193",
+      "fecha": "28/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005193",
+      "fecha_formatted": "2026-03-28",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "SSS5",
+          "denominacion": "Skunk #1 -  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BM10",
+          "denominacion": "Bactomatik  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BM50",
+          "denominacion": "Bactomatik  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6625",
+          "denominacion": "Auto Cream Mandarine XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3103",
+          "denominacion": "Channel +  3 u. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "SC5P",
+          "denominacion": "Supercheese  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9581",
+          "denominacion": "Royal Gorilla  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HAZR",
+          "denominacion": "Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11809",
+          "denominacion": "Cookies Gelato  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AE3D",
+          "denominacion": "Auto Euforia 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15766",
+          "denominacion": "Strawberry Cake CBD  3 ud Medical Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19154",
+          "denominacion": "Pro Grow 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17203",
+          "denominacion": "Purple Cherry 1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19376",
+          "denominacion": "Mimooz 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15612",
+          "denominacion": "Critical Jack  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10760",
+          "denominacion": "Black Cherry Punch  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19156",
+          "denominacion": "Pro-Balance 4,53 Kg. Caja Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12231",
+          "denominacion": "Wonder Pie  5 u. fem. Green House",
+          "cantidad": 4
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16998",
+          "denominacion": "Blue Dream Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17164",
+          "denominacion": "Critical Mass Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19133",
+          "denominacion": "Fade 3,78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20973",
+          "denominacion": "Gary Payton S1 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23394",
+          "denominacion": "Camuflaje Garaje Key 6.5 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26494",
+          "denominacion": "Pink Guava  F1 Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8477",
+          "denominacion": "Auto Lemon Kix 3 u. fem. Dutch Passion",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026005192",
+      "numero": "15 2026/005192",
+      "fecha": "28/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005192",
+      "fecha_formatted": "2026-03-28",
+      "productos": [
+        {
+          "referencia": "15612",
+          "denominacion": "Critical Jack  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12231",
+          "denominacion": "Wonder Pie  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AE3D",
+          "denominacion": "Auto Euforia 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20551",
+          "denominacion": "Auto Apple Fritter   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HAZR",
+          "denominacion": "Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "1927",
+          "denominacion": "Coco Ladrillo Plastificado 10 l. - 0.6 kg",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30515",
+          "denominacion": "Papel de fumar OCB Rolls Premium Slim 24 librillos",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8111",
+          "denominacion": "Strawberry Gum   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PRO91",
+          "denominacion": "SAD   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7709",
+          "denominacion": "Gorilla Candy 3 + 1 u. fem. Eva Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSS5",
+          "denominacion": "Skunk #1 -  5 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MGU2",
+          "denominacion": "Melon Gum 2 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6367",
+          "denominacion": "Six Shooter Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1881",
+          "denominacion": "White Widow 10 u. fem. Green House",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 59
   }
 }
