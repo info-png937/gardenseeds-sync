@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-30T21:10:22.647317",
+  "timestamp": "2026-03-30T22:04:46.150858",
   "pedidos": [
     {
       "id": "152026005331",
@@ -367,6 +367,26 @@
           "referencia": "14422",
           "denominacion": "Sweet Critical Fast  25 u. fem. 00 Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "9061",
+          "denominacion": "Bloom Booster 1 lt. Terra Aquatica",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3948A",
+          "denominacion": "Monster Grow Pro   20 gr. Grotek",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -514,6 +534,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 95
+    "total_productos": 99
   }
 }
