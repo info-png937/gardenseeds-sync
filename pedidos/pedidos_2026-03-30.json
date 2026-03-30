@@ -4,10 +4,126 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-30T10:22:31.352194",
-  "pedidos": [],
+  "timestamp": "2026-03-30T11:35:51.540905",
+  "pedidos": [
+    {
+      "id": "152026005252",
+      "numero": "15 2026/005252",
+      "fecha": "30/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005252",
+      "fecha_formatted": "2026-03-30",
+      "productos": [
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "NLX1G",
+          "denominacion": "Northern Lights X -  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2922",
+          "denominacion": "Tutankhamon  1 u. blister x 12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9061",
+          "denominacion": "Bloom Booster 1 lt. Terra Aquatica",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18506",
+          "denominacion": "Critical Runtz 10 u. fem. Sensi Seeds Research",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14422",
+          "denominacion": "Sweet Critical Fast  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8111",
+          "denominacion": "Strawberry Gum   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10729",
+          "denominacion": "Chocolate Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 18
+        },
+        {
+          "referencia": "21472",
+          "denominacion": "Nova OG  3 u. fem Anesia",
+          "cantidad": 11
+        },
+        {
+          "referencia": "10708",
+          "denominacion": "Auto Afghan Mass   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "10733",
+          "denominacion": "Do-Si-Dos Cookies    3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "10735",
+          "denominacion": "Northern Lights   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "23114",
+          "denominacion": "Velvet Cream 3 u. fem Cookies Seed Bank",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11869",
+          "denominacion": "Auto Gorilla  25 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18489",
+          "denominacion": "Purple Cookie Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 21
   }
 }
