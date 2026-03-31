@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-03-31T13:48:16.596021",
+  "timestamp": "2026-03-31T15:08:09.572754",
   "pedidos": [
+    {
+      "id": "152026005417",
+      "numero": "15 2026/005417",
+      "fecha": "31/03/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005417",
+      "fecha_formatted": "2026-03-31",
+      "productos": [
+        {
+          "referencia": "AB1G",
+          "denominacion": "Amnesia Bilbo  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26494",
+          "denominacion": "Pink Guava  F1 Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12166",
+          "denominacion": "Biotabs Pastillas Fertlizantes de Liberación Prolongada",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3969",
+          "denominacion": "Maceta Redonda Blanca Asas 50 cm. - 50 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15766",
+          "denominacion": "Strawberry Cake CBD  3 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026005331",
       "numero": "15 2026/005331",
@@ -533,7 +588,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 99
+    "total_pedidos": 4,
+    "total_productos": 108
   }
 }
