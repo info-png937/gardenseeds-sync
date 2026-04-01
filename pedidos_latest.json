@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-01T05:58:31.961669",
+  "timestamp": "2026-04-01T07:47:39.681748",
   "pedidos": [
+    {
+      "id": "152026005450",
+      "numero": "15 2026/005450",
+      "fecha": "01/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005450",
+      "fecha_formatted": "2026-04-01",
+      "productos": [
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026005444",
       "numero": "15 2026/005444",
@@ -222,18 +237,7 @@
       "fecha": "31/03/2026",
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005443",
       "fecha_formatted": "2026-03-31",
-      "productos": [
-        {
-          "referencia": "24198",
-          "denominacion": "CandyGaz 5 u. fem. Ripper Seeds",
-          "cantidad": 6
-        },
-        {
-          "referencia": "24201",
-          "denominacion": "EyeBallz 5 u. fem. Ripper Seeds",
-          "cantidad": 4
-        }
-      ],
+      "productos": [],
       "origen": "ayer"
     },
     {
@@ -293,7 +297,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 51
+    "total_pedidos": 4,
+    "total_productos": 50
   }
 }
