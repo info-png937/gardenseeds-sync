@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-07T19:12:27.445014",
+  "timestamp": "2026-04-07T20:07:28.994251",
   "pedidos": [
+    {
+      "id": "152026005773",
+      "numero": "15 2026/005773",
+      "fecha": "07/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005773",
+      "fecha_formatted": "2026-04-07",
+      "productos": [
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "6133",
+          "denominacion": "Ayahuasca Purple  1 u. fem. Barney`s",
+          "cantidad": 20
+        },
+        {
+          "referencia": "11495",
+          "denominacion": "Txerri Bilbo Haze  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19366",
+          "denominacion": "Loukoum 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7476",
+          "denominacion": "Blubonik  1 u. fem. Genehtik",
+          "cantidad": 6
+        },
+        {
+          "referencia": "12787",
+          "denominacion": "Pure Pot Maceta Textil   57 lt. 15 gal con Asas",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26743",
+          "denominacion": "Runtz Triploid   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13001",
+          "denominacion": "Gorilla Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B3FD",
+          "denominacion": "Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11558",
+          "denominacion": "Auto Crystal Candy XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "WW3F",
+          "denominacion": "White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12246",
+          "denominacion": "Orange Sherbet Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6829",
+          "denominacion": "CBD Crack Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "1498",
+          "denominacion": "Bio Vega  1 lt. Canna",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AS003",
+          "denominacion": "Auto Super Skunk  3 u. fem. Original Sensible",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BEC5",
+          "denominacion": "Bachumus Evolution Crecimiento  5 lt. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9759",
+          "denominacion": "BCN Critical XXL fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14504",
+          "denominacion": "La Rica 3 u. fem. Elite Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14605",
+          "denominacion": "Pure Pot Maceta Textil   11.4 lt. - 3 gal",
+          "cantidad": 20
+        },
+        {
+          "referencia": "CL1P",
+          "denominacion": "Cum Laude  1 u. fem Positronics Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "PRO37",
+          "denominacion": "Auto SAD 3+1 u. fem. Sweet Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "SSS5",
+          "denominacion": "Skunk #1 -  5 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7805",
+          "denominacion": "Blue Gelato 41  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026005657",
       "numero": "15 2026/005657",
@@ -1023,7 +1178,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 199
+    "total_pedidos": 3,
+    "total_productos": 228
   }
 }
