@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-10T06:01:23.998520",
+  "timestamp": "2026-04-10T08:08:17.867133",
   "pedidos": [
     {
       "id": "152026005995",
@@ -17,17 +17,7 @@
           "referencia": "6270",
           "denominacion": "Critical   1 u. fem. Advanced Seeds",
           "cantidad": 30
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026005994",
-      "numero": "15 2026/005994",
-      "fecha": "09/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005994",
-      "fecha_formatted": "2026-04-09",
-      "productos": [
+        },
         {
           "referencia": "17161",
           "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
@@ -287,8 +277,122 @@
           "referencia": "24480",
           "denominacion": "Grow Kit Bluey Vuitton Hybrid",
           "cantidad": 2
+        },
+        {
+          "referencia": "SLH3",
+          "denominacion": "Super Lemon Haze  3 u. fem. Green House",
+          "cantidad": 15
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23869",
+          "denominacion": "Light Mix Peat Free 50 lt. Bio Bizz",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12887",
+          "denominacion": "Great White  Micorrizas  113 gr. Premium",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14421",
+          "denominacion": "Sweet Critical Fast   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9174",
+          "denominacion": "OG's Kush 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6162",
+          "denominacion": "Tangerine Dream  1 u. fem Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "MF3D",
+          "denominacion": "Mazar  3 u. fem. Dutch Passion",
+          "cantidad": 6
+        },
+        {
+          "referencia": "PRO77",
+          "denominacion": "Green Poison Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KBAK5G",
+          "denominacion": "Kritikal Bilbo x AK - 47 -  5 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CB1AB",
+          "denominacion": "Coco B  1 lt. Atami B'cuzz",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19120",
+          "denominacion": "Bloom A 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19118",
+          "denominacion": "Bloom A 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23130",
+          "denominacion": "Trop Cookies X Hollywood 6 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026005994",
+      "numero": "15 2026/005994",
+      "fecha": "09/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026005994",
+      "fecha_formatted": "2026-04-09",
+      "productos": [],
       "origen": "ayer"
     },
     {
@@ -404,6 +508,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 73
+    "total_productos": 94
   }
 }
