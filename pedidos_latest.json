@@ -4,10 +4,156 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-13T15:19:46.254632",
-  "pedidos": [],
+  "timestamp": "2026-04-13T16:43:57.726225",
+  "pedidos": [
+    {
+      "id": "152026006194",
+      "numero": "15 2026/006194",
+      "fecha": "13/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006194",
+      "fecha_formatted": "2026-04-13",
+      "productos": [
+        {
+          "referencia": "CB1AB",
+          "denominacion": "Coco B  1 lt. Atami B'cuzz",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RMO1",
+          "denominacion": "Royal Moby  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12887",
+          "denominacion": "Great White  Micorrizas  113 gr. Premium",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10726",
+          "denominacion": "Cheese Berry   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11801",
+          "denominacion": "El Patron  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14422",
+          "denominacion": "Sweet Critical Fast  25 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "33911",
+          "denominacion": "Vaporizador X-vape X-max V-One 2.0 Silver",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14512",
+          "denominacion": "Bestial Skunk 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9238",
+          "denominacion": "Medical 49 CBD+ 3+1 u. fem. Vision Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8580",
+          "denominacion": "Red Mandarine F1 Fast Version 3+1 u. fem. Sweet Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19784",
+          "denominacion": "Mimosa Fast  25 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14221",
+          "denominacion": "Harlequin CBD   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "10778",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Pyramid Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3506",
+          "denominacion": "Guerrilla Hydrogel 500 gr. VDL",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16949",
+          "denominacion": "Critical Mass Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 15
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 27
   }
 }
