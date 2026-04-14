@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-14T06:03:56.083386",
+  "timestamp": "2026-04-14T08:11:44.494864",
   "pedidos": [
     {
       "id": "152026006203",
@@ -632,21 +632,16 @@
           "referencia": "19120",
           "denominacion": "Bloom A 3.78 lt. Athena",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026006202",
-      "numero": "15 2026/006202",
-      "fecha": "13/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006202",
-      "fecha_formatted": "2026-04-13",
-      "productos": [
+        },
         {
           "referencia": "1670",
           "denominacion": "Grow Kit Mexicana",
           "cantidad": 8
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -798,7 +793,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 152
+    "total_pedidos": 2,
+    "total_productos": 153
   }
 }
