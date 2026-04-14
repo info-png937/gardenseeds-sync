@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-14T12:40:23.163378",
+  "timestamp": "2026-04-14T14:52:47.999281",
   "pedidos": [
+    {
+      "id": "152026006279",
+      "numero": "15 2026/006279",
+      "fecha": "14/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006279",
+      "fecha_formatted": "2026-04-14",
+      "productos": [
+        {
+          "referencia": "2571",
+          "denominacion": "Blue Rhino  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1920",
+          "denominacion": "Critical #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1918",
+          "denominacion": "Critical #47 -  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16949",
+          "denominacion": "Critical Mass Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18971",
+          "denominacion": "Brutal Kalium K30 -   60 ml. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18999",
+          "denominacion": "Carbobloom  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15584",
+          "denominacion": "Auto Runtz XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19055",
+          "denominacion": "Fruit Green Dtc Aerosol Descarga Total 50 ml Trabe.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006203",
       "numero": "15 2026/006203",
@@ -793,7 +853,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 153
+    "total_pedidos": 3,
+    "total_productos": 163
   }
 }
