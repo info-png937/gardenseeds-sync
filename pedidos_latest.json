@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-15T03:49:29.236355",
+  "timestamp": "2026-04-15T08:14:20.984013",
   "pedidos": [
     {
       "id": "152026006311",
@@ -412,17 +412,7 @@
           "referencia": "4947B",
           "denominacion": "pH Perfect Connoisseur Grow    B 500 ml. Advanced Nutrients",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026006310",
-      "numero": "15 2026/006310",
-      "fecha": "14/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006310",
-      "fecha_formatted": "2026-04-14",
-      "productos": [
+        },
         {
           "referencia": "3736",
           "denominacion": "White Russian - 6 u. fem. Serious Seeds",
@@ -447,6 +437,11 @@
           "referencia": "T1G",
           "denominacion": "Txomango  1 u. fem. Genehtik Seeds",
           "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -513,7 +508,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 95
+    "total_pedidos": 2,
+    "total_productos": 96
   }
 }
