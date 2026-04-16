@@ -4,8 +4,223 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-16T19:46:10.064621",
+  "timestamp": "2026-04-16T20:55:23.875618",
   "pedidos": [
+    {
+      "id": "152026006497",
+      "numero": "15 2026/006497",
+      "fecha": "16/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006497",
+      "fecha_formatted": "2026-04-16",
+      "productos": [
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 9
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5214",
+          "denominacion": "Amanitha 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RTXO3",
+          "denominacion": "Toxic 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6660",
+          "denominacion": "Jack Herer  3 u.  fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11907",
+          "denominacion": "Gelato #33 Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9710",
+          "denominacion": "Monster Profit  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9578",
+          "denominacion": "Royal Cookies  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9565",
+          "denominacion": "Auto Stress Killer CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19143",
+          "denominacion": "PK 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7141",
+          "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17063",
+          "denominacion": "Auto Rucu Cucu OG fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14271",
+          "denominacion": "Blue Sunset Sherbet  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7136",
+          "denominacion": "00 Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19243",
+          "denominacion": "Gelato  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20821",
+          "denominacion": "Orange Bud 2.0 -  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17168",
+          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24295",
+          "denominacion": "Super Boof 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10713",
+          "denominacion": "Auto Cheese Berry   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11942",
+          "denominacion": "Auto Northern Lights XXL   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25254",
+          "denominacion": "Auto Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13091",
+          "denominacion": "Auto White Widow XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19787",
+          "denominacion": "Auto Bubba´s Gift   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18551",
+          "denominacion": "Auto Hyperion F1 -  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6264",
+          "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WW3F",
+          "denominacion": "White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9730",
+          "denominacion": "Monster Profit 10 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33913",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20235",
+          "denominacion": "Gorilla Glue #4 S1 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18552",
+          "denominacion": "Auto Hyperion F1 - 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14294",
+          "denominacion": "Auto Purple Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006496",
       "numero": "15 2026/006496",
@@ -508,7 +723,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 94
+    "total_pedidos": 4,
+    "total_productos": 135
   }
 }
