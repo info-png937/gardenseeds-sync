@@ -4,8 +4,53 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-16T08:14:50.869322",
+  "timestamp": "2026-04-16T09:57:30.122290",
   "pedidos": [
+    {
+      "id": "152026006425",
+      "numero": "15 2026/006425",
+      "fecha": "16/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006425",
+      "fecha_formatted": "2026-04-16",
+      "productos": [
+        {
+          "referencia": "11867",
+          "denominacion": "Auto Gorilla   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17169",
+          "denominacion": "Gelato #33 Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6420",
+          "denominacion": "Gorilla Glue Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "7724",
+          "denominacion": "Critical Orange Punch  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CL10L",
+          "denominacion": "Carboload 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006408",
       "numero": "15 2026/006408",
@@ -413,7 +458,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 79
+    "total_pedidos": 2,
+    "total_productos": 86
   }
 }
