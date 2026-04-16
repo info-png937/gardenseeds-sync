@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-16T06:05:58.975533",
+  "timestamp": "2026-04-16T08:14:50.869322",
   "pedidos": [
     {
       "id": "152026006408",
@@ -302,17 +302,7 @@
           "referencia": "5638",
           "denominacion": "Zombie Kush 1 un. fem Ripper Seeds",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026006407",
-      "numero": "15 2026/006407",
-      "fecha": "15/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006407",
-      "fecha_formatted": "2026-04-15",
-      "productos": [
+        },
         {
           "referencia": "AC500",
           "denominacion": "Automatic Collection 5 - 00 Seeds",
@@ -412,13 +402,18 @@
           "referencia": "21907",
           "denominacion": "Auto Critical XL 3 u fem Philosopher",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 78
+    "total_pedidos": 1,
+    "total_productos": 79
   }
 }
