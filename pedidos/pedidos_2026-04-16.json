@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-16T18:10:53.419286",
+  "timestamp": "2026-04-16T19:46:10.064621",
   "pedidos": [
+    {
+      "id": "152026006496",
+      "numero": "15 2026/006496",
+      "fecha": "16/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006496",
+      "fecha_formatted": "2026-04-16",
+      "productos": [
+        {
+          "referencia": "15780",
+          "denominacion": "Great White  Micorrizas   28 gr. Premium",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17979",
+          "denominacion": "Lavadora Secret Smoke (Sin Mallas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20235",
+          "denominacion": "Gorilla Glue #4 S1 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6132",
+          "denominacion": "Amnesia Lemon  1 u. fem. Barney's",
+          "cantidad": 8
+        },
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2483",
+          "denominacion": "Monster 3+1 u. fem. Eva Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18552",
+          "denominacion": "Auto Hyperion F1 - 10 u. fem. Royal Queen",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006425",
       "numero": "15 2026/006425",
@@ -458,7 +508,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 86
+    "total_pedidos": 3,
+    "total_productos": 94
   }
 }
