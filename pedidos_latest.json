@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-17T07:57:40.843650",
+  "timestamp": "2026-04-17T09:27:37.540383",
   "pedidos": [
+    {
+      "id": "152026006509",
+      "numero": "15 2026/006509",
+      "fecha": "17/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006509",
+      "fecha_formatted": "2026-04-17",
+      "productos": [
+        {
+          "referencia": "23102",
+          "denominacion": "Lemongrass 3 u. fem Cookies Seed Bank",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26331",
+          "denominacion": "Euskal Mandarina  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026006503",
+      "numero": "15 2026/006503",
+      "fecha": "17/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006503",
+      "fecha_formatted": "2026-04-17",
+      "productos": [
+        {
+          "referencia": "20800",
+          "denominacion": "Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14422",
+          "denominacion": "Sweet Critical Fast  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MEDP",
+          "denominacion": "Medussa Protect Tutor con caja",
+          "cantidad": 100
+        },
+        {
+          "referencia": "7463",
+          "denominacion": "Auto Jack Herer  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006497",
       "numero": "15 2026/006497",
@@ -217,6 +282,11 @@
           "referencia": "14294",
           "denominacion": "Auto Purple Skunk  3 u. fem. Sensi Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -267,6 +337,11 @@
           "referencia": "18552",
           "denominacion": "Auto Hyperion F1 - 10 u. fem. Royal Queen",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -318,7 +393,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 56
+    "total_pedidos": 5,
+    "total_productos": 67
   }
 }
