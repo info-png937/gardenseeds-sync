@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-20T20:01:31.098421",
+  "timestamp": "2026-04-20T21:12:54.537785",
   "pedidos": [
+    {
+      "id": "152026006652",
+      "numero": "15 2026/006652",
+      "fecha": "20/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006652",
+      "fecha_formatted": "2026-04-20",
+      "productos": [
+        {
+          "referencia": "13177",
+          "denominacion": "Auto Super Skunk  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MEDP",
+          "denominacion": "Medussa Protect Tutor con caja",
+          "cantidad": 50
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006649",
       "numero": "15 2026/006649",
@@ -138,7 +158,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 24
+    "total_pedidos": 2,
+    "total_productos": 26
   }
 }
