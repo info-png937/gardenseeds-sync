@@ -4,10 +4,141 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-20T18:35:22.865203",
-  "pedidos": [],
+  "timestamp": "2026-04-20T20:01:31.098421",
+  "pedidos": [
+    {
+      "id": "152026006649",
+      "numero": "15 2026/006649",
+      "fecha": "20/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006649",
+      "fecha_formatted": "2026-04-20",
+      "productos": [
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 7
+        },
+        {
+          "referencia": "18537",
+          "denominacion": "Auto Titan F1 -  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20540",
+          "denominacion": "Korenji 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6348",
+          "denominacion": "Green Crack Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21407",
+          "denominacion": "Donny Burger 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "27038",
+          "denominacion": "Durban Poison   3 u. fem. Barney's",
+          "cantidad": 6
+        },
+        {
+          "referencia": "26507",
+          "denominacion": "Gelonade   5+2 u. fem. Sweet Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1871",
+          "denominacion": "Himalaya Gold 10 u. fem. Green House",
+          "cantidad": 7
+        },
+        {
+          "referencia": "11511",
+          "denominacion": "Bio Bloom   250 ml. Bio Bizz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12085",
+          "denominacion": "Only CBD 3+1 u. fem. Eva Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6211",
+          "denominacion": "Tangerine Dream  3 u. fem Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7112",
+          "denominacion": "Crystal Candy F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2481",
+          "denominacion": "High Level 3+1 u. fem. Eva Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11558",
+          "denominacion": "Auto Crystal Candy XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20562",
+          "denominacion": "Lemon Bean   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19579",
+          "denominacion": "Sujeta Cigarro Silicona Dedo 10 ud. Mix Color",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11524",
+          "denominacion": "Girl Scout Cookies fem.  1 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11495",
+          "denominacion": "Txerri Bilbo Haze  1 u. fem. Genehtik",
+          "cantidad": 3
+        },
+        {
+          "referencia": "LKF4",
+          "denominacion": "Lemon Kush  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15216",
+          "denominacion": "Mills Basis B  5 Lt",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13177",
+          "denominacion": "Auto Super Skunk  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 24
   }
 }
