@@ -4,8 +4,108 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-23T10:07:07.918029",
+  "timestamp": "2026-04-23T11:41:32.103081",
   "pedidos": [
+    {
+      "id": "152026006890",
+      "numero": "15 2026/006890",
+      "fecha": "23/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006890",
+      "fecha_formatted": "2026-04-23",
+      "productos": [
+        {
+          "referencia": "AEB3",
+          "denominacion": "Auto Easy Bud  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24362",
+          "denominacion": "Honey Fried Bananas  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9597",
+          "denominacion": "Green Gelato  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WWR3",
+          "denominacion": "White Widow  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17227",
+          "denominacion": "Auto Purple Cherry 1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14185",
+          "denominacion": "Strawberry Banana Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15558",
+          "denominacion": "Auto Skywalker OG Runtz XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9588",
+          "denominacion": "Fat Banana  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AWWR3",
+          "denominacion": "Auto White Widow  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AAH1",
+          "denominacion": "Auto Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21068",
+          "denominacion": "Pound Cake Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16277",
+          "denominacion": "Auto Blue Haze x Auto Gelato 41 -  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AE3D",
+          "denominacion": "Auto Euforia 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8571",
+          "denominacion": "Auto Sweet Gelato   5+2 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AU3F",
+          "denominacion": "Auto Ultimate  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026006864",
       "numero": "15 2026/006864",
@@ -452,18 +552,13 @@
           "referencia": "10728",
           "denominacion": "Chocolate Kush   3 u. fem. 00 Seeds",
           "cantidad": 3
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 89
+    "total_pedidos": 2,
+    "total_productos": 106
   }
 }
