@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-23T05:43:03.615236",
+  "timestamp": "2026-04-23T08:03:46.132320",
   "pedidos": [
     {
       "id": "152026006864",
@@ -17,17 +17,172 @@
           "referencia": "4514",
           "denominacion": "Oidio Killer 50 gr. Agrobacterias",
           "cantidad": 8
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026006863",
-      "numero": "15 2026/006863",
-      "fecha": "22/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006863",
-      "fecha_formatted": "2026-04-22",
-      "productos": [
+        },
+        {
+          "referencia": "15610",
+          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13179",
+          "denominacion": "Auto Critical Lemon CBD   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "9525",
+          "denominacion": "Honey Cream - Fast 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9760",
+          "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24362",
+          "denominacion": "Honey Fried Bananas  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20852",
+          "denominacion": "Auto Blueberry Bubblegum   5 u. fem. Sensi Seed Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 20
+        },
+        {
+          "referencia": "24418",
+          "denominacion": "Mental Rainbow F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6342",
+          "denominacion": "Girl Scout Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13003",
+          "denominacion": "Gorilla Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16806",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Black 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4514",
+          "denominacion": "Oidio Killer 50 gr. Agrobacterias",
+          "cantidad": 11
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9019",
+          "denominacion": "Canadian Kush 2.0  3 u. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9885",
+          "denominacion": "Super Skunk fem.  5 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7319",
+          "denominacion": "Auto White Widow CBD  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9831",
+          "denominacion": "Northern Lights fem.  1 u. Seedstockers",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15046",
+          "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3761",
+          "denominacion": "BCN Sour Diesel  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "10728",
+          "denominacion": "Chocolate Kush   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18371",
+          "denominacion": "Cannasun Crema Protector Solar Cbd y Cbg SPF 50+ 150 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3515",
+          "denominacion": "Caramelice  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "LKF4",
+          "denominacion": "Lemon Kush  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
         {
           "referencia": "S13F",
           "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
@@ -297,188 +452,18 @@
           "referencia": "10728",
           "denominacion": "Chocolate Kush   3 u. fem. 00 Seeds",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026006862",
-      "numero": "15 2026/006862",
-      "fecha": "22/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026006862",
-      "fecha_formatted": "2026-04-22",
-      "productos": [
-        {
-          "referencia": "15610",
-          "denominacion": "Critical + 2.0 -  5 ud Silent Seeds",
-          "cantidad": 3
         },
         {
-          "referencia": "19783",
-          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "RH3",
-          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "13179",
-          "denominacion": "Auto Critical Lemon CBD   1 u. fem. Advanced Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "9525",
-          "denominacion": "Honey Cream - Fast 10 u. fem. Royal Queen",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "9760",
-          "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
-          "cantidad": 3
-        },
-        {
-          "referencia": "24362",
-          "denominacion": "Honey Fried Bananas  3 u. fem Anesia",
-          "cantidad": 2
-        },
-        {
-          "referencia": "20852",
-          "denominacion": "Auto Blueberry Bubblegum   5 u. fem. Sensi Seed Research",
-          "cantidad": 2
-        },
-        {
-          "referencia": "QO1",
-          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
-          "cantidad": 10
-        },
-        {
-          "referencia": "KB5F",
-          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
-          "cantidad": 20
-        },
-        {
-          "referencia": "24418",
-          "denominacion": "Mental Rainbow F1 Fast Version   3+1 u. fem. Sweet Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "5376",
-          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
-          "cantidad": 6
-        },
-        {
-          "referencia": "6342",
-          "denominacion": "Girl Scout Cookies Auto  1 u. fem. FastBuds Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "13003",
-          "denominacion": "Gorilla Cookies Auto  5 u. fem. FastBuds Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "SC1P",
-          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "3551",
-          "denominacion": "1024 -  3 u. fem. Medical Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16806",
-          "denominacion": "Vapeador Vaporesso Xros Mini Kit Black 1.000 mah.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11771",
-          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
-          "cantidad": 2
-        },
-        {
-          "referencia": "4514",
-          "denominacion": "Oidio Killer 50 gr. Agrobacterias",
-          "cantidad": 11
-        },
-        {
-          "referencia": "FD3F",
-          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
-          "cantidad": 3
-        },
-        {
-          "referencia": "9019",
-          "denominacion": "Canadian Kush 2.0  3 u. Medical Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9885",
-          "denominacion": "Super Skunk fem.  5 u. Seedstockers",
-          "cantidad": 3
-        },
-        {
-          "referencia": "7319",
-          "denominacion": "Auto White Widow CBD  5 u. fem. Pyramid Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9831",
-          "denominacion": "Northern Lights fem.  1 u. Seedstockers",
-          "cantidad": 5
-        },
-        {
-          "referencia": "15046",
-          "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
-          "cantidad": 2
-        },
-        {
-          "referencia": "3761",
-          "denominacion": "BCN Sour Diesel  3 u. fem. Medical Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "25485",
-          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "10728",
-          "denominacion": "Chocolate Kush   3 u. fem. 00 Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "18371",
-          "denominacion": "Cannasun Crema Protector Solar Cbd y Cbg SPF 50+ 150 ml.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "1670",
-          "denominacion": "Grow Kit Mexicana",
-          "cantidad": 4
-        },
-        {
-          "referencia": "3515",
-          "denominacion": "Caramelice  1 u. fem. Positronics Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "LKF4",
-          "denominacion": "Lemon Kush  4 u. fem. Female Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "6425",
-          "denominacion": "White Widow   5 u. fem. 00 Seeds",
-          "cantidad": 4
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 88
+    "total_pedidos": 1,
+    "total_productos": 89
   }
 }
