@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-24T13:48:32.878607",
+  "timestamp": "2026-04-24T15:13:05.485266",
   "pedidos": [
     {
       "id": "152026006998",
@@ -206,6 +206,11 @@
         {
           "referencia": "8466",
           "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -507,6 +512,11 @@
           "referencia": "AMSS10",
           "denominacion": "Auto Sweet Mix  10 u. fem. Sweet Seeds",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -614,6 +624,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 115
+    "total_productos": 117
   }
 }
