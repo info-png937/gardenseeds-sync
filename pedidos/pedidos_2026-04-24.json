@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-24T15:13:05.485266",
+  "timestamp": "2026-04-24T19:01:02.585775",
   "pedidos": [
     {
       "id": "152026006998",
@@ -512,11 +512,6 @@
           "referencia": "AMSS10",
           "denominacion": "Auto Sweet Mix  10 u. fem. Sweet Seeds",
           "cantidad": 6
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -624,6 +619,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 117
+    "total_productos": 116
   }
 }
