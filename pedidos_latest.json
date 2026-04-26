@@ -4,10 +4,796 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-26T18:07:04.742253",
-  "pedidos": [],
+  "timestamp": "2026-04-26T19:29:39.946248",
+  "pedidos": [
+    {
+      "id": "152026007031",
+      "numero": "15 2026/007031",
+      "fecha": "26/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007031",
+      "fecha_formatted": "2026-04-26",
+      "productos": [
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 10
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026007030",
+      "numero": "15 2026/007030",
+      "fecha": "26/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007030",
+      "fecha_formatted": "2026-04-26",
+      "productos": [
+        {
+          "referencia": "3173",
+          "denominacion": "Critical   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 13
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BB3S",
+          "denominacion": "Big Bud  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6264",
+          "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3844",
+          "denominacion": "1024 -  5 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D2252",
+          "denominacion": "Blueberry  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5214",
+          "denominacion": "Amanitha 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "S471",
+          "denominacion": "Somango #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17217",
+          "denominacion": "Chizpa 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6421",
+          "denominacion": "Gorilla Glue Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7670",
+          "denominacion": "Gorilla Glue Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9503",
+          "denominacion": "Blackberry Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7509",
+          "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 12
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 8
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10727",
+          "denominacion": "Chocolate Cream   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG50",
+          "denominacion": "Bactogel  50 gr. Agrobacterias",
+          "cantidad": 7
+        },
+        {
+          "referencia": "9412",
+          "denominacion": "Gelato Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9592",
+          "denominacion": "HulkBerry  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11939",
+          "denominacion": "Bubble Gum Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17138",
+          "denominacion": "Auto Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AAH1",
+          "denominacion": "Auto Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14294",
+          "denominacion": "Auto Purple Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6256",
+          "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19143",
+          "denominacion": "PK 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14210",
+          "denominacion": "00 Kush Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "17043",
+          "denominacion": "Auto Apollo Black Cherry fem.  3 u. Seedstockers Superior",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9570",
+          "denominacion": "Auto Fast Eddy CBD  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15624",
+          "denominacion": "White Widow  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "LKF4",
+          "denominacion": "Lemon Kush  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20562",
+          "denominacion": "Lemon Bean   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20286",
+          "denominacion": "Lanza de Riego Metal Extensible Easy Garden",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14291",
+          "denominacion": "Auto Banana Kush Cake  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16929",
+          "denominacion": "Auto Bruce Banner XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "14116",
+          "denominacion": "Bubba Kush  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23544",
+          "denominacion": "Medidor Ph/Luz/Humedad Analogico Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 11
+        },
+        {
+          "referencia": "5220",
+          "denominacion": "Total Explosion 60 ml. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "22023",
+          "denominacion": "Sagrada Amnesia fem.  3 u. Seedstockers Superior",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7729",
+          "denominacion": "Caudalimetro de Agua Easy Garden",
+          "cantidad": 6
+        },
+        {
+          "referencia": "16108",
+          "denominacion": "Camuflaje Mechero",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24749",
+          "denominacion": "Slurriboof 3 ud. fem Elev8 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20249",
+          "denominacion": "Midnight Bessie Autoflower 3 ud. fem Elev8 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "13175",
+          "denominacion": "Auto Super Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18351",
+          "denominacion": "Mimosa   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14416",
+          "denominacion": "Blueberry Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25486",
+          "denominacion": "Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11871",
+          "denominacion": "Gorilla Fast   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7585",
+          "denominacion": "Auto Cream Mandarine  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15594",
+          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6474",
+          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8102",
+          "denominacion": "Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AWWD3",
+          "denominacion": "Auto White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19243",
+          "denominacion": "Gelato  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20851",
+          "denominacion": "Auto Blueberry Bubblegum   3 u. fem. Sensi Seed Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16806",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Black 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21907",
+          "denominacion": "Auto Critical XL 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19387",
+          "denominacion": "Auto Fire DOG  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16932",
+          "denominacion": "Auto Bruce Banner XXL  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026007029",
+      "numero": "15 2026/007029",
+      "fecha": "26/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007029",
+      "fecha_formatted": "2026-04-26",
+      "productos": [
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14416",
+          "denominacion": "Blueberry Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10716",
+          "denominacion": "Auto Chocolate Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24056",
+          "denominacion": "Lemon Mandarin  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RME3",
+          "denominacion": "Royal Medic  3 u.  fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18433",
+          "denominacion": "Auto Zombie Kush 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25642",
+          "denominacion": "White Gorilla  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3512",
+          "denominacion": "Blue Rhino  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7811",
+          "denominacion": "Gorilla Zkitltez   5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3513",
+          "denominacion": "Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3289",
+          "denominacion": "Amnesia Lemon  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PRO46",
+          "denominacion": "Auto Sweet Skunk   5+2 u. fem Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16932",
+          "denominacion": "Auto Bruce Banner XXL  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 2
+        },
+        {
+          "referencia": "C3RQ",
+          "denominacion": "Critical  3 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3215",
+          "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "16929",
+          "denominacion": "Auto Bruce Banner XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "AWWD3",
+          "denominacion": "Auto White Widow  3 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6256",
+          "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6474",
+          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13230",
+          "denominacion": "Panama  1 u. fem. Ace Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7116",
+          "denominacion": "Gorilla Girl   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11842",
+          "denominacion": "Joanne's CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7112",
+          "denominacion": "Crystal Candy F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D6100",
+          "denominacion": "Auto Cinderella Jack 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TD7",
+          "denominacion": "Auto Think Different 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19387",
+          "denominacion": "Auto Fire DOG  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MP3",
+          "denominacion": "Mendocino Purple Kush  3 u. fem. Medical seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WM5R",
+          "denominacion": "Washing Machine 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21907",
+          "denominacion": "Auto Critical XL 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1802",
+          "denominacion": "Complejo Radicular   500 ml. Hesi",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 3,
+    "total_productos": 151
   }
 }
