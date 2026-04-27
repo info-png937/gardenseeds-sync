@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-27T14:06:24.878011",
+  "timestamp": "2026-04-27T16:09:43.403809",
   "pedidos": [
+    {
+      "id": "152026007118",
+      "numero": "15 2026/007118",
+      "fecha": "27/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007118",
+      "fecha_formatted": "2026-04-27",
+      "productos": [
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11558",
+          "denominacion": "Auto Crystal Candy XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "5396",
+          "denominacion": "Tutankhamon  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12782",
+          "denominacion": "Pure Pot Maceta Textil    7.6 lt. 2 gal",
+          "cantidad": 21
+        },
+        {
+          "referencia": "6626",
+          "denominacion": "Auto Cream Mandarine XL 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14827",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 30 x 30 x 31 cm. 25 lt.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "3883",
+          "denominacion": "No Name  5 u. Medical Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18498",
+          "denominacion": "Purple Cookie Kush  5 u. fem. Sensi Seeds Research",
+          "cantidad": 4
+        },
+        {
+          "referencia": "12166",
+          "denominacion": "Biotabs Pastillas Fertlizantes de Liberación Prolongada",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21654",
+          "denominacion": "Led Lumatek Zeus  600 w. Pro 3.1 (1.860 µmol/s)",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S471",
+          "denominacion": "Somango #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "27038",
+          "denominacion": "Durban Poison   3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3215",
+          "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
+          "cantidad": 20
+        },
+        {
+          "referencia": "14422",
+          "denominacion": "Sweet Critical Fast  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026007039",
       "numero": "15 2026/007039",
@@ -803,7 +893,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 155
+    "total_pedidos": 3,
+    "total_productos": 171
   }
 }
