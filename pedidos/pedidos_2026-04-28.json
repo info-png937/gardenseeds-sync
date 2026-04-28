@@ -4,8 +4,308 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-28T17:12:58.852471",
+  "timestamp": "2026-04-28T20:48:36.374679",
   "pedidos": [
+    {
+      "id": "152026007263",
+      "numero": "15 2026/007263",
+      "fecha": "28/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007263",
+      "fecha_formatted": "2026-04-28",
+      "productos": [
+        {
+          "referencia": "11466",
+          "denominacion": "Panama  5 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "S25F",
+          "denominacion": "Super Skunk 25 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AS3",
+          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 7
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HG3F",
+          "denominacion": "Himalaya Gold  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11868",
+          "denominacion": "Auto Gorilla   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NYCS",
+          "denominacion": "NYC Diesel  5 u. Fem. Soma Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8114",
+          "denominacion": "Auto Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9680",
+          "denominacion": "K.O.Kush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13001",
+          "denominacion": "Gorilla Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15140",
+          "denominacion": "Auto Strawberry Cheesecake  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6477",
+          "denominacion": "Durban  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19245",
+          "denominacion": "Gelato 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15801",
+          "denominacion": "Strawberry Gorilla Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8106",
+          "denominacion": "Auto Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21180",
+          "denominacion": "Grapevine Candy  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21183",
+          "denominacion": "Chocolate Rainbow XXL  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10729",
+          "denominacion": "Chocolate Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 15
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19010",
+          "denominacion": "Brutal Kalium K30 -  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19016",
+          "denominacion": "Sylic Booster  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19008",
+          "denominacion": "Glucomax  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8305",
+          "denominacion": "Auto Zkittlez OG 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KB5F",
+          "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026007262",
+      "numero": "15 2026/007262",
+      "fecha": "28/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007262",
+      "fecha_formatted": "2026-04-28",
+      "productos": [
+        {
+          "referencia": "17608",
+          "denominacion": "Acai Jelly  \"by Sherbinskis\"  10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19016",
+          "denominacion": "Sylic Booster  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19010",
+          "denominacion": "Brutal Kalium K30 -  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19008",
+          "denominacion": "Glucomax  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026007154",
       "numero": "15 2026/007154",
@@ -473,7 +773,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 87
+    "total_pedidos": 5,
+    "total_productos": 143
   }
 }
