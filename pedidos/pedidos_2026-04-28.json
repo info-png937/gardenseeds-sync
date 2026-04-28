@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-28T07:37:22.348667",
+  "timestamp": "2026-04-28T10:21:04.951578",
   "pedidos": [
     {
       "id": "152026007154",
@@ -342,20 +342,15 @@
           "referencia": "8114",
           "denominacion": "Auto Strawberry Gum   1 u. fem. Advanced Seeds",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026007152",
-      "numero": "15 2026/007152",
-      "fecha": "27/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007152",
-      "fecha_formatted": "2026-04-27",
-      "productos": [
+        },
         {
           "referencia": "OB3F",
           "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -478,7 +473,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 86
+    "total_pedidos": 3,
+    "total_productos": 87
   }
 }
