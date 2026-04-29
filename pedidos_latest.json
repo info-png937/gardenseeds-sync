@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-29T07:27:50.442644",
+  "timestamp": "2026-04-29T09:35:46.498468",
   "pedidos": [
     {
       "id": "152026007263",
@@ -232,17 +232,7 @@
           "referencia": "KB5F",
           "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
           "cantidad": 15
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026007262",
-      "numero": "15 2026/007262",
-      "fecha": "28/04/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007262",
-      "fecha_formatted": "2026-04-28",
-      "productos": [
+        },
         {
           "referencia": "17608",
           "denominacion": "Acai Jelly  \"by Sherbinskis\"  10 ud Silent Seeds",
@@ -302,13 +292,18 @@
           "referencia": "18400",
           "denominacion": "Grow Kit Golden Teacher",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 56
+    "total_pedidos": 1,
+    "total_productos": 57
   }
 }
