@@ -4,8 +4,283 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-29T19:48:12.586524",
+  "timestamp": "2026-04-29T22:33:00.462894",
   "pedidos": [
+    {
+      "id": "152026007366",
+      "numero": "15 2026/007366",
+      "fecha": "29/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007366",
+      "fecha_formatted": "2026-04-29",
+      "productos": [
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "OGK",
+          "denominacion": "00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "BC3QR",
+          "denominacion": "Blue Mystic  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11868",
+          "denominacion": "Auto Gorilla   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASC3",
+          "denominacion": "Auto Super Critical  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13002",
+          "denominacion": "Gorilla Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9567",
+          "denominacion": "Auto Stress Killer CBD  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16516",
+          "denominacion": "B-45 By Booba  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FM10",
+          "denominacion": "Feminized Mix 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19131",
+          "denominacion": "Fade 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21758",
+          "denominacion": "Lemon Z  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24523",
+          "denominacion": "Purple Haze Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19782",
+          "denominacion": "Mimosa Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21711",
+          "denominacion": "Auto Acai Mintz  25 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5375",
+          "denominacion": "Amnesia Gold  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14531",
+          "denominacion": "Llimonet Haze CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19385",
+          "denominacion": "Auto Fire DOG   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21964",
+          "denominacion": "Test Amph 300 ng/ml.",
+          "cantidad": 18
+        },
+        {
+          "referencia": "10708",
+          "denominacion": "Auto Afghan Mass   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026007365",
+      "numero": "15 2026/007365",
+      "fecha": "29/04/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007365",
+      "fecha_formatted": "2026-04-29",
+      "productos": [
+        {
+          "referencia": "6615",
+          "denominacion": "Cremcann Hyaluron 50 ml. Annabis",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AUJH3",
+          "denominacion": "Auto Jack Herer   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4891",
+          "denominacion": "Dense   60 gr. Green Planet Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 13
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7724",
+          "denominacion": "Critical Orange Punch  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8576",
+          "denominacion": "Auto Jack 47 XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16985",
+          "denominacion": "Proneem  Oil 500 ml . Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 3
+        },
+        {
+          "referencia": "JY24",
+          "denominacion": "Jiffy 24 mm. Ficha Hinchable 2.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25550",
+          "denominacion": "Lebron Haze  7 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21711",
+          "denominacion": "Auto Acai Mintz  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026007263",
       "numero": "15 2026/007263",
@@ -303,7 +578,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 57
+    "total_pedidos": 3,
+    "total_productos": 108
   }
 }
