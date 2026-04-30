@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-04-30T06:35:33.539141",
+  "timestamp": "2026-04-30T09:19:24.484164",
   "pedidos": [
     {
       "id": "152026007366",
@@ -202,6 +202,76 @@
           "referencia": "MYC5",
           "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
           "cantidad": 1
+        },
+        {
+          "referencia": "6615",
+          "denominacion": "Cremcann Hyaluron 50 ml. Annabis",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AUJH3",
+          "denominacion": "Auto Jack Herer   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4891",
+          "denominacion": "Dense   60 gr. Green Planet Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 13
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7724",
+          "denominacion": "Critical Orange Punch  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8576",
+          "denominacion": "Auto Jack 47 XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16985",
+          "denominacion": "Proneem  Oil 500 ml . Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 3
+        },
+        {
+          "referencia": "JY24",
+          "denominacion": "Jiffy 24 mm. Ficha Hinchable 2.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25550",
+          "denominacion": "Lebron Haze  7 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21711",
+          "denominacion": "Auto Acai Mintz  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -284,6 +354,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 51
+    "total_productos": 65
   }
 }
