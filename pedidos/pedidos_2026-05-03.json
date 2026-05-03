@@ -4,10 +4,201 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-03T18:30:23.706601",
-  "pedidos": [],
+  "timestamp": "2026-05-03T19:36:41.848140",
+  "pedidos": [
+    {
+      "id": "152026007434",
+      "numero": "15 2026/007434",
+      "fecha": "03/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007434",
+      "fecha_formatted": "2026-05-03",
+      "productos": [
+        {
+          "referencia": "FIM10",
+          "denominacion": "Fish Mix 10 lt. Bio Bizz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4891",
+          "denominacion": "Dense   60 gr. Green Planet Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "27000B",
+          "denominacion": "Silica (SI)  1 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20900",
+          "denominacion": "Bilbo Pound Cake  1 u. fem. Genehtik",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13081",
+          "denominacion": "Auto Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "23387",
+          "denominacion": "Camuflaje Cargador de Red",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20988",
+          "denominacion": "King Payton 6 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19364",
+          "denominacion": "Chantilly 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16790",
+          "denominacion": "Clavo Borosilicato 19 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8976",
+          "denominacion": "Gorila Bilbo  5 u. fem. Genehtik",
+          "cantidad": 7
+        },
+        {
+          "referencia": "24067",
+          "denominacion": "Gorilla Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "25024",
+          "denominacion": "Auto Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6723",
+          "denominacion": "Auto Lemon CBD  3 u fem. Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 4
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 8
+        },
+        {
+          "referencia": "10739",
+          "denominacion": "White Widow CBD   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "NBL3",
+          "denominacion": "Nebula  3 u. fem. Paradise Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "7120",
+          "denominacion": "Auto CBD Honey Peach 3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19784",
+          "denominacion": "Mimosa Fast  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5142",
+          "denominacion": "Sexbud  4 u. fem. Female Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21466",
+          "denominacion": "IMPERIUM X  3 u. fem Anesia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AMP1",
+          "denominacion": "Amnesia Mistery  1 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7586",
+          "denominacion": "Auto Cream Mandarine 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10706",
+          "denominacion": "Auto 00 Cheese   3 u. fem. 00 Seeds",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 36
   }
 }
