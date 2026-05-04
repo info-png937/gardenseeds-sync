@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-04T06:43:59.490970",
+  "timestamp": "2026-05-04T09:25:06.368634",
   "pedidos": [
     {
       "id": "152026007434",
@@ -192,6 +192,11 @@
           "referencia": "10706",
           "denominacion": "Auto 00 Cheese   3 u. fem. 00 Seeds",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -199,6 +204,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 36
+    "total_productos": 37
   }
 }
