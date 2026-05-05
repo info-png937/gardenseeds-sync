@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-05T06:21:54.564696",
+  "timestamp": "2026-05-05T08:33:41.896727",
   "pedidos": [
     {
       "id": "152026007559",
@@ -717,17 +717,7 @@
           "referencia": "14157",
           "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026007558",
-      "numero": "15 2026/007558",
-      "fecha": "04/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007558",
-      "fecha_formatted": "2026-05-04",
-      "productos": [
+        },
         {
           "referencia": "24067",
           "denominacion": "Gorilla Melon  1 u. fem. FastBuds Seeds",
@@ -807,13 +797,18 @@
           "referencia": "2922",
           "denominacion": "Tutankhamon  1 u. blister x 12 u. fem. Pyramid Seeds",
           "cantidad": 9
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 157
+    "total_pedidos": 1,
+    "total_productos": 158
   }
 }
