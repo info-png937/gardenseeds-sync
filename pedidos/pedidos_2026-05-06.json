@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-06T06:34:59.919705",
+  "timestamp": "2026-05-06T09:27:45.981347",
   "pedidos": [
     {
       "id": "152026007663",
@@ -17,17 +17,77 @@
           "referencia": "18225",
           "denominacion": "Bolsa Negro Termosellable 56x91 cm.",
           "cantidad": 15
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026007662",
-      "numero": "15 2026/007662",
-      "fecha": "05/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007662",
-      "fecha_formatted": "2026-05-05",
-      "productos": [
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "6286",
+          "denominacion": "San Fernando Lemon Kush   3+1 u. fem. Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14716",
+          "denominacion": "Pure Pot Maceta Textil    3.8 lt. 1 gal",
+          "cantidad": 40
+        },
+        {
+          "referencia": "18225",
+          "denominacion": "Bolsa Negro Termosellable 56x91 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20570",
+          "denominacion": "Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14512",
+          "denominacion": "Bestial Skunk 7 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15008",
+          "denominacion": "Ona Gel Fruit Fusion 732 gr",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4094",
+          "denominacion": "Big Bud Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17214",
+          "denominacion": "American Purple 5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10707",
+          "denominacion": "Auto 00 Kush   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
         {
           "referencia": "6143",
           "denominacion": "Critical Kush  1 u. fem. Barney's",
@@ -422,93 +482,18 @@
           "referencia": "ASK3",
           "denominacion": "Auto Skunk #1 -  3 u. fem. Sensi Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026007661",
-      "numero": "15 2026/007661",
-      "fecha": "05/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007661",
-      "fecha_formatted": "2026-05-05",
-      "productos": [
-        {
-          "referencia": "9390",
-          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
-          "cantidad": 10
         },
         {
-          "referencia": "6286",
-          "denominacion": "San Fernando Lemon Kush   3+1 u. fem. Sweet Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "ANO1",
-          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
-          "cantidad": 6
-        },
-        {
-          "referencia": "1670",
-          "denominacion": "Grow Kit Mexicana",
-          "cantidad": 4
-        },
-        {
-          "referencia": "14716",
-          "denominacion": "Pure Pot Maceta Textil    3.8 lt. 1 gal",
-          "cantidad": 40
-        },
-        {
-          "referencia": "18225",
-          "denominacion": "Bolsa Negro Termosellable 56x91 cm.",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "20570",
-          "denominacion": "Animal Zookies   1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14512",
-          "denominacion": "Bestial Skunk 7 u. fem. Elite Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "15008",
-          "denominacion": "Ona Gel Fruit Fusion 732 gr",
-          "cantidad": 1
-        },
-        {
-          "referencia": "4094",
-          "denominacion": "Big Bud Liquid  1 lt. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "25516",
-          "denominacion": "Moby-D  2 u. fem BSF Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "13086",
-          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "17214",
-          "denominacion": "American Purple 5 u. fem. Positronics Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "10707",
-          "denominacion": "Auto 00 Kush   3 u. fem. 00 Seeds",
-          "cantidad": 3
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 94
+    "total_pedidos": 1,
+    "total_productos": 95
   }
 }
