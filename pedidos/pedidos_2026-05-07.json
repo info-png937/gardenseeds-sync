@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-07T04:59:55.272734",
+  "timestamp": "2026-05-07T07:50:27.092266",
   "pedidos": [
     {
       "id": "152026007754",
@@ -387,6 +387,86 @@
           "referencia": "10737",
           "denominacion": "Sweet Somango   3 u. fem. 00 Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "25636",
+          "denominacion": "Gorilla Rainbow  2 u. fem BSF Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8573",
+          "denominacion": "Auto Sweet Cheese XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6367",
+          "denominacion": "Six Shooter Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1966",
+          "denominacion": "Pulverizador Manual 1 l",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8976",
+          "denominacion": "Gorila Bilbo  5 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20286",
+          "denominacion": "Lanza de Riego Metal Extensible Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20570",
+          "denominacion": "Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "26491",
+          "denominacion": "Auto Tropicanna Cherry XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25572",
+          "denominacion": "Blueberry  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14028",
+          "denominacion": "Auto Red Gorilla Girl XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -479,6 +559,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 90
+    "total_productos": 106
   }
 }
