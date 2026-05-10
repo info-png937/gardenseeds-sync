@@ -4,10 +4,91 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-10T18:35:35.462682",
-  "pedidos": [],
+  "timestamp": "2026-05-10T20:00:30.665947",
+  "pedidos": [
+    {
+      "id": "152026007924",
+      "numero": "15 2026/007924",
+      "fecha": "10/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007924",
+      "fecha_formatted": "2026-05-10",
+      "productos": [
+        {
+          "referencia": "16491",
+          "denominacion": "Chocolate Mint Og 2.0 -  5 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9859",
+          "denominacion": "Auto Santa Marta Haze fem.  1 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17214",
+          "denominacion": "American Purple 5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24451",
+          "denominacion": "Auto Gaia F1 -  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1927",
+          "denominacion": "Coco Ladrillo Plastificado 10 l. - 0.6 kg",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "33913",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18040",
+          "denominacion": "Bomba Aire Aco-2201 Repuesto GHE PM01006",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20540",
+          "denominacion": "Korenji 3 u. fem. Ripper Seeds",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 14
   }
 }
