@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-11T08:27:18.386729",
+  "timestamp": "2026-05-11T11:43:54.093757",
   "pedidos": [
+    {
+      "id": "152026007933",
+      "numero": "15 2026/007933",
+      "fecha": "11/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026007933",
+      "fecha_formatted": "2026-05-11",
+      "productos": [
+        {
+          "referencia": "8118",
+          "denominacion": "Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 10
+        },
+        {
+          "referencia": "3411",
+          "denominacion": "Veneno 3+1 u. fem. Eva Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24755",
+          "denominacion": "RS#65 - 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026007924",
       "numero": "15 2026/007924",
@@ -448,7 +483,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 86
+    "total_pedidos": 2,
+    "total_productos": 91
   }
 }
