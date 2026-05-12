@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-12T04:24:35.614758",
+  "timestamp": "2026-05-12T10:09:38.668964",
   "pedidos": [
     {
       "id": "152026008043",
@@ -422,17 +422,7 @@
           "referencia": "16475",
           "denominacion": "Blue Dream 100 u. fem. 00 Seeds",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026008042",
-      "numero": "15 2026/008042",
-      "fecha": "11/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008042",
-      "fecha_formatted": "2026-05-11",
-      "productos": [
+        },
         {
           "referencia": "11938",
           "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
@@ -517,6 +507,11 @@
           "referencia": "KB5F",
           "denominacion": "Kritikal Bilbo  5 u. fem. Genehtik",
           "cantidad": 10
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -558,7 +553,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 104
+    "total_pedidos": 2,
+    "total_productos": 105
   }
 }
