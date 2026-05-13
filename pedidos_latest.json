@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-13T16:04:41.154435",
+  "timestamp": "2026-05-13T18:24:55.555812",
   "pedidos": [
+    {
+      "id": "152026008221",
+      "numero": "15 2026/008221",
+      "fecha": "13/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008221",
+      "fecha_formatted": "2026-05-13",
+      "productos": [
+        {
+          "referencia": "DP3F",
+          "denominacion": "Durban Poison  3 u. fem. Dutch Passion",
+          "cantidad": 6
+        },
+        {
+          "referencia": "14473",
+          "denominacion": "Slurricane   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13232",
+          "denominacion": "Zamaldelica 1 u. fem. Ace Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PRO67",
+          "denominacion": "Cream Mandarine Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6660",
+          "denominacion": "Jack Herer  3 u.  fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17149",
+          "denominacion": "Auto Somango Glue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9135",
+          "denominacion": "Auto Mamba Negra 3 u. fem. Blimburn Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "YG3M",
+          "denominacion": "Y Griega  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3387",
+          "denominacion": "Channel +  5 u. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AEP1",
+          "denominacion": "Auto Afghan Express  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16474",
+          "denominacion": "Blue Dream  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30530",
+          "denominacion": "Papel Raw  Classic  1.1/4 Block 500 - 20 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6655",
+          "denominacion": "Maceta Cuadrada Blanca 27 x 27 x 40 cm. 20 lt.",
+          "cantidad": 40
+        },
+        {
+          "referencia": "10707",
+          "denominacion": "Auto 00 Kush   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026008141",
       "numero": "15 2026/008141",
@@ -413,7 +503,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 77
+    "total_pedidos": 3,
+    "total_productos": 93
   }
 }
