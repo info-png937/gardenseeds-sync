@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-15T08:55:14.945457",
+  "timestamp": "2026-05-15T11:24:42.316340",
   "pedidos": [
     {
       "id": "152026008309",
@@ -71,11 +71,6 @@
         {
           "referencia": "8466",
           "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "6545",
-          "denominacion": "Bubble Gum - 6 u. fem. Serious Seeds",
           "cantidad": 2
         },
         {
@@ -179,11 +174,6 @@
           "cantidad": 2
         },
         {
-          "referencia": "AAH5",
-          "denominacion": "Auto Amnesia Haze  5 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
           "referencia": "7727",
           "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
           "cantidad": 2
@@ -219,11 +209,6 @@
           "cantidad": 1
         },
         {
-          "referencia": "17418",
-          "denominacion": "Vapeador Vaporesso Xros Mini Kit Blue 1.000 mah.",
-          "cantidad": 1
-        },
-        {
           "referencia": "6130",
           "denominacion": "Carbon Activo 8 Kg. 16 lt. Can-Filter",
           "cantidad": 1
@@ -249,21 +234,6 @@
           "cantidad": 10
         },
         {
-          "referencia": "9674",
-          "denominacion": "Fruit Punch  3 u. fem. Heavyweight Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "5388",
-          "denominacion": "Lennon 3 u. fem. Pyramid Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9859",
-          "denominacion": "Auto Santa Marta Haze fem.  1 u. Seedstockers",
-          "cantidad": 1
-        },
-        {
           "referencia": "24313",
           "denominacion": "Grow Kit B+",
           "cantidad": 1
@@ -286,6 +256,11 @@
         {
           "referencia": "7980",
           "denominacion": "Auto Chocolate Skunk  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         },
         {
@@ -589,6 +564,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 110
+    "total_productos": 105
   }
 }
