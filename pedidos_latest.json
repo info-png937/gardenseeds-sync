@@ -4,10 +4,111 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-17T18:35:58.888950",
-  "pedidos": [],
+  "timestamp": "2026-05-17T20:06:36.436620",
+  "pedidos": [
+    {
+      "id": "152026008368",
+      "numero": "15 2026/008368",
+      "fecha": "17/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008368",
+      "fecha_formatted": "2026-05-17",
+      "productos": [
+        {
+          "referencia": "3215",
+          "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "PRO67",
+          "denominacion": "Cream Mandarine Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13179",
+          "denominacion": "Auto Critical Lemon CBD   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21058",
+          "denominacion": "Lemon Cherry Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8130",
+          "denominacion": "Auto Pineapple Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23893",
+          "denominacion": "Blue Dream  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13955",
+          "denominacion": "Auto Critical Blue  5 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19743",
+          "denominacion": "Critical Widow 5 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19742",
+          "denominacion": "Critical Widow 3 u fem Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17170",
+          "denominacion": "Gorilla Blue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "21408",
+          "denominacion": "Auto Mai Tai 5 u fem Ed.Especial Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21703",
+          "denominacion": "Auto Rainbow Sherbet #11 -   1 u. fem. Advanced Seeds",
+          "cantidad": 12
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11911",
+          "denominacion": "Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 20
+        },
+        {
+          "referencia": "14303",
+          "denominacion": "Cookies Purple Punch  3 u. fem. Medical Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9164",
+          "denominacion": "Auto Gorilla G4 3 u. fem. Blimburn Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 18
   }
 }
