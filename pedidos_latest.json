@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-20T06:13:46.985036",
+  "timestamp": "2026-05-20T10:01:28.572763",
   "pedidos": [
     {
       "id": "152026008573",
@@ -242,17 +242,7 @@
           "referencia": "3785",
           "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026008572",
-      "numero": "15 2026/008572",
-      "fecha": "19/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008572",
-      "fecha_formatted": "2026-05-19",
-      "productos": [
+        },
         {
           "referencia": "9176",
           "denominacion": "Automatic Critical 3 u. fem. Blimburn Seeds",
@@ -297,13 +287,18 @@
           "referencia": "14417",
           "denominacion": "Blueberry Fast   5 u. fem. 00 Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 55
+    "total_pedidos": 1,
+    "total_productos": 56
   }
 }
