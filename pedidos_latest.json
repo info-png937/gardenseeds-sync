@@ -4,8 +4,278 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-20T16:32:09.894919",
+  "timestamp": "2026-05-20T19:02:36.972195",
   "pedidos": [
+    {
+      "id": "152026008653",
+      "numero": "15 2026/008653",
+      "fecha": "20/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008653",
+      "fecha_formatted": "2026-05-20",
+      "productos": [
+        {
+          "referencia": "MGU2",
+          "denominacion": "Melon Gum 2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6625",
+          "denominacion": "Auto Cream Mandarine XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3551",
+          "denominacion": "1024 -  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5686",
+          "denominacion": "Zombie Kush 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10696",
+          "denominacion": "CBD 20:1 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5878",
+          "denominacion": "Bio Neem  30 ml. Prot Eco",
+          "cantidad": 10
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6330",
+          "denominacion": "Californian Snow Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14271",
+          "denominacion": "Blue Sunset Sherbet  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16515",
+          "denominacion": "B-45 By Booba  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19274",
+          "denominacion": "Runtz  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18984",
+          "denominacion": "Hash Cbd Xuxes Bubble´s 2 gr.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18987",
+          "denominacion": "Hash Cbd Xuxes Wonka 2 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18356",
+          "denominacion": "Auto Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10541A",
+          "denominacion": "Camuflaje Cinturon Billetera Brown 115 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 7
+        },
+        {
+          "referencia": "34090H",
+          "denominacion": "Cartucho Tip Vapeador Recambio 1 ml. Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24827",
+          "denominacion": "Auto Tropicana Cherry   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17122B",
+          "denominacion": "Llavero Camuflaje Bellota",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20722B",
+          "denominacion": "Ipw 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17191",
+          "denominacion": "Gelato #47 - 1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026008652",
+      "numero": "15 2026/008652",
+      "fecha": "20/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008652",
+      "fecha_formatted": "2026-05-20",
+      "productos": [
+        {
+          "referencia": "9239",
+          "denominacion": "Bona Dea DBD+ 3+1 u. fem. Vision Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9238",
+          "denominacion": "Medical 49 CBD+ 3+1 u. fem. Vision Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "33913",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23380",
+          "denominacion": "Camuflaje Tornillo 55 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7806",
+          "denominacion": "Blue Gelato 41  3 u. fem. Barney's",
+          "cantidad": 7
+        },
+        {
+          "referencia": "4101",
+          "denominacion": "Carboload  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 9
+        },
+        {
+          "referencia": "32727",
+          "denominacion": "Filtros Pipa Splif Stick Red Red Eye 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026008573",
       "numero": "15 2026/008573",
@@ -292,13 +562,18 @@
           "referencia": "2632",
           "denominacion": "Portes",
           "cantidad": 1
+        },
+        {
+          "referencia": "REST",
+          "denominacion": "Resto del pedido",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 56
+    "total_pedidos": 3,
+    "total_productos": 107
   }
 }
