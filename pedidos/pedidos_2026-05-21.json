@@ -4,8 +4,213 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-21T18:07:16.991716",
+  "timestamp": "2026-05-21T20:21:35.329934",
   "pedidos": [
+    {
+      "id": "152026008725",
+      "numero": "15 2026/008725",
+      "fecha": "21/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008725",
+      "fecha_formatted": "2026-05-21",
+      "productos": [
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HAZR",
+          "denominacion": "Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RMQ5",
+          "denominacion": "Royal Moby  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5878",
+          "denominacion": "Bio Neem  30 ml. Prot Eco",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17033",
+          "denominacion": "Rucu Cucu OG fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16430",
+          "denominacion": "Sublimator 3 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17231",
+          "denominacion": "Auto Sticky Dream 3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9536",
+          "denominacion": "Lemon Shining Silver Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18492",
+          "denominacion": "Auto Sticky Orange XXl  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "31225",
+          "denominacion": "Cenicero Metal Presion Bola Billar 90 mm. Mix Color",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14453",
+          "denominacion": "Amnesia Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18975",
+          "denominacion": "Cañamo Cbd Xuxes Cookies 3 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9522",
+          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14420",
+          "denominacion": "Sweet Critical Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026008724",
+      "numero": "15 2026/008724",
+      "fecha": "21/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008724",
+      "fecha_formatted": "2026-05-21",
+      "productos": [
+        {
+          "referencia": "5332",
+          "denominacion": "Organic Pk Booster  5 lt. BAC",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13011",
+          "denominacion": "Banana Zkittlez  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18975",
+          "denominacion": "Cañamo Cbd Xuxes Cookies 3 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21968",
+          "denominacion": "Test Thc Sensitive 25 ng/ml.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "7806",
+          "denominacion": "Blue Gelato 41  3 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14420",
+          "denominacion": "Sweet Critical Fast   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026008653",
       "numero": "15 2026/008653",
@@ -278,7 +483,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 52
+    "total_pedidos": 3,
+    "total_productos": 89
   }
 }
