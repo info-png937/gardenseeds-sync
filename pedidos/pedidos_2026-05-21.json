@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-21T04:54:34.575239",
+  "timestamp": "2026-05-21T15:57:57.900819",
   "pedidos": [
     {
       "id": "152026008653",
@@ -217,17 +217,7 @@
           "referencia": "24480",
           "denominacion": "Grow Kit Bluey Vuitton Hybrid",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026008652",
-      "numero": "15 2026/008652",
-      "fecha": "20/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008652",
-      "fecha_formatted": "2026-05-20",
-      "productos": [
+        },
         {
           "referencia": "9239",
           "denominacion": "Bona Dea DBD+ 3+1 u. fem. Vision Seeds",
@@ -272,13 +262,23 @@
           "referencia": "RH3",
           "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "PLW",
+          "denominacion": "Agencia de palets - PALLETWAYS",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 50
+    "total_pedidos": 1,
+    "total_productos": 52
   }
 }
