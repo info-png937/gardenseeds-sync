@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-22T05:47:39.280374",
+  "timestamp": "2026-05-22T09:37:18.232750",
   "pedidos": [
     {
       "id": "152026008725",
@@ -132,6 +132,76 @@
           "referencia": "14420",
           "denominacion": "Sweet Critical Fast   3 u. fem. 00 Seeds",
           "cantidad": 3
+        },
+        {
+          "referencia": "5332",
+          "denominacion": "Organic Pk Booster  5 lt. BAC",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13011",
+          "denominacion": "Banana Zkittlez  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18975",
+          "denominacion": "Cañamo Cbd Xuxes Cookies 3 gr.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21968",
+          "denominacion": "Test Thc Sensitive 25 ng/ml.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "7806",
+          "denominacion": "Blue Gelato 41  3 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6663",
+          "denominacion": "California Indica  3 u.  fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14420",
+          "denominacion": "Sweet Critical Fast   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -214,6 +284,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 37
+    "total_productos": 51
   }
 }
