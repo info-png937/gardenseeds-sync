@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-25T06:40:40.723213",
+  "timestamp": "2026-05-25T11:14:03.513570",
   "pedidos": [
     {
       "id": "152026008782",
@@ -267,17 +267,7 @@
           "referencia": "HARQ",
           "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026008781",
-      "numero": "15 2026/008781",
-      "fecha": "24/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008781",
-      "fecha_formatted": "2026-05-24",
-      "productos": [
+        },
         {
           "referencia": "9219",
           "denominacion": "Doctor Jamaica 3+1 u. fem. Vision Seeds",
@@ -457,13 +447,18 @@
           "referencia": "A00CH",
           "denominacion": "Auto 00 Cheese   5 u. fem. 00 Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 87
+    "total_pedidos": 1,
+    "total_productos": 88
   }
 }
