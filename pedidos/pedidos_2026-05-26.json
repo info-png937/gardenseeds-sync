@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-26T05:43:49.291691",
+  "timestamp": "2026-05-26T10:04:57.444700",
   "pedidos": [
     {
       "id": "152026008868",
@@ -332,17 +332,7 @@
           "referencia": "17932",
           "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026008867",
-      "numero": "15 2026/008867",
-      "fecha": "25/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008867",
-      "fecha_formatted": "2026-05-25",
-      "productos": [
+        },
         {
           "referencia": "24313",
           "denominacion": "Grow Kit B+",
@@ -402,13 +392,18 @@
           "referencia": "24826",
           "denominacion": "Auto Tropicana Cherry   1 u. fem. Advanced Seeds",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 76
+    "total_pedidos": 1,
+    "total_productos": 77
   }
 }
