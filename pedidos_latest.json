@@ -4,8 +4,183 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-26T16:57:08.985216",
+  "timestamp": "2026-05-26T19:24:42.895394",
   "pedidos": [
+    {
+      "id": "152026008975",
+      "numero": "15 2026/008975",
+      "fecha": "26/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008975",
+      "fecha_formatted": "2026-05-26",
+      "productos": [
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30039A",
+          "denominacion": "Grinder Quick Grinder Blue",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9695",
+          "denominacion": "Lemon Cheescake  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11818",
+          "denominacion": "Auto Green Gelato  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19127",
+          "denominacion": "Camg 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14478",
+          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6516",
+          "denominacion": "Amnesia   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21068",
+          "denominacion": "Pound Cake Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20560",
+          "denominacion": "Lemon Bean   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15469",
+          "denominacion": "Auto Strawberry Banana   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16476",
+          "denominacion": "Lemon OG   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26748",
+          "denominacion": "Papaya Triploid   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "30704K",
+          "denominacion": "Filtros Acti Tube  Konic 6 mm. 50 ud.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "17418B",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026008974",
+      "numero": "15 2026/008974",
+      "fecha": "26/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008974",
+      "fecha_formatted": "2026-05-26",
+      "productos": [
+        {
+          "referencia": "3735",
+          "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11860",
+          "denominacion": "Plant of Life Balsamo Cannatiger  Cbd 3 % 15 ml.",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026008868",
       "numero": "15 2026/008868",
@@ -403,7 +578,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 77
+    "total_pedidos": 3,
+    "total_productos": 108
   }
 }
