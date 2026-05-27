@@ -4,8 +4,268 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-27T18:39:24.750335",
+  "timestamp": "2026-05-27T21:03:25.123585",
   "pedidos": [
+    {
+      "id": "152026009054",
+      "numero": "15 2026/009054",
+      "fecha": "27/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009054",
+      "fecha_formatted": "2026-05-27",
+      "productos": [
+        {
+          "referencia": "16985",
+          "denominacion": "Proneem  Oil 500 ml . Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30729B",
+          "denominacion": "Filtros Monkey King Big Tips Unbleached 54x40 mm. 30 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSS5",
+          "denominacion": "Skunk #1 -  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SC1P",
+          "denominacion": "Supercheese  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9582",
+          "denominacion": "Royal Gorilla  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11108",
+          "denominacion": "Purple Lemonade Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17063",
+          "denominacion": "Auto Rucu Cucu OG fem.  3 u. Seedstockers Superior",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WM3R",
+          "denominacion": "Washing Machine 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15639",
+          "denominacion": "Lemon Sorbet  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13535",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19274",
+          "denominacion": "Runtz  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20684",
+          "denominacion": "Auto Granddaddy Purple  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16037",
+          "denominacion": "Auto Sensi Amnesia XXL  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16934",
+          "denominacion": "Auto Banana Cookies   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9022",
+          "denominacion": "Mendocino Chanel Kush  3 u. fem. Medical seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "30704K",
+          "denominacion": "Filtros Acti Tube  Konic 6 mm. 50 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21401",
+          "denominacion": "Auto Tropicanna XXL 5 u fem Ed.Especial Philosopher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21782",
+          "denominacion": "Auto Oreoz  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9629",
+          "denominacion": "Auto Royal Gorilla  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21209",
+          "denominacion": "Carbobloom Powder   20 gr. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8935",
+          "denominacion": "Auto Afghan Mass XXL  25 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10735",
+          "denominacion": "Northern Lights   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10737",
+          "denominacion": "Sweet Somango   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16997",
+          "denominacion": "Blue Dream Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26747",
+          "denominacion": "Papaya Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17122B",
+          "denominacion": "Llavero Camuflaje Bellota",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14127",
+          "denominacion": "Chemical Bride  1 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6655",
+          "denominacion": "Maceta Cuadrada Blanca 27 x 27 x 40 cm. 20 lt.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25640",
+          "denominacion": "White Gorilla  2 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3786",
+          "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026008975",
       "numero": "15 2026/008975",
@@ -178,7 +438,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 32
+    "total_pedidos": 2,
+    "total_productos": 82
   }
 }
