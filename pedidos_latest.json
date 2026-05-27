@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-27T12:24:07.018213",
+  "timestamp": "2026-05-27T16:24:12.448097",
   "pedidos": [
     {
       "id": "152026008975",
@@ -169,8 +169,8 @@
           "cantidad": 6
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
