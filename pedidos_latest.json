@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-27T04:57:02.245751",
+  "timestamp": "2026-05-27T12:24:07.018213",
   "pedidos": [
     {
       "id": "152026008975",
@@ -157,17 +157,7 @@
           "referencia": "17418B",
           "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026008974",
-      "numero": "15 2026/008974",
-      "fecha": "26/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026008974",
-      "fecha_formatted": "2026-05-26",
-      "productos": [
+        },
         {
           "referencia": "3735",
           "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
@@ -177,13 +167,18 @@
           "referencia": "11860",
           "denominacion": "Plant of Life Balsamo Cannatiger  Cbd 3 % 15 ml.",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 31
+    "total_pedidos": 1,
+    "total_productos": 32
   }
 }
