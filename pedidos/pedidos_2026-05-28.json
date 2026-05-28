@@ -4,8 +4,193 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-28T16:57:04.914140",
+  "timestamp": "2026-05-28T19:40:06.684391",
   "pedidos": [
+    {
+      "id": "152026009121",
+      "numero": "15 2026/009121",
+      "fecha": "28/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009121",
+      "fecha_formatted": "2026-05-28",
+      "productos": [
+        {
+          "referencia": "MEDP",
+          "denominacion": "Medussa Protect Tutor con caja",
+          "cantidad": 28
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009120",
+      "numero": "15 2026/009120",
+      "fecha": "28/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009120",
+      "fecha_formatted": "2026-05-28",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSFA3",
+          "denominacion": "Auto Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11818",
+          "denominacion": "Auto Green Gelato  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 6
+        },
+        {
+          "referencia": "8110",
+          "denominacion": "Strawberry Gum   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9522",
+          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8302",
+          "denominacion": "Auto Zkittlez OG  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20813",
+          "denominacion": "Melonade Runtz  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10734",
+          "denominacion": "Gorilla   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20249",
+          "denominacion": "Midnight Bessie Autoflower 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26490",
+          "denominacion": "Auto Tropicanna Cherry XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PKRQ1",
+          "denominacion": "Painkiller XL  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18754",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3786",
+          "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009119",
+      "numero": "15 2026/009119",
+      "fecha": "28/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009119",
+      "fecha_formatted": "2026-05-28",
+      "productos": [
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20239",
+          "denominacion": "Huckleberry Punch 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AMP5",
+          "denominacion": "Amnesia Mistery  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14028",
+          "denominacion": "Auto Red Gorilla Girl XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009054",
       "numero": "15 2026/009054",
@@ -273,7 +458,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 51
+    "total_pedidos": 4,
+    "total_productos": 82
   }
 }
