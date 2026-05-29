@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-29T01:33:24.858421",
+  "timestamp": "2026-05-29T10:31:02.618683",
   "pedidos": [
     {
       "id": "152026009121",
@@ -17,17 +17,32 @@
           "referencia": "MEDP",
           "denominacion": "Medussa Protect Tutor con caja",
           "cantidad": 28
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009120",
-      "numero": "15 2026/009120",
-      "fecha": "28/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009120",
-      "fecha_formatted": "2026-05-28",
-      "productos": [
+        },
+        {
+          "referencia": "6926",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11588",
+          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20239",
+          "denominacion": "Huckleberry Punch 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AMP5",
+          "denominacion": "Amnesia Mistery  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14028",
+          "denominacion": "Auto Red Gorilla Girl XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
         {
           "referencia": "6250",
           "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
@@ -152,48 +167,18 @@
           "referencia": "3786",
           "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009119",
-      "numero": "15 2026/009119",
-      "fecha": "28/05/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009119",
-      "fecha_formatted": "2026-05-28",
-      "productos": [
-        {
-          "referencia": "6926",
-          "denominacion": "Plenty / Volcano / Crafty / Mighty Estuche Monodosis con 8 Capsulas",
-          "cantidad": 1
         },
         {
-          "referencia": "11588",
-          "denominacion": "Auto Jack Herer  1 u. fem. FastBuds Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "20239",
-          "denominacion": "Huckleberry Punch 3 ud. fem Elev8 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "AMP5",
-          "denominacion": "Amnesia Mistery  5 u. fem. Positronics Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14028",
-          "denominacion": "Auto Red Gorilla Girl XL   3+1 u. fem. Sweet Seeds",
-          "cantidad": 2
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 31
+    "total_pedidos": 1,
+    "total_productos": 32
   }
 }
