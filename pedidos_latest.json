@@ -4,10 +4,166 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-05-31T18:45:57.462193",
-  "pedidos": [],
+  "timestamp": "2026-05-31T20:15:08.527257",
+  "pedidos": [
+    {
+      "id": "152026009181",
+      "numero": "15 2026/009181",
+      "fecha": "31/05/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009181",
+      "fecha_formatted": "2026-05-31",
+      "productos": [
+        {
+          "referencia": "10710",
+          "denominacion": "Auto Blueberry   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19039",
+          "denominacion": "Apricot Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15799",
+          "denominacion": "Banana Purple Punch Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12271",
+          "denominacion": "Mimosa EVO  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5258",
+          "denominacion": "Ayahuasca Purple  5 u. fem. Barney`s",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1878",
+          "denominacion": "Super Silver Haze 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HABP5",
+          "denominacion": "Hydro B  5 lt. Plagron",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3735",
+          "denominacion": "AK 47 - 6 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12166",
+          "denominacion": "Biotabs Pastillas Fertlizantes de Liberación Prolongada",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5878",
+          "denominacion": "Bio Neem  30 ml. Prot Eco",
+          "cantidad": 4
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13878",
+          "denominacion": "Gorilla Ice Cream  1 u. fem. Expert Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9680",
+          "denominacion": "K.O.Kush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23869",
+          "denominacion": "Light Mix Peat Free 50 lt. Bio Bizz",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9244",
+          "denominacion": "Auto Doctor Jamaica 3+1 u. fem. Vision Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6707",
+          "denominacion": "Sweet Love 3 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14028",
+          "denominacion": "Auto Red Gorilla Girl XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8291",
+          "denominacion": "Strawberry Lemonade  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20993",
+          "denominacion": "Early Maroc 5 u fem Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11860",
+          "denominacion": "Plant of Life Balsamo Cannatiger  Cbd 3 % 15 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8975",
+          "denominacion": "Gorila Bilbo  1 u. fem. Genehtik",
+          "cantidad": 6
+        },
+        {
+          "referencia": "13014",
+          "denominacion": "Auto Gorilla Glue  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25250",
+          "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 29
   }
 }
