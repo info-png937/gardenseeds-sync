@@ -4,8 +4,383 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-01T19:08:49.968345",
+  "timestamp": "2026-06-01T22:21:46.901413",
   "pedidos": [
+    {
+      "id": "152026009283",
+      "numero": "15 2026/009283",
+      "fecha": "01/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009283",
+      "fecha_formatted": "2026-06-01",
+      "productos": [
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B500M",
+          "denominacion": "Big Bud Liquid   500  ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SBA500",
+          "denominacion": "pH Perfect Sensi Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SGA500",
+          "denominacion": "pH Perfect Sensi Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASK3",
+          "denominacion": "Auto Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4952",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6667",
+          "denominacion": "Afghani #1  5 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RMQ5",
+          "denominacion": "Royal Moby  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PKRQ5",
+          "denominacion": "Pineapple Kush  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9680",
+          "denominacion": "K.O.Kush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AAH3",
+          "denominacion": "Auto Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AAH5",
+          "denominacion": "Auto Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "WM3R",
+          "denominacion": "Washing Machine 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15624",
+          "denominacion": "White Widow  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25578",
+          "denominacion": "Auto Blueberry XXL  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12058",
+          "denominacion": "Silver Fire  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20684",
+          "denominacion": "Auto Granddaddy Purple  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14214",
+          "denominacion": "California Kush Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21052",
+          "denominacion": "Guava Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20575",
+          "denominacion": "Critical Lemon Fast  1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14217",
+          "denominacion": "Chocolate Kush Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16977",
+          "denominacion": "Super Oleotion 250 ml. (Aceite Parafinico )Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24477",
+          "denominacion": "Tropical & Delicious Mix 4 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18538",
+          "denominacion": "Auto Titan F1 -  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18967",
+          "denominacion": "Delta Boost   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11867",
+          "denominacion": "Auto Gorilla   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10735",
+          "denominacion": "Northern Lights   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10739",
+          "denominacion": "White Widow CBD   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21706",
+          "denominacion": "Auto Rainbow Sherbet #11 -  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ACAS4",
+          "denominacion": "Automatic Collection #4 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSSS",
+          "denominacion": "Shiva Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15046",
+          "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19408",
+          "denominacion": "Incienso  Cannabis Haze Blueberry 6 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12890",
+          "denominacion": "Auto Amnesia XXL  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009282",
+      "numero": "15 2026/009282",
+      "fecha": "01/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009282",
+      "fecha_formatted": "2026-06-01",
+      "productos": [
+        {
+          "referencia": "11558",
+          "denominacion": "Auto Crystal Candy XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12890",
+          "denominacion": "Auto Amnesia XXL  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24224",
+          "denominacion": "Hydro Vega Soft A 1 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "18967",
+          "denominacion": "Delta Boost   60 ml. Cannotecnia",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15046",
+          "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009236",
       "numero": "15 2026/009236",
@@ -663,7 +1038,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 127
+    "total_pedidos": 4,
+    "total_productos": 198
   }
 }
