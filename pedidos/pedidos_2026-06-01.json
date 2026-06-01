@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-01T13:13:00.727745",
+  "timestamp": "2026-06-01T19:08:49.968345",
   "pedidos": [
     {
       "id": "152026009236",
@@ -657,11 +657,6 @@
           "referencia": "19408",
           "denominacion": "Incienso  Cannabis Haze Blueberry 6 ud.",
           "cantidad": 2
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -669,6 +664,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 128
+    "total_productos": 127
   }
 }
