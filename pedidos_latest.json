@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-02T04:25:31.155677",
+  "timestamp": "2026-06-02T08:53:33.378754",
   "pedidos": [
     {
       "id": "152026009283",
@@ -332,17 +332,7 @@
           "referencia": "3781",
           "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009282",
-      "numero": "15 2026/009282",
-      "fecha": "01/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009282",
-      "fecha_formatted": "2026-06-01",
-      "productos": [
+        },
         {
           "referencia": "11558",
           "denominacion": "Auto Crystal Candy XL   3+1 u. fem. Sweet Seeds",
@@ -377,6 +367,11 @@
           "referencia": "15046",
           "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -483,7 +478,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 89
+    "total_pedidos": 2,
+    "total_productos": 90
   }
 }
