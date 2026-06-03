@@ -4,8 +4,203 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-03T20:39:46.622130",
+  "timestamp": "2026-06-03T23:07:34.784345",
   "pedidos": [
+    {
+      "id": "152026009467",
+      "numero": "15 2026/009467",
+      "fecha": "03/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009467",
+      "fecha_formatted": "2026-06-03",
+      "productos": [
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3948A",
+          "denominacion": "Monster Grow Pro   20 gr. Grotek",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4097",
+          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B500M",
+          "denominacion": "Big Bud Liquid   500  ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SGA500",
+          "denominacion": "pH Perfect Sensi Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "OGK",
+          "denominacion": "00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5377",
+          "denominacion": "Anubis 3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11108",
+          "denominacion": "Purple Lemonade Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9680",
+          "denominacion": "K.O.Kush  3 u. fem. Heavyweight Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19127",
+          "denominacion": "Camg 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5339",
+          "denominacion": "Auto Alpujarreña  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15046",
+          "denominacion": "Auto Sour Diesel fem.  3 u. Seedstockers",
+          "cantidad": 4
+        },
+        {
+          "referencia": "31411",
+          "denominacion": "Liadora Raw Ecoplastic King Size",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20827",
+          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12283",
+          "denominacion": "Buttercream Gelato  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23390",
+          "denominacion": "Camuflaje Quitapelusas 4.5x23 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24063",
+          "denominacion": "Papaya Sherbet  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24020",
+          "denominacion": "African Gas  3 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19782",
+          "denominacion": "Mimosa Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16997",
+          "denominacion": "Blue Dream Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18551",
+          "denominacion": "Auto Hyperion F1 -  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26747",
+          "denominacion": "Papaya Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8180",
+          "denominacion": "Auto Gorilla Blue  25 u. fem Advanced Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009466",
+      "numero": "15 2026/009466",
+      "fecha": "03/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009466",
+      "fecha_formatted": "2026-06-03",
+      "productos": [
+        {
+          "referencia": "8180",
+          "denominacion": "Auto Gorilla Blue  25 u. fem Advanced Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009443",
       "numero": "15 2026/009443",
@@ -373,7 +568,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 69
+    "total_pedidos": 4,
+    "total_productos": 104
   }
 }
