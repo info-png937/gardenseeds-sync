@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-03T06:58:07.910004",
+  "timestamp": "2026-06-03T12:01:36.609227",
   "pedidos": [
     {
       "id": "152026009367",
@@ -17,17 +17,72 @@
           "referencia": "1272",
           "denominacion": "Northern Lights 10 u. reg. Sensi Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009366",
-      "numero": "15 2026/009366",
-      "fecha": "02/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009366",
-      "fecha_formatted": "2026-06-02",
-      "productos": [
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9760",
+          "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12166",
+          "denominacion": "Biotabs Pastillas Fertlizantes de Liberación Prolongada",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1134",
+          "denominacion": "Complejo Floracion Tierra  1 lt. Hesi",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16409",
+          "denominacion": "Muse 1 u. fem R-Kiem Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5878",
+          "denominacion": "Bio Neem  30 ml. Prot Eco",
+          "cantidad": 10
+        },
         {
           "referencia": "5008",
           "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
@@ -247,88 +302,18 @@
           "referencia": "ACAS3",
           "denominacion": "Automatic Collection #3 - Advanced Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009365",
-      "numero": "15 2026/009365",
-      "fecha": "02/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009365",
-      "fecha_formatted": "2026-06-02",
-      "productos": [
-        {
-          "referencia": "15606",
-          "denominacion": "Critical Mango  3 ud Silent Seeds",
-          "cantidad": 2
         },
         {
-          "referencia": "8306",
-          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "9760",
-          "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
-          "cantidad": 2
-        },
-        {
-          "referencia": "12166",
-          "denominacion": "Biotabs Pastillas Fertlizantes de Liberación Prolongada",
-          "cantidad": 6
-        },
-        {
-          "referencia": "1134",
-          "denominacion": "Complejo Floracion Tierra  1 lt. Hesi",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14834",
-          "denominacion": "Mobet 250 ml. Prot Eco",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16409",
-          "denominacion": "Muse 1 u. fem R-Kiem Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21668",
-          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "HH3F",
-          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14787",
-          "denominacion": "Grow Kit Moby Dick",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24480",
-          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
-          "cantidad": 2
-        },
-        {
-          "referencia": "ACAS3",
-          "denominacion": "Automatic Collection #3 - Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "5878",
-          "denominacion": "Bio Neem  30 ml. Prot Eco",
-          "cantidad": 10
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 58
+    "total_pedidos": 1,
+    "total_productos": 59
   }
 }
