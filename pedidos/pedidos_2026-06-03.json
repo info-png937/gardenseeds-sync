@@ -4,8 +4,68 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-03T12:01:36.609227",
+  "timestamp": "2026-06-03T20:39:46.622130",
   "pedidos": [
+    {
+      "id": "152026009443",
+      "numero": "15 2026/009443",
+      "fecha": "03/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009443",
+      "fecha_formatted": "2026-06-03",
+      "productos": [
+        {
+          "referencia": "2571",
+          "denominacion": "Blue Rhino  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19116",
+          "denominacion": "Balance 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4101",
+          "denominacion": "Carboload  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24020",
+          "denominacion": "African Gas  3 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS3",
+          "denominacion": "Automatic Collection #3 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009367",
       "numero": "15 2026/009367",
@@ -313,7 +373,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 59
+    "total_pedidos": 2,
+    "total_productos": 69
   }
 }
