@@ -4,8 +4,178 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-04T17:30:24.636096",
+  "timestamp": "2026-06-04T23:13:01.035945",
   "pedidos": [
+    {
+      "id": "152026009532",
+      "numero": "15 2026/009532",
+      "fecha": "04/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009532",
+      "fecha_formatted": "2026-06-04",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSSS",
+          "denominacion": "Shiva Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6352",
+          "denominacion": "LSD-25 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AZPE",
+          "denominacion": "Bio Neem 100 ml. Prot Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9484",
+          "denominacion": "Sweet Valley Kush  1 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15639",
+          "denominacion": "Lemon Sorbet  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8134",
+          "denominacion": "OG Kush S.F.V.  1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21064",
+          "denominacion": "Apple Strudel Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8106",
+          "denominacion": "Auto Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21008",
+          "denominacion": "Grow Soldier 1 lt. Juju Royal",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21968",
+          "denominacion": "Test Thc Sensitive 25 ng/ml.",
+          "cantidad": 12
+        },
+        {
+          "referencia": "20800",
+          "denominacion": "Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19044",
+          "denominacion": "Ztrawberriez Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14418",
+          "denominacion": "Blueberry Fast  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18550",
+          "denominacion": "Auto Hyperion F1 -  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9630",
+          "denominacion": "Auto Royal Gorilla  5 u. fem. Royal Queen",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009531",
+      "numero": "15 2026/009531",
+      "fecha": "04/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009531",
+      "fecha_formatted": "2026-06-04",
+      "productos": [
+        {
+          "referencia": "14716",
+          "denominacion": "Pure Pot Maceta Textil    3.8 lt. 1 gal",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16487",
+          "denominacion": "Green Crack 2.0 -  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21008",
+          "denominacion": "Grow Soldier 1 lt. Juju Royal",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14418",
+          "denominacion": "Blueberry Fast  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6352",
+          "denominacion": "LSD-25 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 24
+        },
+        {
+          "referencia": "9630",
+          "denominacion": "Auto Royal Gorilla  5 u. fem. Royal Queen",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009467",
       "numero": "15 2026/009467",
@@ -258,7 +428,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 46
+    "total_pedidos": 4,
+    "total_productos": 76
   }
 }
