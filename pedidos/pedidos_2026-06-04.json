@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-04T02:07:28.424979",
+  "timestamp": "2026-06-04T10:48:31.730812",
   "pedidos": [
     {
       "id": "152026009467",
@@ -182,21 +182,16 @@
           "referencia": "8180",
           "denominacion": "Auto Gorilla Blue  25 u. fem Advanced Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009466",
-      "numero": "15 2026/009466",
-      "fecha": "03/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009466",
-      "fecha_formatted": "2026-06-03",
-      "productos": [
+        },
         {
           "referencia": "8180",
           "denominacion": "Auto Gorilla Blue  25 u. fem Advanced Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -263,7 +258,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 45
+    "total_pedidos": 2,
+    "total_productos": 46
   }
 }
