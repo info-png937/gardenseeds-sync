@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-05T06:36:40.350210",
+  "timestamp": "2026-06-05T10:51:19.518988",
   "pedidos": [
     {
       "id": "152026009532",
@@ -122,6 +122,51 @@
           "referencia": "9630",
           "denominacion": "Auto Royal Gorilla  5 u. fem. Royal Queen",
           "cantidad": 1
+        },
+        {
+          "referencia": "14716",
+          "denominacion": "Pure Pot Maceta Textil    3.8 lt. 1 gal",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16487",
+          "denominacion": "Green Crack 2.0 -  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21008",
+          "denominacion": "Grow Soldier 1 lt. Juju Royal",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14418",
+          "denominacion": "Blueberry Fast  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6352",
+          "denominacion": "LSD-25 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 24
+        },
+        {
+          "referencia": "9630",
+          "denominacion": "Auto Royal Gorilla  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -179,6 +224,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 30
+    "total_productos": 39
   }
 }
