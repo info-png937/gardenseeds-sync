@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-08T05:14:54.400690",
+  "timestamp": "2026-06-08T14:35:41.469182",
   "pedidos": [
     {
       "id": "152026009589",
@@ -302,17 +302,7 @@
           "referencia": "CUM5",
           "denominacion": "Cum Laude  5 u. fem. Positronics Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009588",
-      "numero": "15 2026/009588",
-      "fecha": "07/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009588",
-      "fecha_formatted": "2026-06-07",
-      "productos": [
+        },
         {
           "referencia": "3215",
           "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
@@ -407,13 +397,18 @@
           "referencia": "23068",
           "denominacion": "Wet Wet 3 u. fem Cookies Seed Bank",
           "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 77
+    "total_pedidos": 1,
+    "total_productos": 78
   }
 }
