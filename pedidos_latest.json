@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-08T14:35:41.469182",
+  "timestamp": "2026-06-08T17:59:25.076632",
   "pedidos": [
     {
       "id": "152026009589",
@@ -402,6 +402,11 @@
           "referencia": "2632",
           "denominacion": "Portes",
           "cantidad": 1
+        },
+        {
+          "referencia": "REST",
+          "denominacion": "Resto del pedido",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -409,6 +414,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 78
+    "total_productos": 79
   }
 }
