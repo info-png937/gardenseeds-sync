@@ -4,8 +4,278 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-08T17:59:25.076632",
+  "timestamp": "2026-06-08T20:29:31.996217",
   "pedidos": [
+    {
+      "id": "152026009697",
+      "numero": "15 2026/009697",
+      "fecha": "08/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009697",
+      "fecha_formatted": "2026-06-08",
+      "productos": [
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3948A",
+          "denominacion": "Monster Grow Pro   20 gr. Grotek",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PL250",
+          "denominacion": "Piranha Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SBA500",
+          "denominacion": "pH Perfect Sensi Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 4
+        },
+        {
+          "referencia": "M250",
+          "denominacion": "Manguito Unión 250 mm.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2427",
+          "denominacion": "Caramelice  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6420",
+          "denominacion": "Gorilla Glue Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 9
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19143",
+          "denominacion": "PK 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19154",
+          "denominacion": "Pro Grow 4.53 Kg. Caja Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "A00CH",
+          "denominacion": "Auto 00 Cheese   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19535",
+          "denominacion": "Mochila Pulverizador 16 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23891",
+          "denominacion": "Apple Fritter 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SSBB5",
+          "denominacion": "pH Perfect Sensi Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009696",
+      "numero": "15 2026/009696",
+      "fecha": "08/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009696",
+      "fecha_formatted": "2026-06-08",
+      "productos": [
+        {
+          "referencia": "8106",
+          "denominacion": "Auto Gorilla Blue   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "ASS5S",
+          "denominacion": "Auto Super Skunk  5 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "PRO20",
+          "denominacion": "Auto Dark Devil   5+2 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11704",
+          "denominacion": "Kerosene Krash   5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13090",
+          "denominacion": "Auto White Widow XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2927",
+          "denominacion": "Extractor RVK SILEO 250 L1 - 1.080 m3",
+          "cantidad": 2
+        },
+        {
+          "referencia": "R65",
+          "denominacion": "Reduccion 160 - 150 mm. PK",
+          "cantidad": 6
+        },
+        {
+          "referencia": "23868",
+          "denominacion": "Extractor PK 150 mm. EC-TC 1.110 m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6655",
+          "denominacion": "Maceta Cuadrada Blanca 27 x 27 x 40 cm. 20 lt.",
+          "cantidad": 100
+        },
+        {
+          "referencia": "21001",
+          "denominacion": "Green Mystic  250 ml. Juju Royal",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21007",
+          "denominacion": "Grow Soldier   250 ml. Juju Royal",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17879",
+          "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009589",
       "numero": "15 2026/009589",
@@ -413,7 +683,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 79
+    "total_pedidos": 3,
+    "total_productos": 129
   }
 }
