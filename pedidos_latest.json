@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-09T04:00:28.323072",
+  "timestamp": "2026-06-09T07:58:22.428585",
   "pedidos": [
     {
       "id": "152026009697",
@@ -182,17 +182,7 @@
           "referencia": "3718",
           "denominacion": "Malla Pirámide",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026009696",
-      "numero": "15 2026/009696",
-      "fecha": "08/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009696",
-      "fecha_formatted": "2026-06-08",
-      "productos": [
+        },
         {
           "referencia": "8106",
           "denominacion": "Auto Gorilla Blue   1 u. fem. Advanced Seeds",
@@ -272,13 +262,18 @@
           "referencia": "17879",
           "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
           "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 50
+    "total_pedidos": 1,
+    "total_productos": 51
   }
 }
