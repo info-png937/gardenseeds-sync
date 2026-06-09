@@ -4,8 +4,243 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-09T19:19:34.223231",
+  "timestamp": "2026-06-09T21:20:13.452009",
   "pedidos": [
+    {
+      "id": "152026009785",
+      "numero": "15 2026/009785",
+      "fecha": "09/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009785",
+      "fecha_formatted": "2026-06-09",
+      "productos": [
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3786",
+          "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SBA500",
+          "denominacion": "pH Perfect Sensi Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5935",
+          "denominacion": "Regadera 2 lt.  Cuello Largo",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6420",
+          "denominacion": "Gorilla Glue Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6312",
+          "denominacion": "Auto Hindu Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12270",
+          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8290",
+          "denominacion": "Strawberry Lemonade  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4891",
+          "denominacion": "Dense   60 gr. Green Planet Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12248",
+          "denominacion": "Orange Sherbet Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19130",
+          "denominacion": "Cleanse 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5339",
+          "denominacion": "Auto Alpujarreña  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "LYOG",
+          "denominacion": "Larry OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15624",
+          "denominacion": "White Widow  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16929",
+          "denominacion": "Auto Bruce Banner XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25485",
+          "denominacion": "Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19782",
+          "denominacion": "Mimosa Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10729",
+          "denominacion": "Chocolate Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10735",
+          "denominacion": "Northern Lights   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1254",
+          "denominacion": "Ruderalis Skunk 10 u. reg. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23891",
+          "denominacion": "Apple Fritter 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9630",
+          "denominacion": "Auto Royal Gorilla  5 u. fem. Royal Queen",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009784",
+      "numero": "15 2026/009784",
+      "fecha": "09/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009784",
+      "fecha_formatted": "2026-06-09",
+      "productos": [
+        {
+          "referencia": "3215",
+          "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "30047",
+          "denominacion": "Grinder Quick Grinder Silver",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12304",
+          "denominacion": "Auto Mandarine Punch  5 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19139",
+          "denominacion": "Grow B 3.78 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "JJB1",
+          "denominacion": "Jungle Juice Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18533",
+          "denominacion": "Auto Milky Way F1 -  1 u. fem. Royal Queen",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009697",
       "numero": "15 2026/009697",
@@ -273,7 +508,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 51
+    "total_pedidos": 3,
+    "total_productos": 94
   }
 }
