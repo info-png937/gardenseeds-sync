@@ -4,8 +4,333 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-11T19:58:41.630648",
+  "timestamp": "2026-06-11T22:08:33.542726",
   "pedidos": [
+    {
+      "id": "152026009959",
+      "numero": "15 2026/009959",
+      "fecha": "11/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009959",
+      "fecha_formatted": "2026-06-11",
+      "productos": [
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4097",
+          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6334",
+          "denominacion": "Crystal Meth Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9597",
+          "denominacion": "Green Gelato  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8098",
+          "denominacion": "Zkittlez Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11718",
+          "denominacion": "Auto Banana Blaze   3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17169",
+          "denominacion": "Gelato #33 Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17138",
+          "denominacion": "Auto Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19229",
+          "denominacion": "Biscotti  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14116",
+          "denominacion": "Bubba Kush  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21401",
+          "denominacion": "Auto Tropicanna XXL 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16108",
+          "denominacion": "Camuflaje Mechero",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17139",
+          "denominacion": "Auto Critical Soma  5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17122B",
+          "denominacion": "Llavero Camuflaje Bellota",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25901",
+          "denominacion": "Caja Regalo Coleccionista G-Rollz Cheech & Chong",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18533",
+          "denominacion": "Auto Milky Way F1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18748",
+          "denominacion": "Auto Orange Apricot Glue XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9569",
+          "denominacion": "Auto Fast Eddy CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6420",
+          "denominacion": "Gorilla Glue Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7509",
+          "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026009958",
+      "numero": "15 2026/009958",
+      "fecha": "11/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026009958",
+      "fecha_formatted": "2026-06-11",
+      "productos": [
+        {
+          "referencia": "16930",
+          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8302",
+          "denominacion": "Auto Zkittlez OG  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AWWGH3",
+          "denominacion": "Auto White Widow  3 u. fem. Green house",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12319",
+          "denominacion": "Skunk Dream CBD  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9569",
+          "denominacion": "Auto Fast Eddy CBD  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3969",
+          "denominacion": "Maceta Redonda Blanca Asas 50 cm. - 50 lt.",
+          "cantidad": 30
+        },
+        {
+          "referencia": "2596",
+          "denominacion": "Maceta Redonda Blanca 25 cm. - 10 lt.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "18748",
+          "denominacion": "Auto Orange Apricot Glue XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21401",
+          "denominacion": "Auto Tropicanna XXL 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASS3S",
+          "denominacion": "Auto Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15594",
+          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12271",
+          "denominacion": "Mimosa EVO  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14116",
+          "denominacion": "Bubba Kush  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14478",
+          "denominacion": "Watermelon OG   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16979",
+          "denominacion": "Neemex 500 ml. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25576",
+          "denominacion": "Auto Blueberry XXL  2 u. fem BSF Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17169",
+          "denominacion": "Gelato #33 Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19229",
+          "denominacion": "Biscotti  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9199",
+          "denominacion": "Auto Purple Punch  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11718",
+          "denominacion": "Auto Banana Blaze   3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25624",
+          "denominacion": "Gorilla Glue #4 -  2 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PP3F",
+          "denominacion": "Power Plant  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17133",
+          "denominacion": "Auto Biodiesel Mass XXL   5 + 2 Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17138",
+          "denominacion": "Auto Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17139",
+          "denominacion": "Auto Critical Soma  5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026009879",
       "numero": "15 2026/009879",
@@ -363,7 +688,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 69
+    "total_pedidos": 3,
+    "total_productos": 130
   }
 }
