@@ -4,8 +4,298 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-15T12:26:32.524836",
+  "timestamp": "2026-06-15T21:09:42.123377",
   "pedidos": [
+    {
+      "id": "152026010126",
+      "numero": "15 2026/010126",
+      "fecha": "15/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010126",
+      "fecha_formatted": "2026-06-15",
+      "productos": [
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PL250",
+          "denominacion": "Piranha Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASK3",
+          "denominacion": "Auto Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6325",
+          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6334",
+          "denominacion": "Crystal Meth Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 8
+        },
+        {
+          "referencia": "5216",
+          "denominacion": "Snake Poison 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5408",
+          "denominacion": "Auto Anesthesia  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4975",
+          "denominacion": "Auto California Kush   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14827",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 30 x 30 x 31 cm. 25 lt.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RAK1",
+          "denominacion": "Royal Ak  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19243",
+          "denominacion": "Gelato  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16935",
+          "denominacion": "Auto Banana Cookies   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "34074",
+          "denominacion": "Vaporizador Fenix Mini Herbs Wax & Oil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20800",
+          "denominacion": "Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "D2259",
+          "denominacion": "Orange Bud  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23468",
+          "denominacion": "Incienso en Cuerda Pachuli 24 Cuerdas",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23479",
+          "denominacion": "Incienso Lama Gangchen Sanación 20 Sticks",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23469",
+          "denominacion": "Incensario Kamala para Incienso en Cuerda",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11589",
+          "denominacion": "Auto Jack Herer  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010113",
+      "numero": "15 2026/010113",
+      "fecha": "15/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010113",
+      "fecha_formatted": "2026-06-15",
+      "productos": [
+        {
+          "referencia": "AB3D",
+          "denominacion": "Auto Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18498",
+          "denominacion": "Purple Cookie Kush  5 u. fem. Sensi Seeds Research",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 6
+        },
+        {
+          "referencia": "5667",
+          "denominacion": "Franco´s Lemon Cheese  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16977",
+          "denominacion": "Super Oleotion 250 ml. (Aceite Parafinico )Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19055",
+          "denominacion": "Fruit Green Dtc Aerosol Descarga Total 50 ml Trabe.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 5
+        },
+        {
+          "referencia": "1927",
+          "denominacion": "Coco Ladrillo Plastificado 10 l. - 0.6 kg",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14716",
+          "denominacion": "Pure Pot Maceta Textil    3.8 lt. 1 gal",
+          "cantidad": 46
+        },
+        {
+          "referencia": "10639",
+          "denominacion": ".Vaporizador Volcano Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23468",
+          "denominacion": "Incienso en Cuerda Pachuli 24 Cuerdas",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23479",
+          "denominacion": "Incienso Lama Gangchen Sanación 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23469",
+          "denominacion": "Incensario Kamala para Incienso en Cuerda",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7509",
+          "denominacion": "Cream Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010032",
       "numero": "15 2026/010032",
@@ -438,7 +728,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 84
+    "total_pedidos": 3,
+    "total_productos": 138
   }
 }
