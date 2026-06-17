@@ -4,8 +4,298 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-17T19:07:09.025677",
+  "timestamp": "2026-06-17T21:30:02.573505",
   "pedidos": [
+    {
+      "id": "152026010290",
+      "numero": "15 2026/010290",
+      "fecha": "17/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010290",
+      "fecha_formatted": "2026-06-17",
+      "productos": [
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "A12P",
+          "denominacion": "Anubis  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7627",
+          "denominacion": "Auto Tangerine Dream 1 u. fem.  Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 6
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BG50",
+          "denominacion": "Bactogel  50 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12270",
+          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13004",
+          "denominacion": "Gorilla Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19143",
+          "denominacion": "PK 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSFS3",
+          "denominacion": "Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25650",
+          "denominacion": "Gorilla Banana  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WM3R",
+          "denominacion": "Washing Machine 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21060",
+          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21066",
+          "denominacion": "Apple Strudel Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14184",
+          "denominacion": "Strawberry Banana Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16997",
+          "denominacion": "Blue Dream Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26494",
+          "denominacion": "Pink Guava  F1 Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010288",
+      "numero": "15 2026/010288",
+      "fecha": "17/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010288",
+      "fecha_formatted": "2026-06-17",
+      "productos": [
+        {
+          "referencia": "6374",
+          "denominacion": "Auto Tangerine Dream 3 u. fem.  Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13004",
+          "denominacion": "Gorilla Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17509",
+          "denominacion": "HighCloudZ  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CKB5",
+          "denominacion": "Critical Kush  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11464",
+          "denominacion": "Tropicanna Banana  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24282",
+          "denominacion": "Cherry Poppers  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25574",
+          "denominacion": "Blueberry  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25650",
+          "denominacion": "Gorilla Banana  7 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11526",
+          "denominacion": "Girl Scout Cookies fem.  5 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13147",
+          "denominacion": "Y Griega CBD 2.0  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSS5",
+          "denominacion": "Skunk #1 -  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16997",
+          "denominacion": "Blue Dream Fast   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14716",
+          "denominacion": "Pure Pot Maceta Textil    3.8 lt. 1 gal",
+          "cantidad": 120
+        },
+        {
+          "referencia": "15469",
+          "denominacion": "Auto Strawberry Banana   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 6
+        },
+        {
+          "referencia": "12845",
+          "denominacion": "Auto Dos Si Dos  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSFS3",
+          "denominacion": "Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14184",
+          "denominacion": "Strawberry Banana Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21060",
+          "denominacion": "Papaya Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6660",
+          "denominacion": "Jack Herer  3 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WM3R",
+          "denominacion": "Washing Machine 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010213",
       "numero": "15 2026/010213",
@@ -323,7 +613,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 59
+    "total_pedidos": 4,
+    "total_productos": 113
   }
 }
