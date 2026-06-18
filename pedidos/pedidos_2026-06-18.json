@@ -4,8 +4,218 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-18T18:32:49.055149",
+  "timestamp": "2026-06-18T21:13:55.412941",
   "pedidos": [
+    {
+      "id": "152026010366",
+      "numero": "15 2026/010366",
+      "fecha": "18/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010366",
+      "fecha_formatted": "2026-06-18",
+      "productos": [
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RI150",
+          "denominacion": "Rooting Gel 150 ml. Rootit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 6
+        },
+        {
+          "referencia": "10727",
+          "denominacion": "Chocolate Cream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N0003",
+          "denominacion": "Neville's Haze  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12993",
+          "denominacion": "Bactomatik     Tabs 8 ud. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19127",
+          "denominacion": "Camg 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2906",
+          "denominacion": "Maceta Cuadrada Blanca 13 x 13 x 14.5 cm. 2.2 lt. - 25 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21403",
+          "denominacion": "Gelonade  5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5969",
+          "denominacion": "Auto Super OG Kush  3 u. fem. Pyramid Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19405",
+          "denominacion": "Incienso  Cannabis Haze Vainilla Kush 6 ud.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "10708",
+          "denominacion": "Auto Afghan Mass   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20328B",
+          "denominacion": "Porta Incienso Madera & Brass 25 cm.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23504",
+          "denominacion": "Incienso Morning Star Vainilla 50 Sticks & Holder",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010365",
+      "numero": "15 2026/010365",
+      "fecha": "18/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010365",
+      "fecha_formatted": "2026-06-18",
+      "productos": [
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24059",
+          "denominacion": "Rainbow Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13168",
+          "denominacion": "Bubble Gum CBD   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N0003",
+          "denominacion": "Neville's Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14432",
+          "denominacion": "Auto Purple Punch   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10708",
+          "denominacion": "Auto Afghan Mass   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL3S",
+          "denominacion": "Northern Lights   3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "C3F",
+          "denominacion": "Criminal  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10731",
+          "denominacion": "Critical Poison   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21403",
+          "denominacion": "Gelonade  5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13087",
+          "denominacion": "Auto Bubble Gum XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5407",
+          "denominacion": "Auto Anesthesia  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5969",
+          "denominacion": "Auto Super OG Kush  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6315",
+          "denominacion": "Hindu Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19605",
+          "denominacion": "Bote Silicona  5 ml. 18x32 mm. Pack 40 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SC3P",
+          "denominacion": "Supercheese  3 u. fem. Positronics Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19397",
+          "denominacion": "Tecno Grow   60 ml. Cannotecnia",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010290",
       "numero": "15 2026/010290",
@@ -293,7 +503,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 55
+    "total_pedidos": 3,
+    "total_productos": 93
   }
 }
