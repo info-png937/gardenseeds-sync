@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-19T07:40:28.635597",
+  "timestamp": "2026-06-19T12:12:11.763493",
   "pedidos": [
     {
       "id": "152026010366",
@@ -97,6 +97,11 @@
           "referencia": "23504",
           "denominacion": "Incienso Morning Star Vainilla 50 Sticks & Holder",
           "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -212,6 +217,11 @@
           "referencia": "19397",
           "denominacion": "Tecno Grow   60 ml. Cannotecnia",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -219,6 +229,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 38
+    "total_productos": 40
   }
 }
