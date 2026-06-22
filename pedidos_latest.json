@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-22T02:04:01.536822",
+  "timestamp": "2026-06-22T08:39:58.954211",
   "pedidos": [
     {
       "id": "152026010428",
@@ -117,17 +117,7 @@
           "referencia": "7186",
           "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026010427",
-      "numero": "15 2026/010427",
-      "fecha": "21/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010427",
-      "fecha_formatted": "2026-06-21",
-      "productos": [
+        },
         {
           "referencia": "9829",
           "denominacion": "Auto Northern Lights fem.  5 u. Seedstockers",
@@ -192,13 +182,18 @@
           "referencia": "2763",
           "denominacion": "Maceta Redonda Blanca 30 cm. - 17 lt.",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 34
+    "total_pedidos": 1,
+    "total_productos": 35
   }
 }
