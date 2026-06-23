@@ -4,8 +4,178 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-23T18:22:09.462856",
+  "timestamp": "2026-06-23T20:34:46.242151",
   "pedidos": [
+    {
+      "id": "152026010573",
+      "numero": "15 2026/010573",
+      "fecha": "23/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010573",
+      "fecha_formatted": "2026-06-23",
+      "productos": [
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FP250",
+          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RTX05",
+          "denominacion": "Toxic 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10834",
+          "denominacion": "Durban Poison  1 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6312",
+          "denominacion": "Auto Hindu Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6428",
+          "denominacion": "Tangie Matic Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16944",
+          "denominacion": "Bruce Banner   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12283",
+          "denominacion": "Buttercream Gelato  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26494",
+          "denominacion": "Pink Guava  F1 Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RI150",
+          "denominacion": "Rooting Gel 150 ml. Rootit",
+          "cantidad": 10
+        },
+        {
+          "referencia": "KRP12",
+          "denominacion": "Kryptonite  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010572",
+      "numero": "15 2026/010572",
+      "fecha": "23/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010572",
+      "fecha_formatted": "2026-06-23",
+      "productos": [
+        {
+          "referencia": "12283",
+          "denominacion": "Buttercream Gelato  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13228",
+          "denominacion": "Malawi 1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13230",
+          "denominacion": "Panama  1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16944",
+          "denominacion": "Bruce Banner   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "KRP12",
+          "denominacion": "Kryptonite  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6314",
+          "denominacion": "Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "10834",
+          "denominacion": "Durban Poison  1 u. fem. Dutch Passion",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18863",
+          "denominacion": "Forbidden Fruit Cake   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16934",
+          "denominacion": "Auto Banana Cookies   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6312",
+          "denominacion": "Auto Hindu Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RTX05",
+          "denominacion": "Toxic 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010504",
       "numero": "15 2026/010504",
@@ -353,7 +523,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 67
+    "total_pedidos": 3,
+    "total_productos": 97
   }
 }
