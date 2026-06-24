@@ -4,8 +4,188 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-24T18:00:20.132489",
+  "timestamp": "2026-06-24T21:41:26.694202",
   "pedidos": [
+    {
+      "id": "152026010631",
+      "numero": "15 2026/010631",
+      "fecha": "24/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010631",
+      "fecha_formatted": "2026-06-24",
+      "productos": [
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9134",
+          "denominacion": "Grizzly Purple Kush 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5417",
+          "denominacion": "Auto New York City  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30704K",
+          "denominacion": "Filtros Acti Tube  Konic 6 mm. 50 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2909",
+          "denominacion": "Camuflaje Lata Cerveza Danesa",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20170",
+          "denominacion": "Camuflaje Coletero",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33902A",
+          "denominacion": "Vaporizador X-vape X-max Aria+ Plus Black",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19143",
+          "denominacion": "PK 0.94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010630",
+      "numero": "15 2026/010630",
+      "fecha": "24/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010630",
+      "fecha_formatted": "2026-06-24",
+      "productos": [
+        {
+          "referencia": "6132",
+          "denominacion": "Amnesia Lemon  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5417",
+          "denominacion": "Auto New York City  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11813",
+          "denominacion": "Auto Fat Banana  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14511",
+          "denominacion": "Bestial Skunk 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6324",
+          "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "S471",
+          "denominacion": "Somango #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "33803A",
+          "denominacion": "Vapeador Uwell Koko GK-3 Kit Silver 900 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3215",
+          "denominacion": "Maceta Redonda Blanca 35 cm. - 27 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20170",
+          "denominacion": "Camuflaje Coletero",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2927",
+          "denominacion": "Extractor RVK SILEO 250 L1 - 1.080 m3",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NLGN",
+          "denominacion": "Auto Northern Light  5 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MMH3",
+          "denominacion": "Money Maker   3 u.  fem. Strain Hunters",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9181",
+          "denominacion": "Auto Cream 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010573",
       "numero": "15 2026/010573",
@@ -193,7 +373,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 35
+    "total_pedidos": 3,
+    "total_productos": 67
   }
 }
