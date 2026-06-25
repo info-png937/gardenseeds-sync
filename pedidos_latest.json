@@ -4,8 +4,223 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-25T20:07:03.979927",
+  "timestamp": "2026-06-25T22:05:47.723759",
   "pedidos": [
+    {
+      "id": "152026010706",
+      "numero": "15 2026/010706",
+      "fecha": "25/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010706",
+      "fecha_formatted": "2026-06-25",
+      "productos": [
+        {
+          "referencia": "3784",
+          "denominacion": "Extractor PK 125 mm. 360 m3  PK125-L",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL1",
+          "denominacion": "Tarantula Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PL1",
+          "denominacion": "Piranha Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "M1AN",
+          "denominacion": "pH Perfect  Micro  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8103",
+          "denominacion": "Gorilla Blue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D5245",
+          "denominacion": "Think Fast  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11772",
+          "denominacion": "Cherry Pie  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20562",
+          "denominacion": "Lemon Bean   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30704K",
+          "denominacion": "Filtros Acti Tube  Konic 6 mm. 50 ud.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17151",
+          "denominacion": "Auto Strawberry Gum   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19787",
+          "denominacion": "Auto Bubba´s Gift   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010705",
+      "numero": "15 2026/010705",
+      "fecha": "25/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010705",
+      "fecha_formatted": "2026-06-25",
+      "productos": [
+        {
+          "referencia": "19369",
+          "denominacion": "Midnight Sunset 6 u. fem Perfect Tree",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11772",
+          "denominacion": "Cherry Pie  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16469",
+          "denominacion": "Auto Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7476",
+          "denominacion": "Blubonik  1 u. fem. Genehtik",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17151",
+          "denominacion": "Auto Strawberry Gum   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7565",
+          "denominacion": "Critical Lemon   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8103",
+          "denominacion": "Gorilla Blue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D5245",
+          "denominacion": "Think Fast  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6625",
+          "denominacion": "Auto Cream Mandarine XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11512",
+          "denominacion": "Fish Mix   250 ml. Bio Bizz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17029",
+          "denominacion": "Panty Punch fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "14100",
+          "denominacion": "SAD Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20562",
+          "denominacion": "Lemon Bean   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "KAL3",
+          "denominacion": "Auto Kalashnikova  3 u. fem. Green House",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010631",
       "numero": "15 2026/010631",
@@ -183,7 +398,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 33
+    "total_pedidos": 3,
+    "total_productos": 72
   }
 }
