@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-26T13:31:05.369244",
+  "timestamp": "2026-06-26T15:56:44.766578",
   "pedidos": [
+    {
+      "id": "152026010732",
+      "numero": "15 2026/010732",
+      "fecha": "26/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010732",
+      "fecha_formatted": "2026-06-26",
+      "productos": [
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19787",
+          "denominacion": "Auto Bubba´s Gift   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20963",
+          "denominacion": "Berry Crusher 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FD3F",
+          "denominacion": "Frisian Dew  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6832",
+          "denominacion": "Blue Dream´matic  1 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8305",
+          "denominacion": "Auto Zkittlez OG 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6250",
+          "denominacion": "Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24034",
+          "denominacion": "Sunset Sherbet 3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8309",
+          "denominacion": "Auto LSD 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010706",
       "numero": "15 2026/010706",
@@ -233,7 +298,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 41
+    "total_pedidos": 3,
+    "total_productos": 52
   }
 }
