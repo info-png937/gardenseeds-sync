@@ -4,8 +4,198 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-26T17:57:13.432340",
+  "timestamp": "2026-06-26T20:01:28.361503",
   "pedidos": [
+    {
+      "id": "152026010747",
+      "numero": "15 2026/010747",
+      "fecha": "26/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010747",
+      "fecha_formatted": "2026-06-26",
+      "productos": [
+        {
+          "referencia": "20859",
+          "denominacion": "pH Perfect Sensi Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20860",
+          "denominacion": "pH Perfect Sensi Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010746",
+      "numero": "15 2026/010746",
+      "fecha": "26/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010746",
+      "fecha_formatted": "2026-06-26",
+      "productos": [
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4097",
+          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "VODJ",
+          "denominacion": "Voodoo Juice  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B500M",
+          "denominacion": "Big Bud Liquid   500  ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "B52500",
+          "denominacion": "B 52 -   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52A",
+          "denominacion": "B 52 -  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "M1AN",
+          "denominacion": "pH Perfect  Micro  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SCMX1L",
+          "denominacion": "Sensi Cal-Mag Xtra  1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "MMH3",
+          "denominacion": "Money Maker   3 u.  fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6471",
+          "denominacion": "Mexican Sativa  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14534",
+          "denominacion": "Auto La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "JJB1",
+          "denominacion": "Jungle Juice Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8305",
+          "denominacion": "Auto Zkittlez OG 10 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20963",
+          "denominacion": "Berry Crusher 3 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16108",
+          "denominacion": "Camuflaje Mechero",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17500",
+          "denominacion": "Camuflaje Conservas  Raviolis",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23469",
+          "denominacion": "Incensario Kamala para Incienso en Cuerda",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010745",
+      "numero": "15 2026/010745",
+      "fecha": "26/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010745",
+      "fecha_formatted": "2026-06-26",
+      "productos": [
+        {
+          "referencia": "AS3",
+          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12846",
+          "denominacion": "Auto Dos Si Dos  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "VODJ",
+          "denominacion": "Voodoo Juice  1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6832",
+          "denominacion": "Blue Dream´matic  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19787",
+          "denominacion": "Auto Bubba´s Gift   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010732",
       "numero": "15 2026/010732",
@@ -298,7 +488,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 52
+    "total_pedidos": 6,
+    "total_productos": 84
   }
 }
