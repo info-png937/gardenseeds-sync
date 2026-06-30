@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-30T06:17:08.507378",
+  "timestamp": "2026-06-30T10:08:00.657882",
   "pedidos": [
     {
       "id": "152026010870",
@@ -362,17 +362,7 @@
           "referencia": "3785",
           "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026010869",
-      "numero": "15 2026/010869",
-      "fecha": "29/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010869",
-      "fecha_formatted": "2026-06-29",
-      "productos": [
+        },
         {
           "referencia": "16369",
           "denominacion": "Runtz x Layer Cake  5 u. fem. Barney's",
@@ -592,13 +582,18 @@
           "referencia": "6324",
           "denominacion": "Blackberry Auto  1 u. fem. FastBuds Seeds",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 114
+    "total_pedidos": 1,
+    "total_productos": 115
   }
 }
