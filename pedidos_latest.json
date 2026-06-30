@@ -4,8 +4,148 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-06-30T17:24:53.403211",
+  "timestamp": "2026-06-30T21:16:00.856311",
   "pedidos": [
+    {
+      "id": "152026010954",
+      "numero": "15 2026/010954",
+      "fecha": "30/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010954",
+      "fecha_formatted": "2026-06-30",
+      "productos": [
+        {
+          "referencia": "19118",
+          "denominacion": "Bloom A 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026010953",
+      "numero": "15 2026/010953",
+      "fecha": "30/06/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010953",
+      "fecha_formatted": "2026-06-30",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL250",
+          "denominacion": "Tarantula Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B500M",
+          "denominacion": "Big Bud Liquid   500  ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI500",
+          "denominacion": "Bud Ignitor   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI1L",
+          "denominacion": "Bud Ignitor  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17934",
+          "denominacion": "The Neutralizer Compact Cartucho Repuesto 40 ml",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12785",
+          "denominacion": "Pure Pot Maceta Textil  113 lt. 30 gal con Asas",
+          "cantidad": 11
+        },
+        {
+          "referencia": "8305",
+          "denominacion": "Auto Zkittlez OG 10 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24828",
+          "denominacion": "Auto Tropicana Cherry   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CAB500",
+          "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CAB500B",
+          "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010938",
       "numero": "15 2026/010938",
@@ -708,7 +848,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 136
+    "total_pedidos": 4,
+    "total_productos": 160
   }
 }
