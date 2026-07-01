@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-01T05:07:06.086044",
+  "timestamp": "2026-07-01T12:15:30.543991",
   "pedidos": [
+    {
+      "id": "152026010959",
+      "numero": "15 2026/010959",
+      "fecha": "01/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010959",
+      "fecha_formatted": "2026-07-01",
+      "productos": [
+        {
+          "referencia": "7993",
+          "denominacion": "Critical Poison 100 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25250",
+          "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026010954",
       "numero": "15 2026/010954",
@@ -22,17 +52,7 @@
           "referencia": "19122",
           "denominacion": "Bloom B 0.94 lt. Athena",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026010953",
-      "numero": "15 2026/010953",
-      "fecha": "30/06/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026010953",
-      "fecha_formatted": "2026-06-30",
-      "productos": [
+        },
         {
           "referencia": "BB50",
           "denominacion": "Bactobloom  50 gr. Agrobacterias",
@@ -142,6 +162,11 @@
           "referencia": "CAB500B",
           "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
           "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -264,6 +289,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 45
+    "total_productos": 50
   }
 }
