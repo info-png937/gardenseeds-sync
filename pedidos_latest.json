@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-02T04:42:10.680303",
+  "timestamp": "2026-07-02T08:14:25.477195",
   "pedidos": [
     {
       "id": "152026011035",
@@ -172,17 +172,7 @@
           "referencia": "21211",
           "denominacion": "Final Phase  0.5 lt. Cannotecnia",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026011034",
-      "numero": "15 2026/011034",
-      "fecha": "01/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011034",
-      "fecha_formatted": "2026-07-01",
-      "productos": [
+        },
         {
           "referencia": "17357",
           "denominacion": "Tropicana Cookies Auto  3 u. fem. FastBuds Seeds",
@@ -257,6 +247,11 @@
           "referencia": "18537",
           "denominacion": "Auto Titan F1 -  1 u. fem. Royal Queen",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -293,7 +288,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 51
+    "total_pedidos": 2,
+    "total_productos": 52
   }
 }
