@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-03T07:47:04.392652",
+  "timestamp": "2026-07-03T10:42:12.328828",
   "pedidos": [
     {
       "id": "152026011119",
@@ -117,6 +117,116 @@
           "referencia": "5008",
           "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
           "cantidad": 4
+        },
+        {
+          "referencia": "7310",
+          "denominacion": "Shark CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21056",
+          "denominacion": "Lemon Cherry Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9523",
+          "denominacion": "Honey Cream - Fast  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14149",
+          "denominacion": "Auto Sherbet Queen  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SSFS3",
+          "denominacion": "Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17051",
+          "denominacion": "Auto Mack & Crack fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6474",
+          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SXL3",
+          "denominacion": "Somango XL  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CL1P",
+          "denominacion": "Cum Laude  1 u. fem Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "JH3F",
+          "denominacion": "Jack Herer  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24477",
+          "denominacion": "Tropical & Delicious Mix 4 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "12168",
+          "denominacion": "Papel para Extracción Qnubu Press 30 cm. x 5 m.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16977",
+          "denominacion": "Super Oleotion 250 ml. (Aceite Parafinico )Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "34001",
+          "denominacion": "Vaporizador G-Pen Elite Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9222",
+          "denominacion": "Lambs Breath X Ak-49  3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19143",
+          "denominacion": "PK 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -239,6 +349,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 42
+    "total_productos": 64
   }
 }
