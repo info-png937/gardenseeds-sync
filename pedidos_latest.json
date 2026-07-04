@@ -4,10 +4,241 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-04T11:36:54.848782",
-  "pedidos": [],
+  "timestamp": "2026-07-04T15:09:54.702313",
+  "pedidos": [
+    {
+      "id": "152026011182",
+      "numero": "15 2026/011182",
+      "fecha": "04/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011182",
+      "fecha_formatted": "2026-07-04",
+      "productos": [
+        {
+          "referencia": "PL250",
+          "denominacion": "Piranha Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B500M",
+          "denominacion": "Big Bud Liquid   500  ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RV1L",
+          "denominacion": "Revive  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4099",
+          "denominacion": "Flawless Finish  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FP250",
+          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2596",
+          "denominacion": "Maceta Redonda Blanca 25 cm. - 10 lt.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SCMX1L",
+          "denominacion": "Sensi Cal-Mag Xtra  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10806",
+          "denominacion": "Critical Orange Punch  1 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6352",
+          "denominacion": "LSD-25 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11838",
+          "denominacion": "Tatanka Pure CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23889",
+          "denominacion": "Apple Fritter  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26490",
+          "denominacion": "Auto Tropicanna Cherry XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6662",
+          "denominacion": "California Indica 10 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11935",
+          "denominacion": "Auto Zkittlez  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026011181",
+      "numero": "15 2026/011181",
+      "fecha": "04/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011181",
+      "fecha_formatted": "2026-07-04",
+      "productos": [
+        {
+          "referencia": "21056",
+          "denominacion": "Lemon Cherry Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6325",
+          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6662",
+          "denominacion": "California Indica 10 u.  fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11838",
+          "denominacion": "Tatanka Pure CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8119",
+          "denominacion": "Critical Mass   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23889",
+          "denominacion": "Apple Fritter  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9881",
+          "denominacion": "Auto Super Skunk fem.  5 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "SSH3",
+          "denominacion": "Super Silver Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26490",
+          "denominacion": "Auto Tropicanna Cherry XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17356",
+          "denominacion": "Tropicana Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10806",
+          "denominacion": "Critical Orange Punch  1 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "31411",
+          "denominacion": "Liadora Raw Ecoplastic King Size",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19059",
+          "denominacion": "Shooting Powder  65 gr. 5 ud.House & Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 42
   }
 }
