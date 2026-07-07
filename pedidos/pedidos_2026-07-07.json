@@ -4,8 +4,213 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-07T19:07:37.820947",
+  "timestamp": "2026-07-07T21:07:51.697629",
   "pedidos": [
+    {
+      "id": "152026011367",
+      "numero": "15 2026/011367",
+      "fecha": "07/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011367",
+      "fecha_formatted": "2026-07-07",
+      "productos": [
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "PL500",
+          "denominacion": "Piranha Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B500M",
+          "denominacion": "Big Bud Liquid   500  ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52A",
+          "denominacion": "B 52 -  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS500",
+          "denominacion": "Rhino Skin   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "M1AN",
+          "denominacion": "pH Perfect  Micro  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FP250",
+          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6421",
+          "denominacion": "Gorilla Glue Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6334",
+          "denominacion": "Crystal Meth Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9134",
+          "denominacion": "Grizzly Purple Kush 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17071",
+          "denominacion": "Auto Thunder Banana fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13155",
+          "denominacion": "Elixir Vitae CBD  3 u. fem. Medical seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "LYOG",
+          "denominacion": "Larry OG Kush 6 u. fem. The Cali Connection",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24431",
+          "denominacion": "Monster Maker   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18994",
+          "denominacion": "Tecno Bloom  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10720",
+          "denominacion": "Auto Sweet Somango   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21800",
+          "denominacion": "Apple Bananas 25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACAS1",
+          "denominacion": "Automatic Collection #1 - Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12890",
+          "denominacion": "Auto Amnesia XXL  25 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19317",
+          "denominacion": "Diamond Rock  0.5 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3845",
+          "denominacion": "2046 -  5 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15047",
+          "denominacion": "Auto Sour Diesel fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6256",
+          "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026011366",
+      "numero": "15 2026/011366",
+      "fecha": "07/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011366",
+      "fecha_formatted": "2026-07-07",
+      "productos": [
+        {
+          "referencia": "33810A",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011295",
       "numero": "15 2026/011295",
@@ -293,7 +498,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 55
+    "total_pedidos": 3,
+    "total_productos": 92
   }
 }
