@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-07T07:44:38.961453",
+  "timestamp": "2026-07-07T13:36:05.703479",
   "pedidos": [
     {
       "id": "152026011295",
@@ -17,32 +17,47 @@
           "referencia": "17932",
           "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026011294",
-      "numero": "15 2026/011294",
-      "fecha": "06/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011294",
-      "fecha_formatted": "2026-07-06",
-      "productos": [
+        },
+        {
+          "referencia": "11769",
+          "denominacion": "Caja de Bandejas Plugin Pro 150 Alveolos (8 Bandejas)",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19424",
+          "denominacion": "Calmafer   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17913",
+          "denominacion": "Ona Gel Pro   732 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2596",
+          "denominacion": "Maceta Redonda Blanca 25 cm. - 10 lt.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "23379",
+          "denominacion": "Camuflaje Llave Automovil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 1
+        },
         {
           "referencia": "8156",
           "denominacion": "Bolsa Rosin Press 11x5 cm. Pack 10 u. 160 micras",
           "cantidad": 10
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026011293",
-      "numero": "15 2026/011293",
-      "fecha": "06/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011293",
-      "fecha_formatted": "2026-07-06",
-      "productos": [
+        },
         {
           "referencia": "6264",
           "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
@@ -262,63 +277,23 @@
           "referencia": "19424",
           "denominacion": "Calmafer   60 ml. Cannotecnia",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026011292",
-      "numero": "15 2026/011292",
-      "fecha": "06/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011292",
-      "fecha_formatted": "2026-07-06",
-      "productos": [
-        {
-          "referencia": "11769",
-          "denominacion": "Caja de Bandejas Plugin Pro 150 Alveolos (8 Bandejas)",
-          "cantidad": 3
-        },
-        {
-          "referencia": "19424",
-          "denominacion": "Calmafer   60 ml. Cannotecnia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "17913",
-          "denominacion": "Ona Gel Pro   732 gr.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "2596",
-          "denominacion": "Maceta Redonda Blanca 25 cm. - 10 lt.",
-          "cantidad": 4
-        },
-        {
-          "referencia": "23379",
-          "denominacion": "Camuflaje Llave Automovil",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14930",
-          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14929",
-          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
-          "cantidad": 1
         },
         {
           "referencia": "8156",
           "denominacion": "Bolsa Rosin Press 11x5 cm. Pack 10 u. 160 micras",
           "cantidad": 10
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 54
+    "total_pedidos": 1,
+    "total_productos": 55
   }
 }
