@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-08T06:32:37.535570",
+  "timestamp": "2026-07-08T09:28:23.924800",
   "pedidos": [
     {
       "id": "152026011367",
@@ -192,28 +192,23 @@
           "referencia": "6256",
           "denominacion": "Auto Critical Soma  1 u. fem. Advanced Seeds",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026011366",
-      "numero": "15 2026/011366",
-      "fecha": "07/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011366",
-      "fecha_formatted": "2026-07-07",
-      "productos": [
+        },
         {
           "referencia": "33810A",
           "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 37
+    "total_pedidos": 1,
+    "total_productos": 38
   }
 }
