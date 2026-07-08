@@ -4,8 +4,203 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-08T19:39:50.369833",
+  "timestamp": "2026-07-08T21:13:08.292660",
   "pedidos": [
+    {
+      "id": "152026011440",
+      "numero": "15 2026/011440",
+      "fecha": "08/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011440",
+      "fecha_formatted": "2026-07-08",
+      "productos": [
+        {
+          "referencia": "17879",
+          "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI1L",
+          "denominacion": "Bud Ignitor  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6333",
+          "denominacion": "Crystal Meth Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HARQ",
+          "denominacion": "Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5215",
+          "denominacion": "Snake Poison 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7672",
+          "denominacion": "LSD-25 Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11846",
+          "denominacion": "Auto Purplematic CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12238",
+          "denominacion": "Banana Krumble 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18748",
+          "denominacion": "Auto Orange Apricot Glue XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9536",
+          "denominacion": "Lemon Shining Silver Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21209",
+          "denominacion": "Carbobloom Powder   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19317",
+          "denominacion": "Diamond Rock  0.5 lt. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17393",
+          "denominacion": "Bubba´s Gift   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CAB500B",
+          "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CAB500",
+          "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4952",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026011439",
+      "numero": "15 2026/011439",
+      "fecha": "08/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011439",
+      "fecha_formatted": "2026-07-08",
+      "productos": [
+        {
+          "referencia": "17879",
+          "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1745",
+          "denominacion": "Liquid Silicon 1 lt. Growth Technology",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12238",
+          "denominacion": "Banana Krumble 10 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011367",
       "numero": "15 2026/011367",
@@ -208,7 +403,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 38
+    "total_pedidos": 3,
+    "total_productos": 73
   }
 }
