@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-13T04:09:54.228923",
+  "timestamp": "2026-07-13T07:49:10.277288",
   "pedidos": [
     {
       "id": "152026011565",
@@ -212,17 +212,7 @@
           "referencia": "10706",
           "denominacion": "Auto 00 Cheese   3 u. fem. 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026011564",
-      "numero": "15 2026/011564",
-      "fecha": "12/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011564",
-      "fecha_formatted": "2026-07-12",
-      "productos": [
+        },
         {
           "referencia": "BAC50",
           "denominacion": "Bactofil  50 gr. Agrobacterias",
@@ -247,13 +237,18 @@
           "referencia": "21521",
           "denominacion": "Chimera Cut  5 u. fem Anesia",
           "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 45
+    "total_pedidos": 1,
+    "total_productos": 46
   }
 }
