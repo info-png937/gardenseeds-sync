@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-13T07:49:10.277288",
+  "timestamp": "2026-07-13T16:37:29.300955",
   "pedidos": [
+    {
+      "id": "152026011603",
+      "numero": "15 2026/011603",
+      "fecha": "13/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011603",
+      "fecha_formatted": "2026-07-13",
+      "productos": [
+        {
+          "referencia": "13405",
+          "denominacion": "Bascula Digital Kenex Magno Pocket 500 - 0.01 gr.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PRO1",
+          "denominacion": "Auto + Speed   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8799",
+          "denominacion": "Black Jack  25 u.  fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011565",
       "numero": "15 2026/011565",
@@ -239,8 +269,8 @@
           "cantidad": 1
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -248,7 +278,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 46
+    "total_pedidos": 2,
+    "total_productos": 50
   }
 }
