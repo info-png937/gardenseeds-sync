@@ -4,8 +4,248 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-13T16:37:29.300955",
+  "timestamp": "2026-07-13T20:18:58.523525",
   "pedidos": [
+    {
+      "id": "152026011651",
+      "numero": "15 2026/011651",
+      "fecha": "13/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011651",
+      "fecha_formatted": "2026-07-13",
+      "productos": [
+        {
+          "referencia": "AS3",
+          "denominacion": "Auto Somango   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "TL250",
+          "denominacion": "Tarantula Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52A",
+          "denominacion": "B 52 -  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BF1L",
+          "denominacion": "Bud Factor X  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SGA500",
+          "denominacion": "pH Perfect Sensi Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N500",
+          "denominacion": "Tasty Terpenes   500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5214",
+          "denominacion": "Amanitha 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15556",
+          "denominacion": "Auto Sweet Mimosa XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "31406",
+          "denominacion": "Liadora Clasica King Size",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8474",
+          "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17002",
+          "denominacion": "Grand Daddy Purple   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14772",
+          "denominacion": "Do-Si-Dos Cookies Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19175",
+          "denominacion": "Ventilador Pie Dutch Masters 40 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21062",
+          "denominacion": "Papaya Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16108",
+          "denominacion": "Camuflaje Mechero",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23106",
+          "denominacion": "Miklo 3 u. fem Cookies Seed Bank",
+          "cantidad": 5
+        },
+        {
+          "referencia": "10706",
+          "denominacion": "Auto 00 Cheese   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10914",
+          "denominacion": "Julius Caesar 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17383",
+          "denominacion": "Sweet Somango Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33913",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23506",
+          "denominacion": "Incienso Morning Star Lavanda 50 Sticks & Holder",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CAB500B",
+          "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "CAB500",
+          "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026011650",
+      "numero": "15 2026/011650",
+      "fecha": "13/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011650",
+      "fecha_formatted": "2026-07-13",
+      "productos": [
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6421",
+          "denominacion": "Gorilla Glue Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1745",
+          "denominacion": "Liquid Silicon 1 lt. Growth Technology",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13405",
+          "denominacion": "Bascula Digital Kenex Magno Pocket 500 - 0.01 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23106",
+          "denominacion": "Miklo 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5215",
+          "denominacion": "Snake Poison 15 ml. Agrobacterias",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011603",
       "numero": "15 2026/011603",
@@ -278,7 +518,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 50
+    "total_pedidos": 4,
+    "total_productos": 94
   }
 }
