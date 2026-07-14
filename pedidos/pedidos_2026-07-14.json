@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-14T05:53:35.036600",
+  "timestamp": "2026-07-14T08:16:14.773053",
   "pedidos": [
     {
       "id": "152026011651",
@@ -202,6 +202,41 @@
           "referencia": "CAB500",
           "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
           "cantidad": 6
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6421",
+          "denominacion": "Gorilla Glue Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1745",
+          "denominacion": "Liquid Silicon 1 lt. Growth Technology",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13405",
+          "denominacion": "Bascula Digital Kenex Magno Pocket 500 - 0.01 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23106",
+          "denominacion": "Miklo 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5215",
+          "denominacion": "Snake Poison 15 ml. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -279,6 +314,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 48
+    "total_productos": 55
   }
 }
