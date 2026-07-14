@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-14T16:47:35.062601",
+  "timestamp": "2026-07-14T19:52:33.698205",
   "pedidos": [
+    {
+      "id": "152026011736",
+      "numero": "15 2026/011736",
+      "fecha": "14/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011736",
+      "fecha_formatted": "2026-07-14",
+      "productos": [
+        {
+          "referencia": "NL3R",
+          "denominacion": "Auto Northern Light  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14930",
+          "denominacion": "Oh! Holy Mary Cannabis Pleasure Oil Estimulante 6 ml.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PRO1",
+          "denominacion": "Auto + Speed   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13003",
+          "denominacion": "Gorilla Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 10
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13177",
+          "denominacion": "Auto Super Skunk  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6660",
+          "denominacion": "Jack Herer  3 u.  fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TL250",
+          "denominacion": "Tarantula Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21974",
+          "denominacion": "Big Bud Powder  1 Kg. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011723",
       "numero": "15 2026/011723",
@@ -358,7 +428,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 62
+    "total_pedidos": 5,
+    "total_productos": 74
   }
 }
