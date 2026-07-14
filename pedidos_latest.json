@@ -4,8 +4,53 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-14T11:56:26.714556",
+  "timestamp": "2026-07-14T13:57:09.262016",
   "pedidos": [
+    {
+      "id": "152026011723",
+      "numero": "15 2026/011723",
+      "fecha": "14/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011723",
+      "fecha_formatted": "2026-07-14",
+      "productos": [
+        {
+          "referencia": "17366",
+          "denominacion": "Great White Micorrizas 1 Kg. Granular",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9859",
+          "denominacion": "Auto Santa Marta Haze fem.  1 u. Seedstockers",
+          "cantidad": 6
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18079",
+          "denominacion": "Cable + Clavija Inyectada Plug & Play",
+          "cantidad": 10
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14929",
+          "denominacion": "Oh! Holy Mary Gel Cannabis Lubricante Intimo Efecto Calor 100 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011651",
       "numero": "15 2026/011651",
@@ -313,7 +358,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 55
+    "total_pedidos": 4,
+    "total_productos": 62
   }
 }
