@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-16T07:25:43.069807",
+  "timestamp": "2026-07-16T17:27:15.945444",
   "pedidos": [
+    {
+      "id": "152026011821",
+      "numero": "15 2026/011821",
+      "fecha": "16/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011821",
+      "fecha_formatted": "2026-07-16",
+      "productos": [
+        {
+          "referencia": "18152",
+          "denominacion": "Controlador Ph MC-720 con Bomba Dosificadora Milwaukee",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011809",
       "numero": "15 2026/011809",
@@ -217,32 +237,7 @@
           "referencia": "21704",
           "denominacion": "Auto Rainbow Sherbet #11 -   3 + 1 u. fem. Advanced Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026011808",
-      "numero": "15 2026/011808",
-      "fecha": "16/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011808",
-      "fecha_formatted": "2026-07-16",
-      "productos": [
-        {
-          "referencia": "15556",
-          "denominacion": "Auto Sweet Mimosa XL   3+1 u. fem. Sweet Seeds",
-          "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026011807",
-      "numero": "15 2026/011807",
-      "fecha": "16/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011807",
-      "fecha_formatted": "2026-07-16",
-      "productos": [
+        },
         {
           "referencia": "13001",
           "denominacion": "Gorilla Cookies Auto  1 u. fem. FastBuds Seeds",
@@ -262,6 +257,36 @@
           "referencia": "15556",
           "denominacion": "Auto Sweet Mimosa XL   3+1 u. fem. Sweet Seeds",
           "cantidad": 3
+        },
+        {
+          "referencia": "15556",
+          "denominacion": "Auto Sweet Mimosa XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "2026000755",
+      "numero": "2026/000755",
+      "fecha": "16/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026000755",
+      "fecha_formatted": "2026-07-16",
+      "productos": [
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9584",
+          "denominacion": "Purple Queen  1 u. fem. Royal Queen",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -269,6 +294,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 46
+    "total_productos": 51
   }
 }
