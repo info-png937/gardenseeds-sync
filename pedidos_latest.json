@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-17T11:07:59.184197",
+  "timestamp": "2026-07-17T12:43:52.927084",
   "pedidos": [
     {
       "id": "152026011881",
@@ -206,11 +206,6 @@
         {
           "referencia": "16977",
           "denominacion": "Super Oleotion 250 ml. (Aceite Parafinico )Trabe",
-          "cantidad": 1
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -504,6 +499,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 89
+    "total_productos": 88
   }
 }
