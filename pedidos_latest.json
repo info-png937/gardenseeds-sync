@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-17T01:03:49.119256",
+  "timestamp": "2026-07-17T09:28:04.130479",
   "pedidos": [
+    {
+      "id": "152026011881",
+      "numero": "15 2026/011881",
+      "fecha": "17/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011881",
+      "fecha_formatted": "2026-07-17",
+      "productos": [
+        {
+          "referencia": "13910",
+          "denominacion": "Auto Blue Cheese  5 u. fem. Expert Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011871",
       "numero": "15 2026/011871",
@@ -167,17 +187,7 @@
           "referencia": "21704",
           "denominacion": "Auto Rainbow Sherbet #11 -   3 + 1 u. fem. Advanced Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026011870",
-      "numero": "15 2026/011870",
-      "fecha": "17/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011870",
-      "fecha_formatted": "2026-07-17",
-      "productos": [
+        },
         {
           "referencia": "PRO15",
           "denominacion": "Auto Cream Caramel   3+1 u. fem. Sweet Seeds",
@@ -196,6 +206,11 @@
         {
           "referencia": "16977",
           "denominacion": "Super Oleotion 250 ml. (Aceite Parafinico )Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -489,6 +504,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 86
+    "total_productos": 89
   }
 }
