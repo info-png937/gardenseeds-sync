@@ -4,8 +4,398 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-20T17:04:16.498940",
+  "timestamp": "2026-07-20T19:14:40.183373",
   "pedidos": [
+    {
+      "id": "152026012005",
+      "numero": "15 2026/012005",
+      "fecha": "20/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012005",
+      "fecha_formatted": "2026-07-20",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BF250",
+          "denominacion": "Bud Factor X   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS500",
+          "denominacion": "Rhino Skin   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13314",
+          "denominacion": "Revive   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BUCA",
+          "denominacion": "Bud Candy   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FP250",
+          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AEO1L",
+          "denominacion": "Ancient Earth Organic 1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "EKRQ1",
+          "denominacion": "Special Kush #1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N0003",
+          "denominacion": "Neville's Haze  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "A00CH",
+          "denominacion": "Auto 00 Cheese   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BKA1",
+          "denominacion": "Auto Bubble Kush  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21974",
+          "denominacion": "Big Bud Powder  1 Kg. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19175",
+          "denominacion": "Ventilador Pie Dutch Masters 40 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17141",
+          "denominacion": "Auto Gorilla Blue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16999",
+          "denominacion": "Blue Dream Fast  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17404",
+          "denominacion": "Auto Strawberry Gum  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11935",
+          "denominacion": "Auto Zkittlez  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012004",
+      "numero": "15 2026/012004",
+      "fecha": "20/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012004",
+      "fecha_formatted": "2026-07-20",
+      "productos": [
+        {
+          "referencia": "12841",
+          "denominacion": "Auto Wedding Cake  1 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3794",
+          "denominacion": "TNT Kush 3+1 u. fem. Eva Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14140",
+          "denominacion": "Wedding Crasher  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3203",
+          "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9740",
+          "denominacion": "Auto AK420 fem.  3 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11825",
+          "denominacion": "Auto Sweet ZZ  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13233",
+          "denominacion": "Panama  3 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17141",
+          "denominacion": "Auto Gorilla Blue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20917",
+          "denominacion": "Punch Pie   5 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20541",
+          "denominacion": "Korenji 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21790",
+          "denominacion": "Auto Biscotti Zkittlez  3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6374",
+          "denominacion": "Auto Tangerine Dream 3 u. fem.  Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9199",
+          "denominacion": "Auto Purple Punch  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16999",
+          "denominacion": "Blue Dream Fast  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17404",
+          "denominacion": "Auto Strawberry Gum  25 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11935",
+          "denominacion": "Auto Zkittlez  25 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11938",
+          "denominacion": "Bubble Gum Fast   3 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3289",
+          "denominacion": "Amnesia Lemon  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SQ3R",
+          "denominacion": "Special Queen #1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HARQ3",
+          "denominacion": "Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RM05",
+          "denominacion": "Royal Moby  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11942",
+          "denominacion": "Auto Northern Lights XXL   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "EKRQ1",
+          "denominacion": "Special Kush #1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3761",
+          "denominacion": "BCN Sour Diesel  3 u. fem. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19256",
+          "denominacion": "Ice Cream Cake  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AG1",
+          "denominacion": "Amnesia Gold  1 u. blister x  12 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TRYO",
+          "denominacion": "Trypack Outdoor Bio Bizz",
+          "cantidad": 6
+        },
+        {
+          "referencia": "AM00",
+          "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N0003",
+          "denominacion": "Neville's Haze  3 u. fem. Green House",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17366",
+          "denominacion": "Great White Micorrizas 1 Kg. Granular",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9755",
+          "denominacion": "Auto BCN Critical XXL fem.  1 u. Seedstockers",
+          "cantidad": 30
+        },
+        {
+          "referencia": "6133",
+          "denominacion": "Ayahuasca Purple  1 u. fem. Barney`s",
+          "cantidad": 2
+        },
+        {
+          "referencia": "32108A",
+          "denominacion": "Bong Cristal Hemper Percolator  Lucky Cat 13 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15459",
+          "denominacion": "Auto Watermelon Og   1 u. fem. Advanced Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "A00CH",
+          "denominacion": "Auto 00 Cheese   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21974",
+          "denominacion": "Big Bud Powder  1 Kg. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19175",
+          "denominacion": "Ventilador Pie Dutch Masters 40 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17879",
+          "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026011941",
       "numero": "15 2026/011941",
@@ -268,7 +658,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 50
+    "total_pedidos": 3,
+    "total_productos": 124
   }
 }
