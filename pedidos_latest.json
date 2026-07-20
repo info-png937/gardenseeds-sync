@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-20T01:05:55.829551",
+  "timestamp": "2026-07-20T08:25:24.050596",
   "pedidos": [
     {
       "id": "152026011941",
@@ -252,28 +252,23 @@
           "referencia": "11935",
           "denominacion": "Auto Zkittlez  25 u. fem. Advanced Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026011940",
-      "numero": "15 2026/011940",
-      "fecha": "20/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026011940",
-      "fecha_formatted": "2026-07-20",
-      "productos": [
+        },
         {
           "referencia": "18378",
           "denominacion": "Grow Kit Blue Meannie",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 49
+    "total_pedidos": 1,
+    "total_productos": 50
   }
 }
