@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-21T03:15:35.351484",
+  "timestamp": "2026-07-21T11:24:27.912956",
   "pedidos": [
     {
       "id": "152026012005",
@@ -167,17 +167,7 @@
           "referencia": "AM00",
           "denominacion": "Autofloracion Mix  5 u. fem 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026012004",
-      "numero": "15 2026/012004",
-      "fecha": "20/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012004",
-      "fecha_formatted": "2026-07-20",
-      "productos": [
+        },
         {
           "referencia": "12841",
           "denominacion": "Auto Wedding Cake  1 u. fem. Barney's",
@@ -392,6 +382,11 @@
           "referencia": "17879",
           "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -658,7 +653,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 124
+    "total_pedidos": 2,
+    "total_productos": 125
   }
 }
