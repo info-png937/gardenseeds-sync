@@ -4,8 +4,233 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-21T18:19:09.213128",
+  "timestamp": "2026-07-21T20:01:53.803027",
   "pedidos": [
+    {
+      "id": "152026012076",
+      "numero": "15 2026/012076",
+      "fecha": "21/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012076",
+      "fecha_formatted": "2026-07-21",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SS3F",
+          "denominacion": "Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 7
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52500",
+          "denominacion": "B 52 -   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "M1AN",
+          "denominacion": "pH Perfect  Micro  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13314",
+          "denominacion": "Revive   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4948",
+          "denominacion": "pH Perfect Sensi  Coco Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HAZR",
+          "denominacion": "Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9560",
+          "denominacion": "Auto Blue Cheese  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16542",
+          "denominacion": "Seriotica 6 u. Fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15798",
+          "denominacion": "Banana Purple Punch Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21074",
+          "denominacion": "Sour Jealousy Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18537",
+          "denominacion": "Auto Titan F1 -  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16999",
+          "denominacion": "Blue Dream Fast  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13084",
+          "denominacion": "Auto Somango Glue  25 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "SGA500B",
+          "denominacion": "pH Perfect Sensi Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SGA500",
+          "denominacion": "pH Perfect Sensi Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "33800A",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Race Track Kit 1.350 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23086",
+          "denominacion": "Cherry Fritter 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4948B",
+          "denominacion": "pH Perfect Sensi  Coco Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012075",
+      "numero": "15 2026/012075",
+      "fecha": "21/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012075",
+      "fecha_formatted": "2026-07-21",
+      "productos": [
+        {
+          "referencia": "18533",
+          "denominacion": "Auto Milky Way F1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16542",
+          "denominacion": "Seriotica 6 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15798",
+          "denominacion": "Banana Purple Punch Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13002",
+          "denominacion": "Gorilla Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6478",
+          "denominacion": "Durban  5 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18355",
+          "denominacion": "Auto Mimosa   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12786",
+          "denominacion": "Pure Pot Maceta Textil   38 lt. 10 gal con Asas",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18537",
+          "denominacion": "Auto Titan F1 -  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21074",
+          "denominacion": "Sour Jealousy Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12845",
+          "denominacion": "Auto Dos Si Dos  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13314",
+          "denominacion": "Revive   500 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AKB5",
+          "denominacion": "Auto Kritikal Bilbo  5 u. fem. Genehtik",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012005",
       "numero": "15 2026/012005",
@@ -653,7 +878,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 125
+    "total_pedidos": 4,
+    "total_productos": 166
   }
 }
