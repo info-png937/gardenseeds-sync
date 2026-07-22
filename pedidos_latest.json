@@ -4,8 +4,93 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-22T20:40:44.512570",
+  "timestamp": "2026-07-22T22:08:12.999056",
   "pedidos": [
+    {
+      "id": "152026012181",
+      "numero": "15 2026/012181",
+      "fecha": "22/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012181",
+      "fecha_formatted": "2026-07-22",
+      "productos": [
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012180",
+      "numero": "15 2026/012180",
+      "fecha": "22/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012180",
+      "fecha_formatted": "2026-07-22",
+      "productos": [
+        {
+          "referencia": "7141",
+          "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16979",
+          "denominacion": "Neemex 500 ml. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6545",
+          "denominacion": "Bubble Gum - 6 u. fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5216",
+          "denominacion": "Snake Poison 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5166",
+          "denominacion": "Boveda 62%   8 gr. Pak Cvault",
+          "cantidad": 21
+        },
+        {
+          "referencia": "13230",
+          "denominacion": "Panama  1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19384",
+          "denominacion": "Auto Fire DOG   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6133",
+          "denominacion": "Ayahuasca Purple  1 u. fem. Barney`s",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012101",
       "numero": "15 2026/012101",
@@ -243,7 +328,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 45
+    "total_pedidos": 3,
+    "total_productos": 58
   }
 }
