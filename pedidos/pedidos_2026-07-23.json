@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-23T06:16:35.502862",
+  "timestamp": "2026-07-23T09:09:05.349121",
   "pedidos": [
     {
       "id": "152026012181",
@@ -17,17 +17,7 @@
           "referencia": "18378",
           "denominacion": "Grow Kit Blue Meannie",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026012180",
-      "numero": "15 2026/012180",
-      "fecha": "22/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012180",
-      "fecha_formatted": "2026-07-22",
-      "productos": [
+        },
         {
           "referencia": "7141",
           "denominacion": "White Widow CBD   5 u. fem. 00 Seeds",
@@ -87,6 +77,11 @@
           "referencia": "6133",
           "denominacion": "Ayahuasca Purple  1 u. fem. Barney`s",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -328,7 +323,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 58
+    "total_pedidos": 2,
+    "total_productos": 59
   }
 }
