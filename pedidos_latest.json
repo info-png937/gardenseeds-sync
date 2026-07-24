@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-24T09:06:05.484096",
+  "timestamp": "2026-07-24T11:18:48.040157",
   "pedidos": [
+    {
+      "id": "152026012255",
+      "numero": "15 2026/012255",
+      "fecha": "24/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012255",
+      "fecha_formatted": "2026-07-24",
+      "productos": [
+        {
+          "referencia": "20851",
+          "denominacion": "Auto Blueberry Bubblegum   3 u. fem. Sensi Seed Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24059",
+          "denominacion": "Rainbow Melon  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18492",
+          "denominacion": "Auto Sticky Orange XXl  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9535",
+          "denominacion": "Lemon Shining Silver Haze  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25254",
+          "denominacion": "Auto Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9827",
+          "denominacion": "Auto Northern Lights fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16433",
+          "denominacion": "2y2 - 1 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "S3DP",
+          "denominacion": "Shaman  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7790",
+          "denominacion": "Armario Pure Tent  V.2.0 - 1,2 x 1,2 x .2 m.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012246",
       "numero": "15 2026/012246",
@@ -183,7 +248,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 31
+    "total_pedidos": 3,
+    "total_productos": 42
   }
 }
