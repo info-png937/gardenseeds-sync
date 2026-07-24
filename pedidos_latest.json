@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-24T06:29:48.119490",
+  "timestamp": "2026-07-24T09:06:05.484096",
   "pedidos": [
     {
       "id": "152026012246",
@@ -92,6 +92,46 @@
           "referencia": "6478",
           "denominacion": "Durban  5 u. fem. Sensi Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SSFS3",
+          "denominacion": "Sensi Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24759",
+          "denominacion": "Payton Rainbow 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24827",
+          "denominacion": "Auto Tropicana Cherry   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24934",
+          "denominacion": "Notorious THC 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20801",
+          "denominacion": "Rainbow Mints   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -144,6 +184,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 23
+    "total_productos": 31
   }
 }
