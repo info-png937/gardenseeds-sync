@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-27T04:23:36.559437",
+  "timestamp": "2026-07-27T08:03:10.067314",
   "pedidos": [
     {
       "id": "152026012322",
@@ -17,17 +17,52 @@
           "referencia": "23512",
           "denominacion": "Incienso Morning Star Palo Santo 50 Sticks & Holder",
           "cantidad": 2
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026012320",
-      "numero": "15 2026/012320",
-      "fecha": "27/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012320",
-      "fecha_formatted": "2026-07-27",
-      "productos": [
+        },
+        {
+          "referencia": "9227",
+          "denominacion": "Pure Gelato 3+1 u. fem. Vision Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AEP3",
+          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7790",
+          "denominacion": "Armario Pure Tent  V.2.0 - 1,2 x 1,2 x .2 m.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14494",
+          "denominacion": "Auto Slurricane   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13948",
+          "denominacion": "Auto Blueberry Glue  1 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19028",
+          "denominacion": "Bud Compactor  250 gr. Cannotecnia",
+          "cantidad": 2
+        },
         {
           "referencia": "LOI1",
           "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
@@ -247,68 +282,18 @@
           "referencia": "10709",
           "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026012319",
-      "numero": "15 2026/012319",
-      "fecha": "27/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012319",
-      "fecha_formatted": "2026-07-27",
-      "productos": [
-        {
-          "referencia": "9227",
-          "denominacion": "Pure Gelato 3+1 u. fem. Vision Seeds",
-          "cantidad": 3
         },
         {
-          "referencia": "AEP3",
-          "denominacion": "Auto Afghan Express  3 u. fem. Positronics Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "7790",
-          "denominacion": "Armario Pure Tent  V.2.0 - 1,2 x 1,2 x .2 m.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21900",
-          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24293",
-          "denominacion": "Super Boof  3 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14494",
-          "denominacion": "Auto Slurricane   1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "CKB10",
-          "denominacion": "Critical Kush 10 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "13948",
-          "denominacion": "Auto Blueberry Glue  1 u. fem. Expert Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19028",
-          "denominacion": "Bud Compactor  250 gr. Cannotecnia",
-          "cantidad": 2
         }
       ],
       "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 54
+    "total_pedidos": 1,
+    "total_productos": 55
   }
 }
