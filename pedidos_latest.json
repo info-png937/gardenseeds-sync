@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-28T07:16:44.758985",
+  "timestamp": "2026-07-28T10:10:04.577710",
   "pedidos": [
     {
       "id": "152026012415",
@@ -17,277 +17,7 @@
           "referencia": "5258",
           "denominacion": "Ayahuasca Purple  5 u. fem. Barney`s",
           "cantidad": 2
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026012414",
-      "numero": "15 2026/012414",
-      "fecha": "28/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012414",
-      "fecha_formatted": "2026-07-28",
-      "productos": [
-        {
-          "referencia": "12886",
-          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
-          "cantidad": 3
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026012413",
-      "numero": "15 2026/012413",
-      "fecha": "28/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012413",
-      "fecha_formatted": "2026-07-28",
-      "productos": [
-        {
-          "referencia": "ASA3",
-          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 1
         },
-        {
-          "referencia": "LOI1",
-          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
-          "cantidad": 1
-        },
-        {
-          "referencia": "BH50",
-          "denominacion": "Bactohemp  50 gr. Agrobacterias",
-          "cantidad": 2
-        },
-        {
-          "referencia": "4094",
-          "denominacion": "Big Bud Liquid  1 lt. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "B250M",
-          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "4947",
-          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
-          "cantidad": 5
-        },
-        {
-          "referencia": "4095",
-          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "BUCA",
-          "denominacion": "Bud Candy   500 ml. Advanced Nutrients",
-          "cantidad": 9
-        },
-        {
-          "referencia": "BC1L",
-          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
-          "cantidad": 6
-        },
-        {
-          "referencia": "BC250",
-          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
-          "cantidad": 6
-        },
-        {
-          "referencia": "FP250",
-          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
-          "cantidad": 6
-        },
-        {
-          "referencia": "5217",
-          "denominacion": "Spider Plant 15 ml. Agrobacterias",
-          "cantidad": 1
-        },
-        {
-          "referencia": "7633",
-          "denominacion": "Kleaner Control Urea 30 ml.",
-          "cantidad": 3
-        },
-        {
-          "referencia": "7728",
-          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
-          "cantidad": 3
-        },
-        {
-          "referencia": "11458",
-          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11845",
-          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "15772",
-          "denominacion": "Eboshi CBG  3 ud Medical Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "17040",
-          "denominacion": "Thunder Banana fem.  1 u. Seedstockers Superior",
-          "cantidad": 1
-        },
-        {
-          "referencia": "ACB00",
-          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "15624",
-          "denominacion": "White Widow  3 ud Silent Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "24311",
-          "denominacion": "Grow Kit Penis Envy Hybrid",
-          "cantidad": 1
-        },
-        {
-          "referencia": "13537",
-          "denominacion": "Watermelon Zkittlez 10 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "CK1RQ",
-          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
-          "cantidad": 2
-        },
-        {
-          "referencia": "9535",
-          "denominacion": "Lemon Shining Silver Haze  1 u. fem. Royal Queen",
-          "cantidad": 4
-        },
-        {
-          "referencia": "20834",
-          "denominacion": "Auto Jet Fuel Mandarine XL   3+1 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "8127",
-          "denominacion": "Gelato #33 -   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "7570",
-          "denominacion": "Critical Purple Kush   1 u. fem. Advanced Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "21005",
-          "denominacion": "Flowa Bloom 1 lt. Juju Royal",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21685",
-          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19005",
-          "denominacion": "PK+ 20/30 -  1 lt. Cannotecnia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "10709",
-          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "TRYO",
-          "denominacion": "Trypack Outdoor Bio Bizz",
-          "cantidad": 10
-        },
-        {
-          "referencia": "15615",
-          "denominacion": "Moby Dick  3 ud Silent Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "HB1",
-          "denominacion": "Haze Berry  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11801",
-          "denominacion": "El Patron  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9159",
-          "denominacion": "Critical Daddy 3 u. fem. Blimburn Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "2287",
-          "denominacion": "Arjan Haze #3 -  5 u. fem. Green House",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19048",
-          "denominacion": "Auto Moby Dick  10 u. fem. FastBuds Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21795",
-          "denominacion": "Auto Gelato Mint  5 u. fem. 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21783",
-          "denominacion": "Auto Oreoz  5 u. fem. 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18356",
-          "denominacion": "Auto Mimosa   5 u. fem. 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16763",
-          "denominacion": "Cartucho Vaporesso Osmall  1.2 Ohm 2 ml. 2 ud.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "17418B",
-          "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
-          "cantidad": 2
-        },
-        {
-          "referencia": "23512",
-          "denominacion": "Incienso Morning Star Palo Santo 50 Sticks & Holder",
-          "cantidad": 1
-        },
-        {
-          "referencia": "23478",
-          "denominacion": "Incienso Himalayan Healing Antiestrés 20 Sticks",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16772",
-          "denominacion": "Mecha Vaporesso GT CCELL 0.5 Ohm  3 ud.",
-          "cantidad": 2
-        },
-        {
-          "referencia": "4947B",
-          "denominacion": "pH Perfect Connoisseur Grow    B 500 ml. Advanced Nutrients",
-          "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026012410",
-      "numero": "15 2026/012410",
-      "fecha": "28/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012410",
-      "fecha_formatted": "2026-07-28",
-      "productos": [
         {
           "referencia": "17040",
           "denominacion": "Thunder Banana fem.  1 u. Seedstockers Superior",
@@ -527,6 +257,251 @@
           "referencia": "15615",
           "denominacion": "Moby Dick  3 ud Silent Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4094",
+          "denominacion": "Big Bud Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BUCA",
+          "denominacion": "Bud Candy   500 ml. Advanced Nutrients",
+          "cantidad": 9
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "FP250",
+          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15772",
+          "denominacion": "Eboshi CBG  3 ud Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17040",
+          "denominacion": "Thunder Banana fem.  1 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15624",
+          "denominacion": "White Widow  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13537",
+          "denominacion": "Watermelon Zkittlez 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9535",
+          "denominacion": "Lemon Shining Silver Haze  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "20834",
+          "denominacion": "Auto Jet Fuel Mandarine XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8127",
+          "denominacion": "Gelato #33 -   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7570",
+          "denominacion": "Critical Purple Kush   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21005",
+          "denominacion": "Flowa Bloom 1 lt. Juju Royal",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19005",
+          "denominacion": "PK+ 20/30 -  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "TRYO",
+          "denominacion": "Trypack Outdoor Bio Bizz",
+          "cantidad": 10
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HB1",
+          "denominacion": "Haze Berry  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11801",
+          "denominacion": "El Patron  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9159",
+          "denominacion": "Critical Daddy 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2287",
+          "denominacion": "Arjan Haze #3 -  5 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19048",
+          "denominacion": "Auto Moby Dick  10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21795",
+          "denominacion": "Auto Gelato Mint  5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21783",
+          "denominacion": "Auto Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18356",
+          "denominacion": "Auto Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16763",
+          "denominacion": "Cartucho Vaporesso Osmall  1.2 Ohm 2 ml. 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418B",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23512",
+          "denominacion": "Incienso Morning Star Palo Santo 50 Sticks & Holder",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23478",
+          "denominacion": "Incienso Himalayan Healing Antiestrés 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16772",
+          "denominacion": "Mecha Vaporesso GT CCELL 0.5 Ohm  3 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4947B",
+          "denominacion": "pH Perfect Connoisseur Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 3
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -818,7 +793,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 152
+    "total_pedidos": 2,
+    "total_productos": 153
   }
 }
