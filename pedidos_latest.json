@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-29T10:10:44.158072",
+  "timestamp": "2026-07-29T12:30:56.783750",
   "pedidos": [
     {
       "id": "152026012514",
@@ -32,6 +32,11 @@
           "referencia": "11639",
           "denominacion": "DualPart Coco Bloom 1 lt. Terra Aquatica",
           "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -849,6 +854,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 158
+    "total_productos": 159
   }
 }
