@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-29T07:21:50.798367",
+  "timestamp": "2026-07-29T10:10:44.158072",
   "pedidos": [
+    {
+      "id": "152026012514",
+      "numero": "15 2026/012514",
+      "fecha": "29/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012514",
+      "fecha_formatted": "2026-07-29",
+      "productos": [
+        {
+          "referencia": "MGU2",
+          "denominacion": "Melon Gum 2 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20840",
+          "denominacion": "pH Perfect Sensi Bloom A 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11639",
+          "denominacion": "DualPart Coco Bloom 1 lt. Terra Aquatica",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012496",
       "numero": "15 2026/012496",
@@ -16,6 +46,146 @@
         {
           "referencia": "23868",
           "denominacion": "Extractor PK 150 mm. EC-TC 1.110 m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18257",
+          "denominacion": "Kleaner Test de Saliva Spray 100 ml.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BUCA",
+          "denominacion": "Bud Candy   500 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21795",
+          "denominacion": "Auto Gelato Mint  5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "18356",
+          "denominacion": "Auto Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21783",
+          "denominacion": "Auto Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23894",
+          "denominacion": "Blue Dream  5 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23512",
+          "denominacion": "Incienso Morning Star Palo Santo 50 Sticks & Holder",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14771",
+          "denominacion": "Do-Si-Dos Cookies Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17382",
+          "denominacion": "Sweet Somango Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7728",
+          "denominacion": "Auto Critical Orange Punch 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23478",
+          "denominacion": "Incienso Himalayan Healing Antiestrés 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21783",
+          "denominacion": "Auto Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1745",
+          "denominacion": "Liquid Silicon 1 lt. Growth Technology",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -678,7 +848,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 126
+    "total_pedidos": 5,
+    "total_productos": 158
   }
 }
