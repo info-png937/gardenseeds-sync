@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-29T20:31:49.465363",
+  "timestamp": "2026-07-29T22:04:53.550890",
   "pedidos": [
+    {
+      "id": "152026012562",
+      "numero": "15 2026/012562",
+      "fecha": "29/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012562",
+      "fecha_formatted": "2026-07-29",
+      "productos": [
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "PL500",
+          "denominacion": "Piranha Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7287",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Kit Rejillas Small Camara Reductora 6 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11872",
+          "denominacion": "Gorilla Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6330",
+          "denominacion": "Californian Snow Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21974",
+          "denominacion": "Big Bud Powder  1 Kg. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19048",
+          "denominacion": "Auto Moby Dick  10 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21065",
+          "denominacion": "Apple Strudel Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4947B",
+          "denominacion": "pH Perfect Connoisseur Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418B",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Silver 1.000 mah.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16763",
+          "denominacion": "Cartucho Vaporesso Osmall  1.2 Ohm 2 ml. 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 2
+        },
+        {
+          "referencia": "INGR",
+          "denominacion": "Insta Green 1 lt. Grotek",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012561",
+      "numero": "15 2026/012561",
+      "fecha": "29/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012561",
+      "fecha_formatted": "2026-07-29",
+      "productos": [
+        {
+          "referencia": "6330",
+          "denominacion": "Californian Snow Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "INGR",
+          "denominacion": "Insta Green 1 lt. Grotek",
+          "cantidad": 2
+        },
+        {
+          "referencia": "13938",
+          "denominacion": "Auto OGesus  1 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18744",
+          "denominacion": "Auto Red Mimosa XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7287",
+          "denominacion": "Plenty / Volcano / Crafty / Mighty Kit Rejillas Small Camara Reductora 6 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012514",
       "numero": "15 2026/012514",
@@ -853,7 +1008,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 159
+    "total_pedidos": 7,
+    "total_productos": 186
   }
 }
