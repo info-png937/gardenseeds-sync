@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-30T11:11:27.237102",
+  "timestamp": "2026-07-30T15:33:18.987257",
   "pedidos": [
+    {
+      "id": "152026012597",
+      "numero": "15 2026/012597",
+      "fecha": "30/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012597",
+      "fecha_formatted": "2026-07-30",
+      "productos": [
+        {
+          "referencia": "19041",
+          "denominacion": "Ztrawberriez Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5598",
+          "denominacion": "Delta Ocho  500 ml. Cannabiogen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012574",
       "numero": "15 2026/012574",
@@ -558,7 +593,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 98
+    "total_pedidos": 7,
+    "total_productos": 103
   }
 }
