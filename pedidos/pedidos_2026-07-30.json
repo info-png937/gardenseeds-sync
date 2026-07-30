@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-30T08:34:30.705382",
+  "timestamp": "2026-07-30T11:11:27.237102",
   "pedidos": [
+    {
+      "id": "152026012574",
+      "numero": "15 2026/012574",
+      "fecha": "30/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012574",
+      "fecha_formatted": "2026-07-30",
+      "productos": [
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9569",
+          "denominacion": "Auto Fast Eddy CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9196",
+          "denominacion": "Purple Punch  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17382",
+          "denominacion": "Sweet Somango Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11639",
+          "denominacion": "DualPart Coco Bloom 1 lt. Terra Aquatica",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012562",
       "numero": "15 2026/012562",
@@ -503,7 +558,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 89
+    "total_pedidos": 6,
+    "total_productos": 98
   }
 }
