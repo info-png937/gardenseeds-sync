@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-31T04:02:00.777383",
+  "timestamp": "2026-07-31T10:07:02.372679",
   "pedidos": [
     {
       "id": "152026012641",
@@ -102,17 +102,7 @@
           "referencia": "16044",
           "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026012640",
-      "numero": "15 2026/012640",
-      "fecha": "31/07/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012640",
-      "fecha_formatted": "2026-07-31",
-      "productos": [
+        },
         {
           "referencia": "19809",
           "denominacion": "Payton Delight 3 u. fem. Ed. Lim. Ripper Seeds",
@@ -121,6 +111,11 @@
         {
           "referencia": "15615",
           "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -218,7 +213,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 34
+    "total_pedidos": 3,
+    "total_productos": 35
   }
 }
