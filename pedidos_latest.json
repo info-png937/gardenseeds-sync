@@ -4,8 +4,248 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-07-31T17:06:05.999507",
+  "timestamp": "2026-07-31T18:55:05.318627",
   "pedidos": [
+    {
+      "id": "152026012693",
+      "numero": "15 2026/012693",
+      "fecha": "31/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012693",
+      "fecha_formatted": "2026-07-31",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BF500",
+          "denominacion": "Bud Factor X   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BC1L",
+          "denominacion": "Bud Candy  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3718",
+          "denominacion": "Malla Pirámide",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5215",
+          "denominacion": "Snake Poison 15 ml. Agrobacterias",
+          "cantidad": 7
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ASS",
+          "denominacion": "Auto Sweet Skunk  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17062",
+          "denominacion": "Auto Rucu Cucu OG fem.  1 u. Seedstockers Superior",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10760",
+          "denominacion": "Black Cherry Punch  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21064",
+          "denominacion": "Apple Strudel Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21068",
+          "denominacion": "Pound Cake Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23889",
+          "denominacion": "Apple Fritter  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23104",
+          "denominacion": "Miami Yayo 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012691",
+      "numero": "15 2026/012691",
+      "fecha": "31/07/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012691",
+      "fecha_formatted": "2026-07-31",
+      "productos": [
+        {
+          "referencia": "ASS",
+          "denominacion": "Auto Sweet Skunk  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23889",
+          "denominacion": "Apple Fritter  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24281",
+          "denominacion": "Cherry Poppers  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9196",
+          "denominacion": "Purple Punch  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23104",
+          "denominacion": "Miami Yayo 3 u. fem Cookies Seed Bank",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7314",
+          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5166",
+          "denominacion": "Boveda 62%   8 gr. Pak Cvault",
+          "cantidad": 9
+        },
+        {
+          "referencia": "11921",
+          "denominacion": "Auto Amnesia XXL   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11677",
+          "denominacion": "K-Mintz  3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25250",
+          "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
+          "cantidad": 7
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012641",
       "numero": "15 2026/012641",
@@ -213,7 +453,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 35
+    "total_pedidos": 5,
+    "total_productos": 79
   }
 }
