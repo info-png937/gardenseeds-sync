@@ -4,10 +4,141 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-03T18:20:52.652392",
-  "pedidos": [],
+  "timestamp": "2026-08-03T21:42:11.652540",
+  "pedidos": [
+    {
+      "id": "152026012802",
+      "numero": "15 2026/012802",
+      "fecha": "03/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012802",
+      "fecha_formatted": "2026-08-03",
+      "productos": [
+        {
+          "referencia": "19045",
+          "denominacion": "Auto Moby Dick   1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16481",
+          "denominacion": "Auto Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PNK1",
+          "denominacion": "Pineapple Kush  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24886",
+          "denominacion": "Dream Queen 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5598",
+          "denominacion": "Delta Ocho  500 ml. Cannabiogen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17879",
+          "denominacion": "Bombona CO2 Metal Desechable 1 kg.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19037",
+          "denominacion": "Apricot Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11678",
+          "denominacion": "K-Mintz  5 u. fem. Ripper Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "11559",
+          "denominacion": "Auto Crystal Candy XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "23874",
+          "denominacion": "Pink Sherb 6 u. fem Karma Genetics",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HH3F",
+          "denominacion": "Holland's Hope  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AAH3",
+          "denominacion": "Auto Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9194",
+          "denominacion": "Purple Punch  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18351",
+          "denominacion": "Mimosa   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21522",
+          "denominacion": "Chimera Cut 10 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19137",
+          "denominacion": "Grow B 0,94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19118",
+          "denominacion": "Bloom A 0.94 lt. Athena",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19134",
+          "denominacion": "Grow A 0,94 lt. Athena",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 24
   }
 }
