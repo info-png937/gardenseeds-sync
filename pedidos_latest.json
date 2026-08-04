@@ -4,8 +4,333 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-04T19:42:19.843956",
+  "timestamp": "2026-08-04T21:15:53.226136",
   "pedidos": [
+    {
+      "id": "152026012882",
+      "numero": "15 2026/012882",
+      "fecha": "04/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012882",
+      "fecha_formatted": "2026-08-04",
+      "productos": [
+        {
+          "referencia": "RS500",
+          "denominacion": "Rhino Skin   500 ml. Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012881",
+      "numero": "15 2026/012881",
+      "fecha": "04/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012881",
+      "fecha_formatted": "2026-08-04",
+      "productos": [
+        {
+          "referencia": "24886",
+          "denominacion": "Dream Queen 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012879",
+      "numero": "15 2026/012879",
+      "fecha": "04/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012879",
+      "fecha_formatted": "2026-08-04",
+      "productos": [
+        {
+          "referencia": "5008",
+          "denominacion": "Kleaner Test de Saliva Spray  30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SZ05",
+          "denominacion": "Sensizym   500 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "B52500",
+          "denominacion": "B 52 -   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RS500",
+          "denominacion": "Rhino Skin   500 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5214",
+          "denominacion": "Amanitha 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6375",
+          "denominacion": "Auto Tangerine Dream 5 u. fem.  Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5348",
+          "denominacion": "Auto Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AAH1",
+          "denominacion": "Auto Amnesia Haze  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14429",
+          "denominacion": "Purple Punch   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8135",
+          "denominacion": "OG Kush S.F.V.  3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21064",
+          "denominacion": "Apple Strudel Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21135",
+          "denominacion": "Mona Lisa 2 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10709",
+          "denominacion": "Auto Afghan Mass XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6130",
+          "denominacion": "Carbon Activo 8 Kg. 16 lt. Can-Filter",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CAB500",
+          "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "CAB500B",
+          "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "26749",
+          "denominacion": "Papaya Triploid   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26487",
+          "denominacion": "Auto Super Boof XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012878",
+      "numero": "15 2026/012878",
+      "fecha": "04/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012878",
+      "fecha_formatted": "2026-08-04",
+      "productos": [
+        {
+          "referencia": "8135",
+          "denominacion": "OG Kush S.F.V.  3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5686",
+          "denominacion": "Zombie Kush 3 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3203",
+          "denominacion": "Skunk #1 - 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9178",
+          "denominacion": "Automatic AK 3 u. fem. Blimburn Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17913",
+          "denominacion": "Ona Gel Pro   732 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 20
+        },
+        {
+          "referencia": "10781",
+          "denominacion": "Female Collection 5 - 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16477",
+          "denominacion": "Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AC100",
+          "denominacion": "Automatic Collection 1 - 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15360",
+          "denominacion": "Radical Juice  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15361",
+          "denominacion": "Radical Juice  5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "GSC6",
+          "denominacion": "Girl Scout Cookies 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10908",
+          "denominacion": "Fruit Tree 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3510",
+          "denominacion": "Claustrum 2.0 -  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3432",
+          "denominacion": "Claustrum 2.0 -  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3427",
+          "denominacion": "Claustrum 2.0 -  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6367",
+          "denominacion": "Six Shooter Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23553",
+          "denominacion": "Termohigrometro Analogico Eko",
+          "cantidad": 5
+        },
+        {
+          "referencia": "3995",
+          "denominacion": "Aerofarm 2'' General Hydroponics  48/72 h.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "VPF40",
+          "denominacion": "Ventilador Pared RAM 3 Vel. 40 cm.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33803A",
+          "denominacion": "Vapeador Uwell Koko GK-3 Kit Silver 900 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5348",
+          "denominacion": "Auto Kryptonite  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17141",
+          "denominacion": "Auto Gorilla Blue   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21135",
+          "denominacion": "Mona Lisa 2 u. fem. 710 Limited Pack T.H. Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012802",
       "numero": "15 2026/012802",
@@ -143,7 +468,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 25
+    "total_pedidos": 5,
+    "total_productos": 82
   }
 }
