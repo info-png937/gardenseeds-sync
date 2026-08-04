@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-04T07:42:38.051928",
+  "timestamp": "2026-08-04T15:57:05.266547",
   "pedidos": [
     {
       "id": "152026012802",
@@ -132,6 +132,11 @@
           "referencia": "19134",
           "denominacion": "Grow A 0,94 lt. Athena",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -139,6 +144,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 24
+    "total_productos": 25
   }
 }
