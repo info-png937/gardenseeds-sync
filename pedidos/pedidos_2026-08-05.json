@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-05T21:48:58.424277",
+  "timestamp": "2026-08-05T23:04:52.947327",
   "pedidos": [
+    {
+      "id": "152026012965",
+      "numero": "15 2026/012965",
+      "fecha": "05/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012965",
+      "fecha_formatted": "2026-08-05",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D6100",
+          "denominacion": "Auto Cinderella Jack 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9565",
+          "denominacion": "Auto Stress Killer CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33826",
+          "denominacion": ".Vaporizador PAX Plus  Kit Completo Sage",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23893",
+          "denominacion": "Blue Dream  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SZ05",
+          "denominacion": "Sensizym   500 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20908",
+          "denominacion": "Gelato 44 -   3 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026012964",
+      "numero": "15 2026/012964",
+      "fecha": "05/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012964",
+      "fecha_formatted": "2026-08-05",
+      "productos": [
+        {
+          "referencia": "OB3F",
+          "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20830",
+          "denominacion": "Auto Papaya Zoap   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8291",
+          "denominacion": "Strawberry Lemonade  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14214",
+          "denominacion": "California Kush Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11912",
+          "denominacion": "Somango Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9757",
+          "denominacion": "Auto BCN Critical XXL fem.  5 u. Seedstockers",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RH3",
+          "denominacion": "Ripper Haze 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13230",
+          "denominacion": "Panama  1 u. fem. Ace Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23893",
+          "denominacion": "Blue Dream  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3204",
+          "denominacion": "Super Skunk 10 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D6100",
+          "denominacion": "Auto Cinderella Jack 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7140",
+          "denominacion": "Auto Blueberry   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20908",
+          "denominacion": "Gelato 44 -   3 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026012882",
       "numero": "15 2026/012882",
@@ -483,7 +628,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 87
+    "total_pedidos": 6,
+    "total_productos": 112
   }
 }
