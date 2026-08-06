@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-06T04:16:16.005630",
+  "timestamp": "2026-08-06T10:10:12.539733",
   "pedidos": [
     {
       "id": "152026012965",
@@ -67,17 +67,7 @@
           "referencia": "20908",
           "denominacion": "Gelato 44 -   3 u. fem. Royal Queen x Tyson 2.0",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026012964",
-      "numero": "15 2026/012964",
-      "fecha": "05/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026012964",
-      "fecha_formatted": "2026-08-05",
-      "productos": [
+        },
         {
           "referencia": "OB3F",
           "denominacion": "Orange Bud  3 u. fem. Dutch Passion",
@@ -147,13 +137,18 @@
           "referencia": "20908",
           "denominacion": "Gelato 44 -   3 u. fem. Royal Queen x Tyson 2.0",
           "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 25
+    "total_pedidos": 1,
+    "total_productos": 26
   }
 }
