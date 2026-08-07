@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-07T06:49:00.642170",
+  "timestamp": "2026-08-07T08:17:20.198887",
   "pedidos": [
     {
       "id": "152026013026",
@@ -97,6 +97,11 @@
           "referencia": "19018",
           "denominacion": "Monster PK 58/60 -  250 gr. Cannotecnia",
           "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -177,6 +182,11 @@
           "referencia": "20834",
           "denominacion": "Auto Jet Fuel Mandarine XL   3+1 u. fem. Sweet Seeds",
           "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -184,6 +194,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 31
+    "total_productos": 33
   }
 }
