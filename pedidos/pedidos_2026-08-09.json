@@ -4,10 +4,256 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-09T19:37:14.672014",
-  "pedidos": [],
+  "timestamp": "2026-08-09T20:37:59.606465",
+  "pedidos": [
+    {
+      "id": "152026013084",
+      "numero": "15 2026/013084",
+      "fecha": "09/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013084",
+      "fecha_formatted": "2026-08-09",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "OV250",
+          "denominacion": "Overdrive   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "T5FG",
+          "denominacion": "Txomango  5 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6325",
+          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "HAZR",
+          "denominacion": "Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SCF3",
+          "denominacion": "Strawberry Cough  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10697",
+          "denominacion": "CBD 20:1 Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9613",
+          "denominacion": "Legendary Punch  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14542",
+          "denominacion": "Amnesia Haze Ultra CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARCR3",
+          "denominacion": "Auto Royal Critical  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5339",
+          "denominacion": "Auto Alpujarreña  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17357",
+          "denominacion": "Tropicana Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21005",
+          "denominacion": "Flowa Bloom 1 lt. Juju Royal",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11589",
+          "denominacion": "Auto Jack Herer  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21802",
+          "denominacion": "Auto Apple Bananas   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21791",
+          "denominacion": "Auto Biscotti Zkittlez  5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10717",
+          "denominacion": "Auto Do-Si-Dos Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24200",
+          "denominacion": "EyeBallz 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18999",
+          "denominacion": "Carbobloom  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "ACS00",
+          "denominacion": "Auto Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 10
+        },
+        {
+          "referencia": "20328B",
+          "denominacion": "Porta Incienso Madera & Brass 25 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19392",
+          "denominacion": "Automatik Fuel  0,5 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013083",
+      "numero": "15 2026/013083",
+      "fecha": "09/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013083",
+      "fecha_formatted": "2026-08-09",
+      "productos": [
+        {
+          "referencia": "13229",
+          "denominacion": "Marruecos Beldia Kif 1 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CBDC1",
+          "denominacion": "CBD Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9251",
+          "denominacion": "Auto Vision Gelato 3+1 u. fem. Vision Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AU7F",
+          "denominacion": "Auto Ultimate 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7627",
+          "denominacion": "Auto Tangerine Dream 1 u. fem.  Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18752",
+          "denominacion": "Auto Sweet Mandarine Zkittlez XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "RTXO3",
+          "denominacion": "Toxic 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24200",
+          "denominacion": "EyeBallz 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23545",
+          "denominacion": "Medidor Ph/Humedad Suelo Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1776",
+          "denominacion": "Clonex  50 ml. Growth Technology",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 45
   }
 }
