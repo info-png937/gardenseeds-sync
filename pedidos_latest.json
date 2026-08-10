@@ -4,8 +4,223 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-10T19:32:54.543880",
+  "timestamp": "2026-08-10T21:47:16.655370",
   "pedidos": [
+    {
+      "id": "152026013174",
+      "numero": "15 2026/013174",
+      "fecha": "10/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013174",
+      "fecha_formatted": "2026-08-10",
+      "productos": [
+        {
+          "referencia": "4961B",
+          "denominacion": "pH Perfect Connoisseur Grow   B 1 lt.  Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "4961",
+          "denominacion": "pH Perfect Connoisseur Grow   A 1 lt.  Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013173",
+      "numero": "15 2026/013173",
+      "fecha": "10/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013173",
+      "fecha_formatted": "2026-08-10",
+      "productos": [
+        {
+          "referencia": "SGA500",
+          "denominacion": "pH Perfect Sensi Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "SGA500B",
+          "denominacion": "pH Perfect Sensi Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "CAB1",
+          "denominacion": "pH Perfect Connoisseur Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 12
+        },
+        {
+          "referencia": "CAB1B",
+          "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 12
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013172",
+      "numero": "15 2026/013172",
+      "fecha": "10/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013172",
+      "fecha_formatted": "2026-08-10",
+      "productos": [
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SZ05",
+          "denominacion": "Sensizym   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7585",
+          "denominacion": "Auto Cream Mandarine  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "OV250",
+          "denominacion": "Overdrive   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9584",
+          "denominacion": "Purple Queen  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14157",
+          "denominacion": "Auto Purple Punch  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11831",
+          "denominacion": "Auto Hulkberry  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15621",
+          "denominacion": "Original Amnesia  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20328B",
+          "denominacion": "Porta Incienso Madera & Brass 25 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19392",
+          "denominacion": "Automatik Fuel  0,5 lt. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16472",
+          "denominacion": "Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013171",
+      "numero": "15 2026/013171",
+      "fecha": "10/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013171",
+      "fecha_formatted": "2026-08-10",
+      "productos": [
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4096",
+          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6351",
+          "denominacion": "LSD-25 Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PRO2",
+          "denominacion": "Auto + Speed   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MYC5",
+          "denominacion": "MYCOPLANT polvo  5 gr. Sobre Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "26508",
+          "denominacion": "Gelonade  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16472",
+          "denominacion": "Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7627",
+          "denominacion": "Auto Tangerine Dream 1 u. fem.  Barney's",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013084",
       "numero": "15 2026/013084",
@@ -263,7 +478,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 47
+    "total_pedidos": 6,
+    "total_productos": 82
   }
 }
