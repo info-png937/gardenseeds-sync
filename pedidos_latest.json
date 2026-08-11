@@ -4,15 +4,20 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-11T09:35:27.981450",
+  "timestamp": "2026-08-11T10:53:52.783880",
   "pedidos": [
     {
-      "id": "152026013193",
-      "numero": "15 2026/013193",
+      "id": "152026013194",
+      "numero": "15 2026/013194",
       "fecha": "11/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013193",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013194",
       "fecha_formatted": "2026-08-11",
       "productos": [
+        {
+          "referencia": "21208",
+          "denominacion": "Bud Compactor   20 gr. Cannotecnia",
+          "cantidad": 2
+        },
         {
           "referencia": "6425",
           "denominacion": "White Widow   5 u. fem. 00 Seeds",
@@ -46,6 +51,11 @@
         {
           "referencia": "25406",
           "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -244,6 +254,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 43
+    "total_productos": 45
   }
 }
