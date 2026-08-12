@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-12T07:44:07.236315",
+  "timestamp": "2026-08-12T10:36:22.201257",
   "pedidos": [
     {
       "id": "152026013253",
@@ -17,17 +17,32 @@
           "referencia": "SCMX250",
           "denominacion": "Sensi Cal-Mag Xtra   250 ml. Advanced Nutrients",
           "cantidad": 6
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026013252",
-      "numero": "15 2026/013252",
-      "fecha": "11/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013252",
-      "fecha_formatted": "2026-08-11",
-      "productos": [
+        },
+        {
+          "referencia": "17163",
+          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 8
+        },
+        {
+          "referencia": "16418",
+          "denominacion": "Eli 3 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16473",
+          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19019",
+          "denominacion": "Monster PK 58/60 - 0.5 Kg. Cannotecnia",
+          "cantidad": 2
+        },
         {
           "referencia": "LOI1",
           "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
@@ -102,44 +117,14 @@
           "referencia": "17163",
           "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
           "cantidad": 10
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026013251",
-      "numero": "15 2026/013251",
-      "fecha": "11/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013251",
-      "fecha_formatted": "2026-08-11",
-      "productos": [
-        {
-          "referencia": "17163",
-          "denominacion": "Critical Mass   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 8
-        },
-        {
-          "referencia": "16418",
-          "denominacion": "Eli 3 u. fem R-Kiem Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16473",
-          "denominacion": "Blue Dream   5 u. fem. 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "20824",
-          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19019",
-          "denominacion": "Monster PK 58/60 - 0.5 Kg. Cannotecnia",
-          "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
+      "origen": "hoy"
     },
     {
       "id": "152026013194",
@@ -198,7 +183,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 30
+    "total_pedidos": 2,
+    "total_productos": 31
   }
 }
