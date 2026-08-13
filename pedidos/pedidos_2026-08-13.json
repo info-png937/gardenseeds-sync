@@ -4,8 +4,258 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-13T20:53:16.756220",
+  "timestamp": "2026-08-13T21:51:23.528752",
   "pedidos": [
+    {
+      "id": "152026013378",
+      "numero": "15 2026/013378",
+      "fecha": "13/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013378",
+      "fecha_formatted": "2026-08-13",
+      "productos": [
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5627",
+          "denominacion": "Bolsa Cultivo Blanca 12 lt. 3 gal. - 43.5 cm. 50 ud.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5213",
+          "denominacion": "Amanitha 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "9566",
+          "denominacion": "Auto Stress Killer CBD  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11825",
+          "denominacion": "Auto Sweet ZZ  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "AWDH3",
+          "denominacion": "Auto White Diesel Haze  3 u. fem. White Label",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24899",
+          "denominacion": "Gazzurple 5 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21065",
+          "denominacion": "Apple Strudel Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24523",
+          "denominacion": "Purple Haze Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19774",
+          "denominacion": "Tarte Tatin  1 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24862",
+          "denominacion": "Blueberry Muffin 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 6
+        },
+        {
+          "referencia": "23511",
+          "denominacion": "Incienso Morning Star Salvia 50 Sticks & Holder",
+          "cantidad": 4
+        },
+        {
+          "referencia": "33803C",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Graphite Black Kit 1.350 mah..",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25255",
+          "denominacion": "Auto Mandarin Cookies   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26487",
+          "denominacion": "Auto Super Boof XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23553",
+          "denominacion": "Termohigrometro Analogico Eko",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5216",
+          "denominacion": "Snake Poison 60 ml. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19047",
+          "denominacion": "Auto Moby Dick   5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013377",
+      "numero": "15 2026/013377",
+      "fecha": "13/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013377",
+      "fecha_formatted": "2026-08-13",
+      "productos": [
+        {
+          "referencia": "1254",
+          "denominacion": "Ruderalis Skunk 10 u. reg. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MG8U",
+          "denominacion": "Melon Gum 8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16477",
+          "denominacion": "Lemon OG   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "SQ3R",
+          "denominacion": "Special Queen #1 -  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21065",
+          "denominacion": "Apple Strudel Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19730",
+          "denominacion": "Tropicanna Poison F1 Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23511",
+          "denominacion": "Incienso Morning Star Salvia 50 Sticks & Holder",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24860",
+          "denominacion": "Blueberry Cupcake 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12240",
+          "denominacion": "Alambre Forrado 100 m.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30530",
+          "denominacion": "Papel Raw  Classic  1.1/4 Block 500 - 20 librillos",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14214",
+          "denominacion": "California Kush Fast   5 u. fem. 00 Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "21398",
+          "denominacion": "Chiquita Banana 5 u fem Ed.Especial Philosopher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11825",
+          "denominacion": "Auto Sweet ZZ  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5216",
+          "denominacion": "Snake Poison 60 ml. Agrobacterias",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013253",
       "numero": "15 2026/013253",
@@ -128,7 +378,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 22
+    "total_pedidos": 3,
+    "total_productos": 68
   }
 }
