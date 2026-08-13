@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-13T22:48:38.114219",
+  "timestamp": "2026-08-13T23:46:48.741948",
   "pedidos": [
     {
       "id": "152026013378",
@@ -157,6 +157,11 @@
           "referencia": "19047",
           "denominacion": "Auto Moby Dick   5 u. fem. FastBuds Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -252,6 +257,11 @@
           "referencia": "5216",
           "denominacion": "Snake Poison 60 ml. Agrobacterias",
           "cantidad": 6
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -379,6 +389,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 68
+    "total_productos": 70
   }
 }
