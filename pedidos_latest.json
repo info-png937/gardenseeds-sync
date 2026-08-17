@@ -4,8 +4,253 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-17T21:30:30.896806",
+  "timestamp": "2026-08-17T21:53:36.371334",
   "pedidos": [
+    {
+      "id": "152026013503",
+      "numero": "15 2026/013503",
+      "fecha": "17/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013503",
+      "fecha_formatted": "2026-08-17",
+      "productos": [
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7716",
+          "denominacion": "Carboload   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PL500",
+          "denominacion": "Piranha Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BF500",
+          "denominacion": "Bud Factor X   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "M1AN",
+          "denominacion": "pH Perfect  Micro  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4099",
+          "denominacion": "Flawless Finish  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2260",
+          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 2
+        },
+        {
+          "referencia": "HAZR",
+          "denominacion": "Amnesia Haze  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MMH10",
+          "denominacion": "Money Maker  10 u.  fem. Strain Hunters",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14149",
+          "denominacion": "Auto Sherbet Queen  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5409",
+          "denominacion": "Auto Anubis  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18750",
+          "denominacion": "Auto Mimosa Bruce Banner XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15011",
+          "denominacion": "Sunset Paradise  3 u. fem. Paradise Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14290",
+          "denominacion": "Auto Banana Kush Cake  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17346",
+          "denominacion": "Sweetopia  3 u. fem. Paradise Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21799",
+          "denominacion": "Apple Bananas  5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23955",
+          "denominacion": "Anti-Mildiu Fungicida 8 ml. Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 8
+        },
+        {
+          "referencia": "20328B",
+          "denominacion": "Porta Incienso Madera & Brass 25 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16769",
+          "denominacion": "Mecha Vaporesso EUC 0.3 Ohm Ceramic 5 ud.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "19021",
+          "denominacion": "Monster PK 58/60 - 3 kg. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11942",
+          "denominacion": "Auto Northern Lights XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10722",
+          "denominacion": "Blueberry   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14221",
+          "denominacion": "Harlequin CBD   3 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "18536",
+          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013502",
+      "numero": "15 2026/013502",
+      "fecha": "17/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013502",
+      "fecha_formatted": "2026-08-17",
+      "productos": [
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19137",
+          "denominacion": "Grow B 0,94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14221",
+          "denominacion": "Harlequin CBD   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18536",
+          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 9
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013433",
       "numero": "15 2026/013433",
@@ -193,7 +438,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 35
+    "total_pedidos": 3,
+    "total_productos": 80
   }
 }
