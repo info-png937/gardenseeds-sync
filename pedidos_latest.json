@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-17T21:53:36.371334",
+  "timestamp": "2026-08-17T22:29:07.507063",
   "pedidos": [
+    {
+      "id": "152026013504",
+      "numero": "15 2026/013504",
+      "fecha": "17/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013504",
+      "fecha_formatted": "2026-08-17",
+      "productos": [
+        {
+          "referencia": "SSBB5",
+          "denominacion": "pH Perfect Sensi Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 10
+        },
+        {
+          "referencia": "SBA500",
+          "denominacion": "pH Perfect Sensi Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013503",
       "numero": "15 2026/013503",
@@ -438,7 +458,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 80
+    "total_pedidos": 4,
+    "total_productos": 82
   }
 }
