@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-17T07:33:49.455576",
+  "timestamp": "2026-08-17T08:48:50.526205",
   "pedidos": [
     {
       "id": "152026013433",
@@ -162,17 +162,7 @@
           "referencia": "26492",
           "denominacion": "Auto Tropicanna Cherry XL  25 u. fem. Granel Profesionales Sweet Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026013432",
-      "numero": "15 2026/013432",
-      "fecha": "17/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013432",
-      "fecha_formatted": "2026-08-17",
-      "productos": [
+        },
         {
           "referencia": "9552",
           "denominacion": "Skunk Special  4 u. fem. Female Seeds",
@@ -192,13 +182,18 @@
           "referencia": "24521",
           "denominacion": "Grow Kit Yeti Hybrid",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 34
+    "total_pedidos": 1,
+    "total_productos": 35
   }
 }
