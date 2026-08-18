@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-18T06:50:59.912488",
+  "timestamp": "2026-08-18T07:41:47.682389",
   "pedidos": [
     {
       "id": "152026013504",
@@ -22,17 +22,37 @@
           "referencia": "SBA500",
           "denominacion": "pH Perfect Sensi Bloom    A 500 ml. Advanced Nutrients",
           "cantidad": 10
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026013503",
-      "numero": "15 2026/013503",
-      "fecha": "17/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013503",
-      "fecha_formatted": "2026-08-17",
-      "productos": [
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19137",
+          "denominacion": "Grow B 0,94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14221",
+          "denominacion": "Harlequin CBD   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18536",
+          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7808",
+          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
+          "cantidad": 9
+        },
         {
           "referencia": "LOI1",
           "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
@@ -227,46 +247,11 @@
           "referencia": "18378",
           "denominacion": "Grow Kit Blue Meannie",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026013502",
-      "numero": "15 2026/013502",
-      "fecha": "17/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013502",
-      "fecha_formatted": "2026-08-17",
-      "productos": [
-        {
-          "referencia": "19122",
-          "denominacion": "Bloom B 0.94 lt. Athena",
-          "cantidad": 2
         },
         {
-          "referencia": "19137",
-          "denominacion": "Grow B 0,94 lt. Athena",
-          "cantidad": 3
-        },
-        {
-          "referencia": "19124",
-          "denominacion": "Bloom B 3.78 lt. Athena",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
-        },
-        {
-          "referencia": "14221",
-          "denominacion": "Harlequin CBD   3 u. fem. 00 Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "18536",
-          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "7808",
-          "denominacion": "Blue Gelato 41 10 u. fem. Barney's",
-          "cantidad": 9
         }
       ],
       "origen": "ayer"
@@ -458,7 +443,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 82
+    "total_pedidos": 2,
+    "total_productos": 83
   }
 }
