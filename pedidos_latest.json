@@ -4,8 +4,128 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-18T20:53:58.042870",
+  "timestamp": "2026-08-18T21:51:19.939899",
   "pedidos": [
+    {
+      "id": "152026013586",
+      "numero": "15 2026/013586",
+      "fecha": "18/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013586",
+      "fecha_formatted": "2026-08-18",
+      "productos": [
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PL1",
+          "denominacion": "Piranha Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16790",
+          "denominacion": "Clavo Borosilicato 19 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14529",
+          "denominacion": "La Rica CBD 3 u. fem. Elite Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19148",
+          "denominacion": "Pro Bloom 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACB00",
+          "denominacion": "Auto Cheese Berry   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8131",
+          "denominacion": "Auto Pineapple Glue   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19036",
+          "denominacion": "Root Stimulator  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20535",
+          "denominacion": "Shimo 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24899",
+          "denominacion": "Gazzurple 5 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 12
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013585",
+      "numero": "15 2026/013585",
+      "fecha": "18/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013585",
+      "fecha_formatted": "2026-08-18",
+      "productos": [
+        {
+          "referencia": "15222",
+          "denominacion": "Mills Ultimate PK  1 Lt",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7864",
+          "denominacion": "Mecha Vaporesso EUC 0.5 Ohm Ceramic 5 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23868",
+          "denominacion": "Extractor PK 150 mm. EC-TC 1.110 m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FP250",
+          "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
+          "cantidad": 12
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013504",
       "numero": "15 2026/013504",
@@ -443,7 +563,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 83
+    "total_pedidos": 4,
+    "total_productos": 103
   }
 }
