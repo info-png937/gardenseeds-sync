@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-19T05:34:57.121108",
+  "timestamp": "2026-08-19T08:43:03.753066",
   "pedidos": [
     {
       "id": "152026013586",
@@ -92,17 +92,7 @@
           "referencia": "BC250",
           "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
           "cantidad": 12
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026013585",
-      "numero": "15 2026/013585",
-      "fecha": "18/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013585",
-      "fecha_formatted": "2026-08-18",
-      "productos": [
+        },
         {
           "referencia": "15222",
           "denominacion": "Mills Ultimate PK  1 Lt",
@@ -122,13 +112,18 @@
           "referencia": "FP250",
           "denominacion": "Flawless Finish   250 ml. Advanced Nutrients",
           "cantidad": 12
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 20
+    "total_pedidos": 1,
+    "total_productos": 21
   }
 }
