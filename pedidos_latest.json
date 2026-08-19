@@ -4,8 +4,108 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-19T21:32:56.186005",
+  "timestamp": "2026-08-19T22:28:56.305352",
   "pedidos": [
+    {
+      "id": "152026013657",
+      "numero": "15 2026/013657",
+      "fecha": "19/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013657",
+      "fecha_formatted": "2026-08-19",
+      "productos": [
+        {
+          "referencia": "5627",
+          "denominacion": "Bolsa Cultivo Blanca 12 lt. 3 gal. - 43.5 cm. 50 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "D2260",
+          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11907",
+          "denominacion": "Gelato #33 Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10906",
+          "denominacion": "Corleone Kush 6 u. fem. The Cali Connection",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ASS00",
+          "denominacion": "Auto Sweet Somango   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20916",
+          "denominacion": "Punch Pie   3 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 11
+        },
+        {
+          "referencia": "26491",
+          "denominacion": "Auto Tropicanna Cherry XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24310",
+          "denominacion": "Grow Kit Panaeolus Cyanescens",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24521",
+          "denominacion": "Grow Kit Yeti Hybrid",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013656",
+      "numero": "15 2026/013656",
+      "fecha": "19/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013656",
+      "fecha_formatted": "2026-08-19",
+      "productos": [
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14803",
+          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013586",
       "numero": "15 2026/013586",
@@ -123,7 +223,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 21
+    "total_pedidos": 3,
+    "total_productos": 37
   }
 }
