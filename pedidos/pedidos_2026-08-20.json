@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-20T07:45:07.909684",
+  "timestamp": "2026-08-20T08:43:47.144057",
   "pedidos": [
+    {
+      "id": "152026013666",
+      "numero": "15 2026/013666",
+      "fecha": "20/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013666",
+      "fecha_formatted": "2026-08-20",
+      "productos": [
+        {
+          "referencia": "34083C",
+          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013661",
       "numero": "15 2026/013661",
@@ -22,17 +37,17 @@
           "referencia": "SSBB5",
           "denominacion": "pH Perfect Sensi Bloom    B 500 ml. Advanced Nutrients",
           "cantidad": 12
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026013657",
-      "numero": "15 2026/013657",
-      "fecha": "19/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013657",
-      "fecha_formatted": "2026-08-19",
-      "productos": [
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14803",
+          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
+          "cantidad": 1
+        },
         {
           "referencia": "5627",
           "denominacion": "Bolsa Cultivo Blanca 12 lt. 3 gal. - 43.5 cm. 50 ud.",
@@ -102,33 +117,18 @@
           "referencia": "24521",
           "denominacion": "Grow Kit Yeti Hybrid",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026013656",
-      "numero": "15 2026/013656",
-      "fecha": "19/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013656",
-      "fecha_formatted": "2026-08-19",
-      "productos": [
-        {
-          "referencia": "BAC50",
-          "denominacion": "Bactofil  50 gr. Agrobacterias",
-          "cantidad": 5
         },
         {
-          "referencia": "14803",
-          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
-      "origen": "ayer"
+      "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 18
+    "total_pedidos": 2,
+    "total_productos": 20
   }
 }
