@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-21T07:01:11.008195",
+  "timestamp": "2026-08-21T07:52:38.997923",
   "pedidos": [
     {
       "id": "152026013745",
@@ -67,6 +67,26 @@
           "referencia": "4952",
           "denominacion": "PH Perfect Sensi  Coco Bloom    A 500 ml. Advanced Nutrients",
           "cantidad": 5
+        },
+        {
+          "referencia": "7048",
+          "denominacion": "Ventilador Pared Cyclone con Cuerda 40 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4094",
+          "denominacion": "Big Bud Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 30
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -224,6 +244,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 35
+    "total_productos": 39
   }
 }
