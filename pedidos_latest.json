@@ -4,8 +4,33 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-21T14:39:56.458478",
+  "timestamp": "2026-08-21T15:38:08.131720",
   "pedidos": [
+    {
+      "id": "152026013782",
+      "numero": "15 2026/013782",
+      "fecha": "21/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013782",
+      "fecha_formatted": "2026-08-21",
+      "productos": [
+        {
+          "referencia": "19139",
+          "denominacion": "Grow B 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 5
+        },
+        {
+          "referencia": "REST",
+          "denominacion": "Resto del pedido",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013745",
       "numero": "15 2026/013745",
@@ -243,7 +268,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 39
+    "total_pedidos": 5,
+    "total_productos": 42
   }
 }
