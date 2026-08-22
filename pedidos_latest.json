@@ -4,8 +4,113 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-22T13:35:14.890945",
+  "timestamp": "2026-08-22T14:26:13.184423",
   "pedidos": [
+    {
+      "id": "152026013800",
+      "numero": "15 2026/013800",
+      "fecha": "22/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013800",
+      "fecha_formatted": "2026-08-22",
+      "productos": [
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "SZ05",
+          "denominacion": "Sensizym   500 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SBA4",
+          "denominacion": "pH Perfect Sensi Bloom  A 5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO5",
+          "denominacion": "Auto Quick One  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AH3GH3",
+          "denominacion": "Arjan Haze #3 -  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21057",
+          "denominacion": "Lemon Cherry Cookies Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACS00",
+          "denominacion": "Auto Chocolate Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SBA4B",
+          "denominacion": "pH Perfect Sensi Bloom  B 5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15798",
+          "denominacion": "Banana Purple Punch Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026013799",
+      "numero": "15 2026/013799",
+      "fecha": "22/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013799",
+      "fecha_formatted": "2026-08-22",
+      "productos": [
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21010",
+          "denominacion": "Try - Pack I&I Juju Royal",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6346",
+          "denominacion": "Grapefruit Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013782",
       "numero": "15 2026/013782",
@@ -143,7 +248,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 21
+    "total_pedidos": 5,
+    "total_productos": 38
   }
 }
