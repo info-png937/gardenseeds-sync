@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-25T06:55:19.575188",
+  "timestamp": "2026-08-25T07:48:45.600459",
   "pedidos": [
     {
       "id": "152026013899",
@@ -172,17 +172,7 @@
           "referencia": "24310",
           "denominacion": "Grow Kit Panaeolus Cyanescens",
           "cantidad": 2
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026013898",
-      "numero": "15 2026/013898",
-      "fecha": "25/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013898",
-      "fecha_formatted": "2026-08-25",
-      "productos": [
+        },
         {
           "referencia": "21010",
           "denominacion": "Try - Pack I&I Juju Royal",
@@ -212,13 +202,18 @@
           "referencia": "CKB10",
           "denominacion": "Critical Kush 10 u. fem. Barney's",
           "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 38
+    "total_pedidos": 1,
+    "total_productos": 39
   }
 }
