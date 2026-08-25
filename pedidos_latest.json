@@ -4,8 +4,98 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-25T20:33:44.821303",
+  "timestamp": "2026-08-25T22:31:57.944942",
   "pedidos": [
+    {
+      "id": "152026013962",
+      "numero": "15 2026/013962",
+      "fecha": "25/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013962",
+      "fecha_formatted": "2026-08-25",
+      "productos": [
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSF3",
+          "denominacion": "Sensi Star  3 u. fem. Paradise Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BTPE",
+          "denominacion": "Botryprot 100 ml. Prot Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17033",
+          "denominacion": "Rucu Cucu OG fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20541",
+          "denominacion": "Korenji 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24201",
+          "denominacion": "EyeBallz 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19399",
+          "denominacion": "Automatik Fuel   60 ml. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18550",
+          "denominacion": "Auto Hyperion F1 -  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5342",
+          "denominacion": "Auto American Pie  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24198",
+          "denominacion": "CandyGaz 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24912",
+          "denominacion": "Hella Jelly 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18353",
+          "denominacion": "Mimosa  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013961",
       "numero": "15 2026/013961",
@@ -233,7 +323,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 41
+    "total_pedidos": 3,
+    "total_productos": 57
   }
 }
