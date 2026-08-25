@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-25T19:35:31.017169",
+  "timestamp": "2026-08-25T20:33:44.821303",
   "pedidos": [
+    {
+      "id": "152026013961",
+      "numero": "15 2026/013961",
+      "fecha": "25/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013961",
+      "fecha_formatted": "2026-08-25",
+      "productos": [
+        {
+          "referencia": "1340",
+          "denominacion": "Bio Heaven  1 lt. Bio Bizz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TRYP",
+          "denominacion": "Trypack Indoor Bio Bizz",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026013899",
       "numero": "15 2026/013899",
@@ -213,7 +233,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 39
+    "total_pedidos": 2,
+    "total_productos": 41
   }
 }
