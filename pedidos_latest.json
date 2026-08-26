@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-26T07:26:59.239733",
+  "timestamp": "2026-08-26T08:09:55.097054",
   "pedidos": [
     {
       "id": "152026013962",
@@ -92,17 +92,7 @@
           "referencia": "18353",
           "denominacion": "Mimosa  25 u. fem. 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026013961",
-      "numero": "15 2026/013961",
-      "fecha": "25/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026013961",
-      "fecha_formatted": "2026-08-25",
-      "productos": [
+        },
         {
           "referencia": "1340",
           "denominacion": "Bio Heaven  1 lt. Bio Bizz",
@@ -112,6 +102,11 @@
           "referencia": "TRYP",
           "denominacion": "Trypack Indoor Bio Bizz",
           "cantidad": 4
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -323,7 +318,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 57
+    "total_pedidos": 2,
+    "total_productos": 58
   }
 }
