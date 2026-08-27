@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-27T00:35:10.491570",
+  "timestamp": "2026-08-27T11:02:45.663991",
   "pedidos": [
     {
       "id": "152026014030",
@@ -17,17 +17,37 @@
           "referencia": "BI1L",
           "denominacion": "Bud Ignitor  1 lt. Advanced Nutrients",
           "cantidad": 3
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026014029",
-      "numero": "15 2026/014029",
-      "fecha": "26/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014029",
-      "fecha_formatted": "2026-08-26",
-      "productos": [
+        },
+        {
+          "referencia": "1776",
+          "denominacion": "Clonex  50 ml. Growth Technology",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14827",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 30 x 30 x 31 cm. 25 lt.",
+          "cantidad": 9
+        },
+        {
+          "referencia": "18226",
+          "denominacion": "Tightvac Bote Hermetico  0.06 lt.",
+          "cantidad": 7
+        },
+        {
+          "referencia": "TRYO",
+          "denominacion": "Trypack Outdoor Bio Bizz",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CAB1",
+          "denominacion": "pH Perfect Connoisseur Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CAB1B",
+          "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 4
+        },
         {
           "referencia": "BM2",
           "denominacion": "Brooklyn Mango 2 u. fem. Dr Underground",
@@ -117,53 +137,18 @@
           "referencia": "23428",
           "denominacion": "Incienso Tokusen Shibayama Dulce & Picante 50 Sticks",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026014028",
-      "numero": "15 2026/014028",
-      "fecha": "26/08/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014028",
-      "fecha_formatted": "2026-08-26",
-      "productos": [
-        {
-          "referencia": "1776",
-          "denominacion": "Clonex  50 ml. Growth Technology",
-          "cantidad": 4
-        },
-        {
-          "referencia": "14827",
-          "denominacion": "Maceta Cuadrada Negra Base Elevada 30 x 30 x 31 cm. 25 lt.",
-          "cantidad": 9
-        },
-        {
-          "referencia": "18226",
-          "denominacion": "Tightvac Bote Hermetico  0.06 lt.",
-          "cantidad": 7
-        },
-        {
-          "referencia": "TRYO",
-          "denominacion": "Trypack Outdoor Bio Bizz",
-          "cantidad": 4
-        },
-        {
-          "referencia": "CAB1",
-          "denominacion": "pH Perfect Connoisseur Bloom   A 1 lt. Advanced Nutrients",
-          "cantidad": 4
-        },
-        {
-          "referencia": "CAB1B",
-          "denominacion": "pH Perfect Connoisseur Bloom   B 1 lt. Advanced Nutrients",
-          "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
+      "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 25
+    "total_pedidos": 1,
+    "total_productos": 26
   }
 }
