@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-27T11:02:45.663991",
+  "timestamp": "2026-08-27T21:06:44.533562",
   "pedidos": [
+    {
+      "id": "152026014112",
+      "numero": "15 2026/014112",
+      "fecha": "27/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014112",
+      "fecha_formatted": "2026-08-27",
+      "productos": [
+        {
+          "referencia": "11893",
+          "denominacion": "Temporizador Cli-mate   4 x 600 w & Calefaccion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "OV250",
+          "denominacion": "Overdrive   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8951",
+          "denominacion": "Bubble Gum  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9565",
+          "denominacion": "Auto Stress Killer CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14506",
+          "denominacion": "Blue Elite Indica 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20535",
+          "denominacion": "Shimo 5 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18538",
+          "denominacion": "Auto Titan F1 -  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23478",
+          "denominacion": "Incienso Himalayan Healing Antiestrés 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34088E",
+          "denominacion": "Vapeador Vaporesso Vive 4 Nano Black Kit 1.100 mah.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14803",
+          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24308",
+          "denominacion": "Grow Kit Golden Teacher Albino",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014111",
+      "numero": "15 2026/014111",
+      "fecha": "27/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014111",
+      "fecha_formatted": "2026-08-27",
+      "productos": [
+        {
+          "referencia": "24308",
+          "denominacion": "Grow Kit Golden Teacher Albino",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19015",
+          "denominacion": "Calmafer 10 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15594",
+          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014030",
       "numero": "15 2026/014030",
@@ -139,8 +274,8 @@
           "cantidad": 2
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -148,7 +283,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 26
+    "total_pedidos": 3,
+    "total_productos": 49
   }
 }
