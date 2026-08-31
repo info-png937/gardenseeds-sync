@@ -4,10 +4,41 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-31T01:32:00.482318",
-  "pedidos": [],
+  "timestamp": "2026-08-31T08:25:27.769275",
+  "pedidos": [
+    {
+      "id": "152026014191",
+      "numero": "15 2026/014191",
+      "fecha": "31/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014191",
+      "fecha_formatted": "2026-08-31",
+      "productos": [
+        {
+          "referencia": "16911",
+          "denominacion": "Rype  500 ml. Grotek",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19310",
+          "denominacion": "Bascula Digital Raw 1.000 - 1 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20729",
+          "denominacion": "pH Perfect Connoisseur Grow  A 5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20730",
+          "denominacion": "pH Perfect Connoisseur Grow  B 5 lt. Advanced Nutrients",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 4
   }
 }
