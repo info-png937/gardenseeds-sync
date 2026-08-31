@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-31T08:25:27.769275",
+  "timestamp": "2026-08-31T16:20:03.220604",
   "pedidos": [
     {
       "id": "152026014191",
@@ -32,6 +32,11 @@
           "referencia": "20730",
           "denominacion": "pH Perfect Connoisseur Grow  B 5 lt. Advanced Nutrients",
           "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -39,6 +44,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 4
+    "total_productos": 5
   }
 }
