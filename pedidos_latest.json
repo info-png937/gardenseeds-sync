@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-08-31T16:20:03.220604",
+  "timestamp": "2026-08-31T21:35:15.580235",
   "pedidos": [
+    {
+      "id": "152026014265",
+      "numero": "15 2026/014265",
+      "fecha": "31/08/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014265",
+      "fecha_formatted": "2026-08-31",
+      "productos": [
+        {
+          "referencia": "FC700",
+          "denominacion": "Female Collection 7 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15212",
+          "denominacion": "Mills Basis A  1 Lt",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3009",
+          "denominacion": "Tightvac Bote Hermetico  2.35 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16772",
+          "denominacion": "Mecha Vaporesso GT CCELL 0.5 Ohm  3 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "FC800",
+          "denominacion": "Female Collection 8 - 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4101",
+          "denominacion": "Carboload  1 lt. Advanced Nutrients",
+          "cantidad": 8
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014191",
       "numero": "15 2026/014191",
@@ -43,7 +93,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 5
+    "total_pedidos": 2,
+    "total_productos": 13
   }
 }
