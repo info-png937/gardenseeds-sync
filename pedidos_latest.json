@@ -4,8 +4,268 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-01T16:52:24.761736",
+  "timestamp": "2026-09-01T19:49:15.457626",
   "pedidos": [
+    {
+      "id": "152026014359",
+      "numero": "15 2026/014359",
+      "fecha": "01/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014359",
+      "fecha_formatted": "2026-09-01",
+      "productos": [
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24309",
+          "denominacion": "Grow Kit Leucistic",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014358",
+      "numero": "15 2026/014358",
+      "fecha": "01/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014358",
+      "fecha_formatted": "2026-09-01",
+      "productos": [
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BF500",
+          "denominacion": "Bud Factor X   500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 12
+        },
+        {
+          "referencia": "16790",
+          "denominacion": "Clavo Borosilicato 19 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15594",
+          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5376",
+          "denominacion": "Amnesia Gold  5 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO3",
+          "denominacion": "Auto Quick One  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11674",
+          "denominacion": "OMG  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15618",
+          "denominacion": "OG Kush  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6054",
+          "denominacion": "Trampa Tutor 150 cm. - 16 ud. Diurno",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6055",
+          "denominacion": "Trampa Tutor 150 cm. - 16 ud. Nocturno",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24864",
+          "denominacion": "Blueberry Pancakes 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "22023",
+          "denominacion": "Sagrada Amnesia fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24198",
+          "denominacion": "CandyGaz 5 u. fem. Ripper Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21209",
+          "denominacion": "Carbobloom Powder   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19399",
+          "denominacion": "Automatik Fuel   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10720",
+          "denominacion": "Auto Sweet Somango   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25254",
+          "denominacion": "Auto Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4947B",
+          "denominacion": "pH Perfect Connoisseur Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16470",
+          "denominacion": "Auto Blue Dream  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23428",
+          "denominacion": "Incienso Tokusen Shibayama Dulce & Picante 50 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23492",
+          "denominacion": "Incensario  Ceramica Arabesco Karakusa 10x4 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16975",
+          "denominacion": "Incienso Satya Nag Champa Agarbatti 15 gr. - 12 ud.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014357",
+      "numero": "15 2026/014357",
+      "fecha": "01/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014357",
+      "fecha_formatted": "2026-09-01",
+      "productos": [
+        {
+          "referencia": "30534",
+          "denominacion": "Papel Raw  Classic  King Size  Slim 50 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6055",
+          "denominacion": "Trampa Tutor 150 cm. - 16 ud. Nocturno",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6054",
+          "denominacion": "Trampa Tutor 150 cm. - 16 ud. Diurno",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13406",
+          "denominacion": "Boveda 58%   8 gr. Pak Cvault",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16470",
+          "denominacion": "Auto Blue Dream  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18192",
+          "denominacion": "Bomba Agua Aquaking Q 5503 - 11.000 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25636",
+          "denominacion": "Gorilla Rainbow  2 u. fem BSF Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014265",
       "numero": "15 2026/014265",
@@ -98,7 +358,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 14
+    "total_pedidos": 5,
+    "total_productos": 60
   }
 }
