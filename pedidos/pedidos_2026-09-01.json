@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-01T06:40:29.370467",
+  "timestamp": "2026-09-01T12:27:55.188327",
   "pedidos": [
     {
       "id": "152026014265",
@@ -52,6 +52,11 @@
           "referencia": "4101",
           "denominacion": "Carboload  1 lt. Advanced Nutrients",
           "cantidad": 8
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -94,6 +99,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 13
+    "total_productos": 14
   }
 }
