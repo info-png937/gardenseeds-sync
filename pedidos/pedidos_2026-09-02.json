@@ -4,8 +4,188 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-02T17:46:13.970881",
+  "timestamp": "2026-09-02T20:49:26.434633",
   "pedidos": [
+    {
+      "id": "152026014449",
+      "numero": "15 2026/014449",
+      "fecha": "02/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014449",
+      "fecha_formatted": "2026-09-02",
+      "productos": [
+        {
+          "referencia": "3293",
+          "denominacion": "LSD  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BF500",
+          "denominacion": "Bud Factor X   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4947",
+          "denominacion": "pH Perfect Connoisseur Grow    A 500 ml.  Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "M1AN",
+          "denominacion": "pH Perfect  Micro  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "PRO1",
+          "denominacion": "Auto + Speed   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4948",
+          "denominacion": "pH Perfect Sensi  Coco Grow    A 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5216",
+          "denominacion": "Snake Poison 60 ml. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18751",
+          "denominacion": "Auto Mimosa Bruce Banner XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15805",
+          "denominacion": "Gorilla Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20541",
+          "denominacion": "Korenji 5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19310",
+          "denominacion": "Bascula Digital Raw 1.000 - 1 gr.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23548",
+          "denominacion": "Medidor Ph/Fertilidad 2 in 1 Suelo Easy Garden",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 14
+        },
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 4
+        },
+        {
+          "referencia": "4948B",
+          "denominacion": "pH Perfect Sensi  Coco Grow    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24308",
+          "denominacion": "Grow Kit Golden Teacher Albino",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014448",
+      "numero": "15 2026/014448",
+      "fecha": "02/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014448",
+      "fecha_formatted": "2026-09-02",
+      "productos": [
+        {
+          "referencia": "20374",
+          "denominacion": "Coco Fresh 6 u. fem Perfect Tree",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3009",
+          "denominacion": "Tightvac Bote Hermetico  2.35 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19310",
+          "denominacion": "Bascula Digital Raw 1.000 - 1 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12789",
+          "denominacion": "Pure Pot Maceta Textil   94.5 lt. 25 gal con Asas",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24308",
+          "denominacion": "Grow Kit Golden Teacher Albino",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30743",
+          "denominacion": "Filtros Raw  Tips Protips 35x120 mm. 24 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5216",
+          "denominacion": "Snake Poison 60 ml. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "12985",
+          "denominacion": "Bactohemp     Tabs 8 ud. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014359",
       "numero": "15 2026/014359",
@@ -253,7 +433,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 47
+    "total_pedidos": 3,
+    "total_productos": 79
   }
 }
