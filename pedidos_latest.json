@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-04T03:48:57.244168",
+  "timestamp": "2026-09-04T08:42:07.724530",
   "pedidos": [
     {
       "id": "152026014529",
@@ -17,17 +17,32 @@
           "referencia": "BF1L",
           "denominacion": "Bud Factor X  1 lt. Advanced Nutrients",
           "cantidad": 3
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026014528",
-      "numero": "15 2026/014528",
-      "fecha": "04/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014528",
-      "fecha_formatted": "2026-09-04",
-      "productos": [
+        },
+        {
+          "referencia": "19020",
+          "denominacion": "Monster PK 58/60 - 1 kg. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "PL1",
+          "denominacion": "Piranha Liquid  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
         {
           "referencia": "BBL10",
           "denominacion": "Bactobloom  10 gr. Agrobacterias",
@@ -127,40 +142,10 @@
           "referencia": "19020",
           "denominacion": "Monster PK 58/60 - 1 kg. Cannotecnia",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026014527",
-      "numero": "15 2026/014527",
-      "fecha": "04/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014527",
-      "fecha_formatted": "2026-09-04",
-      "productos": [
-        {
-          "referencia": "19020",
-          "denominacion": "Monster PK 58/60 - 1 kg. Cannotecnia",
-          "cantidad": 1
         },
         {
-          "referencia": "16331",
-          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
-          "cantidad": 4
-        },
-        {
-          "referencia": "PL1",
-          "denominacion": "Piranha Liquid  1 lt. Advanced Nutrients",
-          "cantidad": 2
-        },
-        {
-          "referencia": "25626",
-          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "6416",
-          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -168,7 +153,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 26
+    "total_pedidos": 1,
+    "total_productos": 27
   }
 }
