@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-07T06:32:23.025049",
+  "timestamp": "2026-09-07T13:23:29.313159",
   "pedidos": [
     {
       "id": "152026014612",
@@ -222,17 +222,7 @@
           "referencia": "24308",
           "denominacion": "Grow Kit Golden Teacher Albino",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026014611",
-      "numero": "15 2026/014611",
-      "fecha": "07/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014611",
-      "fecha_formatted": "2026-09-07",
-      "productos": [
+        },
         {
           "referencia": "18354",
           "denominacion": "Mimosa 100 u. fem. 00 Seeds",
@@ -267,13 +257,18 @@
           "referencia": "21900",
           "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
           "cantidad": 7
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 49
+    "total_pedidos": 1,
+    "total_productos": 50
   }
 }
