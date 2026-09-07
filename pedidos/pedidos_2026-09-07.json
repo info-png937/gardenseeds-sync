@@ -4,10 +4,276 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-07T01:14:26.717308",
-  "pedidos": [],
+  "timestamp": "2026-09-07T06:32:23.025049",
+  "pedidos": [
+    {
+      "id": "152026014612",
+      "numero": "15 2026/014612",
+      "fecha": "07/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014612",
+      "fecha_formatted": "2026-09-07",
+      "productos": [
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B250M",
+          "denominacion": "Big Bud Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 12
+        },
+        {
+          "referencia": "B52500",
+          "denominacion": "B 52 -   500 ml. Advanced Nutrients",
+          "cantidad": 9
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS500",
+          "denominacion": "Rhino Skin   500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 10
+        },
+        {
+          "referencia": "8801",
+          "denominacion": "SAD  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 4
+        },
+        {
+          "referencia": "1920",
+          "denominacion": "Critical #47 -  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "8122",
+          "denominacion": "Auto Critical Mass   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AWWR3",
+          "denominacion": "Auto White Widow  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11829",
+          "denominacion": "Auto Hulkberry  1 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14834",
+          "denominacion": "Mobet 250 ml. Prot Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25644",
+          "denominacion": "Gorilla Ghost  2 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17230",
+          "denominacion": "Auto Sticky Dream 1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15606",
+          "denominacion": "Critical Mango  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18748",
+          "denominacion": "Auto Orange Apricot Glue XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18749",
+          "denominacion": "Auto Orange Apricot Glue XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18755",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30534",
+          "denominacion": "Papel Raw  Classic  King Size  Slim 50 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "20820",
+          "denominacion": "Orange Bud 2.0 -  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17168",
+          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9827",
+          "denominacion": "Auto Northern Lights fem.  1 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23548",
+          "denominacion": "Medidor Ph/Fertilidad 2 in 1 Suelo Easy Garden",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24293",
+          "denominacion": "Super Boof  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24283",
+          "denominacion": "Cherry Poppers 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14420",
+          "denominacion": "Sweet Critical Fast   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17932",
+          "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18354",
+          "denominacion": "Mimosa 100 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24308",
+          "denominacion": "Grow Kit Golden Teacher Albino",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014611",
+      "numero": "15 2026/014611",
+      "fecha": "07/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014611",
+      "fecha_formatted": "2026-09-07",
+      "productos": [
+        {
+          "referencia": "18354",
+          "denominacion": "Mimosa 100 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7577",
+          "denominacion": "Sweet Amnesia Haze  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11721",
+          "denominacion": "Calmag Agent 5 lt Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14079",
+          "denominacion": "Acido Citrico  1 lt. Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 6
+        },
+        {
+          "referencia": "13172",
+          "denominacion": "Sweet Critical CBD   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 7
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 49
   }
 }
