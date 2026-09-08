@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-08T05:03:47.444843",
+  "timestamp": "2026-09-08T10:00:03.167123",
   "pedidos": [
     {
       "id": "152026014698",
@@ -147,17 +147,7 @@
           "referencia": "17932",
           "denominacion": "The Neutralizer Cartucho Repuesto 100 ml",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026014697",
-      "numero": "15 2026/014697",
-      "fecha": "07/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014697",
-      "fecha_formatted": "2026-09-07",
-      "productos": [
+        },
         {
           "referencia": "16982",
           "denominacion": "Fytosave 1 Lt. Trabe",
@@ -207,6 +197,11 @@
           "referencia": "7587",
           "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -473,7 +468,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 87
+    "total_pedidos": 2,
+    "total_productos": 88
   }
 }
