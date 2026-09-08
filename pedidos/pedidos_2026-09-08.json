@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-08T10:00:03.167123",
+  "timestamp": "2026-09-08T14:25:30.477790",
   "pedidos": [
+    {
+      "id": "152026014746",
+      "numero": "15 2026/014746",
+      "fecha": "08/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014746",
+      "fecha_formatted": "2026-09-08",
+      "productos": [
+        {
+          "referencia": "B524",
+          "denominacion": "B 52 -  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18827",
+          "denominacion": "Bud Factor X 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5572",
+          "denominacion": "Voodoo Juice  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BL10L",
+          "denominacion": "Big Bud Liquid 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SZ20",
+          "denominacion": "Sensizym 20 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24229",
+          "denominacion": "Tarantula Liquid 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13978",
+          "denominacion": "PH Perfect Sensi  Coco Bloom A 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13979",
+          "denominacion": "pH Perfect Sensi  Coco Bloom B 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12240",
+          "denominacion": "Alambre Forrado 100 m.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "15245",
+          "denominacion": "Sensi Cal-Mag Xtra 10 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014698",
       "numero": "15 2026/014698",
@@ -468,7 +533,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 88
+    "total_pedidos": 3,
+    "total_productos": 99
   }
 }
