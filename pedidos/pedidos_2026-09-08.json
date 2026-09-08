@@ -4,8 +4,188 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-08T21:20:51.722389",
+  "timestamp": "2026-09-08T23:35:04.645524",
   "pedidos": [
+    {
+      "id": "152026014783",
+      "numero": "15 2026/014783",
+      "fecha": "08/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014783",
+      "fecha_formatted": "2026-09-08",
+      "productos": [
+        {
+          "referencia": "1578",
+          "denominacion": "Bandeja Gris 100 x 110 cm.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "1579",
+          "denominacion": "Bandeja Gris 100 x 205 cm.",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014782",
+      "numero": "15 2026/014782",
+      "fecha": "08/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014782",
+      "fecha_formatted": "2026-09-08",
+      "productos": [
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16969",
+          "denominacion": "Malla 25 Micras 20x20 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WLH3",
+          "denominacion": "White Lemon   3 u.  fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WLH10",
+          "denominacion": "White Lemon 10 u. fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7139",
+          "denominacion": "Critical Poison Fast   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14270",
+          "denominacion": "Blue Sunset Sherbet  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "19243",
+          "denominacion": "Gelato  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21056",
+          "denominacion": "Lemon Cherry Cookies Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24362",
+          "denominacion": "Honey Fried Bananas  3 u. fem Anesia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 4
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25901",
+          "denominacion": "Caja Regalo Coleccionista G-Rollz Cheech & Chong",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014781",
+      "numero": "15 2026/014781",
+      "fecha": "08/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014781",
+      "fecha_formatted": "2026-09-08",
+      "productos": [
+        {
+          "referencia": "32733",
+          "denominacion": "Filtros Pipa Splif Stick Purple Red Eye 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1927",
+          "denominacion": "Coco Ladrillo Plastificado 10 l. - 0.6 kg",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 15
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014746",
       "numero": "15 2026/014746",
@@ -528,7 +708,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 98
+    "total_pedidos": 6,
+    "total_productos": 128
   }
 }
