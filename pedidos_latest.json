@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-09T03:58:48.158782",
+  "timestamp": "2026-09-09T20:44:54.815434",
   "pedidos": [
+    {
+      "id": "152026014824",
+      "numero": "15 2026/014824",
+      "fecha": "09/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014824",
+      "fecha_formatted": "2026-09-09",
+      "productos": [
+        {
+          "referencia": "21662",
+          "denominacion": "Integra Boost Humidity  62%  67 gr.",
+          "cantidad": 20
+        },
+        {
+          "referencia": "30743",
+          "denominacion": "Filtros Raw  Tips Protips 35x120 mm. 24 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014802",
+      "numero": "15 2026/014802",
+      "fecha": "09/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014802",
+      "fecha_formatted": "2026-09-09",
+      "productos": [
+        {
+          "referencia": "19409",
+          "denominacion": "Incienso  Cannabis Bubblegum 6 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 10
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014783",
       "numero": "15 2026/014783",
@@ -22,17 +72,37 @@
           "referencia": "1579",
           "denominacion": "Bandeja Gris 100 x 205 cm.",
           "cantidad": 5
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026014782",
-      "numero": "15 2026/014782",
-      "fecha": "08/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014782",
-      "fecha_formatted": "2026-09-08",
-      "productos": [
+        },
+        {
+          "referencia": "32733",
+          "denominacion": "Filtros Pipa Splif Stick Purple Red Eye 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1927",
+          "denominacion": "Coco Ladrillo Plastificado 10 l. - 0.6 kg",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6311",
+          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 15
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
         {
           "referencia": "3782",
           "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
@@ -147,46 +217,6 @@
       "origen": "ayer"
     },
     {
-      "id": "152026014781",
-      "numero": "15 2026/014781",
-      "fecha": "08/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014781",
-      "fecha_formatted": "2026-09-08",
-      "productos": [
-        {
-          "referencia": "32733",
-          "denominacion": "Filtros Pipa Splif Stick Purple Red Eye 2 ud.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "1927",
-          "denominacion": "Coco Ladrillo Plastificado 10 l. - 0.6 kg",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18378",
-          "denominacion": "Grow Kit Blue Meannie",
-          "cantidad": 2
-        },
-        {
-          "referencia": "6311",
-          "denominacion": "Auto Hindu Kush  3 u. fem. Sensi Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21900",
-          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
-          "cantidad": 15
-        },
-        {
-          "referencia": "RS1A",
-          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
-          "cantidad": 5
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
       "id": "152026014746",
       "numero": "15 2026/014746",
       "fecha": "08/09/2026",
@@ -254,6 +284,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 41
+    "total_productos": 47
   }
 }
