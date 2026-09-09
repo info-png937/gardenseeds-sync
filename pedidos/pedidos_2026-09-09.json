@@ -4,8 +4,173 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-09T20:44:54.815434",
+  "timestamp": "2026-09-09T23:05:40.027063",
   "pedidos": [
+    {
+      "id": "152026014870",
+      "numero": "15 2026/014870",
+      "fecha": "09/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014870",
+      "fecha_formatted": "2026-09-09",
+      "productos": [
+        {
+          "referencia": "4961B",
+          "denominacion": "pH Perfect Connoisseur Grow   B 1 lt.  Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "4961",
+          "denominacion": "pH Perfect Connoisseur Grow   A 1 lt.  Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014869",
+      "numero": "15 2026/014869",
+      "fecha": "09/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014869",
+      "fecha_formatted": "2026-09-09",
+      "productos": [
+        {
+          "referencia": "3209",
+          "denominacion": "Reduccion 150 - 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "RS250",
+          "denominacion": "Rhino Skin   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4957",
+          "denominacion": "Big Bud Coco Liquid 1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11943",
+          "denominacion": "Auto Northern Lights XXL   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21685",
+          "denominacion": "Permanent Marker   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24862",
+          "denominacion": "Blueberry Muffin 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19008",
+          "denominacion": "Glucomax  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19295",
+          "denominacion": "Brutal Kalium K30 -  0,5 lt. Cannotecnia",
+          "cantidad": 3
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14421",
+          "denominacion": "Sweet Critical Fast   5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19409",
+          "denominacion": "Incienso  Cannabis Bubblegum 6 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20846",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20847",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026014868",
+      "numero": "15 2026/014868",
+      "fecha": "09/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014868",
+      "fecha_formatted": "2026-09-09",
+      "productos": [
+        {
+          "referencia": "20846",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19409",
+          "denominacion": "Incienso  Cannabis Bubblegum 6 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5215",
+          "denominacion": "Snake Poison 15 ml. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "13963",
+          "denominacion": "Auto NY Diesel  1 u. fem. Expert Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014824",
       "numero": "15 2026/014824",
@@ -283,7 +448,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 47
+    "total_pedidos": 7,
+    "total_productos": 74
   }
 }
