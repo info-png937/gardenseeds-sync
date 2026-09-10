@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-10T06:29:42.094575",
+  "timestamp": "2026-09-10T11:45:08.635847",
   "pedidos": [
     {
       "id": "152026014870",
@@ -22,17 +22,27 @@
           "referencia": "4961",
           "denominacion": "pH Perfect Connoisseur Grow   A 1 lt.  Advanced Nutrients",
           "cantidad": 6
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026014869",
-      "numero": "15 2026/014869",
-      "fecha": "09/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014869",
-      "fecha_formatted": "2026-09-09",
-      "productos": [
+        },
+        {
+          "referencia": "20846",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19409",
+          "denominacion": "Incienso  Cannabis Bubblegum 6 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5215",
+          "denominacion": "Snake Poison 15 ml. Agrobacterias",
+          "cantidad": 6
+        },
+        {
+          "referencia": "13963",
+          "denominacion": "Auto NY Diesel  1 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
         {
           "referencia": "3209",
           "denominacion": "Reduccion 150 - 125 mm.",
@@ -137,35 +147,10 @@
           "referencia": "20847",
           "denominacion": "PH Perfect Sensi  Coco Bloom   B 1 lt. Advanced Nutrients",
           "cantidad": 5
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026014868",
-      "numero": "15 2026/014868",
-      "fecha": "09/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014868",
-      "fecha_formatted": "2026-09-09",
-      "productos": [
-        {
-          "referencia": "20846",
-          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
-          "cantidad": 1
         },
         {
-          "referencia": "19409",
-          "denominacion": "Incienso  Cannabis Bubblegum 6 ud.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "5215",
-          "denominacion": "Snake Poison 15 ml. Agrobacterias",
-          "cantidad": 6
-        },
-        {
-          "referencia": "13963",
-          "denominacion": "Auto NY Diesel  1 u. fem. Expert Seeds",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -223,7 +208,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 33
+    "total_pedidos": 3,
+    "total_productos": 34
   }
 }
