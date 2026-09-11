@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-11T08:47:28.568846",
+  "timestamp": "2026-09-11T13:25:12.859826",
   "pedidos": [
+    {
+      "id": "152026014982",
+      "numero": "15 2026/014982",
+      "fecha": "11/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026014982",
+      "fecha_formatted": "2026-09-11",
+      "productos": [
+        {
+          "referencia": "4835",
+          "denominacion": "818 Headband 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24279",
+          "denominacion": "White Runtz 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014951",
       "numero": "15 2026/014951",
@@ -194,8 +224,8 @@
           "cantidad": 3
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -203,7 +233,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 37
+    "total_pedidos": 2,
+    "total_productos": 41
   }
 }
