@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-11T03:54:34.032402",
+  "timestamp": "2026-09-11T08:47:28.568846",
   "pedidos": [
     {
       "id": "152026014951",
@@ -192,6 +192,11 @@
           "referencia": "17093",
           "denominacion": "Booster Soil Uni. 100 ml. Atami B'cuzz",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "hoy"
@@ -199,6 +204,6 @@
   ],
   "stats": {
     "total_pedidos": 1,
-    "total_productos": 36
+    "total_productos": 37
   }
 }
