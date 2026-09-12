@@ -4,8 +4,198 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-12T13:28:23.355474",
+  "timestamp": "2026-09-12T18:39:55.579685",
   "pedidos": [
+    {
+      "id": "152026015024",
+      "numero": "15 2026/015024",
+      "fecha": "12/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015024",
+      "fecha_formatted": "2026-09-12",
+      "productos": [
+        {
+          "referencia": "14076",
+          "denominacion": "Bomba Agua Water Master 11.000 lt/h.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52500",
+          "denominacion": "B 52 -   500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "OGK",
+          "denominacion": "00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 24
+        },
+        {
+          "referencia": "4952",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16969",
+          "denominacion": "Malla 25 Micras 20x20 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7587",
+          "denominacion": "Auto Green Poison XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "10778",
+          "denominacion": "Watermelon Zkittlez  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5427",
+          "denominacion": "Auto Tutankhamon  3 u. fem. Pyramid seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5417",
+          "denominacion": "Auto New York City  3 u. fem. Pyramid Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15358",
+          "denominacion": "Zombie Bride  5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19047",
+          "denominacion": "Auto Moby Dick   5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18355",
+          "denominacion": "Auto Mimosa   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23391",
+          "denominacion": "Camuflaje Bombilla 6x11 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5969",
+          "denominacion": "Auto Super OG Kush  3 u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19020",
+          "denominacion": "Monster PK 58/60 - 1 kg. Cannotecnia",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19002",
+          "denominacion": "Delta Boost  1 lt. Cannotecnia",
+          "cantidad": 5
+        },
+        {
+          "referencia": "D2252",
+          "denominacion": "Blueberry  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AC100",
+          "denominacion": "Automatic Collection 1 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 12
+        },
+        {
+          "referencia": "ECOD",
+          "denominacion": "Tasa Eco Raee RD 208/2005 (0.45€)",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015023",
+      "numero": "15 2026/015023",
+      "fecha": "12/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015023",
+      "fecha_formatted": "2026-09-12",
+      "productos": [
+        {
+          "referencia": "32733",
+          "denominacion": "Filtros Pipa Splif Stick Purple Red Eye 2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24279",
+          "denominacion": "White Runtz 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4835",
+          "denominacion": "818 Headband 6 u. fem. The Cali Connection",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8155",
+          "denominacion": "Bolsa Rosin Press 11x5 cm. Pack 10 u. 120 micras",
+          "cantidad": 2
+        },
+        {
+          "referencia": "D2252",
+          "denominacion": "Blueberry  5 u. fem. Dutch Passion",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23391",
+          "denominacion": "Camuflaje Bombilla 6x11 cm.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19226",
+          "denominacion": "Cones Cyclone Klear King Size Cone White Chocolate 24 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19002",
+          "denominacion": "Delta Boost  1 lt. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19020",
+          "denominacion": "Monster PK 58/60 - 1 kg. Cannotecnia",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026014982",
       "numero": "15 2026/014982",
@@ -233,7 +423,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 41
+    "total_pedidos": 4,
+    "total_productos": 75
   }
 }
