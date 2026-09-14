@@ -4,10 +4,81 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-14T10:26:38.448779",
-  "pedidos": [],
+  "timestamp": "2026-09-14T16:29:41.699186",
+  "pedidos": [
+    {
+      "id": "152026015130",
+      "numero": "15 2026/015130",
+      "fecha": "14/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015130",
+      "fecha_formatted": "2026-09-14",
+      "productos": [
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015097",
+      "numero": "15 2026/015097",
+      "fecha": "14/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015097",
+      "fecha_formatted": "2026-09-14",
+      "productos": [
+        {
+          "referencia": "11209",
+          "denominacion": "Purple Kush   3 u. fem. Kannabia Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26504",
+          "denominacion": "Auto Banana Cream Cake XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "12273",
+          "denominacion": "Mimosa EVO 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9622",
+          "denominacion": "Wedding Gelato  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21011",
+          "denominacion": "Light Rebel 50 Lt Juju Royal",
+          "cantidad": 10
+        },
+        {
+          "referencia": "30092C",
+          "denominacion": "Grinder  Hash Silicona Hashy 55 mm. Mix Color",
+          "cantidad": 12
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 10
   }
 }
