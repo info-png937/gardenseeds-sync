@@ -4,8 +4,138 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-15T21:03:35.376569",
+  "timestamp": "2026-09-15T23:37:21.356583",
   "pedidos": [
+    {
+      "id": "152026015244",
+      "numero": "15 2026/015244",
+      "fecha": "15/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015244",
+      "fecha_formatted": "2026-09-15",
+      "productos": [
+        {
+          "referencia": "11893",
+          "denominacion": "Temporizador Cli-mate   4 x 600 w & Calefaccion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "M315",
+          "denominacion": "Manguito Union 315 mm.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AEB3",
+          "denominacion": "Auto Easy Bud  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19149",
+          "denominacion": "Pro Core 11.36 Kg. Saco Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASS00",
+          "denominacion": "Auto Sweet Somango   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18498",
+          "denominacion": "Purple Cookie Kush  5 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24064",
+          "denominacion": "Papaya Sherbet  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21705",
+          "denominacion": "Auto Rainbow Sherbet #11 -   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21209",
+          "denominacion": "Carbobloom Powder   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19154",
+          "denominacion": "Pro Grow 4.53 Kg. Caja Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5403",
+          "denominacion": "Anesthesia  5 u. Fem Pyramid Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015243",
+      "numero": "15 2026/015243",
+      "fecha": "15/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015243",
+      "fecha_formatted": "2026-09-15",
+      "productos": [
+        {
+          "referencia": "9038",
+          "denominacion": "Pro Bloom   60 ml. Terra Aquatica",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20851",
+          "denominacion": "Auto Blueberry Bubblegum   3 u. fem. Sensi Seed Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16430",
+          "denominacion": "Sublimator 3 u. fem R-Kiem Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7864",
+          "denominacion": "Mecha Vaporesso EUC 0.5 Ohm Ceramic 5 ud.",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015159",
       "numero": "15 2026/015159",
@@ -318,7 +448,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 56
+    "total_pedidos": 5,
+    "total_productos": 78
   }
 }
