@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-15T07:29:01.615960",
+  "timestamp": "2026-09-15T12:52:10.796543",
   "pedidos": [
     {
       "id": "152026015159",
@@ -17,32 +17,67 @@
           "referencia": "BI500",
           "denominacion": "Bud Ignitor   500 ml. Advanced Nutrients",
           "cantidad": 6
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026015158",
-      "numero": "15 2026/015158",
-      "fecha": "15/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015158",
-      "fecha_formatted": "2026-09-15",
-      "productos": [
+        },
         {
-          "referencia": "33810A",
-          "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
-          "cantidad": 3
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026015157",
-      "numero": "15 2026/015157",
-      "fecha": "15/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015157",
-      "fecha_formatted": "2026-09-15",
-      "productos": [
+          "referencia": "1776",
+          "denominacion": "Clonex  50 ml. Growth Technology",
+          "cantidad": 4
+        },
+        {
+          "referencia": "30092",
+          "denominacion": "Grinder Eléctrico Plastico Usb Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9622",
+          "denominacion": "Wedding Gelato  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21011",
+          "denominacion": "Light Rebel 50 Lt Juju Royal",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17911",
+          "denominacion": "Ona Block Pro 170 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12273",
+          "denominacion": "Mimosa EVO 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14430",
+          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14803",
+          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16156",
+          "denominacion": "Carbon Al Malik 25x25 mm. 1 Kg.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19444",
+          "denominacion": "Cable Lumatek Led Zeus",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24776",
+          "denominacion": "Runtzicane 6 ud. fem Elev8 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 1
+        },
         {
           "referencia": "17161",
           "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
@@ -197,75 +232,15 @@
           "referencia": "SBA4B",
           "denominacion": "pH Perfect Sensi Bloom  B 5 lt. Advanced Nutrients",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026015156",
-      "numero": "15 2026/015156",
-      "fecha": "15/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015156",
-      "fecha_formatted": "2026-09-15",
-      "productos": [
-        {
-          "referencia": "1776",
-          "denominacion": "Clonex  50 ml. Growth Technology",
-          "cantidad": 4
         },
         {
-          "referencia": "30092",
-          "denominacion": "Grinder Eléctrico Plastico Usb Mix Color",
-          "cantidad": 1
+          "referencia": "33810A",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
+          "cantidad": 3
         },
         {
-          "referencia": "9622",
-          "denominacion": "Wedding Gelato  5 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21011",
-          "denominacion": "Light Rebel 50 Lt Juju Royal",
-          "cantidad": 1
-        },
-        {
-          "referencia": "17911",
-          "denominacion": "Ona Block Pro 170 gr.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "12273",
-          "denominacion": "Mimosa EVO 10 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14430",
-          "denominacion": "Purple Punch  25 u. fem. 00 Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14803",
-          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16156",
-          "denominacion": "Carbon Al Malik 25x25 mm. 1 Kg.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19444",
-          "denominacion": "Cable Lumatek Led Zeus",
-          "cantidad": 2
-        },
-        {
-          "referencia": "24776",
-          "denominacion": "Runtzicane 6 ud. fem Elev8 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24312",
-          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
           "cantidad": 1
         }
       ],
@@ -343,7 +318,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 55
+    "total_pedidos": 3,
+    "total_productos": 56
   }
 }
