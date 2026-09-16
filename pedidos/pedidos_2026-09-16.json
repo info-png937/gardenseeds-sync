@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-16T09:26:55.977820",
+  "timestamp": "2026-09-16T14:18:56.552977",
   "pedidos": [
+    {
+      "id": "152026015286",
+      "numero": "15 2026/015286",
+      "fecha": "16/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015286",
+      "fecha_formatted": "2026-09-16",
+      "productos": [
+        {
+          "referencia": "2885",
+          "denominacion": "Filtro OdorSok 125/300 - 360m3",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13855",
+          "denominacion": "Nurse Lilly CBD  5 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19147",
+          "denominacion": "Pro Bloom 11.36 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015244",
       "numero": "15 2026/015244",
@@ -124,8 +154,8 @@
           "cantidad": 2
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -373,7 +403,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 69
+    "total_pedidos": 3,
+    "total_productos": 73
   }
 }
