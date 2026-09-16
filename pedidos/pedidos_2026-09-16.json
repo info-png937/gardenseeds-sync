@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-16T18:20:45.155353",
+  "timestamp": "2026-09-16T21:35:01.005672",
   "pedidos": [
+    {
+      "id": "152026015344",
+      "numero": "15 2026/015344",
+      "fecha": "16/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015344",
+      "fecha_formatted": "2026-09-16",
+      "productos": [
+        {
+          "referencia": "KK8U",
+          "denominacion": "King Kong  8 u. fem. Dr Underground",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14270",
+          "denominacion": "Blue Sunset Sherbet  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18748",
+          "denominacion": "Auto Orange Apricot Glue XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8474",
+          "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9622",
+          "denominacion": "Wedding Gelato  5 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "13855",
+          "denominacion": "Nurse Lilly CBD  5 u. fem. Expert Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14772",
+          "denominacion": "Do-Si-Dos Cookies Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11942",
+          "denominacion": "Auto Northern Lights XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24310",
+          "denominacion": "Grow Kit Panaeolus Cyanescens",
+          "cantidad": 3
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "7003",
+          "denominacion": "Blunts Juicy Hemp Wraps Blue Arandano ES 25x2 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "26500",
+          "denominacion": "Auto Permanent Marker XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6270",
+          "denominacion": "Critical   1 u. fem. Advanced Seeds",
+          "cantidad": 15
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015343",
+      "numero": "15 2026/015343",
+      "fecha": "16/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015343",
+      "fecha_formatted": "2026-09-16",
+      "productos": [
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13855",
+          "denominacion": "Nurse Lilly CBD  5 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19146",
+          "denominacion": "Pro Bloom 11.36 Kg. Saco Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8155",
+          "denominacion": "Bolsa Rosin Press 11x5 cm. Pack 10 u. 120 micras",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11459",
+          "denominacion": "Dos Si Dos 33  3 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24481",
+          "denominacion": "Grow Kit Albino Bluey Vuitton Hybrid",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015286",
       "numero": "15 2026/015286",
@@ -403,7 +558,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 73
+    "total_pedidos": 5,
+    "total_productos": 100
   }
 }
