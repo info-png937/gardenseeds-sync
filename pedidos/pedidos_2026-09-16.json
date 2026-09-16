@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-16T04:09:30.290576",
+  "timestamp": "2026-09-16T09:26:55.977820",
   "pedidos": [
     {
       "id": "152026015244",
@@ -102,17 +102,7 @@
           "referencia": "5403",
           "denominacion": "Anesthesia  5 u. Fem Pyramid Seeds",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026015243",
-      "numero": "15 2026/015243",
-      "fecha": "15/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015243",
-      "fecha_formatted": "2026-09-15",
-      "productos": [
+        },
         {
           "referencia": "9038",
           "denominacion": "Pro Bloom   60 ml. Terra Aquatica",
@@ -132,6 +122,11 @@
           "referencia": "7864",
           "denominacion": "Mecha Vaporesso EUC 0.5 Ohm Ceramic 5 ud.",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -378,7 +373,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 68
+    "total_pedidos": 2,
+    "total_productos": 69
   }
 }
