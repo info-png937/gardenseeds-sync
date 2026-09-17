@@ -4,8 +4,118 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-17T19:12:00.940896",
+  "timestamp": "2026-09-17T22:23:11.551560",
   "pedidos": [
+    {
+      "id": "152026015418",
+      "numero": "15 2026/015418",
+      "fecha": "17/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015418",
+      "fecha_formatted": "2026-09-17",
+      "productos": [
+        {
+          "referencia": "19134",
+          "denominacion": "Grow A 0,94 lt. Athena",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19137",
+          "denominacion": "Grow B 0,94 lt. Athena",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015417",
+      "numero": "15 2026/015417",
+      "fecha": "17/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015417",
+      "fecha_formatted": "2026-09-17",
+      "productos": [
+        {
+          "referencia": "OV250",
+          "denominacion": "Overdrive   250 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9597",
+          "denominacion": "Green Gelato  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7186",
+          "denominacion": "CBD Oil Plant of Life 10 % - 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14542",
+          "denominacion": "Amnesia Haze Ultra CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15518",
+          "denominacion": "Ice Cream Cake Fast Flowering  3 ud Humboldt Seed Organization",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20912",
+          "denominacion": "Dynamite Diesel   3 u. fem. Royal Queen x Tyson 2.0",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18498",
+          "denominacion": "Purple Cookie Kush  5 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24308",
+          "denominacion": "Grow Kit Golden Teacher Albino",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1542",
+          "denominacion": "Oxigenador Piedra Acuario 15 cm",
+          "cantidad": 5
+        },
+        {
+          "referencia": "14392",
+          "denominacion": "UFO x Bubba Kush 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015396",
       "numero": "15 2026/015396",
@@ -223,7 +333,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 37
+    "total_pedidos": 5,
+    "total_productos": 55
   }
 }
