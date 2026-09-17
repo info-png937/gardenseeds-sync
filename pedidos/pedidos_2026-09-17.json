@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-17T05:10:10.648871",
+  "timestamp": "2026-09-17T10:19:00.067692",
   "pedidos": [
     {
       "id": "152026015344",
@@ -117,17 +117,7 @@
           "referencia": "6270",
           "denominacion": "Critical   1 u. fem. Advanced Seeds",
           "cantidad": 15
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026015343",
-      "numero": "15 2026/015343",
-      "fecha": "16/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015343",
-      "fecha_formatted": "2026-09-16",
-      "productos": [
+        },
         {
           "referencia": "24522",
           "denominacion": "Grow Kit Melmac Thrasher Hybrid",
@@ -156,6 +146,11 @@
         {
           "referencia": "24481",
           "denominacion": "Grow Kit Albino Bluey Vuitton Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -193,7 +188,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 31
+    "total_pedidos": 2,
+    "total_productos": 32
   }
 }
