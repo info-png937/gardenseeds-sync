@@ -4,8 +4,123 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-18T18:11:57.166377",
+  "timestamp": "2026-09-18T21:09:34.685375",
   "pedidos": [
+    {
+      "id": "152026015475",
+      "numero": "15 2026/015475",
+      "fecha": "18/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015475",
+      "fecha_formatted": "2026-09-18",
+      "productos": [
+        {
+          "referencia": "9020",
+          "denominacion": "Canadian Kush 2.0  5 u. Medical Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015474",
+      "numero": "15 2026/015474",
+      "fecha": "18/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015474",
+      "fecha_formatted": "2026-09-18",
+      "productos": [
+        {
+          "referencia": "9020",
+          "denominacion": "Canadian Kush 2.0  5 u. Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16969",
+          "denominacion": "Malla 25 Micras 20x20 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11907",
+          "denominacion": "Gelato #33 Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8466",
+          "denominacion": "Brain Cake 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21673",
+          "denominacion": "Zerealz Milk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23384",
+          "denominacion": "Camuflaje & One Hitter Boligrafo Metal",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33803C",
+          "denominacion": "Vapeador Vaporesso Xros 4 Nano Graphite Black Kit 1.350 mah..",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16765",
+          "denominacion": "Cartucho Vaporesso Xros 1.2 Ohm 2 ml.  4 ud.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20837",
+          "denominacion": "pH Perfect Sensi Grow   B 1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6175",
+          "denominacion": "Amnesia Lemon  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8478",
+          "denominacion": "Auto Lemon Kix 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16805",
+          "denominacion": "Grow Kit Brasil",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 5
+        },
+        {
+          "referencia": "20836",
+          "denominacion": "pH Perfect Sensi Grow   A 1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "GP25S",
+          "denominacion": "Green Poison  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "VOOJ",
+          "denominacion": "Voodoo Juice   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015418",
       "numero": "15 2026/015418",
@@ -148,7 +263,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 24
+    "total_pedidos": 4,
+    "total_productos": 43
   }
 }
