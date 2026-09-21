@@ -4,10 +4,71 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-21T19:16:21.613288",
-  "pedidos": [],
+  "timestamp": "2026-09-21T22:46:10.650822",
+  "pedidos": [
+    {
+      "id": "152026015590",
+      "numero": "15 2026/015590",
+      "fecha": "21/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015590",
+      "fecha_formatted": "2026-09-21",
+      "productos": [
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14594A",
+          "denominacion": "Conector en Cruz 9 mm. Autopot",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18112",
+          "denominacion": "Bolsa Cultivo Blanca  8.8 lt. 2 gal. - 32.5 cm. 50 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21990",
+          "denominacion": "Hammerhead   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14594",
+          "denominacion": "Conector en T 9 mm. Autopot",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12782",
+          "denominacion": "Pure Pot Maceta Textil    7.6 lt. 2 gal",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21520",
+          "denominacion": "Chimera Cut  3 u. fem Anesia",
+          "cantidad": 7
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 10
   }
 }
