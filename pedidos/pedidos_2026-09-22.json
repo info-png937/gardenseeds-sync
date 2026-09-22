@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-22T07:31:30.608381",
+  "timestamp": "2026-09-22T13:15:08.888147",
   "pedidos": [
+    {
+      "id": "152026015622",
+      "numero": "15 2026/015622",
+      "fecha": "22/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015622",
+      "fecha_formatted": "2026-09-22",
+      "productos": [
+        {
+          "referencia": "7739",
+          "denominacion": "Calibrador Bluelab Ph7 - 250 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "GP100",
+          "denominacion": "Green Poison 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8478",
+          "denominacion": "Auto Lemon Kix 7 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015596",
       "numero": "15 2026/015596",
@@ -22,17 +52,57 @@
           "referencia": "CKB10",
           "denominacion": "Critical Kush 10 u. fem. Barney's",
           "cantidad": 3
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026015595",
-      "numero": "15 2026/015595",
-      "fecha": "22/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015595",
-      "fecha_formatted": "2026-09-22",
-      "productos": [
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "14594A",
+          "denominacion": "Conector en Cruz 9 mm. Autopot",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18112",
+          "denominacion": "Bolsa Cultivo Blanca  8.8 lt. 2 gal. - 32.5 cm. 50 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21990",
+          "denominacion": "Hammerhead   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "14594",
+          "denominacion": "Conector en T 9 mm. Autopot",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12782",
+          "denominacion": "Pure Pot Maceta Textil    7.6 lt. 2 gal",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21520",
+          "denominacion": "Chimera Cut  3 u. fem Anesia",
+          "cantidad": 7
+        },
         {
           "referencia": "3781",
           "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
@@ -255,70 +325,10 @@
         }
       ],
       "origen": "hoy"
-    },
-    {
-      "id": "152026015590",
-      "numero": "15 2026/015590",
-      "fecha": "21/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015590",
-      "fecha_formatted": "2026-09-21",
-      "productos": [
-        {
-          "referencia": "CKB10",
-          "denominacion": "Critical Kush 10 u. fem. Barney's",
-          "cantidad": 3
-        },
-        {
-          "referencia": "14594A",
-          "denominacion": "Conector en Cruz 9 mm. Autopot",
-          "cantidad": 10
-        },
-        {
-          "referencia": "18112",
-          "denominacion": "Bolsa Cultivo Blanca  8.8 lt. 2 gal. - 32.5 cm. 50 ud.",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21990",
-          "denominacion": "Hammerhead   250 ml. Advanced Nutrients",
-          "cantidad": 4
-        },
-        {
-          "referencia": "14594",
-          "denominacion": "Conector en T 9 mm. Autopot",
-          "cantidad": 1
-        },
-        {
-          "referencia": "12782",
-          "denominacion": "Pure Pot Maceta Textil    7.6 lt. 2 gal",
-          "cantidad": 2
-        },
-        {
-          "referencia": "25406",
-          "denominacion": "Grow Kit Super Natalensis",
-          "cantidad": 1
-        },
-        {
-          "referencia": "30706",
-          "denominacion": "Filtro Boquilla Ceramica Filter-It",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24522",
-          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21520",
-          "denominacion": "Chimera Cut  3 u. fem Anesia",
-          "cantidad": 7
-        }
-      ],
-      "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 56
+    "total_pedidos": 2,
+    "total_productos": 60
   }
 }
