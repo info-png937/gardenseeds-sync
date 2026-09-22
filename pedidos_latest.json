@@ -4,8 +4,133 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-22T17:42:59.674765",
+  "timestamp": "2026-09-22T21:04:48.678102",
   "pedidos": [
+    {
+      "id": "152026015696",
+      "numero": "15 2026/015696",
+      "fecha": "22/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015696",
+      "fecha_formatted": "2026-09-22",
+      "productos": [
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3786",
+          "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH50",
+          "denominacion": "Bactohemp  50 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BG00",
+          "denominacion": "Bubble Gum   5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5166",
+          "denominacion": "Boveda 62%   8 gr. Pak Cvault",
+          "cantidad": 52
+        },
+        {
+          "referencia": "6325",
+          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "25640",
+          "denominacion": "White Gorilla  2 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17002",
+          "denominacion": "Grand Daddy Purple   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21059",
+          "denominacion": "Lemon Cherry Cookies Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26747",
+          "denominacion": "Papaya Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24310",
+          "denominacion": "Grow Kit Panaeolus Cyanescens",
+          "cantidad": 2
+        },
+        {
+          "referencia": "OV250",
+          "denominacion": "Overdrive   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "B52250",
+          "denominacion": "B 52 -   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015695",
+      "numero": "15 2026/015695",
+      "fecha": "22/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015695",
+      "fecha_formatted": "2026-09-22",
+      "productos": [
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 8
+        },
+        {
+          "referencia": "11721",
+          "denominacion": "Calmag Agent 5 lt Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3781",
+          "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015622",
       "numero": "15 2026/015622",
@@ -328,7 +453,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 60
+    "total_pedidos": 4,
+    "total_productos": 81
   }
 }
