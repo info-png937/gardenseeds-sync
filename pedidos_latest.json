@@ -4,8 +4,133 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-23T18:32:46.043300",
+  "timestamp": "2026-09-23T22:08:57.551535",
   "pedidos": [
+    {
+      "id": "152026015779",
+      "numero": "15 2026/015779",
+      "fecha": "23/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015779",
+      "fecha_formatted": "2026-09-23",
+      "productos": [
+        {
+          "referencia": "4097",
+          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5213",
+          "denominacion": "Amanitha 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23553",
+          "denominacion": "Termohigrometro Analogico Eko",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TD3",
+          "denominacion": "Auto Think Different 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8474",
+          "denominacion": "Mokum´s Tulip  3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19242",
+          "denominacion": "Gelato  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26318",
+          "denominacion": "Mix Pack Auto 10 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34083C",
+          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19139",
+          "denominacion": "Grow B 3.78 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19136",
+          "denominacion": "Grow A 3.78 lt. Athena",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015778",
+      "numero": "15 2026/015778",
+      "fecha": "23/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015778",
+      "fecha_formatted": "2026-09-23",
+      "productos": [
+        {
+          "referencia": "26504",
+          "denominacion": "Auto Banana Cream Cake XL  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL5W",
+          "denominacion": "Auto NL  5 u. fem. White Label",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6367",
+          "denominacion": "Six Shooter Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20968",
+          "denominacion": "Modified Payton 6 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "2885",
+          "denominacion": "Filtro OdorSok 125/300 - 360m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20721",
+          "denominacion": "Raw Catcher",
+          "cantidad": 5
+        },
+        {
+          "referencia": "34083C",
+          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
+          "cantidad": 3
+        },
+        {
+          "referencia": "JLL3",
+          "denominacion": "Juanita La Lagrimosa 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19374",
+          "denominacion": "Lemon Curd 6 u. fem Perfect Tree",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015696",
       "numero": "15 2026/015696",
@@ -448,7 +573,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 82
+    "total_pedidos": 5,
+    "total_productos": 103
   }
 }
