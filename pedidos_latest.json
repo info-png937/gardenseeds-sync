@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-23T04:06:51.090896",
+  "timestamp": "2026-09-23T09:27:35.567041",
   "pedidos": [
     {
       "id": "152026015696",
@@ -102,17 +102,7 @@
           "referencia": "B52250",
           "denominacion": "B 52 -   250 ml. Advanced Nutrients",
           "cantidad": 6
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026015695",
-      "numero": "15 2026/015695",
-      "fecha": "22/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015695",
-      "fecha_formatted": "2026-09-22",
-      "productos": [
+        },
         {
           "referencia": "15419",
           "denominacion": "Boveda 62%  67 gr. Pak Cvault",
@@ -127,6 +117,11 @@
           "referencia": "3781",
           "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
           "cantidad": 3
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -453,7 +448,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 81
+    "total_pedidos": 3,
+    "total_productos": 82
   }
 }
