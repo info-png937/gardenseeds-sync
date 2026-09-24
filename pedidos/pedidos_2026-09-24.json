@@ -4,8 +4,153 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-24T20:18:53.393446",
+  "timestamp": "2026-09-24T23:20:47.140434",
   "pedidos": [
+    {
+      "id": "152026015852",
+      "numero": "15 2026/015852",
+      "fecha": "24/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015852",
+      "fecha_formatted": "2026-09-24",
+      "productos": [
+        {
+          "referencia": "3186",
+          "denominacion": "Extractor RVK SILEO 200 L1  - 1.008 m3",
+          "cantidad": 2
+        },
+        {
+          "referencia": "S13F",
+          "denominacion": "Skunk #1 -  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BL4",
+          "denominacion": "Big Bud Liquid  5 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "5166",
+          "denominacion": "Boveda 62%   8 gr. Pak Cvault",
+          "cantidad": 6
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11845",
+          "denominacion": "Auto Purplematic CBD  1 u. fem. Royal Queen",
+          "cantidad": 4
+        },
+        {
+          "referencia": "AEB3",
+          "denominacion": "Auto Easy Bud  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15360",
+          "denominacion": "Radical Juice  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18754",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18434",
+          "denominacion": "Auto Radical Juice 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18438",
+          "denominacion": "Auto Sour Ripper 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21974",
+          "denominacion": "Big Bud Powder  1 Kg. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18538",
+          "denominacion": "Auto Titan F1 -  3 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20847",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   B 1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "20846",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19148",
+          "denominacion": "Pro Bloom 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "PL500",
+          "denominacion": "Piranha Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 6
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015851",
+      "numero": "15 2026/015851",
+      "fecha": "24/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015851",
+      "fecha_formatted": "2026-09-24",
+      "productos": [
+        {
+          "referencia": "9760",
+          "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19688",
+          "denominacion": "Raw Handy Grip",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BL4",
+          "denominacion": "Big Bud Liquid  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "31411",
+          "denominacion": "Liadora Raw Ecoplastic King Size",
+          "cantidad": 12
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015825",
       "numero": "15 2026/015825",
@@ -173,7 +318,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 29
+    "total_pedidos": 4,
+    "total_productos": 54
   }
 }
