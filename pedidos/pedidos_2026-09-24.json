@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-24T05:57:42.389477",
+  "timestamp": "2026-09-24T11:35:02.621638",
   "pedidos": [
     {
       "id": "152026015779",
@@ -72,17 +72,7 @@
           "referencia": "19136",
           "denominacion": "Grow A 3.78 lt. Athena",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026015778",
-      "numero": "15 2026/015778",
-      "fecha": "23/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015778",
-      "fecha_formatted": "2026-09-23",
-      "productos": [
+        },
         {
           "referencia": "26504",
           "denominacion": "Auto Banana Cream Cake XL  25 u. fem. Granel Profesionales Sweet Seeds",
@@ -127,13 +117,18 @@
           "referencia": "19374",
           "denominacion": "Lemon Curd 6 u. fem Perfect Tree",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 21
+    "total_pedidos": 1,
+    "total_productos": 22
   }
 }
