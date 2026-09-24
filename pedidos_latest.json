@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-24T11:35:02.621638",
+  "timestamp": "2026-09-24T20:18:53.393446",
   "pedidos": [
+    {
+      "id": "152026015825",
+      "numero": "15 2026/015825",
+      "fecha": "24/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015825",
+      "fecha_formatted": "2026-09-24",
+      "productos": [
+        {
+          "referencia": "BF250",
+          "denominacion": "Bud Factor X   250 ml. Advanced Nutrients",
+          "cantidad": 7
+        },
+        {
+          "referencia": "3186",
+          "denominacion": "Extractor RVK SILEO 200 L1  - 1.008 m3",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17913",
+          "denominacion": "Ona Gel Pro   732 gr.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9194",
+          "denominacion": "Purple Punch  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11556",
+          "denominacion": "Auto Red Pure CBD 3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015779",
       "numero": "15 2026/015779",
@@ -122,13 +162,18 @@
           "referencia": "2632",
           "denominacion": "Portes",
           "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 22
+    "total_pedidos": 2,
+    "total_productos": 29
   }
 }
