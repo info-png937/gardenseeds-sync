@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-25T07:24:27.324841",
+  "timestamp": "2026-09-25T12:54:36.754699",
   "pedidos": [
     {
       "id": "152026015852",
@@ -117,17 +117,7 @@
           "referencia": "RS1A",
           "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
           "cantidad": 6
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026015851",
-      "numero": "15 2026/015851",
-      "fecha": "24/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015851",
-      "fecha_formatted": "2026-09-24",
-      "productos": [
+        },
         {
           "referencia": "9760",
           "denominacion": "BCN Critical XXL fem.  3 u. Seedstockers",
@@ -147,6 +137,11 @@
           "referencia": "31411",
           "denominacion": "Liadora Raw Ecoplastic King Size",
           "cantidad": 12
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -193,7 +188,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 31
+    "total_pedidos": 2,
+    "total_productos": 32
   }
 }
