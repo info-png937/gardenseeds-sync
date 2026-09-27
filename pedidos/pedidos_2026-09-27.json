@@ -4,10 +4,131 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-27T10:26:05.111292",
-  "pedidos": [],
+  "timestamp": "2026-09-27T15:14:39.254687",
+  "pedidos": [
+    {
+      "id": "152026015908",
+      "numero": "15 2026/015908",
+      "fecha": "27/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015908",
+      "fecha_formatted": "2026-09-27",
+      "productos": [
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "R65",
+          "denominacion": "Reduccion 160 - 150 mm. PK",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL250",
+          "denominacion": "Tarantula Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASS3S",
+          "denominacion": "Auto Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30534",
+          "denominacion": "Papel Raw  Classic  King Size  Slim 50 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18969",
+          "denominacion": "Glucomax   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13088",
+          "denominacion": "Auto Bubble Gum XXL  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026015907",
+      "numero": "15 2026/015907",
+      "fecha": "27/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015907",
+      "fecha_formatted": "2026-09-27",
+      "productos": [
+        {
+          "referencia": "30534",
+          "denominacion": "Papel Raw  Classic  King Size  Slim 50 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 2,
+    "total_productos": 20
   }
 }
