@@ -4,8 +4,168 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-28T15:48:47.561370",
+  "timestamp": "2026-09-28T21:43:25.002672",
   "pedidos": [
+    {
+      "id": "152026016005",
+      "numero": "15 2026/016005",
+      "fecha": "28/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016005",
+      "fecha_formatted": "2026-09-28",
+      "productos": [
+        {
+          "referencia": "17161",
+          "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "R65",
+          "denominacion": "Reduccion 160 - 150 mm. PK",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TL250",
+          "denominacion": "Tarantula Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BI250",
+          "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "G1AN",
+          "denominacion": "pH Perfect  Grow  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SK11Q",
+          "denominacion": "Special Kush #1 -  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASS3S",
+          "denominacion": "Auto Super Skunk  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9390",
+          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NL00",
+          "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "24311",
+          "denominacion": "Grow Kit Penis Envy Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30534",
+          "denominacion": "Papel Raw  Classic  King Size  Slim 50 librillos",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18969",
+          "denominacion": "Glucomax   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13086",
+          "denominacion": "Auto Bubble Gum XXL   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B1AN",
+          "denominacion": "pH Perfect  Bloom  1 lt. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016004",
+      "numero": "15 2026/016004",
+      "fecha": "28/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016004",
+      "fecha_formatted": "2026-09-28",
+      "productos": [
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21900",
+          "denominacion": "Bacillus Thuringiensis 40 gr. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15419",
+          "denominacion": "Boveda 62%  67 gr. Pak Cvault",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4093",
+          "denominacion": "Voodoo Juice   500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3186",
+          "denominacion": "Extractor RVK SILEO 200 L1  - 1.008 m3",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1138",
+          "denominacion": "Complejo Crecimiento Hydro  1 lt. Hesi",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17418",
+          "denominacion": "Vapeador Vaporesso Xros Mini Kit Blue 1.000 mah.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16765",
+          "denominacion": "Cartucho Vaporesso Xros 1.2 Ohm 2 ml.  4 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14785",
+          "denominacion": "Plato Cuadrado 20x20 cm Cannapot para Maceta 5,5 lt. y 7 lt. (74 uds)",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015982",
       "numero": "15 2026/015982",
@@ -27,17 +187,7 @@
           "referencia": "APL",
           "denominacion": "AMPLIACION",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026015908",
-      "numero": "15 2026/015908",
-      "fecha": "27/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015908",
-      "fecha_formatted": "2026-09-27",
-      "productos": [
+        },
         {
           "referencia": "17161",
           "denominacion": "Critical   5 + 2 u. fem. Advanced Seeds",
@@ -149,11 +299,11 @@
           "cantidad": 1
         }
       ],
-      "origen": "ayer"
+      "origen": "hoy"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 25
+    "total_pedidos": 3,
+    "total_productos": 53
   }
 }
