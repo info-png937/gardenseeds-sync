@@ -4,8 +4,33 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-28T07:26:41.859954",
+  "timestamp": "2026-09-28T15:48:47.561370",
   "pedidos": [
+    {
+      "id": "152026015982",
+      "numero": "15 2026/015982",
+      "fecha": "28/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015982",
+      "fecha_formatted": "2026-09-28",
+      "productos": [
+        {
+          "referencia": "25626",
+          "denominacion": "Gorilla Glue #4 -  7 u. fem BSF Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026015908",
       "numero": "15 2026/015908",
@@ -102,17 +127,7 @@
           "referencia": "BI250",
           "denominacion": "Bud Ignitor   250 ml. Advanced Nutrients",
           "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026015907",
-      "numero": "15 2026/015907",
-      "fecha": "27/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026015907",
-      "fecha_formatted": "2026-09-27",
-      "productos": [
+        },
         {
           "referencia": "30534",
           "denominacion": "Papel Raw  Classic  King Size  Slim 50 librillos",
@@ -122,6 +137,16 @@
           "referencia": "NL00",
           "denominacion": "Northern Lights   5 u. fem. 00 Seeds",
           "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        },
+        {
+          "referencia": "TEXTO",
+          "denominacion": "*",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -129,6 +154,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 20
+    "total_productos": 25
   }
 }
