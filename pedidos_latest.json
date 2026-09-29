@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-29T01:38:41.721120",
+  "timestamp": "2026-09-29T08:09:29.097522",
   "pedidos": [
     {
       "id": "152026016005",
@@ -97,17 +97,7 @@
           "referencia": "BBL10",
           "denominacion": "Bactobloom  10 gr. Agrobacterias",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026016004",
-      "numero": "15 2026/016004",
-      "fecha": "28/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016004",
-      "fecha_formatted": "2026-09-28",
-      "productos": [
+        },
         {
           "referencia": "LOI1",
           "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
@@ -162,6 +152,11 @@
           "referencia": "14785",
           "denominacion": "Plato Cuadrado 20x20 cm Cannapot para Maceta 5,5 lt. y 7 lt. (74 uds)",
           "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -303,7 +298,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 53
+    "total_pedidos": 2,
+    "total_productos": 54
   }
 }
