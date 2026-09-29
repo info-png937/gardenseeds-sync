@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-29T15:00:41.048611",
+  "timestamp": "2026-09-29T19:58:15.958186",
   "pedidos": [
+    {
+      "id": "152026016096",
+      "numero": "15 2026/016096",
+      "fecha": "29/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016096",
+      "fecha_formatted": "2026-09-29",
+      "productos": [
+        {
+          "referencia": "6264",
+          "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "B52500",
+          "denominacion": "B 52 -   500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6598",
+          "denominacion": "Filtro Polinizador Secret Box 100 µm. Malla Recambio 150",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11106",
+          "denominacion": "Purple Lemonade Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "AAH3",
+          "denominacion": "Auto Amnesia Haze  3 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18928",
+          "denominacion": "Smokus Focus Jetpack Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24459",
+          "denominacion": "Do-Si-Dos   1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19399",
+          "denominacion": "Automatik Fuel   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20800",
+          "denominacion": "Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24310",
+          "denominacion": "Grow Kit Panaeolus Cyanescens",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2570",
+          "denominacion": "Caramelice  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18755",
+          "denominacion": "Sweet Mandarine Zkittlez F1 Fast Version   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24312",
+          "denominacion": "Grow Kit Jack Frost Hybrid",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016095",
+      "numero": "15 2026/016095",
+      "fecha": "29/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016095",
+      "fecha_formatted": "2026-09-29",
+      "productos": [
+        {
+          "referencia": "20859",
+          "denominacion": "pH Perfect Sensi Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 12
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 5
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016077",
+      "numero": "15 2026/016077",
+      "fecha": "29/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016077",
+      "fecha_formatted": "2026-09-29",
+      "productos": [
+        {
+          "referencia": "24310",
+          "denominacion": "Grow Kit Panaeolus Cyanescens",
+          "cantidad": 5
+        },
+        {
+          "referencia": "11721",
+          "denominacion": "Calmag Agent 5 lt Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016005",
       "numero": "15 2026/016005",
@@ -298,7 +453,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 54
+    "total_pedidos": 5,
+    "total_productos": 79
   }
 }
