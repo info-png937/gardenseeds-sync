@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-30T11:01:33.040608",
+  "timestamp": "2026-09-30T16:56:48.365956",
   "pedidos": [
+    {
+      "id": "152026016159",
+      "numero": "15 2026/016159",
+      "fecha": "30/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016159",
+      "fecha_formatted": "2026-09-30",
+      "productos": [
+        {
+          "referencia": "24224",
+          "denominacion": "Hydro Vega Soft A 1 lt. Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SSBB5",
+          "denominacion": "pH Perfect Sensi Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15224",
+          "denominacion": "Mills Ultimate PK 10 Lt",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15242",
+          "denominacion": "Revive  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30606",
+          "denominacion": "Papel Raw Black Organic King Size Slim 50 librillos",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016135",
       "numero": "15 2026/016135",
@@ -27,17 +67,7 @@
           "referencia": "APL",
           "denominacion": "AMPLIACION",
           "cantidad": 1
-        }
-      ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026016096",
-      "numero": "15 2026/016096",
-      "fecha": "29/09/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016096",
-      "fecha_formatted": "2026-09-29",
-      "productos": [
+        },
         {
           "referencia": "6264",
           "denominacion": "Auto Somango   1 u. fem. Advanced Seeds",
@@ -152,9 +182,14 @@
           "referencia": "2632",
           "denominacion": "Portes",
           "cantidad": 1
+        },
+        {
+          "referencia": "REST",
+          "denominacion": "Resto del pedido",
+          "cantidad": 1
         }
       ],
-      "origen": "ayer"
+      "origen": "hoy"
     },
     {
       "id": "152026016095",
@@ -219,6 +254,6 @@
   ],
   "stats": {
     "total_pedidos": 4,
-    "total_productos": 34
+    "total_productos": 41
   }
 }
