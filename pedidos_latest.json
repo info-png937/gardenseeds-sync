@@ -4,8 +4,33 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-30T04:53:21.030429",
+  "timestamp": "2026-09-30T11:01:33.040608",
   "pedidos": [
+    {
+      "id": "152026016135",
+      "numero": "15 2026/016135",
+      "fecha": "30/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016135",
+      "fecha_formatted": "2026-09-30",
+      "productos": [
+        {
+          "referencia": "8959",
+          "denominacion": "Chocolate Kush  25 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "17401",
+          "denominacion": "Mills C4 10 Lt",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016096",
       "numero": "15 2026/016096",
@@ -97,6 +122,36 @@
           "referencia": "24312",
           "denominacion": "Grow Kit Jack Frost Hybrid",
           "cantidad": 2
+        },
+        {
+          "referencia": "20859",
+          "denominacion": "pH Perfect Sensi Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "ANO1",
+          "denominacion": "Auto Northern Light  1 u. fem. Genehtik",
+          "cantidad": 4
+        },
+        {
+          "referencia": "QO1",
+          "denominacion": "Auto Quick One  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "7633",
+          "denominacion": "Kleaner Control Urea 30 ml.",
+          "cantidad": 12
+        },
+        {
+          "referencia": "LOI1",
+          "denominacion": "Liquid Oxigen 1 lt. Growth Technology",
+          "cantidad": 5
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -163,7 +218,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 25
+    "total_pedidos": 4,
+    "total_productos": 34
   }
 }
