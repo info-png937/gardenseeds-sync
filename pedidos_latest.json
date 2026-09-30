@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-09-30T16:56:48.365956",
+  "timestamp": "2026-09-30T21:21:34.719710",
   "pedidos": [
+    {
+      "id": "152026016169",
+      "numero": "15 2026/016169",
+      "fecha": "30/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016169",
+      "fecha_formatted": "2026-09-30",
+      "productos": [
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 100
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016167",
+      "numero": "15 2026/016167",
+      "fecha": "30/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016167",
+      "fecha_formatted": "2026-09-30",
+      "productos": [
+        {
+          "referencia": "3785",
+          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19134",
+          "denominacion": "Grow A 0,94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4972",
+          "denominacion": "Auto 00 Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18489",
+          "denominacion": "Purple Cookie Kush  3 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10722",
+          "denominacion": "Blueberry   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BC250",
+          "denominacion": "Bud Candy   250 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "OV250",
+          "denominacion": "Overdrive   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 50
+        },
+        {
+          "referencia": "16331",
+          "denominacion": "CBD Oil Plant of Remedy Pet Higado de Bacalao 6 % - 10 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19137",
+          "denominacion": "Grow B 0,94 lt. Athena",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016166",
+      "numero": "15 2026/016166",
+      "fecha": "30/09/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016166",
+      "fecha_formatted": "2026-09-30",
+      "productos": [
+        {
+          "referencia": "14984",
+          "denominacion": "Glucox Grams Plus 5 lt.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8576",
+          "denominacion": "Auto Jack 47 XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "30606",
+          "denominacion": "Papel Raw Black Organic King Size Slim 50 librillos",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20824",
+          "denominacion": "Auto Diablo Rojo XL   3+1 u. fem. Sweet Seeds",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016159",
       "numero": "15 2026/016159",
@@ -253,7 +388,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 41
+    "total_pedidos": 7,
+    "total_productos": 62
   }
 }
