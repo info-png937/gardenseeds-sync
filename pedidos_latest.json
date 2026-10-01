@@ -4,8 +4,173 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-01T14:42:29.215736",
+  "timestamp": "2026-10-01T20:14:28.617562",
   "pedidos": [
+    {
+      "id": "152026016241",
+      "numero": "15 2026/016241",
+      "fecha": "01/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016241",
+      "fecha_formatted": "2026-10-01",
+      "productos": [
+        {
+          "referencia": "6258",
+          "denominacion": "Auto Jack Herer   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 3
+        },
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 4
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "RS1A",
+          "denominacion": "Rhino Skin  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AEO1L",
+          "denominacion": "Ancient Earth Organic 1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23553",
+          "denominacion": "Termohigrometro Analogico Eko",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 23
+        },
+        {
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": 1
+        },
+        {
+          "referencia": "DWRQ3",
+          "denominacion": "Dance World  3 u.  fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ARD5",
+          "denominacion": "Auto Royal Dwarf  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19134",
+          "denominacion": "Grow A 0,94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15360",
+          "denominacion": "Radical Juice  3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15617",
+          "denominacion": "Moby Dick 10 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7739",
+          "denominacion": "Calibrador Bluelab Ph7 - 250 ml.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19255",
+          "denominacion": "Ice Cream Cake  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21662",
+          "denominacion": "Integra Boost Humidity  62%  67 gr.",
+          "cantidad": 15
+        },
+        {
+          "referencia": "24056",
+          "denominacion": "Lemon Mandarin  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24283",
+          "denominacion": "Cherry Poppers 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4952",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4952B",
+          "denominacion": "PH Perfect Sensi  Coco Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24282",
+          "denominacion": "Cherry Poppers  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9023",
+          "denominacion": "Mendocino Chanel Kush  5 u. fem. Medical seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13310",
+          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
+          "cantidad": 17
+        },
+        {
+          "referencia": "15358",
+          "denominacion": "Zombie Bride  5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016240",
+      "numero": "15 2026/016240",
+      "fecha": "01/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016240",
+      "fecha_formatted": "2026-10-01",
+      "productos": [
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 56
+        },
+        {
+          "referencia": "2179",
+          "denominacion": "Secret Icer Kit 20 lt. - 3 Bolsas",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016222",
       "numero": "15 2026/016222",
@@ -463,7 +628,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 79
+    "total_pedidos": 8,
+    "total_productos": 108
   }
 }
