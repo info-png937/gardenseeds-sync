@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-02T06:02:43.241064",
+  "timestamp": "2026-10-02T13:02:33.833703",
   "pedidos": [
     {
       "id": "152026016241",
@@ -147,6 +147,21 @@
           "referencia": "15358",
           "denominacion": "Zombie Bride  5 u. fem. Ripper Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "30706",
+          "denominacion": "Filtro Boquilla Ceramica Filter-It",
+          "cantidad": 56
+        },
+        {
+          "referencia": "2179",
+          "denominacion": "Secret Icer Kit 20 lt. - 3 Bolsas",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -204,6 +219,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 33
+    "total_productos": 36
   }
 }
