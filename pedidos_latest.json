@@ -4,10 +4,46 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-03T07:49:11.869689",
-  "pedidos": [],
+  "timestamp": "2026-10-03T13:11:23.620492",
+  "pedidos": [
+    {
+      "id": "152026016287",
+      "numero": "15 2026/016287",
+      "fecha": "03/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016287",
+      "fecha_formatted": "2026-10-03",
+      "productos": [
+        {
+          "referencia": "10705",
+          "denominacion": "00 Skunk   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34090H",
+          "denominacion": "Cartucho Tip Vapeador Recambio 1 ml. Black",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3782",
+          "denominacion": "Filtro PK 150/400 - 620 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16950",
+          "denominacion": "Critical Mass Fast   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 5
   }
 }
