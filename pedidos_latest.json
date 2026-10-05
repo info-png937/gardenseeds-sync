@@ -4,10 +4,46 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-05T07:33:20.775298",
-  "pedidos": [],
+  "timestamp": "2026-10-05T16:58:57.065052",
+  "pedidos": [
+    {
+      "id": "152026016386",
+      "numero": "15 2026/016386",
+      "fecha": "05/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016386",
+      "fecha_formatted": "2026-10-05",
+      "productos": [
+        {
+          "referencia": "14316",
+          "denominacion": "AK 47 - 3 u. Fem. Serious Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "MG4U",
+          "denominacion": "Melon Gum 4 u. fem. Dr Underground",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25064",
+          "denominacion": "Prensa Rosin Graveda  2 Tn. (Placa 7.5x7.5 cm.)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 5
   }
 }
