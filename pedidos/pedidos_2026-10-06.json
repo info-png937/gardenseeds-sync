@@ -4,8 +4,113 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-06T17:05:55.106188",
+  "timestamp": "2026-10-06T21:50:27.916664",
   "pedidos": [
+    {
+      "id": "152026016492",
+      "numero": "15 2026/016492",
+      "fecha": "06/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016492",
+      "fecha_formatted": "2026-10-06",
+      "productos": [
+        {
+          "referencia": "RI150",
+          "denominacion": "Rooting Gel 150 ml. Rootit",
+          "cantidad": 12
+        },
+        {
+          "referencia": "MMRQ1",
+          "denominacion": "Medical mass  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "EURQ",
+          "denominacion": "Euphoria  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11107",
+          "denominacion": "Purple Lemonade Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20360",
+          "denominacion": "Ventilador Clip RAM 15 cm. 15 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21213",
+          "denominacion": "Monster PK 58/60 -   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17151",
+          "denominacion": "Auto Strawberry Gum   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CAB500",
+          "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CAB500B",
+          "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "C99",
+          "denominacion": "C99 -  4 u. fem. Female Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13895",
+          "denominacion": "Blueberry Glue  5 u. fem. Expert Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026016491",
+      "numero": "15 2026/016491",
+      "fecha": "06/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016491",
+      "fecha_formatted": "2026-10-06",
+      "productos": [
+        {
+          "referencia": "7341",
+          "denominacion": "Table Trimmer Cuchilla 16 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21213",
+          "denominacion": "Monster PK 58/60 -   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3750",
+          "denominacion": ".Oxigenador Piedra Acuario 30 cm.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016464",
       "numero": "15 2026/016464",
@@ -428,7 +533,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 76
+    "total_pedidos": 6,
+    "total_productos": 93
   }
 }
