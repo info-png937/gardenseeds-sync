@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-06T10:41:23.645934",
+  "timestamp": "2026-10-06T17:05:55.106188",
   "pedidos": [
+    {
+      "id": "152026016464",
+      "numero": "15 2026/016464",
+      "fecha": "06/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016464",
+      "fecha_formatted": "2026-10-06",
+      "productos": [
+        {
+          "referencia": "PL250",
+          "denominacion": "Piranha Liquid   250 ml. Advanced Nutrients",
+          "cantidad": 12
+        },
+        {
+          "referencia": "3969",
+          "denominacion": "Maceta Redonda Blanca Asas 50 cm. - 50 lt.",
+          "cantidad": 100
+        },
+        {
+          "referencia": "21213",
+          "denominacion": "Monster PK 58/60 -   20 gr. Cannotecnia",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016407",
       "numero": "15 2026/016407",
@@ -393,7 +428,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 71
+    "total_pedidos": 4,
+    "total_productos": 76
   }
 }
