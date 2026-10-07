@@ -4,8 +4,63 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-07T07:37:52.497995",
+  "timestamp": "2026-10-07T15:22:44.744910",
   "pedidos": [
+    {
+      "id": "152026016537",
+      "numero": "15 2026/016537",
+      "fecha": "07/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016537",
+      "fecha_formatted": "2026-10-07",
+      "productos": [
+        {
+          "referencia": "15645",
+          "denominacion": "Watermelon Runtz  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12271",
+          "denominacion": "Mimosa EVO  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "15616",
+          "denominacion": "Moby Dick  5 ud Silent Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8088",
+          "denominacion": "Blunts Cyclones Hemp Red Alert ES 12x2 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "8085",
+          "denominacion": "Blunts Cyclones Hemp Blueberry ES 12x2 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "PRO85",
+          "denominacion": "Killer Kush Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18962",
+          "denominacion": "Euskal Zkittlez  5 u. fem. Genehtik",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14303",
+          "denominacion": "Cookies Purple Punch  3 u. fem. Medical Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016492",
       "numero": "15 2026/016492",
@@ -523,7 +578,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 5,
-    "total_productos": 93
+    "total_pedidos": 6,
+    "total_productos": 102
   }
 }
