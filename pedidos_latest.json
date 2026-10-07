@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-07T01:18:20.788209",
+  "timestamp": "2026-10-07T07:37:52.497995",
   "pedidos": [
     {
       "id": "152026016492",
@@ -76,6 +76,31 @@
         {
           "referencia": "13895",
           "denominacion": "Blueberry Glue  5 u. fem. Expert Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7341",
+          "denominacion": "Table Trimmer Cuchilla 16 cm.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21213",
+          "denominacion": "Monster PK 58/60 -   20 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3750",
+          "denominacion": ".Oxigenador Piedra Acuario 30 cm.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11491",
+          "denominacion": "Bandeja Flexible 150 x 150 x 10 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -499,6 +524,6 @@
   ],
   "stats": {
     "total_pedidos": 5,
-    "total_productos": 88
+    "total_productos": 93
   }
 }
