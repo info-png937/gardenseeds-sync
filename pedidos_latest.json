@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-08T07:09:49.367220",
+  "timestamp": "2026-10-08T14:48:54.471816",
   "pedidos": [
     {
       "id": "152026016557",
@@ -77,17 +77,7 @@
           "referencia": "20837",
           "denominacion": "pH Perfect Sensi Grow   B 1 lt. Advanced Nutrients",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026016556",
-      "numero": "15 2026/016556",
-      "fecha": "07/10/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016556",
-      "fecha_formatted": "2026-10-07",
-      "productos": [
+        },
         {
           "referencia": "16491",
           "denominacion": "Chocolate Mint Og 2.0 -  5 ud Humboldt Seed Organization",
@@ -102,6 +92,11 @@
           "referencia": "16108",
           "denominacion": "Camuflaje Mechero",
           "cantidad": 24
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -163,7 +158,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 25
+    "total_pedidos": 2,
+    "total_productos": 26
   }
 }
