@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-09T07:52:23.575749",
+  "timestamp": "2026-10-09T15:07:56.543273",
   "pedidos": [
+    {
+      "id": "152026016663",
+      "numero": "15 2026/016663",
+      "fecha": "09/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016663",
+      "fecha_formatted": "2026-10-09",
+      "productos": [
+        {
+          "referencia": "33911B",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Blue",
+          "cantidad": 4
+        },
+        {
+          "referencia": "6251",
+          "denominacion": "Auto Afghan Skunk   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKB5",
+          "denominacion": "Critical Kush  5 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ASS",
+          "denominacion": "Auto Sweet Skunk  1 u. fem. Royal Queen",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18144",
+          "denominacion": "Medidor Ph Hanna HI98107",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24827",
+          "denominacion": "Auto Tropicana Cherry   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "B3FD",
+          "denominacion": "Blueberry  3 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14115",
+          "denominacion": "Bubba Kush 10 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "5259",
+          "denominacion": "Ayahuasca Purple 10 u. fem. Barney`s",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15802",
+          "denominacion": "Strawberry Gorilla Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016628",
       "numero": "15 2026/016628",
@@ -64,8 +129,8 @@
           "cantidad": 3
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -73,7 +138,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 11
+    "total_pedidos": 2,
+    "total_productos": 22
   }
 }
