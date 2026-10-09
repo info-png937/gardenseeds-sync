@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-09T01:04:47.513267",
+  "timestamp": "2026-10-09T07:52:23.575749",
   "pedidos": [
     {
       "id": "152026016628",
@@ -47,17 +47,7 @@
           "referencia": "3510",
           "denominacion": "Claustrum 2.0 -  1 u. fem. Positronics Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026016627",
-      "numero": "15 2026/016627",
-      "fecha": "08/10/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016627",
-      "fecha_formatted": "2026-10-08",
-      "productos": [
+        },
         {
           "referencia": "11769",
           "denominacion": "Caja de Bandejas Plugin Pro 150 Alveolos (8 Bandejas)",
@@ -72,115 +62,10 @@
           "referencia": "24281",
           "denominacion": "Cherry Poppers  3 u. fem. Barney's",
           "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026016617",
-      "numero": "15 2026/016617",
-      "fecha": "08/10/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016617",
-      "fecha_formatted": "2026-10-08",
-      "productos": [
-        {
-          "referencia": "24063",
-          "denominacion": "Papaya Sherbet  1 u. fem. FastBuds Seeds",
-          "cantidad": 2
         },
         {
-          "referencia": "25642",
-          "denominacion": "White Gorilla  7 u. fem BSF Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "25250",
-          "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
-          "cantidad": 2
-        },
-        {
-          "referencia": "23890",
-          "denominacion": "Apple Fritter  5 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "20827",
-          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21466",
-          "denominacion": "IMPERIUM X  3 u. fem Anesia",
-          "cantidad": 3
-        },
-        {
-          "referencia": "21520",
-          "denominacion": "Chimera Cut  3 u. fem Anesia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21521",
-          "denominacion": "Chimera Cut  5 u. fem Anesia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21448",
-          "denominacion": "Frozen Black Cherry  3 u. fem Anesia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "TXB1G",
-          "denominacion": "Txees Bilbo  1 u. fem. Genehtik",
-          "cantidad": 2
-        },
-        {
-          "referencia": "14417",
-          "denominacion": "Blueberry Fast   5 u. fem. 00 Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "AC700",
-          "denominacion": "Automatic Collection 7 - 00 Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "7314",
-          "denominacion": "Auto Northern Ligths CBD  3 u. fem. Pyramid Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "33803A",
-          "denominacion": "Vapeador Uwell Koko GK-3 Kit Silver 900 mah.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16105",
-          "denominacion": "Camuflaje Escobilla W.C.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16633",
-          "denominacion": "Camuflaje Conservas Sauerkraut 800 gr.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11859",
-          "denominacion": "Plant of Life Balsamo Cannatiger  Cbd 3 %  5 ml.",
-          "cantidad": 3
-        },
-        {
-          "referencia": "D2260",
-          "denominacion": "Power Plant  5 u. fem. Dutch Passion",
-          "cantidad": 2
-        },
-        {
-          "referencia": "15636",
-          "denominacion": "L.A. Vanilla Cake  3 ud Silent Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "NCX12",
-          "denominacion": "Agencia de paquetería NACEX SERV. 12",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -188,7 +73,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 30
+    "total_pedidos": 1,
+    "total_productos": 11
   }
 }
