@@ -4,10 +4,106 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-13T08:15:57.429326",
-  "pedidos": [],
+  "timestamp": "2026-10-13T16:18:42.247581",
+  "pedidos": [
+    {
+      "id": "152026016794",
+      "numero": "15 2026/016794",
+      "fecha": "13/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016794",
+      "fecha_formatted": "2026-10-13",
+      "productos": [
+        {
+          "referencia": "24198",
+          "denominacion": "CandyGaz 5 u. fem. Ripper Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23897",
+          "denominacion": "Bruce Banner  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11942",
+          "denominacion": "Auto Northern Lights XXL   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25254",
+          "denominacion": "Auto Mandarin Cookies   3 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19137",
+          "denominacion": "Grow B 0,94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "8299",
+          "denominacion": "Auto Glue Gelato  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "AB1G",
+          "denominacion": "Amnesia Bilbo  1 u. fem. Genehtik",
+          "cantidad": 14
+        },
+        {
+          "referencia": "18097",
+          "denominacion": "Bolsa Cultivo Blanca  4 lt. 1 gal. - 22 x 35 cm. 100 ud.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "12001",
+          "denominacion": "Coco A+B  5 lt. Hy-Pro",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6132",
+          "denominacion": "Amnesia Lemon  1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "23886",
+          "denominacion": "Goji Biker 6 u. fem Karma Genetics",
+          "cantidad": 1
+        },
+        {
+          "referencia": "12270",
+          "denominacion": "Mimosa EVO  1 u. fem. Barney's",
+          "cantidad": 10
+        },
+        {
+          "referencia": "33808A",
+          "denominacion": "Vaporizador X-vape X-max Nano V3 Pro Black",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1564",
+          "denominacion": "Cool Tube 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 17
   }
 }
