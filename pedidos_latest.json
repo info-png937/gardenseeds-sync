@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-14T11:37:41.975897",
+  "timestamp": "2026-10-14T16:52:33.571900",
   "pedidos": [
+    {
+      "id": "152026016900",
+      "numero": "15 2026/016900",
+      "fecha": "14/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026016900",
+      "fecha_formatted": "2026-10-14",
+      "productos": [
+        {
+          "referencia": "SQ3R",
+          "denominacion": "Special Queen #1 -  3 u. fem. Royal Queen",
+          "cantidad": 5
+        },
+        {
+          "referencia": "21788",
+          "denominacion": "Oreoz  25 u. fem. 00 Seeds",
+          "cantidad": 7
+        },
+        {
+          "referencia": "5627",
+          "denominacion": "Bolsa Cultivo Blanca 12 lt. 3 gal. - 43.5 cm. 50 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3784",
+          "denominacion": "Extractor PK 125 mm. 360 m3  PK125-L",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026016820",
       "numero": "15 2026/016820",
@@ -353,7 +388,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 63
+    "total_pedidos": 4,
+    "total_productos": 68
   }
 }
