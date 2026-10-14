@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-13T21:27:33.342075",
+  "timestamp": "2026-10-14T00:32:48.686662",
   "pedidos": [
     {
       "id": "152026016820",
@@ -199,7 +199,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026016819",
@@ -229,7 +229,7 @@
           "cantidad": 2
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026016794",
@@ -324,7 +324,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     }
   ],
   "stats": {
