@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-14T05:57:00.684235",
+  "timestamp": "2026-10-14T11:37:41.975897",
   "pedidos": [
     {
       "id": "152026016820",
@@ -197,6 +197,31 @@
           "referencia": "3781",
           "denominacion": "Filtro PK 125/400 - 480 m3 Eco",
           "cantidad": 1
+        },
+        {
+          "referencia": "TL500",
+          "denominacion": "Tarantula Liquid   500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "6363",
+          "denominacion": "Rhino Ryder Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1776",
+          "denominacion": "Clonex  50 ml. Growth Technology",
+          "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -329,6 +354,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 58
+    "total_productos": 63
   }
 }
