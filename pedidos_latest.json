@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-19T04:29:58.292807",
+  "timestamp": "2026-10-19T10:13:35.201089",
   "pedidos": [
     {
       "id": "152026017045",
@@ -182,6 +182,51 @@
           "referencia": "19124",
           "denominacion": "Bloom B 3.78 lt. Athena",
           "cantidad": 1
+        },
+        {
+          "referencia": "VOOJ",
+          "denominacion": "Voodoo Juice   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "A0020",
+          "denominacion": "Autofloracion Mix 20 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11721",
+          "denominacion": "Calmag Agent 5 lt Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18097",
+          "denominacion": "Bolsa Cultivo Blanca  4 lt. 1 gal. - 22 x 35 cm. 100 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1556",
+          "denominacion": "Bombilla HPS Sylvania  600 w Grolux",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3780",
+          "denominacion": "Filtro PK 125/250 - 360 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7725",
+          "denominacion": "Critical Orange Punch  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -239,6 +284,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 42
+    "total_productos": 51
   }
 }
