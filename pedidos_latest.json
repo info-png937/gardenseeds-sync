@@ -4,8 +4,143 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-19T17:06:55.744986",
+  "timestamp": "2026-10-19T21:42:18.587647",
   "pedidos": [
+    {
+      "id": "152026017146",
+      "numero": "15 2026/017146",
+      "fecha": "19/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017146",
+      "fecha_formatted": "2026-10-19",
+      "productos": [
+        {
+          "referencia": "4961B",
+          "denominacion": "pH Perfect Connoisseur Grow   B 1 lt.  Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "4961",
+          "denominacion": "pH Perfect Connoisseur Grow   A 1 lt.  Advanced Nutrients",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026017145",
+      "numero": "15 2026/017145",
+      "fecha": "19/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017145",
+      "fecha_formatted": "2026-10-19",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "9567",
+          "denominacion": "Auto Stress Killer CBD  5 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19136",
+          "denominacion": "Grow A 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14618",
+          "denominacion": "CBG Force   1 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SRQ10",
+          "denominacion": "Skunk XL 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20961",
+          "denominacion": "Spicy Guava 3 ud. fem Elev8 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "23955",
+          "denominacion": "Anti-Mildiu Fungicida 8 ml. Trabe",
+          "cantidad": 2
+        },
+        {
+          "referencia": "33902A",
+          "denominacion": "Vaporizador X-vape X-max Aria+ Plus Black",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16805",
+          "denominacion": "Grow Kit Brasil",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4502",
+          "denominacion": "TNT Kush CBD  3+1 u. fem. Eva Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25406",
+          "denominacion": "Grow Kit Super Natalensis",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19139",
+          "denominacion": "Grow B 3.78 lt. Athena",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026017144",
+      "numero": "15 2026/017144",
+      "fecha": "19/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017144",
+      "fecha_formatted": "2026-10-19",
+      "productos": [
+        {
+          "referencia": "19055",
+          "denominacion": "Fruit Green Dtc Aerosol Descarga Total 50 ml Trabe.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8307",
+          "denominacion": "Auto LSD  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16772",
+          "denominacion": "Mecha Vaporesso GT CCELL 0.5 Ohm  3 ud.",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13081",
+          "denominacion": "Auto Somango Glue   1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017124",
       "numero": "15 2026/017124",
@@ -318,7 +453,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 56
+    "total_pedidos": 6,
+    "total_productos": 77
   }
 }
