@@ -1,0 +1,244 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-10-19T00:00:49.330687",
+  "pedidos": [
+    {
+      "id": "152026017045",
+      "numero": "15 2026/017045",
+      "fecha": "18/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017045",
+      "fecha_formatted": "2026-10-18",
+      "productos": [
+        {
+          "referencia": "3940",
+          "denominacion": "Solo Tek Bloom  1 lt. Grotek",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1336",
+          "denominacion": "Bio Grow  1 lt. Bio Bizz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3780",
+          "denominacion": "Filtro PK 125/250 - 360 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18225",
+          "denominacion": "Bolsa Negro Termosellable 56x91 cm.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "DWRQ3",
+          "denominacion": "Dance World  3 u.  fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14548",
+          "denominacion": "Solodiol CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13168",
+          "denominacion": "Bubble Gum CBD   5 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11458",
+          "denominacion": "Dos Si Dos 33  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5433",
+          "denominacion": "Auto Amnesia Gold  3  u. fem. Pyramid Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11807",
+          "denominacion": "Triple G-  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19120",
+          "denominacion": "Bloom A 3.78 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15772",
+          "denominacion": "Eboshi CBG  3 ud Medical Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CKU00",
+          "denominacion": "Caramel Kush   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14271",
+          "denominacion": "Blue Sunset Sherbet  3 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15615",
+          "denominacion": "Moby Dick  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14023",
+          "denominacion": "CO2  Reductor de Presion para Bombona Desechable",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21901",
+          "denominacion": "Insecticida Piretrina Natural 10 ml. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19295",
+          "denominacion": "Brutal Kalium K30 -  0,5 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14428",
+          "denominacion": "Purple Punch   3 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3432",
+          "denominacion": "Claustrum 2.0 -  3 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "WLH10",
+          "denominacion": "White Lemon 10 u. fem. Strain Hunters",
+          "cantidad": 1
+        },
+        {
+          "referencia": "MMH5",
+          "denominacion": "Money Maker   5 u.  fem. Strain Hunters",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14618",
+          "denominacion": "CBG Force   1 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SRQ10",
+          "denominacion": "Skunk XL 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24922",
+          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16805",
+          "denominacion": "Grow Kit Brasil",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026017044",
+      "numero": "15 2026/017044",
+      "fecha": "18/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017044",
+      "fecha_formatted": "2026-10-18",
+      "productos": [
+        {
+          "referencia": "VOOJ",
+          "denominacion": "Voodoo Juice   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "A0020",
+          "denominacion": "Autofloracion Mix 20 u. fem 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "23392",
+          "denominacion": "Camuflaje Termometro Pared",
+          "cantidad": 2
+        },
+        {
+          "referencia": "11721",
+          "denominacion": "Calmag Agent 5 lt Canna",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18097",
+          "denominacion": "Bolsa Cultivo Blanca  4 lt. 1 gal. - 22 x 35 cm. 100 ud.",
+          "cantidad": 6
+        },
+        {
+          "referencia": "1556",
+          "denominacion": "Bombilla HPS Sylvania  600 w Grolux",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3780",
+          "denominacion": "Filtro PK 125/250 - 360 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7725",
+          "denominacion": "Critical Orange Punch  5 u. fem. Dutch Passion",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 2,
+    "total_productos": 42
+  }
+}
