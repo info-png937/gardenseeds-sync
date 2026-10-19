@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-19T10:13:35.201089",
+  "timestamp": "2026-10-19T17:06:55.744986",
   "pedidos": [
+    {
+      "id": "152026017124",
+      "numero": "15 2026/017124",
+      "fecha": "19/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017124",
+      "fecha_formatted": "2026-10-19",
+      "productos": [
+        {
+          "referencia": "20961",
+          "denominacion": "Spicy Guava 3 ud. fem Elev8 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "8306",
+          "denominacion": "Auto LSD  1 u. fem. Barney's",
+          "cantidad": 4
+        },
+        {
+          "referencia": "8307",
+          "denominacion": "Auto LSD  3 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "GP25S",
+          "denominacion": "Green Poison  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017045",
       "numero": "15 2026/017045",
@@ -283,7 +318,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 51
+    "total_pedidos": 3,
+    "total_productos": 56
   }
 }
