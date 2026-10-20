@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-20T11:12:04.256835",
+  "timestamp": "2026-10-20T15:48:04.197507",
   "pedidos": [
+    {
+      "id": "152026017205",
+      "numero": "15 2026/017205",
+      "fecha": "20/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017205",
+      "fecha_formatted": "2026-10-20",
+      "productos": [
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18441",
+          "denominacion": "Brake Pad Breath 3 u. fem. Ripper Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "24021",
+          "denominacion": "African Gas  5 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6617",
+          "denominacion": "Brutal Buds 3.5 kg.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24763",
+          "denominacion": "Fruity Runtz 3 ud. fem Elev8 Seeds",
+          "cantidad": 5
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 12
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 11
+        },
+        {
+          "referencia": "24861",
+          "denominacion": "Blueberry Cupcake 5 u. fem Humboldt Seeds Company",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14057",
+          "denominacion": "Cable Lumatek Led 5 m. Daisy Chain",
+          "cantidad": 10
+        },
+        {
+          "referencia": "1564",
+          "denominacion": "Cool Tube 125 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017146",
       "numero": "15 2026/017146",
@@ -278,7 +348,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 46
+    "total_pedidos": 5,
+    "total_productos": 58
   }
 }
