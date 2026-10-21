@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-21T07:19:35.535557",
+  "timestamp": "2026-10-21T13:06:33.426095",
   "pedidos": [
+    {
+      "id": "2026001063",
+      "numero": "2026/001063",
+      "fecha": "21/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/2026001063",
+      "fecha_formatted": "2026-10-21",
+      "productos": [
+        {
+          "referencia": "14057",
+          "denominacion": "Cable Lumatek Led 5 m. Daisy Chain",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017228",
       "numero": "15 2026/017228",
@@ -13,6 +33,31 @@
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017228",
       "fecha_formatted": "2026-10-20",
       "productos": [
+        {
+          "referencia": "14100",
+          "denominacion": "SAD Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23553",
+          "denominacion": "Termohigrometro Analogico Eko",
+          "cantidad": 10
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18751",
+          "denominacion": "Auto Mimosa Bruce Banner XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24477",
+          "denominacion": "Tropical & Delicious Mix 4 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
         {
           "referencia": "BBL10",
           "denominacion": "Bactobloom  10 gr. Agrobacterias",
@@ -82,40 +127,10 @@
           "referencia": "25406",
           "denominacion": "Grow Kit Super Natalensis",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026017227",
-      "numero": "15 2026/017227",
-      "fecha": "20/10/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017227",
-      "fecha_formatted": "2026-10-20",
-      "productos": [
-        {
-          "referencia": "14100",
-          "denominacion": "SAD Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
-          "cantidad": 1
         },
         {
-          "referencia": "23553",
-          "denominacion": "Termohigrometro Analogico Eko",
-          "cantidad": 10
-        },
-        {
-          "referencia": "11917",
-          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18751",
-          "denominacion": "Auto Mimosa Bruce Banner XL   5+2 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24477",
-          "denominacion": "Tropical & Delicious Mix 4 u. fem. Sweet Seeds",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -194,6 +209,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 31
+    "total_productos": 34
   }
 }
