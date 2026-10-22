@@ -4,8 +4,33 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-22T10:35:38.893030",
+  "timestamp": "2026-10-22T23:06:10.631029",
   "pedidos": [
+    {
+      "id": "152026017369",
+      "numero": "15 2026/017369",
+      "fecha": "22/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017369",
+      "fecha_formatted": "2026-10-22",
+      "productos": [
+        {
+          "referencia": "26744",
+          "denominacion": "Runtz Triploid   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18496",
+          "denominacion": "Sweet Cherry Kush  5 u. fem. Sensi Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017325",
       "numero": "15 2026/017325",
@@ -15,7 +40,7 @@
       "productos": [
         {
           "referencia": "3785",
-          "denominacion": "Extractor PK 150 mm. 760 m3  PK150-L",
+          "denominacion": "Extractor PK  150 mm. 760 m3  PK 150-L",
           "cantidad": 1
         },
         {
@@ -228,7 +253,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 36
+    "total_pedidos": 5,
+    "total_productos": 39
   }
 }
