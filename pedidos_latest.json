@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-21T21:55:16.047335",
+  "timestamp": "2026-10-22T00:30:58.059017",
   "pedidos": [
     {
       "id": "152026017325",
@@ -124,7 +124,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026017324",
@@ -139,7 +139,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026017298",
@@ -194,7 +194,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "2026001063",
@@ -214,191 +214,11 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026017228",
-      "numero": "15 2026/017228",
-      "fecha": "20/10/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017228",
-      "fecha_formatted": "2026-10-20",
-      "productos": [
-        {
-          "referencia": "14100",
-          "denominacion": "SAD Fast Version  25 u. fem. Granel Profesionales Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "23553",
-          "denominacion": "Termohigrometro Analogico Eko",
-          "cantidad": 10
-        },
-        {
-          "referencia": "11917",
-          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18751",
-          "denominacion": "Auto Mimosa Bruce Banner XL   5+2 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24477",
-          "denominacion": "Tropical & Delicious Mix 4 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "BBL10",
-          "denominacion": "Bactobloom  10 gr. Agrobacterias",
-          "cantidad": 1
-        },
-        {
-          "referencia": "AEO1L",
-          "denominacion": "Ancient Earth Organic 1 lt. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19128",
-          "denominacion": "Cleanse 0.94 lt. Athena",
-          "cantidad": 1
-        },
-        {
-          "referencia": "13534",
-          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21901",
-          "denominacion": "Insecticida Piretrina Natural 10 ml. Trabe",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24922",
-          "denominacion": "Jelly Donutz 3 u. fem Humboldt Seeds Company",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19516",
-          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
-          "cantidad": 1
-        },
-        {
-          "referencia": "23955",
-          "denominacion": "Anti-Mildiu Fungicida 8 ml. Trabe",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24477",
-          "denominacion": "Tropical & Delicious Mix 4 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24478",
-          "denominacion": "Fruity & Delicious Mix 4 u. fem. Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "4097",
-          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
-          "cantidad": 2
-        },
-        {
-          "referencia": "ARD1",
-          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24309",
-          "denominacion": "Grow Kit Leucistic",
-          "cantidad": 2
-        },
-        {
-          "referencia": "25406",
-          "denominacion": "Grow Kit Super Natalensis",
-          "cantidad": 2
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026017205",
-      "numero": "15 2026/017205",
-      "fecha": "20/10/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017205",
-      "fecha_formatted": "2026-10-20",
-      "productos": [
-        {
-          "referencia": "19552",
-          "denominacion": "Grow Kit Thai",
-          "cantidad": 5
-        },
-        {
-          "referencia": "24314",
-          "denominacion": "Grow Kit MC Kennaii",
-          "cantidad": 10
-        },
-        {
-          "referencia": "18441",
-          "denominacion": "Brake Pad Breath 3 u. fem. Ripper Seeds",
-          "cantidad": 4
-        },
-        {
-          "referencia": "24021",
-          "denominacion": "African Gas  5 u. fem. Ace Seeds",
-          "cantidad": 3
-        },
-        {
-          "referencia": "6617",
-          "denominacion": "Brutal Buds 3.5 kg.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24763",
-          "denominacion": "Fruity Runtz 3 ud. fem Elev8 Seeds",
-          "cantidad": 5
-        },
-        {
-          "referencia": "1670",
-          "denominacion": "Grow Kit Mexicana",
-          "cantidad": 12
-        },
-        {
-          "referencia": "18400",
-          "denominacion": "Grow Kit Golden Teacher",
-          "cantidad": 11
-        },
-        {
-          "referencia": "24861",
-          "denominacion": "Blueberry Cupcake 5 u. fem Humboldt Seeds Company",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14057",
-          "denominacion": "Cable Lumatek Led 5 m. Daisy Chain",
-          "cantidad": 10
-        },
-        {
-          "referencia": "1564",
-          "denominacion": "Cool Tube 125 mm.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 66
+    "total_pedidos": 4,
+    "total_productos": 34
   }
 }
