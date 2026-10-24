@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-10-24T04:14:11.991875",
+  "pedidos": [
+    {
+      "id": "152026017416",
+      "numero": "15 2026/017416",
+      "fecha": "23/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017416",
+      "fecha_formatted": "2026-10-23",
+      "productos": [
+        {
+          "referencia": "24277",
+          "denominacion": "White Runtz  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21759",
+          "denominacion": "Lemon Z  5 u. fem. Dutch Passion",
+          "cantidad": 2
+        },
+        {
+          "referencia": "14605",
+          "denominacion": "Pure Pot Maceta Textil   11.4 lt. - 3 gal",
+          "cantidad": 9
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 1,
+    "total_productos": 4
+  }
+}
