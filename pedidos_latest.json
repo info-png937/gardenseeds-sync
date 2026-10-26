@@ -4,8 +4,58 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-26T15:00:21.459306",
+  "timestamp": "2026-10-26T20:26:05.989292",
   "pedidos": [
+    {
+      "id": "152026017522",
+      "numero": "15 2026/017522",
+      "fecha": "26/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017522",
+      "fecha_formatted": "2026-10-26",
+      "productos": [
+        {
+          "referencia": "14531",
+          "denominacion": "Llimonet Haze CBD 3 u. fem. Elite Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33965",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Purpura",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18753",
+          "denominacion": "Auto Sweet Mandarine Zkittlez XL   5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20827",
+          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21787",
+          "denominacion": "Oreoz  5 u. fem. 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017474",
       "numero": "15 2026/017474",
@@ -223,7 +273,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 37
+    "total_pedidos": 4,
+    "total_productos": 45
   }
 }
