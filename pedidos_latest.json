@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-27T00:01:34.723721",
+  "timestamp": "2026-10-27T10:50:21.018279",
   "pedidos": [
     {
       "id": "152026017522",
@@ -51,6 +51,11 @@
         {
           "referencia": "20809",
           "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -99,6 +104,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 14
+    "total_productos": 15
   }
 }
