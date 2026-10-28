@@ -4,8 +4,78 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-28T19:00:56.560741",
+  "timestamp": "2026-10-28T23:26:32.001477",
   "pedidos": [
+    {
+      "id": "152026017704",
+      "numero": "15 2026/017704",
+      "fecha": "28/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017704",
+      "fecha_formatted": "2026-10-28",
+      "productos": [
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BH15",
+          "denominacion": "Bactohemp  10 gr. Agrobacterias",
+          "cantidad": 3
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4099",
+          "denominacion": "Flawless Finish  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16468",
+          "denominacion": "Auto Blue Dream   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21794",
+          "denominacion": "Auto Gelato Mint  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20796",
+          "denominacion": "Auto Rainbow Mints   3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26748",
+          "denominacion": "Papaya Triploid   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6425",
+          "denominacion": "White Widow   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026017703",
+      "numero": "15 2026/017703",
+      "fecha": "28/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017703",
+      "fecha_formatted": "2026-10-28",
+      "productos": [
+        {
+          "referencia": "18487",
+          "denominacion": "Sweet Cherry Kush  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017682",
       "numero": "15 2026/017682",
@@ -238,7 +308,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 40
+    "total_pedidos": 5,
+    "total_productos": 50
   }
 }
