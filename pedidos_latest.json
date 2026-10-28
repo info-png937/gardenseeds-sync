@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-28T06:07:19.868009",
+  "timestamp": "2026-10-28T13:24:19.787415",
   "pedidos": [
     {
       "id": "152026017610",
@@ -92,6 +92,61 @@
           "referencia": "34078",
           "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
           "cantidad": 1
+        },
+        {
+          "referencia": "1008",
+          "denominacion": "Pineapple Chunk  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25516",
+          "denominacion": "Moby-D  2 u. fem BSF Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SC5P",
+          "denominacion": "Supercheese  5 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "30092",
+          "denominacion": "Grinder Eléctrico Plastico Usb Mix Color",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3224",
+          "denominacion": "Manta Térmica 55x35 cm. 30 w VDL",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21668",
+          "denominacion": "Auto Animal Zookies   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20827",
+          "denominacion": "Black Muffin F1 Fast Version 5+2 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7807",
+          "denominacion": "Blue Gelato 41  5 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "ASA3",
+          "denominacion": "Afghan Skunk   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CK1RQ",
+          "denominacion": "Candy Kush Express-Fast  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -159,6 +214,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 26
+    "total_productos": 37
   }
 }
