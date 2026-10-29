@@ -4,8 +4,48 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-29T16:46:57.590051",
+  "timestamp": "2026-10-29T21:41:20.801489",
   "pedidos": [
+    {
+      "id": "152026017780",
+      "numero": "15 2026/017780",
+      "fecha": "29/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017780",
+      "fecha_formatted": "2026-10-29",
+      "productos": [
+        {
+          "referencia": "BBL10",
+          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11797",
+          "denominacion": "Shogun  1 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34078",
+          "denominacion": "Vaporizador X-vape X-max Starry V4.0 Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21794",
+          "denominacion": "Auto Gelato Mint  3 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19809",
+          "denominacion": "Payton Delight 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25250",
+          "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017763",
       "numero": "15 2026/017763",
@@ -143,7 +183,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 19
+    "total_pedidos": 5,
+    "total_productos": 25
   }
 }
