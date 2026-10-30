@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-30T08:21:20.115206",
+  "timestamp": "2026-10-30T15:13:24.378956",
   "pedidos": [
     {
       "id": "152026017780",
@@ -41,6 +41,11 @@
         {
           "referencia": "25250",
           "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -79,6 +84,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 10
+    "total_productos": 11
   }
 }
