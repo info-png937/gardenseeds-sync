@@ -4,8 +4,53 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-10-30T15:13:24.378956",
+  "timestamp": "2026-10-30T23:58:38.996795",
   "pedidos": [
+    {
+      "id": "152026017817",
+      "numero": "15 2026/017817",
+      "fecha": "30/10/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026017817",
+      "fecha_formatted": "2026-10-30",
+      "productos": [
+        {
+          "referencia": "16969",
+          "denominacion": "Malla 25 Micras 20x20 cm.",
+          "cantidad": 10
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21662",
+          "denominacion": "Integra Boost Humidity  62%  67 gr.",
+          "cantidad": 5
+        },
+        {
+          "referencia": "18775",
+          "denominacion": "Cones Cyclone Klear Cone Peach  24 ud.",
+          "cantidad": 3
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 10
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 10
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017780",
       "numero": "15 2026/017780",
@@ -83,7 +128,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 11
+    "total_pedidos": 3,
+    "total_productos": 18
   }
 }
