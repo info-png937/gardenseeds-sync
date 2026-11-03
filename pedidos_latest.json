@@ -4,8 +4,108 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-03T08:30:30.553525",
+  "timestamp": "2026-11-03T16:29:36.299921",
   "pedidos": [
+    {
+      "id": "152026018002",
+      "numero": "15 2026/018002",
+      "fecha": "03/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018002",
+      "fecha_formatted": "2026-11-03",
+      "productos": [
+        {
+          "referencia": "SQ1RQ",
+          "denominacion": "Special Queen #1 -  1 u. fem. Royal Queen",
+          "cantidad": 10
+        },
+        {
+          "referencia": "2214",
+          "denominacion": "Potenciometro Dimmer Cornwall Electronics",
+          "cantidad": 10
+        },
+        {
+          "referencia": "AC700",
+          "denominacion": "Automatic Collection 7 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "3513",
+          "denominacion": "Critical #47 -  1 u. fem. Positronics Seeds",
+          "cantidad": 9
+        },
+        {
+          "referencia": "CKB10",
+          "denominacion": "Critical Kush 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24865",
+          "denominacion": "Blueberry Pancakes 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24863",
+          "denominacion": "Blueberry Muffin 5 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "9144",
+          "denominacion": "Do-Si-Dos Cookies    5 u. fem. 00 Seeds",
+          "cantidad": 4
+        },
+        {
+          "referencia": "19322",
+          "denominacion": "Grow Kit Ecuador",
+          "cantidad": 3
+        },
+        {
+          "referencia": "CAB500",
+          "denominacion": "pH Perfect Connoisseur Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "CAB500B",
+          "denominacion": "pH Perfect Connoisseur Bloom    B 500 ml. Advanced Nutrients",
+          "cantidad": 6
+        },
+        {
+          "referencia": "19120",
+          "denominacion": "Bloom A 3.78 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19124",
+          "denominacion": "Bloom B 3.78 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "30765",
+          "denominacion": "Filtros Jilter Fat Roll-in 6x12 mm. 1.000 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 15
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 10
+        },
+        {
+          "referencia": "1807",
+          "denominacion": "Cool Tube 150 mm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026017932",
       "numero": "15 2026/017932",
@@ -52,6 +152,11 @@
           "referencia": "10708",
           "denominacion": "Auto Afghan Mass   3 u. fem. 00 Seeds",
           "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -77,13 +182,18 @@
           "referencia": "15811A",
           "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
           "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 11
+    "total_pedidos": 3,
+    "total_productos": 31
   }
 }
