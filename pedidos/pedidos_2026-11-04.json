@@ -4,8 +4,28 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-04T09:43:40.945188",
+  "timestamp": "2026-11-04T17:52:14.035865",
   "pedidos": [
+    {
+      "id": "152026018077",
+      "numero": "15 2026/018077",
+      "fecha": "04/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018077",
+      "fecha_formatted": "2026-11-04",
+      "productos": [
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 8
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018029",
       "numero": "15 2026/018029",
@@ -298,7 +318,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 54
+    "total_pedidos": 3,
+    "total_productos": 56
   }
 }
