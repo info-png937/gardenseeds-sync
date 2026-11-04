@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-04T02:02:14.383981",
+  "timestamp": "2026-11-04T09:43:40.945188",
   "pedidos": [
     {
       "id": "152026018029",
@@ -14,20 +14,35 @@
       "fecha_formatted": "2026-11-03",
       "productos": [
         {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "33913",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
+          "cantidad": 1
+        },
+        {
           "referencia": "4101",
           "denominacion": "Carboload  1 lt. Advanced Nutrients",
-          "cantidad": 4
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026018028",
-      "numero": "15 2026/018028",
-      "fecha": "03/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018028",
-      "fecha_formatted": "2026-11-03",
-      "productos": [
+          "cantidad": 2
+        },
+        {
+          "referencia": "16969",
+          "denominacion": "Malla 25 Micras 20x20 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 2
+        },
         {
           "referencia": "1336",
           "denominacion": "Bio Grow  1 lt. Bio Bizz",
@@ -167,46 +182,16 @@
           "referencia": "3786",
           "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026018027",
-      "numero": "15 2026/018027",
-      "fecha": "03/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018027",
-      "fecha_formatted": "2026-11-03",
-      "productos": [
-        {
-          "referencia": "24314",
-          "denominacion": "Grow Kit MC Kennaii",
-          "cantidad": 3
-        },
-        {
-          "referencia": "33913",
-          "denominacion": "Vaporizador X-vape X-max V3 Pro Silver",
-          "cantidad": 1
         },
         {
           "referencia": "4101",
           "denominacion": "Carboload  1 lt. Advanced Nutrients",
-          "cantidad": 2
+          "cantidad": 4
         },
         {
-          "referencia": "16969",
-          "denominacion": "Malla 25 Micras 20x20 cm.",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
-        },
-        {
-          "referencia": "1670",
-          "denominacion": "Grow Kit Mexicana",
-          "cantidad": 1
-        },
-        {
-          "referencia": "6129",
-          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
-          "cantidad": 2
         }
       ],
       "origen": "ayer"
@@ -313,7 +298,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 53
+    "total_pedidos": 2,
+    "total_productos": 54
   }
 }
