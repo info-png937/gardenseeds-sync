@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-05T03:40:17.752349",
+  "timestamp": "2026-11-05T12:00:18.809584",
   "pedidos": [
     {
       "id": "152026018111",
@@ -13,6 +13,21 @@
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018111",
       "fecha_formatted": "2026-11-04",
       "productos": [
+        {
+          "referencia": "6474",
+          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 3
+        },
         {
           "referencia": "1336",
           "denominacion": "Bio Grow  1 lt. Bio Bizz",
@@ -107,31 +122,11 @@
           "referencia": "8302",
           "denominacion": "Auto Zkittlez OG  1 u. fem. Barney's",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026018109",
-      "numero": "15 2026/018109",
-      "fecha": "04/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018109",
-      "fecha_formatted": "2026-11-04",
-      "productos": [
+        },
         {
-          "referencia": "6474",
-          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
-        },
-        {
-          "referencia": "6143",
-          "denominacion": "Critical Kush  1 u. fem. Barney's",
-          "cantidad": 2
-        },
-        {
-          "referencia": "12886",
-          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
-          "cantidad": 3
         }
       ],
       "origen": "ayer"
@@ -158,7 +153,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 24
+    "total_pedidos": 2,
+    "total_productos": 25
   }
 }
