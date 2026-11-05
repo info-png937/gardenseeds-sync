@@ -1,0 +1,164 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-05T03:40:17.752349",
+  "pedidos": [
+    {
+      "id": "152026018111",
+      "numero": "15 2026/018111",
+      "fecha": "04/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018111",
+      "fecha_formatted": "2026-11-04",
+      "productos": [
+        {
+          "referencia": "1336",
+          "denominacion": "Bio Grow  1 lt. Bio Bizz",
+          "cantidad": 2
+        },
+        {
+          "referencia": "SZ1A",
+          "denominacion": "Sensizym  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "N250",
+          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "AEO1L",
+          "denominacion": "Ancient Earth Organic 1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "10834",
+          "denominacion": "Durban Poison  1 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11917",
+          "denominacion": "Zkittlez   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11831",
+          "denominacion": "Auto Hulkberry  5 u. fem. Royal Queen",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19666",
+          "denominacion": "Grow Kit Red Boy",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13176",
+          "denominacion": "Auto Super Skunk   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17227",
+          "denominacion": "Auto Purple Cherry 1 u. fem. Positronics Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15358",
+          "denominacion": "Zombie Bride  5 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1254",
+          "denominacion": "Ruderalis Skunk 10 u. reg. Sensi Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "25250",
+          "denominacion": "Tropicana Cherry   1 u. fem. Barney's",
+          "cantidad": 5
+        },
+        {
+          "referencia": "34083C",
+          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "4097",
+          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "16040",
+          "denominacion": "Maceta Cuadrada Negra 13 x 13 x 14.5 cm. 2.2 lt. -  56 ud.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8302",
+          "denominacion": "Auto Zkittlez OG  1 u. fem. Barney's",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018109",
+      "numero": "15 2026/018109",
+      "fecha": "04/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018109",
+      "fecha_formatted": "2026-11-04",
+      "productos": [
+        {
+          "referencia": "6474",
+          "denominacion": "Jamaican Pearl  3 u. fem. Sensi Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12886",
+          "denominacion": "Great White Micorrizas  113 gr. Granular (Bolsa)",
+          "cantidad": 3
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018077",
+      "numero": "15 2026/018077",
+      "fecha": "04/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018077",
+      "fecha_formatted": "2026-11-04",
+      "productos": [
+        {
+          "referencia": "6143",
+          "denominacion": "Critical Kush  1 u. fem. Barney's",
+          "cantidad": 8
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 3,
+    "total_productos": 24
+  }
+}
