@@ -4,8 +4,148 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-05T12:00:18.809584",
+  "timestamp": "2026-11-05T19:52:10.855599",
   "pedidos": [
+    {
+      "id": "152026018191",
+      "numero": "15 2026/018191",
+      "fecha": "05/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018191",
+      "fecha_formatted": "2026-11-05",
+      "productos": [
+        {
+          "referencia": "2214",
+          "denominacion": "Potenciometro Dimmer Cornwall Electronics",
+          "cantidad": 4
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11906",
+          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 3
+        },
+        {
+          "referencia": "19125",
+          "denominacion": "Camg 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13534",
+          "denominacion": "Watermelon Zkittlez  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21058",
+          "denominacion": "Lemon Cherry Cookies Auto  5 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 3
+        },
+        {
+          "referencia": "25405",
+          "denominacion": "Grow Kit Averis Albino",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026018190",
+      "numero": "15 2026/018190",
+      "fecha": "05/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018190",
+      "fecha_formatted": "2026-11-05",
+      "productos": [
+        {
+          "referencia": "18536",
+          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25405",
+          "denominacion": "Grow Kit Averis Albino",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026018171",
+      "numero": "15 2026/018171",
+      "fecha": "05/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018171",
+      "fecha_formatted": "2026-11-05",
+      "productos": [
+        {
+          "referencia": "6129",
+          "denominacion": "Auto Pineapple Express fem.  1 u. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25405",
+          "denominacion": "Grow Kit Averis Albino",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18536",
+          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "SBA500",
+          "denominacion": "pH Perfect Sensi Bloom    A 500 ml. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20859",
+          "denominacion": "pH Perfect Sensi Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "20837",
+          "denominacion": "pH Perfect Sensi Grow   B 1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24222",
+          "denominacion": "Hydro Flores Dura A 1 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "CB5P",
+          "denominacion": "Coco B  5 lt. Plagron",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018111",
       "numero": "15 2026/018111",
@@ -153,7 +293,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 25
+    "total_pedidos": 5,
+    "total_productos": 47
   }
 }
