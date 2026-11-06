@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-06T07:48:22.701921",
+  "timestamp": "2026-11-06T15:57:14.755920",
   "pedidos": [
     {
       "id": "152026018191",
@@ -61,6 +61,21 @@
         {
           "referencia": "25405",
           "denominacion": "Grow Kit Averis Albino",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18536",
+          "denominacion": "Auto Milky Way F1 - 10 u. fem. Royal Queen",
+          "cantidad": 1
+        },
+        {
+          "referencia": "25405",
+          "denominacion": "Grow Kit Averis Albino",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -149,6 +164,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 22
+    "total_productos": 25
   }
 }
