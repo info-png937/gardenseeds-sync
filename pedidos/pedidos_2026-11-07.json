@@ -4,8 +4,118 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-07T07:40:27.195357",
+  "timestamp": "2026-11-07T14:47:49.409308",
   "pedidos": [
+    {
+      "id": "152026018243",
+      "numero": "15 2026/018243",
+      "fecha": "07/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018243",
+      "fecha_formatted": "2026-11-07",
+      "productos": [
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18112",
+          "denominacion": "Bolsa Cultivo Blanca  8.8 lt. 2 gal. - 32.5 cm. 50 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "4097",
+          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5218",
+          "denominacion": "Spider Plant 60 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5213",
+          "denominacion": "Amanitha 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15594",
+          "denominacion": "Gorilla Girl  25 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19516",
+          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26494",
+          "denominacion": "Pink Guava  F1 Fast Version  3+1 u. fem. Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24309",
+          "denominacion": "Grow Kit Leucistic",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24314",
+          "denominacion": "Grow Kit MC Kennaii",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 3
+        },
+        {
+          "referencia": "9144",
+          "denominacion": "Do-Si-Dos Cookies    5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18352",
+          "denominacion": "Mimosa   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20809",
+          "denominacion": "Gelato Mint   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026018242",
+      "numero": "15 2026/018242",
+      "fecha": "07/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018242",
+      "fecha_formatted": "2026-11-07",
+      "productos": [
+        {
+          "referencia": "15780",
+          "denominacion": "Great White  Micorrizas   28 gr. Premium",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17029",
+          "denominacion": "Panty Punch fem.  3 u. Seedstockers Superior",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2214",
+          "denominacion": "Potenciometro Dimmer Cornwall Electronics",
+          "cantidad": 10
+        },
+        {
+          "referencia": "ARD1",
+          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018224",
       "numero": "15 2026/018224",
@@ -53,7 +163,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 5
+    "total_pedidos": 4,
+    "total_productos": 23
   }
 }
