@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-07T22:55:39.047234",
+  "timestamp": "2026-11-08T02:09:58.373303",
   "pedidos": [
     {
       "id": "152026018243",
@@ -84,7 +84,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026018242",
@@ -114,56 +114,11 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026018224",
-      "numero": "15 2026/018224",
-      "fecha": "06/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018224",
-      "fecha_formatted": "2026-11-06",
-      "productos": [
-        {
-          "referencia": "1520",
-          "denominacion": "Aqua Vega A 1 lt. Canna",
-          "cantidad": 1
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026018223",
-      "numero": "15 2026/018223",
-      "fecha": "06/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018223",
-      "fecha_formatted": "2026-11-06",
-      "productos": [
-        {
-          "referencia": "21662",
-          "denominacion": "Integra Boost Humidity  62%  67 gr.",
-          "cantidad": 50
-        },
-        {
-          "referencia": "21660",
-          "denominacion": "Integra Boost Humidity 62% 8 gr.",
-          "cantidad": 50
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 23
+    "total_pedidos": 2,
+    "total_productos": 18
   }
 }
