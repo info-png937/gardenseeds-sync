@@ -4,10 +4,71 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-09T07:46:24.937667",
-  "pedidos": [],
+  "timestamp": "2026-11-09T18:32:25.041681",
+  "pedidos": [
+    {
+      "id": "152026018330",
+      "numero": "15 2026/018330",
+      "fecha": "09/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018330",
+      "fecha_formatted": "2026-11-09",
+      "productos": [
+        {
+          "referencia": "23548",
+          "denominacion": "Medidor Ph/Fertilidad 2 in 1 Suelo Easy Garden",
+          "cantidad": 5
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12271",
+          "denominacion": "Mimosa EVO  3 u. fem. Barney's",
+          "cantidad": 3
+        },
+        {
+          "referencia": "26729B",
+          "denominacion": "Grow Kit  Bolsa Easy Grow 2 lt. Kosmic Ghost Rider",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21992",
+          "denominacion": "Hammerhead  1 lt. Advanced Nutrients",
+          "cantidad": 3
+        },
+        {
+          "referencia": "6416",
+          "denominacion": "Kritikal Bilbo 25 u. fem. Genehtik Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33810A",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
+          "cantidad": 4
+        },
+        {
+          "referencia": "21659",
+          "denominacion": "Integra Boost Humidity  55%   8 gr.",
+          "cantidad": 150
+        },
+        {
+          "referencia": "5011",
+          "denominacion": "Cool  Tube Acople Conversión 125/150 mm. para Adjust-A-Wing",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    }
+  ],
   "stats": {
-    "total_pedidos": 0,
-    "total_productos": 0
+    "total_pedidos": 1,
+    "total_productos": 10
   }
 }
