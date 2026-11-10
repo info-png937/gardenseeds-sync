@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-10T01:57:13.116713",
+  "timestamp": "2026-11-10T09:31:30.390371",
   "pedidos": [
     {
       "id": "152026018345",
@@ -16,6 +16,11 @@
         {
           "referencia": "20722B",
           "denominacion": "Ipw 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -84,6 +89,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 11
+    "total_productos": 12
   }
 }
