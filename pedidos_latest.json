@@ -4,8 +4,23 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-09T18:32:25.041681",
+  "timestamp": "2026-11-10T01:57:13.116713",
   "pedidos": [
+    {
+      "id": "152026018345",
+      "numero": "15 2026/018345",
+      "fecha": "09/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018345",
+      "fecha_formatted": "2026-11-09",
+      "productos": [
+        {
+          "referencia": "20722B",
+          "denominacion": "Ipw 0.94 lt. Athena",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
     {
       "id": "152026018330",
       "numero": "15 2026/018330",
@@ -64,11 +79,11 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 1,
-    "total_productos": 10
+    "total_pedidos": 2,
+    "total_productos": 11
   }
 }
