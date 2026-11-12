@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-12T17:00:33.505315",
+  "timestamp": "2026-11-12T22:41:38.305482",
   "pedidos": [
+    {
+      "id": "152026018558",
+      "numero": "15 2026/018558",
+      "fecha": "12/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018558",
+      "fecha_formatted": "2026-11-12",
+      "productos": [
+        {
+          "referencia": "3783",
+          "denominacion": "Filtro PK 150/650 - 900 m3 Eco",
+          "cantidad": 1
+        },
+        {
+          "referencia": "13398",
+          "denominacion": "Balcann Balsamo Oak Bark 50 ml. Annabis",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19118",
+          "denominacion": "Bloom A 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018548",
       "numero": "15 2026/018548",
@@ -103,7 +138,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 13
+    "total_pedidos": 4,
+    "total_productos": 18
   }
 }
