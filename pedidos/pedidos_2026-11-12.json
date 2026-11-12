@@ -4,8 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-12T08:10:31.372700",
+  "timestamp": "2026-11-12T17:00:33.505315",
   "pedidos": [
+    {
+      "id": "152026018548",
+      "numero": "15 2026/018548",
+      "fecha": "12/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018548",
+      "fecha_formatted": "2026-11-12",
+      "productos": [
+        {
+          "referencia": "3786",
+          "denominacion": "Extractor PK 2 velocidades 125 mm. 220/400 m3",
+          "cantidad": 2
+        },
+        {
+          "referencia": "R65",
+          "denominacion": "Reduccion 160 - 150 mm. PK",
+          "cantidad": 4
+        },
+        {
+          "referencia": "3783",
+          "denominacion": "Filtro PK 150/650 - 900 m3 Eco",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1670",
+          "denominacion": "Grow Kit Mexicana",
+          "cantidad": 4
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018478",
       "numero": "15 2026/018478",
@@ -68,7 +103,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 8
+    "total_pedidos": 3,
+    "total_productos": 13
   }
 }
