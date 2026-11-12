@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-12T00:58:10.206954",
+  "pedidos": [
+    {
+      "id": "152026018478",
+      "numero": "15 2026/018478",
+      "fecha": "11/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018478",
+      "fecha_formatted": "2026-11-11",
+      "productos": [
+        {
+          "referencia": "19023",
+          "denominacion": "Bloom Ignitor   50 gr. Cannotecnia",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018471",
+      "numero": "15 2026/018471",
+      "fecha": "11/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018471",
+      "fecha_formatted": "2026-11-11",
+      "productos": [
+        {
+          "referencia": "23443",
+          "denominacion": "Incienso Koh Do Rosa 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23444",
+          "denominacion": "Incienso Koh Do Byakudan 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23441",
+          "denominacion": "Incienso Koh Do Aqua 20 Sticks",
+          "cantidad": 1
+        },
+        {
+          "referencia": "3485",
+          "denominacion": "Canna Coco B - 10 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19122",
+          "denominacion": "Bloom B 0.94 lt. Athena",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 2,
+    "total_productos": 8
+  }
+}
