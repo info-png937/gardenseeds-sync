@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-13T11:26:53.220991",
+  "timestamp": "2026-11-13T18:42:06.882051",
   "pedidos": [
     {
       "id": "152026018558",
@@ -39,8 +39,8 @@
           "cantidad": 2
         },
         {
-          "referencia": "2632",
-          "denominacion": "Portes",
+          "referencia": "RES",
+          "denominacion": "Pedido Reservado",
           "cantidad": 1
         }
       ],
