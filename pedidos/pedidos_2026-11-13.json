@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-13T03:18:08.351921",
+  "timestamp": "2026-11-13T11:26:53.220991",
   "pedidos": [
     {
       "id": "152026018558",
@@ -37,6 +37,11 @@
           "referencia": "19122",
           "denominacion": "Bloom B 0.94 lt. Athena",
           "cantidad": 2
+        },
+        {
+          "referencia": "2632",
+          "denominacion": "Portes",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -79,6 +84,6 @@
   ],
   "stats": {
     "total_pedidos": 2,
-    "total_productos": 10
+    "total_productos": 11
   }
 }
