@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-15T02:58:55.276698",
+  "pedidos": [],
+  "stats": {
+    "total_pedidos": 0,
+    "total_productos": 0
+  }
+}
