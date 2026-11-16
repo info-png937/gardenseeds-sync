@@ -4,8 +4,73 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-16T10:50:34.696327",
+  "timestamp": "2026-11-16T20:52:32.517619",
   "pedidos": [
+    {
+      "id": "152026018699",
+      "numero": "15 2026/018699",
+      "fecha": "16/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018699",
+      "fecha_formatted": "2026-11-16",
+      "productos": [
+        {
+          "referencia": "SC5P",
+          "denominacion": "Supercheese  5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18353",
+          "denominacion": "Mimosa  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21660",
+          "denominacion": "Integra Boost Humidity 62% 8 gr.",
+          "cantidad": 200
+        },
+        {
+          "referencia": "VODJ",
+          "denominacion": "Voodoo Juice  1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CTG1",
+          "denominacion": "Cool Tube Glass 150 mm. sin Reflector",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018610",
       "numero": "15 2026/018610",
@@ -208,7 +273,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 34
+    "total_pedidos": 4,
+    "total_productos": 45
   }
 }
