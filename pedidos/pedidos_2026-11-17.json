@@ -1,0 +1,209 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-17T03:32:30.920960",
+  "pedidos": [
+    {
+      "id": "152026018715",
+      "numero": "15 2026/018715",
+      "fecha": "16/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018715",
+      "fecha_formatted": "2026-11-16",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5437",
+          "denominacion": "Dry Part Bloom 1 Kg. Terra Aquatica (Maxi Bloom)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21673",
+          "denominacion": "Zerealz Milk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19008",
+          "denominacion": "Glucomax  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19295",
+          "denominacion": "Brutal Kalium K30 -  0,5 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26742",
+          "denominacion": "Runtz Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34083C",
+          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18791",
+          "denominacion": "Cones Raw  Classic 20 Stage Rawket",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19023",
+          "denominacion": "Bloom Ignitor   50 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018714",
+      "numero": "15 2026/018714",
+      "fecha": "16/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018714",
+      "fecha_formatted": "2026-11-16",
+      "productos": [
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21660",
+          "denominacion": "Integra Boost Humidity 62% 8 gr.",
+          "cantidad": 26
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18353",
+          "denominacion": "Mimosa  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14437",
+          "denominacion": "Northern Lights CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018699",
+      "numero": "15 2026/018699",
+      "fecha": "16/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018699",
+      "fecha_formatted": "2026-11-16",
+      "productos": [
+        {
+          "referencia": "SC5P",
+          "denominacion": "Supercheese  5 u. fem. Positronics Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "18353",
+          "denominacion": "Mimosa  25 u. fem. 00 Seeds",
+          "cantidad": 3
+        },
+        {
+          "referencia": "24480",
+          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18378",
+          "denominacion": "Grow Kit Blue Meannie",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14787",
+          "denominacion": "Grow Kit Moby Dick",
+          "cantidad": 3
+        },
+        {
+          "referencia": "21660",
+          "denominacion": "Integra Boost Humidity 62% 8 gr.",
+          "cantidad": 200
+        },
+        {
+          "referencia": "VODJ",
+          "denominacion": "Voodoo Juice  1 lt. Advanced Nutrients",
+          "cantidad": 5
+        },
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "CTG1",
+          "denominacion": "Cool Tube Glass 150 mm. sin Reflector",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 3,
+    "total_productos": 33
+  }
+}

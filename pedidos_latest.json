@@ -4,8 +4,138 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-16T20:52:32.517619",
+  "timestamp": "2026-11-17T03:32:30.920960",
   "pedidos": [
+    {
+      "id": "152026018715",
+      "numero": "15 2026/018715",
+      "fecha": "16/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018715",
+      "fecha_formatted": "2026-11-16",
+      "productos": [
+        {
+          "referencia": "BB50",
+          "denominacion": "Bactobloom  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5217",
+          "denominacion": "Spider Plant 15 ml. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19128",
+          "denominacion": "Cleanse 0.94 lt. Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "5437",
+          "denominacion": "Dry Part Bloom 1 Kg. Terra Aquatica (Maxi Bloom)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21673",
+          "denominacion": "Zerealz Milk   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19008",
+          "denominacion": "Glucomax  1 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19295",
+          "denominacion": "Brutal Kalium K30 -  0,5 lt. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "26742",
+          "denominacion": "Runtz Triploid   1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "34083C",
+          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18791",
+          "denominacion": "Cones Raw  Classic 20 Stage Rawket",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15811A",
+          "denominacion": "CBD Oil Plant of Life 15% Cbd & 15% Ultra Spectrum Cbg 10 ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24522",
+          "denominacion": "Grow Kit Melmac Thrasher Hybrid",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19023",
+          "denominacion": "Bloom Ignitor   50 gr. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018714",
+      "numero": "15 2026/018714",
+      "fecha": "16/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018714",
+      "fecha_formatted": "2026-11-16",
+      "productos": [
+        {
+          "referencia": "4095",
+          "denominacion": "Overdrive  1 lt. Advanced Nutrients",
+          "cantidad": 2
+        },
+        {
+          "referencia": "21660",
+          "denominacion": "Integra Boost Humidity 62% 8 gr.",
+          "cantidad": 26
+        },
+        {
+          "referencia": "11771",
+          "denominacion": "Caja de Bandejas Plugin Pro 104 Alveolos (8 Bandejas)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "15196",
+          "denominacion": "Violeta  1 u. fem. Ace Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18353",
+          "denominacion": "Mimosa  25 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14437",
+          "denominacion": "Northern Lights CBD   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
     {
       "id": "152026018699",
       "numero": "15 2026/018699",
@@ -69,211 +199,11 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026018610",
-      "numero": "15 2026/018610",
-      "fecha": "15/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018610",
-      "fecha_formatted": "2026-11-15",
-      "productos": [
-        {
-          "referencia": "ABD25",
-          "denominacion": "Auto Big Devil XL  25 u. fem. Granel Profesionales Sweet Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "4096",
-          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
-          "cantidad": 2
-        },
-        {
-          "referencia": "4097",
-          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
-          "cantidad": 3
-        },
-        {
-          "referencia": "5217",
-          "denominacion": "Spider Plant 15 ml. Agrobacterias",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9522",
-          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "13310",
-          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
-          "cantidad": 48
-        },
-        {
-          "referencia": "24480",
-          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
-          "cantidad": 1
-        },
-        {
-          "referencia": "34083C",
-          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
-          "cantidad": 2
-        },
-        {
-          "referencia": "1670",
-          "denominacion": "Grow Kit Mexicana",
-          "cantidad": 3
-        },
-        {
-          "referencia": "24313",
-          "denominacion": "Grow Kit B+",
-          "cantidad": 3
-        },
-        {
-          "referencia": "18400",
-          "denominacion": "Grow Kit Golden Teacher",
-          "cantidad": 3
-        },
-        {
-          "referencia": "9539",
-          "denominacion": "Chocolate Haze  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14787",
-          "denominacion": "Grow Kit Moby Dick",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18378",
-          "denominacion": "Grow Kit Blue Meannie",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11906",
-          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "9539",
-          "denominacion": "Chocolate Haze  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19552",
-          "denominacion": "Grow Kit Thai",
-          "cantidad": 2
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026018609",
-      "numero": "15 2026/018609",
-      "fecha": "15/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018609",
-      "fecha_formatted": "2026-11-15",
-      "productos": [
-        {
-          "referencia": "4096",
-          "denominacion": "True Organics Iguana Juice Bloom OIM  1 lt. Advanced Nutrients",
-          "cantidad": 2
-        },
-        {
-          "referencia": "4097",
-          "denominacion": "True Organics Iguana Juice Grow OIM  1 lt. Advanced Nutrients",
-          "cantidad": 3
-        },
-        {
-          "referencia": "5217",
-          "denominacion": "Spider Plant 15 ml. Agrobacterias",
-          "cantidad": 1
-        },
-        {
-          "referencia": "9522",
-          "denominacion": "Honey Cream - Fast  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "13310",
-          "denominacion": "Maceta Cuadrada Negra Base Elevada 20 x 20 x 28 cm. 7 lt.",
-          "cantidad": 48
-        },
-        {
-          "referencia": "24480",
-          "denominacion": "Grow Kit Bluey Vuitton Hybrid",
-          "cantidad": 1
-        },
-        {
-          "referencia": "34083C",
-          "denominacion": "Vaporizador X-vape X-max V4 Pro Black",
-          "cantidad": 2
-        },
-        {
-          "referencia": "1670",
-          "denominacion": "Grow Kit Mexicana",
-          "cantidad": 3
-        },
-        {
-          "referencia": "24313",
-          "denominacion": "Grow Kit B+",
-          "cantidad": 3
-        },
-        {
-          "referencia": "18400",
-          "denominacion": "Grow Kit Golden Teacher",
-          "cantidad": 3
-        },
-        {
-          "referencia": "9539",
-          "denominacion": "Chocolate Haze  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "14787",
-          "denominacion": "Grow Kit Moby Dick",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18378",
-          "denominacion": "Grow Kit Blue Meannie",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11906",
-          "denominacion": "Gelato #33 Fast   1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026018608",
-      "numero": "15 2026/018608",
-      "fecha": "15/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018608",
-      "fecha_formatted": "2026-11-15",
-      "productos": [
-        {
-          "referencia": "9539",
-          "denominacion": "Chocolate Haze  1 u. fem. Royal Queen",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19552",
-          "denominacion": "Grow Kit Thai",
-          "cantidad": 2
-        }
-      ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 45
+    "total_pedidos": 3,
+    "total_productos": 33
   }
 }
