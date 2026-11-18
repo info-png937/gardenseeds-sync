@@ -4,8 +4,38 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-18T12:08:50.226866",
+  "timestamp": "2026-11-18T20:50:08.380704",
   "pedidos": [
+    {
+      "id": "152026018839",
+      "numero": "15 2026/018839",
+      "fecha": "18/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018839",
+      "fecha_formatted": "2026-11-18",
+      "productos": [
+        {
+          "referencia": "23110",
+          "denominacion": "Peach Tea 3 u. fem Cookies Seed Bank",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24862",
+          "denominacion": "Blueberry Muffin 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1521",
+          "denominacion": "Aqua Vega B 1 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026018788",
       "numero": "15 2026/018788",
@@ -238,7 +268,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 3,
-    "total_productos": 40
+    "total_pedidos": 4,
+    "total_productos": 44
   }
 }
