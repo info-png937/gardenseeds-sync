@@ -1,0 +1,109 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-19T02:24:36.568117",
+  "pedidos": [
+    {
+      "id": "152026018853",
+      "numero": "15 2026/018853",
+      "fecha": "18/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018853",
+      "fecha_formatted": "2026-11-18",
+      "productos": [
+        {
+          "referencia": "4891",
+          "denominacion": "Dense   60 gr. Green Planet Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "20311",
+          "denominacion": "Girl Scout Cookies  1 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19783",
+          "denominacion": "Mimosa Fast   5 u. fem. 00 Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24197",
+          "denominacion": "CandyGaz 3 u. fem. Ripper Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33810A",
+          "denominacion": "Vaporizador X-vape X-max V3 Pro Black",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17164",
+          "denominacion": "Critical Mass Fast   5 + 2 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7716",
+          "denominacion": "Carboload   250 ml. Advanced Nutrients",
+          "cantidad": 4
+        },
+        {
+          "referencia": "CL500M",
+          "denominacion": "Carboload   500 ml. Advanced Nutrients",
+          "cantidad": 4
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018852",
+      "numero": "15 2026/018852",
+      "fecha": "18/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018852",
+      "fecha_formatted": "2026-11-18",
+      "productos": [
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026018839",
+      "numero": "15 2026/018839",
+      "fecha": "18/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018839",
+      "fecha_formatted": "2026-11-18",
+      "productos": [
+        {
+          "referencia": "23110",
+          "denominacion": "Peach Tea 3 u. fem Cookies Seed Bank",
+          "cantidad": 2
+        },
+        {
+          "referencia": "24862",
+          "denominacion": "Blueberry Muffin 3 u. fem Humboldt Seeds Company",
+          "cantidad": 2
+        },
+        {
+          "referencia": "1521",
+          "denominacion": "Aqua Vega B 1 lt. Canna",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 3,
+    "total_productos": 13
+  }
+}
