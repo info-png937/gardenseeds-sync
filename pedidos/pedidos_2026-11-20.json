@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-20T01:25:01.006402",
+  "pedidos": [
+    {
+      "id": "152026018900",
+      "numero": "15 2026/018900",
+      "fecha": "19/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018900",
+      "fecha_formatted": "2026-11-19",
+      "productos": [
+        {
+          "referencia": "HB5A",
+          "denominacion": "Hydro  B   5 lt. Atami B'cuzz",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19552",
+          "denominacion": "Grow Kit Thai",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18122",
+          "denominacion": "Limpieza Electrodo Milwaukee 230 ml.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 1,
+    "total_productos": 4
+  }
+}
