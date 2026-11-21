@@ -1,0 +1,39 @@
+{
+  "success": true,
+  "fechas": [
+    "hoy",
+    "ayer"
+  ],
+  "timestamp": "2026-11-21T06:24:38.974710",
+  "pedidos": [
+    {
+      "id": "152026018954",
+      "numero": "15 2026/018954",
+      "fecha": "20/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026018954",
+      "fecha_formatted": "2026-11-20",
+      "productos": [
+        {
+          "referencia": "18506",
+          "denominacion": "Critical Runtz 10 u. fem. Sensi Seeds Research",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19322",
+          "denominacion": "Grow Kit Ecuador",
+          "cantidad": 1
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    }
+  ],
+  "stats": {
+    "total_pedidos": 1,
+    "total_productos": 3
+  }
+}
