@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-24T00:14:24.471975",
+  "timestamp": "2026-11-24T10:18:04.187531",
   "pedidos": [
     {
       "id": "152026019061",
@@ -14,20 +14,10 @@
       "fecha_formatted": "2026-11-23",
       "productos": [
         {
-          "referencia": "ACAS7",
-          "denominacion": "Automatic Collection #7 - Advanced Seeds",
-          "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019059",
-      "numero": "15 2026/019059",
-      "fecha": "23/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019059",
-      "fecha_formatted": "2026-11-23",
-      "productos": [
+          "referencia": "21005",
+          "denominacion": "Flowa Bloom 1 lt. Juju Royal",
+          "cantidad": 1
+        },
         {
           "referencia": "BH15",
           "denominacion": "Bactohemp  10 gr. Agrobacterias",
@@ -157,20 +147,15 @@
           "referencia": "30704K",
           "denominacion": "Filtros Acti Tube  Konic 6 mm. 50 ud.",
           "cantidad": 2
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019058",
-      "numero": "15 2026/019058",
-      "fecha": "23/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019058",
-      "fecha_formatted": "2026-11-23",
-      "productos": [
+        },
         {
-          "referencia": "21005",
-          "denominacion": "Flowa Bloom 1 lt. Juju Royal",
+          "referencia": "ACAS7",
+          "denominacion": "Automatic Collection #7 - Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -243,7 +228,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 39
+    "total_pedidos": 2,
+    "total_productos": 40
   }
 }
