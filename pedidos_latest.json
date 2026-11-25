@@ -4,8 +4,163 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-25T14:11:09.017593",
+  "timestamp": "2026-11-25T23:14:22.348387",
   "pedidos": [
+    {
+      "id": "152026019228",
+      "numero": "15 2026/019228",
+      "fecha": "25/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019228",
+      "fecha_formatted": "2026-11-25",
+      "productos": [
+        {
+          "referencia": "3945",
+          "denominacion": "Blossom Blaster 130 gr. Grotek",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026019225",
+      "numero": "15 2026/019225",
+      "fecha": "25/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019225",
+      "fecha_formatted": "2026-11-25",
+      "productos": [
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6325",
+          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23398",
+          "denominacion": "Camuflaje Reloj de Cocina 25x7 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026019224",
+      "numero": "15 2026/019224",
+      "fecha": "25/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019224",
+      "fecha_formatted": "2026-11-25",
+      "productos": [
+        {
+          "referencia": "15609",
+          "denominacion": "Critical + 2.0 -  3 ud Silent Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7727",
+          "denominacion": "Auto Critical Orange Punch 3 u. fem. Dutch Passion",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14079",
+          "denominacion": "Acido Citrico  1 lt. Trabe",
+          "cantidad": 1
+        },
+        {
+          "referencia": "33618",
+          "denominacion": ".Vaporizador Venty",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7812",
+          "denominacion": "Gorilla Zkittlez 10 u. fem. Barney's",
+          "cantidad": 1
+        },
+        {
+          "referencia": "19151",
+          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6587",
+          "denominacion": "Polinizador Secret Box 150 Velocidad Regulable",
+          "cantidad": 1
+        },
+        {
+          "referencia": "24313",
+          "denominacion": "Grow Kit B+",
+          "cantidad": 1
+        },
+        {
+          "referencia": "8799",
+          "denominacion": "Black Jack  25 u.  fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "21968",
+          "denominacion": "Test Thc Sensitive 25 ng/ml.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "14803",
+          "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
+          "cantidad": 2
+        }
+      ],
+      "origen": "hoy"
+    },
+    {
+      "id": "152026019206",
+      "numero": "15 2026/019206",
+      "fecha": "25/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019206",
+      "fecha_formatted": "2026-11-25",
+      "productos": [
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 3
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026019146",
       "numero": "15 2026/019146",
@@ -133,7 +288,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 2,
-    "total_productos": 21
+    "total_pedidos": 6,
+    "total_productos": 44
   }
 }
