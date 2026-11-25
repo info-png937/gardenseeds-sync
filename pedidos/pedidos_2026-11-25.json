@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-25T04:01:19.073930",
+  "timestamp": "2026-11-25T14:11:09.017593",
   "pedidos": [
     {
       "id": "152026019146",
@@ -14,20 +14,25 @@
       "fecha_formatted": "2026-11-24",
       "productos": [
         {
-          "referencia": "21647",
-          "denominacion": "Bolsa Plastico Cierre Cremallera 60x40 cm.",
-          "cantidad": 5
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019145",
-      "numero": "15 2026/019145",
-      "fecha": "24/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019145",
-      "fecha_formatted": "2026-11-24",
-      "productos": [
+          "referencia": "32717",
+          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
+          "cantidad": 2
+        },
+        {
+          "referencia": "12236",
+          "denominacion": "Banana Krumble  3 u. fem. Green House",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16930",
+          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16525",
+          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "cantidad": 1
+        },
         {
           "referencia": "11893",
           "denominacion": "Temporizador Cli-mate   4 x 600 w & Calefaccion",
@@ -82,35 +87,15 @@
           "referencia": "20790",
           "denominacion": "Organic Tasty Terpenes  5 lt. Advanced Nutrients",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019144",
-      "numero": "15 2026/019144",
-      "fecha": "24/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019144",
-      "fecha_formatted": "2026-11-24",
-      "productos": [
-        {
-          "referencia": "32717",
-          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
-          "cantidad": 2
         },
         {
-          "referencia": "12236",
-          "denominacion": "Banana Krumble  3 u. fem. Green House",
-          "cantidad": 1
+          "referencia": "21647",
+          "denominacion": "Bolsa Plastico Cierre Cremallera 60x40 cm.",
+          "cantidad": 5
         },
         {
-          "referencia": "16930",
-          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16525",
-          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
           "cantidad": 1
         }
       ],
@@ -148,7 +133,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 20
+    "total_pedidos": 2,
+    "total_productos": 21
   }
 }
