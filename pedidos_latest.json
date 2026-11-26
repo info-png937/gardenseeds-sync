@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-25T23:14:22.348387",
+  "timestamp": "2026-11-26T05:20:56.128471",
   "pedidos": [
     {
       "id": "152026019228",
@@ -19,7 +19,7 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026019225",
@@ -74,7 +74,7 @@
           "cantidad": 3
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026019224",
@@ -139,7 +139,7 @@
           "cantidad": 2
         }
       ],
-      "origen": "hoy"
+      "origen": "ayer"
     },
     {
       "id": "152026019206",
@@ -159,136 +159,11 @@
           "cantidad": 1
         }
       ],
-      "origen": "hoy"
-    },
-    {
-      "id": "152026019146",
-      "numero": "15 2026/019146",
-      "fecha": "24/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019146",
-      "fecha_formatted": "2026-11-24",
-      "productos": [
-        {
-          "referencia": "32717",
-          "denominacion": "Pipa Splif Stik Aluminio Blue Red Eye",
-          "cantidad": 2
-        },
-        {
-          "referencia": "12236",
-          "denominacion": "Banana Krumble  3 u. fem. Green House",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16930",
-          "denominacion": "Auto Bruce Banner XXL   3 + 1 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16525",
-          "denominacion": "Zombie Kush S1 - 3 u. fem. Ed. Lim. Ripper Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11893",
-          "denominacion": "Temporizador Cli-mate   4 x 600 w & Calefaccion",
-          "cantidad": 1
-        },
-        {
-          "referencia": "BH15",
-          "denominacion": "Bactohemp  10 gr. Agrobacterias",
-          "cantidad": 3
-        },
-        {
-          "referencia": "19666",
-          "denominacion": "Grow Kit Red Boy",
-          "cantidad": 1
-        },
-        {
-          "referencia": "30561B",
-          "denominacion": "Papel Raw  Organic  Rolls 24 ud.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19516",
-          "denominacion": "Ventilador Pinza RAM Oscilante 18 cm. 20 w",
-          "cantidad": 2
-        },
-        {
-          "referencia": "21654",
-          "denominacion": "Led Lumatek Zeus  600 w. Pro 3.1 (1.860 µmol/s)",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24481",
-          "denominacion": "Grow Kit Albino Bluey Vuitton Hybrid",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18122",
-          "denominacion": "Limpieza Electrodo Milwaukee 230 ml.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "25406",
-          "denominacion": "Grow Kit Super Natalensis",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18965",
-          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "20790",
-          "denominacion": "Organic Tasty Terpenes  5 lt. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "21647",
-          "denominacion": "Bolsa Plastico Cierre Cremallera 60x40 cm.",
-          "cantidad": 5
-        },
-        {
-          "referencia": "NCX",
-          "denominacion": "Agencia de paquetería NACEX",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019135",
-      "numero": "15 2026/019135",
-      "fecha": "24/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019135",
-      "fecha_formatted": "2026-11-24",
-      "productos": [
-        {
-          "referencia": "19143",
-          "denominacion": "PK 0.94 lt. Athena",
-          "cantidad": 2
-        },
-        {
-          "referencia": "19529",
-          "denominacion": "Apple Fritter   1 u. fem. Advanced Seeds",
-          "cantidad": 10
-        },
-        {
-          "referencia": "24481",
-          "denominacion": "Grow Kit Albino Bluey Vuitton Hybrid",
-          "cantidad": 2
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
       "origen": "ayer"
     }
   ],
   "stats": {
-    "total_pedidos": 6,
-    "total_productos": 44
+    "total_pedidos": 4,
+    "total_productos": 23
   }
 }
