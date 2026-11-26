@@ -4,83 +4,43 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-26T05:20:56.128471",
+  "timestamp": "2026-11-26T15:38:53.338450",
   "pedidos": [
+    {
+      "id": "152026019280",
+      "numero": "15 2026/019280",
+      "fecha": "26/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019280",
+      "fecha_formatted": "2026-11-26",
+      "productos": [
+        {
+          "referencia": "14802",
+          "denominacion": "CBD Oil Plant of Life 30 % -  5 ml.",
+          "cantidad": 8
+        },
+        {
+          "referencia": "FC600",
+          "denominacion": "Female Collection 6 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "7658",
+          "denominacion": "Female Collection 4 - 00 Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "APL",
+          "denominacion": "AMPLIACION",
+          "cantidad": 1
+        }
+      ],
+      "origen": "hoy"
+    },
     {
       "id": "152026019228",
       "numero": "15 2026/019228",
       "fecha": "25/11/2026",
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019228",
-      "fecha_formatted": "2026-11-25",
-      "productos": [
-        {
-          "referencia": "3945",
-          "denominacion": "Blossom Blaster 130 gr. Grotek",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019225",
-      "numero": "15 2026/019225",
-      "fecha": "25/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019225",
-      "fecha_formatted": "2026-11-25",
-      "productos": [
-        {
-          "referencia": "17921",
-          "denominacion": "The Neutralizer 100 ml Kit",
-          "cantidad": 1
-        },
-        {
-          "referencia": "6325",
-          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "BAC50",
-          "denominacion": "Bactofil  50 gr. Agrobacterias",
-          "cantidad": 1
-        },
-        {
-          "referencia": "11916",
-          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "15797",
-          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "23398",
-          "denominacion": "Camuflaje Reloj de Cocina 25x7 cm.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18965",
-          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
-          "cantidad": 1
-        },
-        {
-          "referencia": "16044",
-          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
-          "cantidad": 2
-        },
-        {
-          "referencia": "18400",
-          "denominacion": "Grow Kit Golden Teacher",
-          "cantidad": 3
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019224",
-      "numero": "15 2026/019224",
-      "fecha": "25/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019224",
       "fecha_formatted": "2026-11-25",
       "productos": [
         {
@@ -137,6 +97,61 @@
           "referencia": "14803",
           "denominacion": "CBD Oil Plant of Life 30 % - 10 ml.",
           "cantidad": 2
+        },
+        {
+          "referencia": "17921",
+          "denominacion": "The Neutralizer 100 ml Kit",
+          "cantidad": 1
+        },
+        {
+          "referencia": "6325",
+          "denominacion": "Blackberry Auto  3 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "BAC50",
+          "denominacion": "Bactofil  50 gr. Agrobacterias",
+          "cantidad": 1
+        },
+        {
+          "referencia": "11916",
+          "denominacion": "Zkittlez   1 u. fem. Advanced Seeds",
+          "cantidad": 2
+        },
+        {
+          "referencia": "15797",
+          "denominacion": "Banana Purple Punch Auto  1 u. fem. FastBuds Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23398",
+          "denominacion": "Camuflaje Reloj de Cocina 25x7 cm.",
+          "cantidad": 1
+        },
+        {
+          "referencia": "18965",
+          "denominacion": "Root Stimulator   60 ml. Cannotecnia",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16044",
+          "denominacion": "Plato Cuadrado 26x26 cm Easy Garden para Maceta 11 lt. y 20 lt.  38 ud.",
+          "cantidad": 2
+        },
+        {
+          "referencia": "18400",
+          "denominacion": "Grow Kit Golden Teacher",
+          "cantidad": 3
+        },
+        {
+          "referencia": "3945",
+          "denominacion": "Blossom Blaster 130 gr. Grotek",
+          "cantidad": 1
+        },
+        {
+          "referencia": "NCX",
+          "denominacion": "Agencia de paquetería NACEX",
+          "cantidad": 1
         }
       ],
       "origen": "ayer"
@@ -163,7 +178,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 23
+    "total_pedidos": 3,
+    "total_productos": 28
   }
 }
