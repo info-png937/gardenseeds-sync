@@ -4,7 +4,7 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-27T00:25:58.295671",
+  "timestamp": "2026-11-27T08:58:19.707156",
   "pedidos": [
     {
       "id": "152026019299",
@@ -13,6 +13,11 @@
       "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019299",
       "fecha_formatted": "2026-11-26",
       "productos": [
+        {
+          "referencia": "BC4L",
+          "denominacion": "Bud Candy  5 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
         {
           "referencia": "BBL10",
           "denominacion": "Bactobloom  10 gr. Agrobacterias",
@@ -102,20 +107,10 @@
           "referencia": "7658",
           "denominacion": "Female Collection 4 - 00 Seeds",
           "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019298",
-      "numero": "15 2026/019298",
-      "fecha": "26/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019298",
-      "fecha_formatted": "2026-11-26",
-      "productos": [
+        },
         {
-          "referencia": "BC4L",
-          "denominacion": "Bud Candy  5 lt. Advanced Nutrients",
+          "referencia": "2632",
+          "denominacion": "Portes",
           "cantidad": 1
         }
       ],
@@ -178,7 +173,7 @@
     }
   ],
   "stats": {
-    "total_pedidos": 4,
-    "total_productos": 26
+    "total_pedidos": 3,
+    "total_productos": 27
   }
 }
