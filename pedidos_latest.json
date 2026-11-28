@@ -4,169 +4,89 @@
     "hoy",
     "ayer"
   ],
-  "timestamp": "2026-11-27T08:58:19.707156",
+  "timestamp": "2026-11-28T01:49:54.580938",
   "pedidos": [
     {
-      "id": "152026019299",
-      "numero": "15 2026/019299",
-      "fecha": "26/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019299",
-      "fecha_formatted": "2026-11-26",
+      "id": "152026019354",
+      "numero": "15 2026/019354",
+      "fecha": "27/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019354",
+      "fecha_formatted": "2026-11-27",
       "productos": [
         {
-          "referencia": "BC4L",
-          "denominacion": "Bud Candy  5 lt. Advanced Nutrients",
+          "referencia": "21992",
+          "denominacion": "Hammerhead  1 lt. Advanced Nutrients",
           "cantidad": 1
         },
         {
-          "referencia": "BBL10",
-          "denominacion": "Bactobloom  10 gr. Agrobacterias",
+          "referencia": "23553",
+          "denominacion": "Termohigrometro Analogico Eko",
           "cantidad": 1
         },
         {
-          "referencia": "N250",
-          "denominacion": "Tasty Terpenes   250 ml. Advanced Nutrients",
-          "cantidad": 8
-        },
-        {
-          "referencia": "ARD1",
-          "denominacion": "Auto Royal Dwarf  1 u. fem. Royal Queen",
+          "referencia": "23549",
+          "denominacion": "Medidor Ph/Fertilitidad/Humedad Suelo Easy Garden",
           "cantidad": 1
         },
         {
-          "referencia": "20722B",
-          "denominacion": "Ipw 0.94 lt. Athena",
+          "referencia": "14785",
+          "denominacion": "Plato Cuadrado 20x20 cm Cannapot para Maceta 5,5 lt. y 7 lt. (74 uds)",
+          "cantidad": 1
+        },
+        {
+          "referencia": "17933",
+          "denominacion": "The Neutralizer Compact 40 ml Kit",
+          "cantidad": 1
+        }
+      ],
+      "origen": "ayer"
+    },
+    {
+      "id": "152026019353",
+      "numero": "15 2026/019353",
+      "fecha": "27/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019353",
+      "fecha_formatted": "2026-11-27",
+      "productos": [
+        {
+          "referencia": "20846",
+          "denominacion": "PH Perfect Sensi  Coco Bloom   A 1 lt. Advanced Nutrients",
+          "cantidad": 1
+        },
+        {
+          "referencia": "23054",
+          "denominacion": "Pro-Led 1 lt. Pro-XL",
+          "cantidad": 1
+        },
+        {
+          "referencia": "7586",
+          "denominacion": "Auto Cream Mandarine 100 u. fem. Granel Profesionales Sweet Seeds",
+          "cantidad": 1
+        },
+        {
+          "referencia": "16769",
+          "denominacion": "Mecha Vaporesso EUC 0.3 Ohm Ceramic 5 ud.",
+          "cantidad": 20
+        },
+        {
+          "referencia": "18798",
+          "denominacion": "Cones Raw Organic King Size 32 ud.",
           "cantidad": 3
-        },
-        {
-          "referencia": "9390",
-          "denominacion": "Auto Gelato #33 -   1 u. fem. Advanced Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "19151",
-          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
-          "cantidad": 1
-        },
-        {
-          "referencia": "18434",
-          "denominacion": "Auto Radical Juice 3 u. fem. Ripper Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "17168",
-          "denominacion": "Gelato #33 -   5 + 2 u. fem. Advanced Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19133",
-          "denominacion": "Fade 3,78 lt. Athena",
-          "cantidad": 1
-        },
-        {
-          "referencia": "20728",
-          "denominacion": "Bud Blood Powder  2.5 kg. Advanced Nutrients",
-          "cantidad": 1
-        },
-        {
-          "referencia": "24295",
-          "denominacion": "Super Boof 10 u. fem. Barney's",
-          "cantidad": 1
-        },
-        {
-          "referencia": "3979",
-          "denominacion": "Camuflaje Martillo 32 cm.",
-          "cantidad": 1
-        },
-        {
-          "referencia": "6605",
-          "denominacion": "Activecann  Gel  75 ml. Annabis",
-          "cantidad": 2
-        },
-        {
-          "referencia": "RFTR",
-          "denominacion": "Radical Flower  500 ml. Trabe",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19148",
-          "denominacion": "Pro Bloom 4.53 Kg. Caja Athena",
-          "cantidad": 1
-        },
-        {
-          "referencia": "19154",
-          "denominacion": "Pro Grow 4.53 Kg. Caja Athena",
-          "cantidad": 1
-        },
-        {
-          "referencia": "FC600",
-          "denominacion": "Female Collection 6 - 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "7658",
-          "denominacion": "Female Collection 4 - 00 Seeds",
-          "cantidad": 1
-        },
-        {
-          "referencia": "2632",
-          "denominacion": "Portes",
-          "cantidad": 1
         }
       ],
       "origen": "ayer"
     },
     {
-      "id": "152026019292",
-      "numero": "15 2026/019292",
-      "fecha": "26/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019292",
-      "fecha_formatted": "2026-11-26",
+      "id": "152026019344",
+      "numero": "15 2026/019344",
+      "fecha": "27/11/2026",
+      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019344",
+      "fecha_formatted": "2026-11-27",
       "productos": [
         {
-          "referencia": "MYC20",
-          "denominacion": "Mycoplant polvo 20 gr. Bote Trabe",
-          "cantidad": 4
-        },
-        {
-          "referencia": "19151",
-          "denominacion": "Pro Core 4.53 Kg. Caja Athena",
-          "cantidad": 2
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
-        }
-      ],
-      "origen": "ayer"
-    },
-    {
-      "id": "152026019280",
-      "numero": "15 2026/019280",
-      "fecha": "26/11/2026",
-      "href": "https://www.gardenseedstrading.com/documentos/pedido/152026019280",
-      "fecha_formatted": "2026-11-26",
-      "productos": [
-        {
-          "referencia": "14802",
-          "denominacion": "CBD Oil Plant of Life 30 % -  5 ml.",
-          "cantidad": 8
-        },
-        {
-          "referencia": "FC600",
-          "denominacion": "Female Collection 6 - 00 Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "7658",
-          "denominacion": "Female Collection 4 - 00 Seeds",
-          "cantidad": 2
-        },
-        {
-          "referencia": "APL",
-          "denominacion": "AMPLIACION",
-          "cantidad": 1
+          "referencia": "16769",
+          "denominacion": "Mecha Vaporesso EUC 0.3 Ohm Ceramic 5 ud.",
+          "cantidad": 20
         }
       ],
       "origen": "ayer"
@@ -174,6 +94,6 @@
   ],
   "stats": {
     "total_pedidos": 3,
-    "total_productos": 27
+    "total_productos": 11
   }
 }
